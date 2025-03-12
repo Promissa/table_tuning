@@ -1,0 +1,5 @@
+chardet==5.2.0
+Flask==2.2.5
+markdownify==0.12.1
+pandas==2.0.3
+unstructured==0.14.2

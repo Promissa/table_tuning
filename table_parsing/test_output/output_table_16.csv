@@ -1,0 +1,21 @@
+(In millions),Fair Value Level,Adjusted Cost Basis,Unrealized Gains,Unrealized Losses,Recorded Basis,Cash and Cash Equivalents,Short-term Investments,Equity Investments
+"June 30, 2021",,,,,,,,
+Changes in Fair Value Recorded in Other Comprehensive Income,,,,,,,,
+Commercial paper,Level 2,4316,0,0,4316,1331,2985,0
+Certificates of deposit,Level 2,3615,0,0,3615,2920,695,0
+U.S. government securities,Level 1,90664,3832,(111),94385,1500,92885,0
+U.S. agency securities,Level 2,807,2,0,809,0,809,0
+Foreign government bonds,Level 2,6213,9,(2),6220,225,5995,0
+Mortgage- and asset-backed securities,Level 2,3442,22,(6),3458,0,3458,0
+Corporate notes and bonds,Level 2,8443,249,(9),8683,0,8683,0
+Corporate notes and bonds,Level 3,63,0,0,63,0,63,0
+Municipal securities,Level 2,308,63,0,371,0,371,0
+Municipal securities,Level 3,95,0,(7),88,0,88,0
+    Total debt investments,,117966,4177,(135),122008,5976,116032,0
+Changes in Fair Value Recorded in Net Income,,,,,,,,
+Equity investments,Level 1,,,,1582,976,0,606
+Equity investments,Other,,,,5378,0,0,5378
+    Total equity investments,,,,,6960,976,0,5984
+Cash,,,,,7272,7272,0,0
+"Derivatives, net (a)",,,,,78,0,78,0
+    Total,,,,,136318,14224,116110,5984

@@ -1,0 +1,595 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Split Page with Table and CSV Editor</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/handsontable@10.0.0/dist/handsontable.min.css">
+    <style>
+        body {
+            display: flex;
+            flex-direction: column;
+            margin: 0;
+            height: 100vh;
+            font-family: Arial, sans-serif;
+        }
+
+        .content {
+            display: flex;
+            flex: 1;
+            overflow: hidden;
+        }
+
+        .left,
+        .right {
+            width: 50%;
+            padding: 10px;
+            box-sizing: border-box;
+            overflow: auto;
+        }
+
+        .left {
+            border-right: 1px solid #ccc;
+        }
+
+        .table-container {
+            height: calc(100vh - 150px);
+            overflow: auto;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+
+        table,
+        th,
+        td {
+            border: 1px solid black;
+        }
+
+        th,
+        td {
+            padding: 8px;
+            text-align: left;
+        }
+
+        .footer {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding: 10px;
+            border-top: 1px solid #ccc;
+            background-color: #f9f9f9;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+            box-shadow: 0 -1px 5px rgba(0, 0, 0, 0.1);
+        }
+
+        .footer button,
+        .footer input[type="file"] {
+            margin: 0 10px;
+            padding: 10px 20px;
+            font-size: 16px;
+        }
+
+        .counter {
+            margin: 0 10px;
+            font-size: 16px;
+        }
+
+        input[type="file"] {
+            display: none;
+        }
+
+        .footer button[disabled] {
+            background-color: #ccc;
+            cursor: not-allowed;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="content">
+        <div id="left" class="left">
+            <div id="leftContent" class="table-container"></div>
+        </div>
+        <div id="right" class="right">
+            <div id="righttable" class="table-container">
+                <div id="csvEditor"></div>
+            </div>
+        </div>
+    </div>
+    <div class="footer">
+        <input type="file" id="fileInput" accept=".htm" multiple onchange="handleFileSelect(event)">
+        <button onclick="document.getElementById('fileInput').click()">Import Files</button>
+        <button onclick="prevFile()">Previous File</button>
+        <button onclick="nextFile()">Next File</button>
+        <button onclick="prevTable()">Previous Table</button>
+        <button onclick="nextTable()">Next Table</button>
+        <button onclick="drawTables()">Draw</button>
+        <button onclick="exportCSV()">Download CSV</button>
+        <button onclick="boldSelection()">Bold</button>
+        <button onclick="addIndent()">Add Indent</button>
+        <div class="counter" id="tableCounter"></div>
+        <button onclick="exportLog()">Export Log</button>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/papaparse@5.3.0/papaparse.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/handsontable@10.0.0/dist/handsontable.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.5.0/jszip.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/FileSaver.js/2.0.5/FileSaver.min.js"></script>
+    <script>
+        let hot;
+        let files = [];
+        let currentFileIndex = 0;
+        let tables = [];
+        let currentTableIndex = 0;
+        let originalHtml = '';
+        let log = [];
+        let tableMap = [];
+        let displayedTables = [];
+        let drawCount = 0;
+        let drawnIndexes = [];
+        let csvFiles = [];
+        let copiedData = null;
+        let copyRange = ''
+
+        document.addEventListener('DOMContentLoaded', function () {
+            const container = document.getElementById('csvEditor');
+            const preserveLeadingSpacesRenderer = function (instance, td, row, col, prop, value, cellProperties) {
+                Handsontable.renderers.TextRenderer.apply(this, arguments);
+                if (typeof value === 'string') {
+                    value = value.replace(/^ +/gm, function (match) {
+                        return '&nbsp;'.repeat(match.length);
+                    });
+                    td.innerHTML = value;
+                }
+            };
+            hot = new Handsontable(container, {
+                data: [],
+                rowHeaders: true,
+                colHeaders: true,
+                contextMenu: true,
+                licenseKey: 'non-commercial-and-evaluation',
+                trimWhitespace: false,
+                cells: function (row, col) {
+                    const cellProperties = {};
+                    cellProperties.renderer = preserveLeadingSpacesRenderer;
+                    return cellProperties;
+                }
+            });
+
+            hot.addHook('afterChange', function (changes, source) {
+                if (source !== 'loadData' && source !== 'boldSelection' && source !== 'addIndent' && source !== 'cutSelection' && source !== 'pasteSelection') {
+                    changes.forEach(change => {
+                        const [row, col, oldVal, newVal] = change;
+                        const actualTableIndex = tableMap[drawnIndexes[currentTableIndex]] + 1;
+                        addLogEntry('edit', { row, col, oldVal, newVal }, files[currentFileIndex].name, actualTableIndex);
+                    });
+                    updateCSV();
+                }
+            });
+
+            hot.addHook('afterCreateRow', function (index, amount) {
+                const actualTableIndex = tableMap[drawnIndexes[currentTableIndex]] + 1;
+                addLogEntry('add_row', { index, amount }, files[currentFileIndex].name, actualTableIndex);
+                updateCSV();
+            });
+
+            hot.addHook('afterRemoveRow', function (index, amount) {
+                const actualTableIndex = tableMap[drawnIndexes[currentTableIndex]] + 1;
+                addLogEntry('remove_row', { index, amount }, files[currentFileIndex].name, actualTableIndex);
+                updateCSV();
+            });
+
+            hot.addHook('afterCreateCol', function (index, amount) {
+                const actualTableIndex = tableMap[drawnIndexes[currentTableIndex]] + 1;
+                addLogEntry('add_col', { index, amount }, files[currentFileIndex].name, actualTableIndex);
+                updateCSV();
+            });
+
+            hot.addHook('afterRemoveCol', function (index, amount) {
+                const actualTableIndex = tableMap[drawnIndexes[currentTableIndex]] + 1;
+                addLogEntry('remove_col', { index, amount }, files[currentFileIndex].name, actualTableIndex);
+                updateCSV();
+            });
+
+            // Keyboard shortcut bindings HERE
+            document.addEventListener('keydown', function (e) {
+                // Bold. Default (Ctrl + b)
+                if (e.ctrlKey && e.key === 'b') {
+                    e.preventDefault();
+                    boldSelection();
+                }
+                // Add indent. Default (Ctrl + g)
+                if (e.ctrlKey && e.key === 'g') {
+                    e.preventDefault();
+                    addIndent();
+                }
+                // Cut. Default (Ctrl + x)
+                if (e.ctrlKey && e.key === 'x') {
+                    e.preventDefault();
+                    cutSelection();
+                }
+                // Copy. Default (Ctrl + c)
+                if (e.ctrlKey && e.key === 'c') {
+                    e.preventDefault();
+                    copySelection();
+                }
+                // Paste. Default (Ctrl + v)
+                if (e.ctrlKey && e.key === 'v') {
+                    e.preventDefault();
+                    pasteSelection();
+                }
+            });
+        });
+
+        function addLogEntry(action, details, fileName, tableIndex, range = null) {
+            log.push({
+                fileName: fileName,
+                tableIndex: tableIndex,
+                action: action,
+                range: range,
+                details: details,
+            });
+        }
+
+        function handleFileSelect(event) {
+            files = Array.from(event.target.files);
+            if (files.length > 0) {
+                processFile(0);
+            }
+        }
+
+        function processFile(index) {
+            if (index >= 0 && index < files.length) {
+                currentFileIndex = index;
+                const file = files[index];
+                const reader = new FileReader();
+                reader.onload = function (e) {
+                    originalHtml = e.target.result;
+                    document.getElementById('leftContent').innerHTML = originalHtml;
+                    addUniqueIdsToTables();
+
+                    const formData = new FormData();
+                    formData.append('file', file);
+
+                    disableButtons();
+
+                    fetch('/process', {
+                        method: 'POST',
+                        body: formData
+                    })
+                        .then(response => response.json())
+                        .then(data => {
+                            console.log('Response data:', data);
+                            if (data.csv_tables && data.table_map) {
+                                tables = data.csv_tables;
+                                tableMap = data.table_map;
+                                csvFiles = tables.map((table, index) => ({
+                                    filename: `table_${index + 1}.csv`,
+                                    content: table
+                                }));
+
+                                const uploadFormData = new FormData();
+                                csvFiles.forEach(file => {
+                                    const blob = new Blob([file.content], { type: 'text/csv' });
+                                    uploadFormData.append('files', blob, file.filename);
+                                });
+
+                                fetch('/upload_csv', {
+                                    method: 'POST',
+                                    body: uploadFormData
+                                })
+                                    .then(response => response.json())
+                                    .then(uploadResponse => {
+                                        console.log('CSV files uploaded successfully:', uploadResponse);
+                                    })
+                                    .catch(error => console.error('Error uploading CSV files:', error))
+                                    .finally(() => {
+                                        enableButtons();
+                                    });
+
+                                // Initialize cache
+                                tables.forEach((table, index) => {
+                                    saveTableToCache(index, Papa.parse(table).data);
+                                });
+
+                                displayedTables = [];
+                                drawCount = 0;
+                                drawnIndexes = [];
+                                if (tables.length > 0) {
+                                    drawTables();
+                                }
+                            } else {
+                                console.error('Invalid data received:', data); e
+                                enableButtons();
+                            }
+                        })
+                        .catch(error => {
+                            console.error('Error:', error);
+                            enableButtons();
+                        });
+                }
+                reader.readAsText(file);
+            }
+        }
+
+
+        function addUniqueIdsToTables() {
+            const tablesInHtml = document.querySelectorAll('table');
+            tablesInHtml.forEach((table, index) => {
+                table.id = `table-${index}`;
+            });
+        }
+
+        function drawTables() {
+            const newDrawnIndexes = getUniqueRandomIndexes(tables.length, 5);
+            drawnIndexes = drawnIndexes.concat(newDrawnIndexes);
+            drawCount = drawnIndexes.length;
+            if (drawnIndexes.length > 0) displayTable(currentTableIndex);
+        }
+
+        function getUniqueRandomIndexes(max, count) {
+            const availableIndexes = Array.from({ length: max }, (_, i) => i).filter(i => !drawnIndexes.includes(i));
+            if (availableIndexes.length < count) {
+                count = availableIndexes.length;
+            }
+            for (let i = availableIndexes.length - 1; i > 0; i--) {
+                const j = Math.floor(Math.random() * (i + 1));
+                [availableIndexes[i], availableIndexes[j]] = [availableIndexes[j], availableIndexes[i]];
+            }
+            return availableIndexes.slice(0, count);
+        }
+
+        function displayTable(index) {
+            if (index >= 0 && index < drawnIndexes.length) {
+                const cachedData = loadTableFromCache(drawnIndexes[index]);
+                if (cachedData) {
+                    hot.loadData(cachedData);
+                } else {
+                    const csvData = Papa.parse(tables[drawnIndexes[index]]).data;
+                    hot.loadData(csvData);
+                    saveTableToCache(drawnIndexes[index], csvData);
+                }
+                updateTableCounter();
+                scrollToTableInHtml(drawnIndexes[index]);
+            }
+        }
+
+
+        function prevFile() {
+            if (currentFileIndex > 0) {
+                processFile(currentFileIndex - 1);
+            }
+        }
+
+        function nextFile() {
+            if (currentFileIndex < files.length - 1) {
+                processFile(currentFileIndex + 1);
+            }
+        }
+
+        function prevTable() {
+            if (currentTableIndex > 0) {
+                currentTableIndex--;
+                displayTable(currentTableIndex);
+            }
+        }
+
+        function nextTable() {
+            if (currentTableIndex < drawnIndexes.length - 1) {
+                currentTableIndex++;
+                displayTable(currentTableIndex);
+            }
+        }
+
+        function updateTableCounter() {
+            document.getElementById('tableCounter').textContent = `${currentTableIndex + 1}/${drawCount}`;
+        }
+
+        function scrollToTableInHtml(tableIndex) {
+            const actualTableIndex = tableMap[tableIndex];
+            const table = document.getElementById(`table-${actualTableIndex}`);
+            if (table) {
+                const container = document.getElementById('leftContent');
+                container.scrollTop = table.offsetTop - container.offsetTop;
+            }
+        }
+
+        function exportCSV() {
+            const fileName = files[currentFileIndex].name.split('.').slice(0, -1).join('.');
+            fetch('/download_csv')
+                .then(response => response.blob())
+                .then(blob => {
+                    const url = window.URL.createObjectURL(blob);
+                    const a = document.createElement('a');
+                    a.style.display = 'none';
+                    a.href = url;
+                    a.download = `tables_${fileName}.zip`;
+                    document.body.appendChild(a);
+                    a.click();
+                    window.URL.revokeObjectURL(url);
+                })
+                .catch(error => console.error('Error downloading CSV files:', error));
+        }
+
+        function exportLog() {
+            const fileName = files[currentFileIndex].name.split('.').slice(0, -1).join('.');
+            const blob = new Blob([JSON.stringify(log, null, 2)], { type: 'application/json' });
+            const url = URL.createObjectURL(blob);
+            const a = document.createElement('a');
+            a.href = url;
+            a.download = `log_${fileName}.json`;
+            document.body.appendChild(a);
+            a.click();
+            setTimeout(() => {
+                document.body.removeChild(a);
+                window.URL.revokeObjectURL(url);
+            }, 0);
+        }
+
+        function boldSelection() {
+            const selected = hot.getSelected();
+            if (selected) {
+                const range = selected[0];
+                const rangeString = `[${range[0]}:${range[2] + 1}, ${range[1]}:${range[3] + 1}]`;
+                hot.batch(() => {
+                    selected.forEach(([startRow, startCol, endRow, endCol]) => {
+                        for (let row = startRow; row <= endRow; row++) {
+                            for (let col = startCol; col <= endCol; col++) {
+                                const cellData = hot.getDataAtCell(row, col);
+                                let newCellData;
+                                if (cellData && cellData.startsWith('<b>') && cellData.endsWith('</b>')) {
+                                    newCellData = cellData.slice(3, -4);
+                                } else {
+                                    newCellData = `<b>${cellData}</b>`;
+                                }
+                                hot.setDataAtCell(row, col, newCellData, 'boldSelection');
+                            }
+                        }
+                    });
+                });
+                const actualTableIndex = tableMap[drawnIndexes[currentTableIndex]] + 1;
+                addLogEntry('bold', null, files[currentFileIndex].name, actualTableIndex, rangeString);
+                updateCSV();
+            }
+        }
+
+        function addIndent() {
+            const selected = hot.getSelected();
+            if (selected) {
+                const range = selected[0];
+                const rangeString = `[${range[0]}:${range[2] + 1}, ${range[1]}:${range[3] + 1}]`;
+                hot.batch(() => {
+                    selected.forEach(([startRow, startCol, endRow, endCol]) => {
+                        for (let row = startRow; row <= endRow; row++) {
+                            for (let col = startCol; col <= endCol; col++) {
+                                const cellData = hot.getDataAtCell(row, col);
+                                const newCellData = '    ' + cellData;
+                                hot.setDataAtCell(row, col, newCellData, 'addIndent');
+                            }
+                        }
+                    });
+                });
+                const actualTableIndex = tableMap[drawnIndexes[currentTableIndex]] + 1;
+                addLogEntry('add_indent', null, files[currentFileIndex].name, actualTableIndex, rangeString);
+                updateCSV();
+            }
+        }
+
+        function cutSelection() {
+            const selected = hot.getSelected();
+            if (selected) {
+                const range = selected[0];
+                const rangeString = `[${range[0]}:${range[2] + 1}, ${range[1]}:${range[3] + 1}]`;
+                copyRange = rangeString;
+                copiedData = [];
+                hot.batch(() => {
+                    selected.forEach(([startRow, startCol, endRow, endCol]) => {
+                        for (let row = startRow; row <= endRow; row++) {
+                            const rowData = [];
+                            for (let col = startCol; col <= endCol; col++) {
+                                const cellData = hot.getDataAtCell(row, col);
+                                rowData.push(cellData);
+                                hot.setDataAtCell(row, col, '', 'cutSelection');
+                            }
+                            copiedData.push(rowData);
+                        }
+                    });
+                });
+                const actualTableIndex = tableMap[drawnIndexes[currentTableIndex]] + 1;
+                addLogEntry('cut', null, files[currentFileIndex].name, actualTableIndex, rangeString);
+                updateCSV();
+            }
+        }
+
+        function copySelection() {
+            const selected = hot.getSelected();
+            if (selected) {
+                copiedData = [];
+                const range = selected[0];
+                copyRange = `[${range[0]}:${range[2] + 1}, ${range[1]}:${range[3] + 1}]`;
+                selected.forEach(([startRow, startCol, endRow, endCol]) => {
+                    for (let row = startRow; row <= endRow; row++) {
+                        const rowData = [];
+                        for (let col = startCol; col <= endCol; col++) {
+                            const cellData = hot.getDataAtCell(row, col);
+                            rowData.push(cellData);
+                        }
+                        copiedData.push(rowData);
+                    }
+                });
+            }
+        }
+
+        function pasteSelection() {
+            const selected = hot.getSelected();
+            if (selected && copiedData) {
+                const range = selected[0];
+                const rangeString = `[${range[0]}:${range[2] + 1}, ${range[1]}:${range[3] + 1}]`;
+                const [startRow, startCol, endRow, endCol] = selected[0];
+                hot.batch(() => {
+                    copiedData.forEach((row, i) => {
+                        row.forEach((cellData, j) => {
+                            if (startRow + i <= endRow && startCol + j <= endCol) {
+                                const oldVal = hot.getDataAtCell(startRow + i, startCol + j);
+                                hot.setDataAtCell(startRow + i, startCol + j, cellData, 'pasteSelection');
+                            }
+                        });
+                    });
+                });
+                const actualTableIndex = tableMap[drawnIndexes[currentTableIndex]] + 1;
+                addLogEntry('paste', 'Copied from: ' + copyRange, files[currentFileIndex].name, actualTableIndex, rangeString);
+                updateCSV();
+            }
+        }
+
+        function disableButtons() {
+            document.querySelectorAll('.footer button').forEach(button => button.disabled = true);
+        }
+
+        function enableButtons() {
+            document.querySelectorAll('.footer button').forEach(button => button.disabled = false);
+        }
+
+        function updateCSV() {
+            const csvData = Papa.unparse(hot.getData());
+            const filename = csvFiles[drawnIndexes[currentTableIndex]].filename;
+
+            fetch('/update_csv', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify({
+                    filename: filename,
+                    content: csvData
+                })
+            })
+                .then(response => response.json())
+                .then(data => {
+                    console.log('CSV file updated successfully:', data);
+                })
+                .catch(error => {
+                    console.error('Error updating CSV file:', error);
+                });
+            saveTableToCache(drawnIndexes[currentTableIndex], hot.getData());
+        }
+
+        function saveTableToCache(tableIndex, data) {
+            localStorage.setItem(`table_${tableIndex}`, JSON.stringify(data));
+        }
+
+        function loadTableFromCache(tableIndex) {
+            const cachedData = localStorage.getItem(`table_${tableIndex}`);
+            return cachedData ? JSON.parse(cachedData) : null;
+        }
+
+    </script>
+</body>
+
+</html>
