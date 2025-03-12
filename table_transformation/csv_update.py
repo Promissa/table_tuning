@@ -71,13 +71,13 @@ def process_edits(csv_folder_path, json_path, output_folder=None):
             # Apply the instruction based on the action type
             if action == "edit":
                 apply_edit(df, details)
-            elif action == "removerow":
+            elif action == "remove_row":
                 apply_remove_row(df, details)
-            elif action == "removecol":
+            elif action == "remove_col":
                 apply_remove_col(df, details)
-            elif action == "addcol":
+            elif action == "add_col":
                 apply_add_col(df, details)
-            elif action == "addrow":
+            elif action == "add_row":
                 apply_add_row(df, details)
             elif action == "merge":
                 apply_merge(df, details)
