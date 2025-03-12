@@ -1,0 +1,69 @@
+[
+    {
+      "fileName": "test.csv",
+      "action": "edit",
+      "range": null,
+      "details": {
+        "row": 2,
+        "col": 0,
+        "oldVal": "March 14, 2022",
+        "newVal": "March 14, 2022"
+      }
+    },
+    {
+      "fileName": "test.csv",
+      "action": "add_row",
+      "range": null,
+      "details": {
+        "index": 3,
+        "amount": 1
+      }
+    },
+    {
+      "fileName": "test.csv",
+      "action": "add_row",
+      "range": null,
+      "details": {
+        "index": 4,
+        "amount": 1
+      }
+    },
+    {
+      "fileName": "test.csv",
+      "action": "add_col",
+      "range": null,
+      "details": {
+        "index": 2,
+        "amount": 1
+      }
+    },
+    {
+      "fileName": "test.csv",
+      "action": "remove_row",
+      "range": null,
+      "details": {
+        "index": 3,
+        "amount": 1
+      }
+    },
+    {
+      "fileName": "test.csv",
+      "action": "edit",
+      "range": null,
+      "details": {
+        "row": 3,
+        "col": 0,
+        "oldVal": null,
+        "newVal": "dad"
+      }
+    },
+    {
+        "fileName": "test.csv",
+        "action": "merge",
+        "range": null,
+        "details": {
+          "index": 2,
+          "isRow": false
+        }
+      }
+  ]

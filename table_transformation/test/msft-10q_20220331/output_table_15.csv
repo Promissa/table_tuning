@@ -1,0 +1,21 @@
+(In millions),Fair Value Level,Adjusted Cost Basis,Unrealized Gains,Unrealized Losses,Recorded Basis,Cash and Cash Equivalents,Short-term Investments,Equity Investments
+"March 31, 2022",,,,,,,,
+Changes in Fair Value Recorded in Other Comprehensive Income,,,,,,,,
+Commercial paper,Level 2,883,0,0,883,802,81,0
+Certificates of deposit,Level 2,3045,0,0,3045,3003,42,0
+U.S. government securities,Level 1,79211,347,(1174),78384,3,78381,0
+U.S. agency securities,Level 2,417,0,(6),411,0,411,0
+Foreign government bonds,Level 2,508,3,(10),501,0,501,0
+Mortgage- and asset-backed securities,Level 2,602,2,(14),590,0,590,0
+Corporate notes and bonds,Level 2,11910,31,(277),11664,0,11664,0
+Corporate notes and bonds,Level 3,45,0,0,45,0,45,0
+Municipal securities,Level 2,324,34,(7),351,0,351,0
+Municipal securities,Level 3,103,0,(7),96,0,96,0
+    Total debt investments,,97048,417,(1495),95970,3808,92162,0
+Changes in Fair Value Recorded in Net Income,,,,,,,,
+Equity investments,Level 1,,,,1857,1234,0,623
+Equity investments,Other,,,,6284,0,0,6284
+    Total equity investments,,,,,8141,1234,0,6907
+Cash,,,,,7456,7456,0,0
+"Derivatives, net (a)",,,,,33,0,33,0
+    Total,,,,,111600,12498,92195,6907

@@ -1,0 +1,12 @@
+15.1,Letter regarding unaudited interim financial information
+31.1,Certification of Chief Executive Officer Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002
+31.2,Certification of Chief Financial Officer Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002
+32.1*,Certification of Chief Executive Officer Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002
+32.2*,Certification of Chief Financial Officer Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002
+101.INS,Inline  XBRL Instance Document–the instance document does not appear in the Interactive Data File as its XBRL tags are embedded within the Inline XBRL document
+101.SCH,Inline XBRL Taxonomy Extension Schema
+101.CAL,Inline XBRL Taxonomy Extension Calculation Linkbase
+101.DEF,Inline XBRL Taxonomy Extension Definition Linkbase
+101.LAB,Inline XBRL Taxonomy Extension Label Linkbase
+101.PRE,Inline XBRL Taxonomy Extension Presentation Linkbase
+104,Cover page formatted as Inline XBRL and contained in Exhibit 101
