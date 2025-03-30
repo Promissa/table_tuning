@@ -34,7 +34,7 @@ def generate_random_operations(csv_path="./test/msft-10q_20220331/", num_operati
             "fileName": filename,
             "tableIndex": table_index,
             "action": action,
-            "range": None,  # Default to null
+            "range": None,
             "details": {}
         }
 
@@ -43,10 +43,8 @@ def generate_random_operations(csv_path="./test/msft-10q_20220331/", num_operati
         row = rd.randint(0, max_rows - 2) + 1
         col = rd.randint(0, max_cols - 1)
 
-        # Generate action-specific details
         if action == "edit":  
-            # Generate a new value, sometimes None to clear a cell
-            if rd.random() < 0.4:  # 20% chance of setting to null
+            if rd.random() < 0.2:
                 new_val = None
             else:
                 new_val = rd.choice([
