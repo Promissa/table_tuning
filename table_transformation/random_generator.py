@@ -5,7 +5,7 @@ import argparse
 import pandas as pd
 from typing import List, Dict, Any, Union
 
-def generate_random_operations(csv_path="./test/msft-10q_20220331/", num_operations=30, max_table_index=61) -> List[Dict[str, Any]]:
+def generate_random_operations(csv_path, num_operations, max_table_index) -> List[Dict[str, Any]]:
     """
     Generate a list of random operations for CSV editing.
     
@@ -20,9 +20,16 @@ def generate_random_operations(csv_path="./test/msft-10q_20220331/", num_operati
     
     # Define possible actions
     actions = ["edit", "remove_row", "remove_col", "add_row", "add_col", "merge"]
-    
+
     for _ in range(num_operations):
         # Pick a random table index
+        if max_table_index == -1:
+            max_table_index = 0
+            for file in os.listdir(csv_path):
+                if file.endswith(".csv"):
+                    max_table_index += 1
+            if max_table_index == 0:
+                raise ValueError("No CSV files found in the specified directory.")
         table_index = rd.randint(1, max_table_index)
         filename = f"output_table_{table_index}.csv"
         
@@ -40,8 +47,8 @@ def generate_random_operations(csv_path="./test/msft-10q_20220331/", num_operati
 
         df = pd.read_csv(csv_path + filename, dtype=str)
         max_rows, max_cols = df.shape
-        row = rd.randint(0, max_rows - 2) + 1
-        col = rd.randint(0, max_cols - 1)
+        row = 0 if max_rows == 1 else rd.randint(1, max_rows - 1)
+        col = 0 if max_cols == 1 else rd.randint(0, max_cols - 1)
 
         if action == "edit":  
             if rd.random() < 0.2:
@@ -56,7 +63,7 @@ def generate_random_operations(csv_path="./test/msft-10q_20220331/", num_operati
             operation["details"] = {
                 "row": row,
                 "col": col,
-                "oldVal": df.iloc[row - 1, col],
+                "oldVal": df.iat[row - 1, col],
                 "newVal": new_val
             }
             
@@ -104,7 +111,7 @@ if __name__ == "__main__":
                         help="Output JSON file path")
     parser.add_argument("--num", "-n", type=int, default=20,
                         help="Number of operations to generate")
-    parser.add_argument("--max-table", "-t", type=int, default=61,
+    parser.add_argument("--max-table", "-t", type=int, default=-1,
                         help="Maximum table index")
     
     args = parser.parse_args()
@@ -113,6 +120,6 @@ if __name__ == "__main__":
     
     # Write to a JSON file
     with open(args.output, 'w') as f:
-        json.dump(operations, f, indent=2)
+        json.dump(operations, f, indent=4)
     
     print(f"Generated {len(operations)} random operations and saved to {args.output}")
