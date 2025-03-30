@@ -1,0 +1,304 @@
+[
+  {
+    "fileName": "output_table_60.csv",
+    "tableIndex": 60,
+    "action": "add_row",
+    "range": null,
+    "details": {
+      "index": 1,
+      "amount": 3
+    }
+  },
+  {
+    "fileName": "output_table_21.csv",
+    "tableIndex": 21,
+    "action": "add_row",
+    "range": null,
+    "details": {
+      "index": 7,
+      "amount": 1
+    }
+  },
+  {
+    "fileName": "output_table_42.csv",
+    "tableIndex": 42,
+    "action": "add_row",
+    "range": null,
+    "details": {
+      "index": 2,
+      "amount": 2
+    }
+  },
+  {
+    "fileName": "output_table_56.csv",
+    "tableIndex": 56,
+    "action": "add_row",
+    "range": null,
+    "details": {
+      "index": 1,
+      "amount": 3
+    }
+  },
+  {
+    "fileName": "output_table_22.csv",
+    "tableIndex": 22,
+    "action": "remove_row",
+    "range": null,
+    "details": {
+      "index": 2,
+      "amount": 2
+    }
+  },
+  {
+    "fileName": "output_table_5.csv",
+    "tableIndex": 5,
+    "action": "merge",
+    "range": null,
+    "details": {
+      "index": 0,
+      "isRow": false
+    }
+  },
+  {
+    "fileName": "output_table_15.csv",
+    "tableIndex": 15,
+    "action": "add_col",
+    "range": null,
+    "details": {
+      "index": 4,
+      "amount": 2
+    }
+  },
+  {
+    "fileName": "output_table_20.csv",
+    "tableIndex": 20,
+    "action": "remove_row",
+    "range": null,
+    "details": {
+      "index": 5,
+      "amount": 1
+    }
+  },
+  {
+    "fileName": "output_table_6.csv",
+    "tableIndex": 6,
+    "action": "add_row",
+    "range": null,
+    "details": {
+      "index": 5,
+      "amount": 3
+    }
+  },
+  {
+    "fileName": "output_table_41.csv",
+    "tableIndex": 41,
+    "action": "remove_row",
+    "range": null,
+    "details": {
+      "index": 3,
+      "amount": 2
+    }
+  },
+  {
+    "fileName": "output_table_11.csv",
+    "tableIndex": 11,
+    "action": "add_col",
+    "range": null,
+    "details": {
+      "index": 4,
+      "amount": 2
+    }
+  },
+  {
+    "fileName": "output_table_40.csv",
+    "tableIndex": 40,
+    "action": "remove_col",
+    "range": null,
+    "details": {
+      "index": 1,
+      "amount": 1
+    }
+  },
+  {
+    "fileName": "output_table_25.csv",
+    "tableIndex": 25,
+    "action": "remove_row",
+    "range": null,
+    "details": {
+      "index": 4,
+      "amount": 1
+    }
+  },
+  {
+    "fileName": "output_table_26.csv",
+    "tableIndex": 26,
+    "action": "remove_col",
+    "range": null,
+    "details": {
+      "index": 0,
+      "amount": 2
+    }
+  },
+  {
+    "fileName": "output_table_31.csv",
+    "tableIndex": 31,
+    "action": "add_row",
+    "range": null,
+    "details": {
+      "index": 4,
+      "amount": 2
+    }
+  },
+  {
+    "fileName": "output_table_21.csv",
+    "tableIndex": 21,
+    "action": "remove_col",
+    "range": null,
+    "details": {
+      "index": 0,
+      "amount": 1
+    }
+  },
+  {
+    "fileName": "output_table_42.csv",
+    "tableIndex": 42,
+    "action": "remove_row",
+    "range": null,
+    "details": {
+      "index": 1,
+      "amount": 3
+    }
+  },
+  {
+    "fileName": "output_table_3.csv",
+    "tableIndex": 3,
+    "action": "merge",
+    "range": null,
+    "details": {
+      "index": 0,
+      "isRow": false
+    }
+  },
+  {
+    "fileName": "output_table_27.csv",
+    "tableIndex": 27,
+    "action": "edit",
+    "range": null,
+    "details": {
+      "row": 2,
+      "col": 1,
+      "oldVal": "1560",
+      "newVal": "49.47"
+    }
+  },
+  {
+    "fileName": "output_table_59.csv",
+    "tableIndex": 59,
+    "action": "remove_col",
+    "range": null,
+    "details": {
+      "index": 4,
+      "amount": 1
+    }
+  },
+  {
+    "fileName": "output_table_54.csv",
+    "tableIndex": 54,
+    "action": "remove_col",
+    "range": null,
+    "details": {
+      "index": 5,
+      "amount": 2
+    }
+  },
+  {
+    "fileName": "output_table_27.csv",
+    "tableIndex": 27,
+    "action": "merge",
+    "range": null,
+    "details": {
+      "index": 2,
+      "isRow": true
+    }
+  },
+  {
+    "fileName": "output_table_59.csv",
+    "tableIndex": 59,
+    "action": "merge",
+    "range": null,
+    "details": {
+      "index": 1,
+      "isRow": true
+    }
+  },
+  {
+    "fileName": "output_table_58.csv",
+    "tableIndex": 58,
+    "action": "add_row",
+    "range": null,
+    "details": {
+      "index": 4,
+      "amount": 2
+    }
+  },
+  {
+    "fileName": "output_table_3.csv",
+    "tableIndex": 3,
+    "action": "add_col",
+    "range": null,
+    "details": {
+      "index": 0,
+      "amount": 2
+    }
+  },
+  {
+    "fileName": "output_table_28.csv",
+    "tableIndex": 28,
+    "action": "merge",
+    "range": null,
+    "details": {
+      "index": 3,
+      "isRow": true
+    }
+  },
+  {
+    "fileName": "output_table_46.csv",
+    "tableIndex": 46,
+    "action": "remove_col",
+    "range": null,
+    "details": {
+      "index": 1,
+      "amount": 1
+    }
+  },
+  {
+    "fileName": "output_table_3.csv",
+    "tableIndex": 3,
+    "action": "merge",
+    "range": null,
+    "details": {
+      "index": 0,
+      "isRow": false
+    }
+  },
+  {
+    "fileName": "output_table_28.csv",
+    "tableIndex": 28,
+    "action": "remove_row",
+    "range": null,
+    "details": {
+      "index": 1,
+      "amount": 1
+    }
+  },
+  {
+    "fileName": "output_table_48.csv",
+    "tableIndex": 48,
+    "action": "merge",
+    "range": null,
+    "details": {
+      "index": 5,
+      "isRow": true
+    }
+  }
+]

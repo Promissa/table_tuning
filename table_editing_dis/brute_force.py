@@ -1248,10 +1248,12 @@ for i in range(1, 26):
                 }
                 results.append(result)
 
-# Create a DataFrame from the results list
-df_results = pd.DataFrame(results)
 
-# Write the DataFrame to a CSV or Excel file
-df_results.to_excel("comparison_results.xlsx", index=False)# You can also use .to_excel() if needed
+if __name__ == "__main__":
+    # Create a DataFrame from the results list
+    df_results = pd.DataFrame(results)
 
-# print("Results have been written to comparison_results.csv")
+    # Write the DataFrame to a CSV or Excel file
+    df_results.to_excel("comparison_results.xlsx", index=False)# You can also use .to_excel() if needed
+
+    # print("Results have been written to comparison_results.csv")

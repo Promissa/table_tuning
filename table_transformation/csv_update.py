@@ -223,7 +223,7 @@ def apply_add_col(df, details):
         col_index = start_index + i
         
         # Insert a new empty column
-        df.insert(col_index, "", "")
+        df.insert(col_index, "", "", allow_duplicates=True)
         print(f"Added new column at position {col_index}")
 
 def apply_add_row(df, details):
@@ -284,9 +284,9 @@ def apply_merge(df, details):
             val2 = str(df.iloc[index + 1, col_idx])
             
             # Handle NaN values
-            if val1 == "nan":
+            if val1 == "nan" or val1 == "NaN":
                 val1 = ""
-            if val2 == "nan":
+            if val2 == "nan" or val2 == "NaN":
                 val2 = ""
             
             merged_val = val1 + val2
