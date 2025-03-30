@@ -3,6 +3,7 @@ import random as rd
 import string
 import argparse
 import pandas as pd
+import os
 from typing import List, Dict, Any, Union
 
 def generate_random_operations(csv_path, num_operations, max_table_index) -> List[Dict[str, Any]]:
@@ -105,11 +106,11 @@ def generate_random_operations(csv_path, num_operations, max_table_index) -> Lis
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Generate random JSON operations for CSV editing")
-    parser.add_argument("--csv_path", "-p", type=str, default="./test/msft-10q_20220331/",
+    parser.add_argument("--csv_path", "-p", type=str, default="./test/test_input/msft-10q_20220331/",
                         help="Path to the CSV files")   
-    parser.add_argument("--output", "-o", type=str, default="operations.json", 
+    parser.add_argument("--output", "-o", type=str, default="random_inst.json", 
                         help="Output JSON file path")
-    parser.add_argument("--num", "-n", type=int, default=20,
+    parser.add_argument("--num", "-n", type=int, default=30,
                         help="Number of operations to generate")
     parser.add_argument("--max-table", "-t", type=int, default=-1,
                         help="Maximum table index")

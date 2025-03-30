@@ -22,6 +22,10 @@ def process_edits(csv_folder_path, json_path, output_folder=None):
     if not os.path.exists(json_path):
         print(f"JSON file not found at {json_path}")
         return
+
+    if not os.path.exists(output_folder) and output_folder is not None:
+        os.makedirs(output_folder, exist_ok=True)
+        print(f"Output folder created at {output_folder}")
     
     # Load JSON instructions
     with open(json_path, 'r') as f:
