@@ -108,19 +108,21 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Generate random JSON operations for CSV editing")
     parser.add_argument("--csv_path", "-p", type=str, default="./test/test_input/msft-10q_20220331/",
                         help="Path to the CSV files")   
-    parser.add_argument("--output", "-o", type=str, default="random_inst.json", 
+    parser.add_argument("--output", "-o", type=str, default="./test/test_inst/", 
                         help="Output JSON file path")
-    parser.add_argument("--num", "-n", type=int, default=30,
-                        help="Number of operations to generate")
+    parser.add_argument("--num", "-n", type=int, default=50,
+                        help="Number of JSONs to generate")
     parser.add_argument("--max-table", "-t", type=int, default=-1,
                         help="Maximum table index")
     
     args = parser.parse_args()
+    if not os.path.exists(args.output):
+        os.makedirs(args.output)
     
-    operations = generate_random_operations(args.csv_path, args.num, args.max_table)
-    
-    # Write to a JSON file
-    with open(args.output, 'w') as f:
-        json.dump(operations, f, indent=4)
+    for i in range(args.num):
+        operations = generate_random_operations(args.csv_path, 50, args.max_table)
+        # Write to a JSON file
+        with open(os.path.join(args.output, f"random_inst_{i}.json"), 'w') as f:
+            json.dump(operations, f, indent=4)
     
     print(f"Generated {len(operations)} random operations and saved to {args.output}")

@@ -174,3 +174,4 @@ cython_debug/
 .pypirc
 
 table_transformation/test/test_output
+table_transformation/test/test_inst
