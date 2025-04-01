@@ -2,6 +2,7 @@ import os
 import json
 import pandas as pd
 import argparse
+import glob
 from pathlib import Path
 
 def process_edits(csv_folder_path, json_path, output_folder=None):
@@ -58,7 +59,7 @@ def process_edits(csv_folder_path, json_path, output_folder=None):
                 continue
             
             csv_path = possible_files[0]
-            print(f"Using {csv_path} for instructions related to {file_name}")
+            # print(f"Using {csv_path} for instructions related to {file_name}")
         
         # Load the CSV file
         try:
@@ -99,7 +100,7 @@ def process_edits(csv_folder_path, json_path, output_folder=None):
         
         # Save the modified CSV
         df.to_csv(output_path, index=False)
-        print(f"Updated CSV saved to {output_path}")
+        # print(f"Updated CSV saved to {output_path}")
 
 def apply_edit(df, details):
     """
@@ -166,7 +167,7 @@ def apply_remove_row(df, details):
     # Reset the index
     df.reset_index(drop=True, inplace=True)
     
-    print(f"Removed {amount} rows starting at position {start_index}")
+    # print(f"Removed {amount} rows starting at position {start_index}")
 
 def apply_remove_col(df, details):
     """
@@ -202,7 +203,7 @@ def apply_remove_col(df, details):
     # Remove the columns
     df.drop(columns=cols_to_remove, inplace=True)
     
-    print(f"Removed {amount} columns starting at position {start_index}")
+    # print(f"Removed {amount} columns starting at position {start_index}")
 
 def apply_add_col(df, details):
     """
@@ -228,7 +229,7 @@ def apply_add_col(df, details):
         
         # Insert a new empty column
         df.insert(col_index, "", "", allow_duplicates=True)
-        print(f"Added new column at position {col_index}")
+        # print(f"Added new column at position {col_index}")
 
 def apply_add_row(df, details):
     """
@@ -265,7 +266,7 @@ def apply_add_row(df, details):
     df.drop(df.index, inplace=True)
     df[new_df.columns] = new_df
     
-    print(f"Added {amount} new rows starting at position {start_index}")
+    # print(f"Added {amount} new rows starting at position {start_index}")
 
 def apply_merge(df, details):
     index = details.get("index")
@@ -301,7 +302,7 @@ def apply_merge(df, details):
         df.drop(index=index + 1, inplace=True)
         df.reset_index(drop=True, inplace=True)
         
-        print(f"Merged rows {index} and {index + 1} by concatenating their content")
+        # print(f"Merged rows {index} and {index + 1} by concatenating their content")
         
     else:
         if index >= len(df.columns) - 1:
@@ -348,15 +349,31 @@ def apply_merge(df, details):
         df.rename(columns={col1_name: merged_col_name}, inplace=True)
         df[merged_col_name] = merged_col_values
         
-        print(f"Merged columns {index} ({col1_name}) and {index + 1} ({col2_name}) into {merged_col_name}")
+        # print(f"Merged columns {index} ({col1_name}) and {index + 1} ({col2_name}) into {merged_col_name}")
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Edit a CSV file based on JSON instructions")
-    parser.add_argument("csv_file", help="Path to the CSV file to edit")
-    parser.add_argument("json_file", help="Path to the JSON file with edit instructions")
+    parser.add_argument("csv_path", help="Path to the CSV file to edit")
+    parser.add_argument("json_path", help="Path to the JSON file with edit instructions")
     parser.add_argument("-o", "--output", help="Path to save the edited CSV file (optional)")
     
     args = parser.parse_args()
+    json_files = glob.glob(os.path.join(args.json_path, "*.json"))
     
-    process_edits(args.csv_file, args.json_file, args.output)
+    if not json_files:
+        print(f"No JSON files found in {args.json_path}")
+        pass
+    
+    print(f"Found {len(json_files)} JSON files in {args.json_path}")
+    
+    # Process each JSON file
+    for json_file in json_files:
+        print(f"Processing {json_file}...")
+        output_path = os.path.join(args.output, os.path.basename(json_file).split('_')[-1].split('.')[0])
+        try:
+            process_edits(args.csv_path, json_file, output_path)
+            print(f"Successfully processed {json_file}\n")
+        except Exception as e:
+            print(f"Error processing {json_file}: {str(e)}")
+
     print("Processing complete.")
