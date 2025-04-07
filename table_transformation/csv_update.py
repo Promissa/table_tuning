@@ -122,8 +122,8 @@ def apply_edit(df, details):
     
     # Verify the old value matches (if provided)
     current_val = str(df.iloc[row, col])
-    if old_val is not None and current_val != str(old_val):
-        print(f"Value mismatch at row={row}, col={col}. Expected '{old_val}', found '{current_val}'. Proceeding anyway.")
+    # if old_val is not None and current_val != str(old_val.split('.')[0]):
+        # print(f"Value mismatch at row={row}, col={col}. Expected '{old_val}', found '{current_val}'. Proceeding anyway.")
     
     # Apply the edit
     if new_val is None:
@@ -203,8 +203,8 @@ def apply_remove_col(df, details):
     # Remove the columns
     df.drop(columns=cols_to_remove, inplace=True)
     
-    # print(f"Removed {amount} columns starting at position {start_index}")
-
+    print(f"Removed {amount} columns starting at position {start_index}")
+   
 def apply_add_col(df, details):
     """
     Add multiple new columns to the dataframe at a specified index.
@@ -280,9 +280,9 @@ def apply_merge(df, details):
     if is_row:
         # Merging rows
         if index >= len(df) - 1:
-            print(f"Invalid row index {index} for merging. Need at least two rows to merge. Skipping.")
+            # print(f"Invalid row index {index} for merging. Need at least two rows to merge. Skipping.")
             return
-        
+
         # For each column, concatenate the values from the two rows
         for col_idx in range(len(df.columns)):
             val1 = str(df.iloc[index, col_idx])
@@ -306,9 +306,9 @@ def apply_merge(df, details):
         
     else:
         if index >= len(df.columns) - 1:
-            print(f"Invalid column index {index} for merging. Need at least two columns to merge. Skipping.")
+            # print(f"Invalid column index {index} for merging. Need at least two columns to merge. Skipping.")
             return
-        
+
         # Get the column names
         col1_name = df.columns[index]
         col2_name = df.columns[index + 1]
