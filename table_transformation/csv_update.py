@@ -218,7 +218,6 @@ def apply_add_col(df, details):
     start_index = details.get("index", 0)  # Starting position to insert columns
     amount = details.get("amount", 1)  # Number of columns to add
     
-    # Check if index is valid
     if start_index > len(df.columns):
         print(f"Invalid starting column index: {start_index}. Will append at the end.")
         start_index = len(df.columns)
