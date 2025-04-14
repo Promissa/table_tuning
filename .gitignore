@@ -176,3 +176,4 @@ cython_debug/
 
 table_transformation/test/test_output
 table_transformation/test/test_inst
+table_parsing/test_output
