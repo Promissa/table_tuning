@@ -139,6 +139,7 @@ def process(html_content, debug=False):
         # print(table_map[i])
 
         csv_output = p.to_csv(index=False).replace("&nbsp;", " ")
+        csv_output = re.sub(r" +", " ", csv_output)
         csv_lines = csv_output.split("\n")
         csv_outputs.append("\n".join(csv_lines[1:-1]))
 
@@ -146,17 +147,13 @@ def process(html_content, debug=False):
 
 
 if __name__ == "__main__":
-    html_file = "/home/promissa/projects/table_parsing/htm_input/msft-10q_20220331.htm"
+    html_file = "./htm_input/msft-10q_20220331.htm"
     with open(html_file, "r") as file:
         html_content = file.read()
     csv_results, table_map = process(html_content, True)
-    # print(table_map)
     if csv_results:
         for i, csv_result in enumerate(csv_results):
-            with open(
-                f"/home/promissa/projects/table_parsing/test_output/output_table_{i+1}.csv", "w"
-            ) as output_file:
+            with open(f"./test_output/output_table_{i+1}.csv", "w") as output_file:
                 output_file.write(csv_result)
-        # print(f"{len(csv_results)} CSV files have been generated successfully.")
     else:
         print("No valid table found in the HTM file.")
