@@ -5,7 +5,9 @@ import warnings
 
 warnings.simplefilter(action="ignore", category=FutureWarning)
 import pandas as pd
+
 # pd.set_option('future.no_silent_downcasting', True)
+
 
 # Note: One HTML at a time
 def extract_table_title(p):
@@ -93,6 +95,7 @@ def process(html, tid=0):
     m = "\n".join(lst) + "\n" if len(lst) else ""
     m += '<markdown tid="' + str(tid) + '">\n' + p.to_markdown() + "\n</markdown>"
     return m
+
 
 # if __name__ == '__main__':
 # #for f in glob.glob('/mnt/d/FinAI/parsed/ADBE/10-Q*/1.1.txt'):

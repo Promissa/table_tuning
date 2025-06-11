@@ -87,7 +87,10 @@ def download_csv():
 
     zip_buffer.seek(0)
     return send_file(
-        zip_buffer, mimetype="application/zip", as_attachment=True, download_name="tables.zip"
+        zip_buffer,
+        mimetype="application/zip",
+        as_attachment=True,
+        download_name="tables.zip",
     )
 
 
