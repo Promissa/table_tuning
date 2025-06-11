@@ -5,7 +5,7 @@ import warnings
 
 warnings.simplefilter(action="ignore", category=FutureWarning)
 import pandas as pd
-import html_parsing
+from src import html_parsing
 
 
 def extract_table_title(p):

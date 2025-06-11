@@ -4,12 +4,12 @@ import shutil
 import sys
 from werkzeug.utils import secure_filename
 import tempfile, json
-import html_parsing, html2csv
+from src import html_parsing, html2csv
 from io import BytesIO
 import zipfile
 
 app = Flask(__name__)
-UPLOAD_FOLDER = sys.path[0]
+UPLOAD_FOLDER = os.path.join(sys.path[0], "data")
 app.config["UPLOAD_FOLDER"] = UPLOAD_FOLDER
 
 

@@ -48,7 +48,7 @@ def cal_lev(r1, r2):
     return f[n][m]
 
 
-def cal_dis(t1, t2):
+def cal_2d_lev(t1, t2):
     n, m = len(t1), len(t2)
     f = np.zeros((n + 1, m + 1), dtype=int)
 
@@ -66,9 +66,13 @@ def cal_dis(t1, t2):
     return f[n][m]
 
 
+def cal_teds(t1, t2):
+    pass
+
+
 if __name__ == "__main__":
     file1 = "parsedtable/1800_000110465911061064_10-Q_1800_1/table_4_2_a2.csv"
     file2 = "parsedtable/1800_000110465911061064_10-Q_1800_1/table_4.csv"
     # print_table(read_csv("parsedtable/1800_000110465911061064_10-Q_1800_1/table_4_1.csv"))
     # file1, file2 = "parsed_result/sample.csv", "ground_truth/sample.csv"
-    print(cal_dis(read_csv(file1), read_csv(file2)))
+    print(cal_2d_lev(read_csv(file1), read_csv(file2)))

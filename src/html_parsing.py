@@ -8,7 +8,7 @@ from markdownify import markdownify as md
 from unstructured.documents.elements import Title, Table
 from unstructured.cleaners.core import clean_extra_whitespace
 from multiprocessing import Pool
-import html2md
+from src import html2md
 from copy import copy
 import chardet
 
