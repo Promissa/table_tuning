@@ -173,8 +173,6 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 
-table_transformation/test/test_output
-table_transformation/test/test_inst
-
-table_parsing/csv_uploads/*
-table_parsing/test_output/*
+test/test_output/*
+test/test_inst
+test/csv_uploads/*
