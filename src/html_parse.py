@@ -60,6 +60,7 @@ def parse(file_path, output_path, type="markdown"):
         rows = BeautifulSoup(str(table), "html.parser").find_all("tr")
         table_contents = []
         indents_pt = []
+        row_ignored = []
         for i, row in enumerate(rows):
             items = BeautifulSoup(str(row), "html.parser").find_all("td")
             table_contents.append([])
@@ -70,9 +71,7 @@ def parse(file_path, output_path, type="markdown"):
                 item_str = item_str.replace("( ", "(")
                 item_str = re.sub(r"(?<=\d),(?=\d)", "", item_str)
                 item_str = clean_extra_whitespace(item_str)
-                # print(i, j)
-                
-                
+
                 if not item.find("p"):
                     table_contents[i].append(item_str)
                     continue
@@ -95,8 +94,9 @@ def parse(file_path, output_path, type="markdown"):
                     table_contents[i].append(item_str)
 
                 if item.get("colspan") is not None:
+                    row_ignored.append(i)
                     for _ in range(int(item["colspan"]) - 1):
-                        table_contents[i].append("")
+                        table_contents[i].append(item_str)
                         indents_pt[i].append(0.0)
 
                 if (
@@ -139,18 +139,25 @@ def parse(file_path, output_path, type="markdown"):
                     prefix * 2 * pt_set.index(indents_pt[j][i]) + table_contents[i][j]
                 )
 
+        row_ignored = list(set(row_ignored))
         df = pd.DataFrame(table_contents).replace("", float("NaN"))
-        df.dropna(how="all", axis=0, inplace=True)
-        df.dropna(how="all", axis=1, inplace=True)
+        mask = ~df.index.isin(row_ignored)
+        if mask.any():
+            empty_cols = df[mask].isna().all(axis=0)
+            df = df.loc[:, ~empty_cols]
+        empty_rows = df.isna().all(axis=1)
+        df = df[~empty_rows]
         table_contents = df.replace(float("NaN"), "").to_numpy().tolist()
 
         for i in range(len(table_contents)):
             for j in range(1, len(table_contents[i])):
+                # ) case
                 if table_contents[i][j].strip("*") == ")":
                     table_contents[i][j - 1] = table_contents[i][j - 1].rstrip(
                         "*"
                     ) + table_contents[i][j].lstrip("*")
                     table_contents[i][j] = ""
+                # (a) case
                 if re.match(r"\(.\)", table_contents[i][j].strip(" ").strip("*")):
                     starcount = 0
                     if table_contents[i][j - 1][0] == "*":
@@ -168,6 +175,7 @@ def parse(file_path, output_path, type="markdown"):
                     )
                     table_contents[i][j] = ""
             for j in range(1, len(table_contents[i]) - 1):
+                # - case
                 if table_contents[i][j].strip("*") == "–":
                     table_contents[i][j] = ""
                     table_contents[i][j + 1] = (
@@ -178,47 +186,31 @@ def parse(file_path, output_path, type="markdown"):
                     table_contents[i][j - 1] = ""
 
         df = pd.DataFrame(table_contents).replace("", float("NaN"))
-        df.dropna(how="all", axis=0, inplace=True)
-        df.dropna(how="all", axis=1, inplace=True)
+        mask = ~df.index.isin(row_ignored)
+        if mask.any():
+            empty_cols = df[mask].isna().all(axis=0)
+            df = df.loc[:, ~empty_cols]
+        empty_rows = df.isna().all·(axis=1)
+        df = df[~empty_rows]
+        table_contents = df.replace(float("NaN"), "").to_numpy().tolist()
 
         table_contents = df.to_numpy().tolist()
         if table_idx == 0:
             prev_table_contents = table_contents
-        if len(table_contents) == 1 and table_idx > 0 and re.match(r"\(.\)", table_contents[0][0]):
+        if (
+            len(table_contents) == 1
+            and table_idx > 0
+            and re.match(r"\(.\)", table_contents[0][0])
+        ):
             prev_table_contents = prev_table_contents + table_contents
         else:
             df = pd.DataFrame(prev_table_contents).replace(float("NaN"), "")
             prev_table_contents = table_contents
             if type == "markdown":
-                df.to_markdown(os.path.join(output_path, f"table_{table_idx + 1}.md"))
+                df.to_markdown(
+                    os.path.join(output_path, f"table_{table_idx + 1}.md"), index=False
+                )
             elif type == "csv":
-                df.to_csv(os.path.join(output_path, f"table_{table_idx + 1}.csv"), index=False)
-
-
-if __name__ == "__main__":
-    file_path = "data/htm_input/sec_sample.html"
-    output_path = "test/test_output/html_parse/"
-    parse(file_path, output_path)
-    print("Parsing completed. CSV files saved to", output_path)
-    test = BeautifulSoup(
-        """<td style="background-color: #e5e5e5; width: 40.42%" valign="top">
-<p style="
-                                        line-height: 11pt;
-                                        margin-bottom: 0pt;
-                                        margin-top: 0pt;
-                                        margin-left: 12pt;
-                                        text-indent: -12pt;
-                                        font-family: Arial;
-                                        font-size: 10pt;
-                                        font-weight: normal;
-                                        font-style: normal;
-                                        text-transform: none;
-                                        font-variant: normal;
-                                    ">
-                                    Operating lease cost
-                                </p>
-                                <p>123</p>
-</td>""",
-        "html.parser",
-    )
-    # print(get_pstyle_pt(test, "margin-left", -1))
+                df.to_csv(
+                    os.path.join(output_path, f"table_{table_idx + 1}.csv"), index=False
+                )
