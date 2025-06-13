@@ -51,7 +51,7 @@ def get_pstyle_attr(soup, attr):
     return None
 
 
-def parse(file_path):
+def parse(file_path, output_path, type="markdown"):
     html_content = read_html(file_path)
     tables = BeautifulSoup(html_content, "html.parser").find_all("table")
 
@@ -71,13 +71,18 @@ def parse(file_path):
                 item_str = re.sub(r"(?<=\d),(?=\d)", "", item_str)
                 item_str = clean_extra_whitespace(item_str)
                 # print(i, j)
-
+                
+                
                 if not item.find("p"):
                     table_contents[i].append(item_str)
                     continue
 
                 # save bold/italic
                 if item_str != "":
+                    if get_pstyle_attr(item, "text-transform") == "uppercase":
+                        item_str = item_str.upper()
+                    elif get_pstyle_attr(item, "text-transform") == "lowercase":
+                        item_str = item_str.lower()
                     if get_pstyle_attr(item, "font-weight") == "bold":
                         item_str = "**" + item_str + "**"
                     if get_pstyle_attr(item, "font-style") == "italic":
@@ -122,12 +127,16 @@ def parse(file_path):
         indents_pt = list(map(list, zip(*indents_pt)))  # transposed
 
         for j, row_pt in enumerate(indents_pt):
-            pt_set = list(set(row_pt))
+            pt_set = sorted(list(set(row_pt)))
             if len(pt_set) == 1:
                 continue
             for i in range(len(table_contents)):
+                if type == "markdown":
+                    prefix = "&nbsp;&nbsp;"
+                elif type == "csv":
+                    prefix = " "
                 table_contents[i][j] = (
-                    " " * 2 * pt_set.index(indents_pt[j][i]) + table_contents[i][j]
+                    prefix * 2 * pt_set.index(indents_pt[j][i]) + table_contents[i][j]
                 )
 
         df = pd.DataFrame(table_contents).replace("", float("NaN"))
@@ -175,17 +184,22 @@ def parse(file_path):
         table_contents = df.to_numpy().tolist()
         if table_idx == 0:
             prev_table_contents = table_contents
-        if len(table_contents) == 1 and table_idx > 0:
+        if len(table_contents) == 1 and table_idx > 0 and re.match(r"\(.\)", table_contents[0][0]):
             prev_table_contents = prev_table_contents + table_contents
         else:
-            df = pd.DataFrame(prev_table_contents)
+            df = pd.DataFrame(prev_table_contents).replace(float("NaN"), "")
             prev_table_contents = table_contents
-            df.to_csv(f"test/test_output/table_{table_idx + 1}.csv")
+            if type == "markdown":
+                df.to_markdown(os.path.join(output_path, f"table_{table_idx + 1}.md"))
+            elif type == "csv":
+                df.to_csv(os.path.join(output_path, f"table_{table_idx + 1}.csv"), index=False)
 
 
 if __name__ == "__main__":
     file_path = "data/htm_input/sec_sample.html"
-    parse(file_path)
+    output_path = "test/test_output/html_parse/"
+    parse(file_path, output_path)
+    print("Parsing completed. CSV files saved to", output_path)
     test = BeautifulSoup(
         """<td style="background-color: #e5e5e5; width: 40.42%" valign="top">
 <p style="
