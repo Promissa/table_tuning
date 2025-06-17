@@ -176,3 +176,4 @@ cython_debug/
 test/test_output/*
 test/test_inst
 test/csv_uploads/*
+.DS_store

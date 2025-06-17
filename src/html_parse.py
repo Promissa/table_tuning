@@ -8,7 +8,6 @@ from markdownify import markdownify as md
 from unstructured.documents.elements import Title, Table
 from unstructured.cleaners.core import clean_extra_whitespace
 from multiprocessing import Pool
-from src import html2md
 from copy import copy
 import chardet
 
@@ -39,7 +38,14 @@ def get_pstyle_pt(soup, style, loc):
         pt_values = re.findall(r"([\d.]+)pt", item)
         if pt_values and loc < len(pt_values):
             return float(pt_values[loc])
-    return -1
+    s = soup.td["style"].strip(";").split(";")
+    for item in s:
+        if not style in item:
+            continue
+        pt_values = re.findall(r"([\d.]+)pt", item)
+        if pt_values and loc < len(pt_values):
+            return float(pt_values[loc])
+    return None
 
 
 def get_pstyle_attr(soup, attr):
@@ -48,7 +54,29 @@ def get_pstyle_attr(soup, attr):
         if not attr in item:
             continue
         return str(item).split(":")[1].strip()
+    s = soup.td["style"].strip(";").split(";")
+    for item in s:
+        if not attr in item:
+            continue
+        return str(item).split(":")[1].strip()
     return None
+
+
+def detect_sec_type(html):
+    soup = BeautifulSoup(html, "html.parser")
+    text_to_search = soup.get_text().upper()
+    candidates = set(re.findall(r"<TYPE>\s*([^\s<]+)", html.upper()))
+    known_forms = ["10K", "10Q", "S1", "S3", "20F"]
+
+    for form in known_forms:
+        if form in text_to_search:
+            candidates.add(form)
+
+    for form in known_forms:
+        if form in candidates:
+            return form
+
+    return "UNKNOWN"
 
 
 def parse(file_path, output_path, type="markdown"):
@@ -67,12 +95,14 @@ def parse(file_path, output_path, type="markdown"):
             indents_pt.append([])
             for item in items:
                 # save contents
+                if table_idx == 14:
+                    print(item)
                 item_str = " ".join(item.stripped_strings).replace("&nbsp;", " ")
                 item_str = item_str.replace("( ", "(")
                 item_str = re.sub(r"(?<=\d),(?=\d)", "", item_str)
                 item_str = clean_extra_whitespace(item_str)
 
-                if not item.find("p"):
+                if not item.find("p") or item.find("style"):
                     table_contents[i].append(item_str)
                     continue
 
@@ -158,7 +188,10 @@ def parse(file_path, output_path, type="markdown"):
                     ) + table_contents[i][j].lstrip("*")
                     table_contents[i][j] = ""
                 # (a) case
-                if re.match(r"\(.\)", table_contents[i][j].strip(" ").strip("*")):
+                if (
+                    re.match(r"\(.\)", table_contents[i][j].strip(" ").strip("*"))
+                    and len(table_contents[i][j - 1]) > 1
+                ):
                     starcount = 0
                     if table_contents[i][j - 1][0] == "*":
                         starcount += 1
@@ -190,7 +223,7 @@ def parse(file_path, output_path, type="markdown"):
         if mask.any():
             empty_cols = df[mask].isna().all(axis=0)
             df = df.loc[:, ~empty_cols]
-        empty_rows = df.isna().all·(axis=1)
+        empty_rows = df.isna().all(axis=1)
         df = df[~empty_rows]
         table_contents = df.replace(float("NaN"), "").to_numpy().tolist()
 
