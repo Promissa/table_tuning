@@ -1,0 +1,113 @@
+{
+  "version": "0.4.30",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "table column",
+      "text": "",
+      "points": [
+        [
+          181.4047619047619,
+          2.0357142857142776
+        ],
+        [
+          404.0,
+          137.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "table column",
+      "text": "",
+      "points": [
+        [
+          893.3095238095239,
+          0.8452380952380736
+        ],
+        [
+          1070.0,
+          137.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "table row",
+      "text": "",
+      "points": [
+        [
+          180.80952380952382,
+          2.630952380952351
+        ],
+        [
+          1070.095238095238,
+          26.440476190476147
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "table row",
+      "text": "",
+      "points": [
+        [
+          181.4047619047619,
+          25.845238095238074
+        ],
+        [
+          1070.095238095238,
+          68.7023809523809
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "table row",
+      "text": "",
+      "points": [
+        [
+          181.4047619047619,
+          69.29761904761898
+        ],
+        [
+          1070.095238095238,
+          116.91666666666663
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "table row",
+      "text": "",
+      "points": [
+        [
+          180.80952380952382,
+          116.91666666666663
+        ],
+        [
+          1070.095238095238,
+          136.5595238095238
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "table_0.png",
+  "imageData": null,
+  "imageHeight": 138,
+  "imageWidth": 1264,
+  "text": ""
+}

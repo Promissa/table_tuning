@@ -95,14 +95,12 @@ def parse(file_path, output_path, type="markdown"):
             indents_pt.append([])
             for item in items:
                 # save contents
-                if table_idx == 14:
-                    print(item)
                 item_str = " ".join(item.stripped_strings).replace("&nbsp;", " ")
                 item_str = item_str.replace("( ", "(")
                 item_str = re.sub(r"(?<=\d),(?=\d)", "", item_str)
                 item_str = clean_extra_whitespace(item_str)
 
-                if not item.find("p") or item.find("style"):
+                if not (item.find("p") or item.find("style")):
                     table_contents[i].append(item_str)
                     continue
 
