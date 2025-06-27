@@ -1,7 +1,7 @@
 import os
 import sys
+import json
 import argparse
-import xml.etree.ElementTree as ET
 from bs4 import BeautifulSoup
 from playwright.sync_api import sync_playwright
 from PIL import Image, ImageDraw
@@ -9,14 +9,14 @@ from PIL import Image, ImageDraw
 
 def parse_args():
     p = argparse.ArgumentParser(
-        description="Extract tables from HTML, save images, generate Pascal VOC XML, and annotate images based on XML."
+        description="Extract tables from HTML, save images, generate JSON annotations for AnyLabeling, and annotate images based on JSON."
     )
     p.add_argument("input_dir", help="Root directory for HTML files (depth ≤2)")
     p.add_argument(
         "-o",
         "--out_root",
         default="tables_output",
-        help="Directory to save images, XML, and annotations",
+        help="Directory to save images, JSON annotations, and annotated images",
     )
     return p.parse_args()
 
@@ -27,6 +27,7 @@ def load_html(path):
 
 
 def extract_head(soup):
+    # preserve original head for CSS
     return str(soup.head) if soup.head else ""
 
 
@@ -42,63 +43,25 @@ def find_html_files(root, max_depth=2):
                 yield dirpath, fn
 
 
-def make_pascal_voc_xml(folder, filename, img_w, img_h, objects):
-    ann = ET.Element("annotation")
-    ET.SubElement(ann, "folder").text = folder
-    ET.SubElement(ann, "filename").text = filename
-    size = ET.SubElement(ann, "size")
-    ET.SubElement(size, "width").text = str(img_w)
-    ET.SubElement(size, "height").text = str(img_h)
-    ET.SubElement(size, "depth").text = "3"
-    ET.SubElement(ann, "segmented").text = "0"
+def write_json_annotation(out_path, image_filename, img_w, img_h, objects):
+    data = {"image": image_filename, "width": img_w, "height": img_h, "annotations": []}
     for obj in objects:
-        o = ET.SubElement(ann, "object")
-        ET.SubElement(o, "name").text = obj["name"]
-        ET.SubElement(o, "pose").text = "Frontal"
-        ET.SubElement(o, "truncated").text = "0"
-        ET.SubElement(o, "difficult").text = "0"
-        ET.SubElement(o, "occluded").text = "0"
-        bb = ET.SubElement(o, "bndbox")
-        ET.SubElement(bb, "xmin").text = str(obj["xmin"])
-        ET.SubElement(bb, "ymin").text = str(obj["ymin"])
-        ET.SubElement(bb, "xmax").text = str(obj["xmax"])
-        ET.SubElement(bb, "ymax").text = str(obj["ymax"])
-
-    def indent(el, lvl=0):
-        sp = "\n" + lvl * "  "
-        if len(el):
-            if not el.text or not el.text.strip():
-                el.text = sp + "  "
-            for c in el:
-                indent(c, lvl + 1)
-            if not c.tail or not c.tail.strip():
-                c.tail = sp
-        if lvl and (not el.tail or not el.tail.strip()):
-            el.tail = sp
-
-    indent(ann)
-    return ET.tostring(ann, encoding="utf-8")
-
-
-def annotate_image_with_xml(image_path, xml_path, out_path):
-    tree = ET.parse(xml_path)
-    root = tree.getroot()
-    im = Image.open(image_path)
-    draw = ImageDraw.Draw(im)
-    for obj in root.findall("object"):
-        bb = obj.find("bndbox")
-        xmin = int(bb.find("xmin").text)
-        ymin = int(bb.find("ymin").text)
-        xmax = int(bb.find("xmax").text)
-        ymax = int(bb.find("ymax").text)
-        draw.rectangle([xmin, ymin, xmax, ymax], outline="red", width=2)
-    im.save(out_path)
+        # bbox as [xmin, ymin, xmax, ymax]
+        data["annotations"].append(
+            {
+                "label": obj["name"],
+                "bbox": [obj["xmin"], obj["ymin"], obj["xmax"], obj["ymax"]],
+            }
+        )
+    with open(out_path, "w", encoding="utf-8") as jf:
+        json.dump(data, jf, ensure_ascii=False, indent=2)
 
 
 def main():
     args = parse_args()
     os.makedirs(args.out_root, exist_ok=True)
-    htmls = list(find_html_files(args.input_dir, max_depth=2))
+    htmls = list(find_html_files(args.input_dir, max_depth=1))
+    # htmls = args.input_dir
     if not htmls:
         print("No HTML files found.")
         sys.exit(1)
@@ -113,6 +76,7 @@ def main():
             outd = os.path.join(args.out_root, rel, base)
             os.makedirs(outd, exist_ok=True)
 
+            # load and parse HTML
             html = load_html(os.path.join(dirpath, fname))
             soup = BeautifulSoup(html, "html.parser")
             head = extract_head(soup)
@@ -124,30 +88,35 @@ def main():
             snippet_tail = "\n</body>\n</html>"
 
             for tidx, tbl in enumerate(tables, start=1):
+                # remove empty rows
                 tmp = BeautifulSoup(str(tbl), "html.parser").table
                 for tr in tmp.find_all("tr"):
                     if not any(
                         c.get_text(strip=True) for c in tr.find_all(["td", "th"])
                     ):
                         tr.decompose()
+
+                # render snippet
                 snippet = snippet_head + str(tmp) + snippet_tail
                 page.set_content(snippet, wait_until="networkidle")
                 el = page.query_selector("table")
                 if not el:
                     continue
-                box = el.bounding_box()
-                if not box or box["width"] < 100 or box["height"] < 50:
+                box = el.bounding_box() or {}
+                # skip too small
+                if box.get("width", 0) < 100 or box.get("height", 0) < 50:
                     continue
                 x0, y0 = box["x"], box["y"]
                 img_w, img_h = int(box["width"]), int(box["height"])
 
-                # screenshot
+                # screenshot raw table
                 img_path = os.path.join(outd, f"table_{tidx}.png")
                 el.screenshot(path=img_path)
 
-                # collect objects
+                # collect annotations
                 rows = page.query_selector_all("tr")
                 objs = []
+                # rows
                 for r in rows:
                     txt = r.inner_text().strip()
                     if not txt:
@@ -164,15 +133,16 @@ def main():
                             "ymax": int(br["y"] - y0 + br["height"]),
                         }
                     )
+                # columns
                 cells = [r.query_selector_all("th,td") for r in rows]
                 maxc = max((len(c) for c in cells), default=0)
                 for cidx in range(maxc):
                     boxes = []
                     for cl in cells:
                         if cidx < len(cl):
-                            b = cl[cidx].bounding_box()
-                            if b and cl[cidx].inner_text().strip():
-                                boxes.append(b)
+                            bb = cl[cidx].bounding_box()
+                            if bb and cl[cidx].inner_text().strip():
+                                boxes.append(bb)
                     if not boxes:
                         continue
                     minx = min(b["x"] for b in boxes)
@@ -189,23 +159,25 @@ def main():
                         }
                     )
 
-                # write XML
-                xml_path = os.path.join(outd, f"table_{tidx}.xml")
-                xml_bytes = make_pascal_voc_xml(
-                    folder=os.path.basename(outd),
-                    filename=f"table_{tidx}.png",
-                    img_w=img_w,
-                    img_h=img_h,
-                    objects=objs,
+                # write JSON annotation
+                json_path = os.path.join(outd, f"table_{tidx}.json")
+                write_json_annotation(
+                    json_path, os.path.basename(img_path), img_w, img_h, objs
                 )
-                with open(xml_path, "wb") as xf:
-                    xf.write(xml_bytes)
 
-                # annotate image from XML
+                # annotate image
                 annotated_path = os.path.join(outd, f"table_{tidx}_annotated.png")
-                annotate_image_with_xml(img_path, xml_path, annotated_path)
+                im = Image.open(img_path)
+                draw = ImageDraw.Draw(im)
+                for o in objs:
+                    draw.rectangle(
+                        [o["xmin"], o["ymin"], o["xmax"], o["ymax"]],
+                        outline="red",
+                        width=2,
+                    )
+                im.save(annotated_path)
 
-                print(f"Created: {img_path}, {xml_path}, {annotated_path}")
+                print(f"Created: {img_path}, {json_path}, {annotated_path}")
 
         browser.close()
 

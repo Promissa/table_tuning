@@ -1,15 +1,8 @@
-from unstructured.documents.html import HTMLDocument
-from unstructured.nlp.partition import is_possible_title
-import re, csv, os, multiprocessing, sys, math
+import re, csv, os, chardet
 import pandas as pd
-import io
-from bs4 import BeautifulSoup, Tag
-from markdownify import markdownify as md
-from unstructured.documents.elements import Title, Table
+from tqdm import tqdm
+from bs4 import BeautifulSoup
 from unstructured.cleaners.core import clean_extra_whitespace
-from multiprocessing import Pool
-from copy import copy
-import chardet
 
 
 def dict_sort(dict):
@@ -79,13 +72,17 @@ def detect_sec_type(html):
     return "UNKNOWN"
 
 
-def parse(file_path, output_path, type="markdown"):
+def parse(file_path, output_path, type="markdown", min_row=3):
     html_content = read_html(file_path)
     tables = BeautifulSoup(html_content, "html.parser").find_all("table")
-
+    prev_table_contents = None
+    table_idx = -1
     # find the indent of each table
-    for table_idx, table in enumerate(tables):
+    for table in tqdm(tables, desc="Parsing:", unit="table"):
         rows = BeautifulSoup(str(table), "html.parser").find_all("tr")
+        if len(rows) < min_row:
+            continue
+        table_idx += 1
         table_contents = []
         indents_pt = []
         row_ignored = []
@@ -225,12 +222,11 @@ def parse(file_path, output_path, type="markdown"):
         df = df[~empty_rows]
         table_contents = df.replace(float("NaN"), "").to_numpy().tolist()
 
-        table_contents = df.to_numpy().tolist()
-        if table_idx == 0:
+        if prev_table_contents == None:
             prev_table_contents = table_contents
         if (
             len(table_contents) == 1
-            and table_idx > 0
+            and prev_table_contents
             and re.match(r"\(.\)", table_contents[0][0])
         ):
             prev_table_contents = prev_table_contents + table_contents
