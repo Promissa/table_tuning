@@ -1,0 +1,129 @@
+{
+    "version": "0.4.30",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "table",
+            "text": "",
+            "points": [
+                [
+                    30,
+                    30
+                ],
+                [
+                    1234,
+                    176
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "table row",
+            "text": "",
+            "points": [
+                [
+                    30,
+                    30
+                ],
+                [
+                    1234,
+                    43
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "table row",
+            "text": "",
+            "points": [
+                [
+                    30,
+                    43
+                ],
+                [
+                    1234,
+                    56
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "table row",
+            "text": "",
+            "points": [
+                [
+                    30,
+                    56
+                ],
+                [
+                    1234,
+                    106
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "table row",
+            "text": "",
+            "points": [
+                [
+                    30,
+                    106
+                ],
+                [
+                    1234,
+                    124
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "table row",
+            "text": "",
+            "points": [
+                [
+                    30,
+                    124
+                ],
+                [
+                    1234,
+                    158
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "table row",
+            "text": "",
+            "points": [
+                [
+                    30,
+                    158
+                ],
+                [
+                    1234,
+                    176
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        }
+    ],
+    "imagePath": "table_775.png",
+    "imageData": null,
+    "imageHeight": 206,
+    "imageWidth": 1264
+}

@@ -1,0 +1,95 @@
+{
+    "version": "0.4.30",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "table",
+            "text": "",
+            "points": [
+                [
+                    30,
+                    30
+                ],
+                [
+                    303.5,
+                    124
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "table row",
+            "text": "",
+            "points": [
+                [
+                    30,
+                    30
+                ],
+                [
+                    303.5,
+                    52.5
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "table row",
+            "text": "",
+            "points": [
+                [
+                    30,
+                    52.5
+                ],
+                [
+                    303.5,
+                    75.0
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "table row",
+            "text": "",
+            "points": [
+                [
+                    30,
+                    75
+                ],
+                [
+                    303.5,
+                    97.5
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "table row",
+            "text": "",
+            "points": [
+                [
+                    30,
+                    97.5
+                ],
+                [
+                    303.5,
+                    122.0
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        }
+    ],
+    "imagePath": "table_202.png",
+    "imageData": null,
+    "imageHeight": 161.65625,
+    "imageWidth": 333.5
+}

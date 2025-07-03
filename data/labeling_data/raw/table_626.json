@@ -1,0 +1,214 @@
+{
+    "version": "0.4.30",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "table",
+            "text": "",
+            "points": [
+                [
+                    30,
+                    30
+                ],
+                [
+                    1234,
+                    789
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "table row",
+            "text": "",
+            "points": [
+                [
+                    30,
+                    30
+                ],
+                [
+                    1234,
+                    42
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "table row",
+            "text": "",
+            "points": [
+                [
+                    30,
+                    42
+                ],
+                [
+                    1234,
+                    81
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "table row",
+            "text": "",
+            "points": [
+                [
+                    30,
+                    81
+                ],
+                [
+                    1234,
+                    93
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "table row",
+            "text": "",
+            "points": [
+                [
+                    30,
+                    93
+                ],
+                [
+                    1234,
+                    104
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "table row",
+            "text": "",
+            "points": [
+                [
+                    30,
+                    104
+                ],
+                [
+                    1234,
+                    161
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "table row",
+            "text": "",
+            "points": [
+                [
+                    30,
+                    161
+                ],
+                [
+                    1234,
+                    207
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "table row",
+            "text": "",
+            "points": [
+                [
+                    30,
+                    207
+                ],
+                [
+                    1234,
+                    275
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "table row",
+            "text": "",
+            "points": [
+                [
+                    30,
+                    275
+                ],
+                [
+                    1234,
+                    420
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "table row",
+            "text": "",
+            "points": [
+                [
+                    30,
+                    420
+                ],
+                [
+                    1234,
+                    543
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "table row",
+            "text": "",
+            "points": [
+                [
+                    30,
+                    543
+                ],
+                [
+                    1234,
+                    666
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "table row",
+            "text": "",
+            "points": [
+                [
+                    30,
+                    666
+                ],
+                [
+                    1234,
+                    789
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        }
+    ],
+    "imagePath": "table_626.png",
+    "imageData": null,
+    "imageHeight": 819,
+    "imageWidth": 1264
+}

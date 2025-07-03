@@ -1,0 +1,25 @@
+{
+    "imagePath": "table_348.png",
+    "imageWidth": 1264,
+    "imageHeight": 124,
+    "cells": [
+        {
+            "text": "(b)",
+            "bbox": [
+                33.34375,
+                30,
+                81.34375,
+                94
+            ]
+        },
+        {
+            "text": "The undersigned registrant hereby undertakes that, for purposes of determining any liability under the Securities Act of 1933, each filing of the registrant’s annual report pursuant to section 13(a) or section 15(d) of the Securities Exchange Act of 1934 (and, where applicable, each filing of an employee benefit plan’s annual report pursuant to section 15(d) of the Securities Exchange Act of 1934) that is incorporated by reference in the registration statement shall be deemed to be a new registration statement relating to the securities offered therein, and the offering of such securities at that time shall be deemed to be the initial bona fide offering thereof.",
+            "bbox": [
+                81.34375,
+                30,
+                1234.0,
+                94
+            ]
+        }
+    ]
+}

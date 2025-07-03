@@ -1,0 +1,43 @@
+{
+    "imagePath": "table_164.png",
+    "imageWidth": 1264,
+    "imageHeight": 299.96875,
+    "cells": [
+        {
+            "text": "(Exact name of Registrant as specified in its charter)\n\nCayman Islands",
+            "bbox": [
+                30,
+                30,
+                1234,
+                63.3125
+            ]
+        },
+        {
+            "text": "(Jurisdiction of incorporation or organization)",
+            "bbox": [
+                30,
+                63.3125,
+                1234,
+                74.3125
+            ]
+        },
+        {
+            "text": "26/F Tower One, Times Square\n1 Matheson Street, Causeway Bay\nHong Kong S.A.R.\n\nPeople’s Republic of China",
+            "bbox": [
+                30,
+                74.3125,
+                1234,
+                134.3125
+            ]
+        },
+        {
+            "text": "(Address of principal executive offices)\n\nToby Hong Xu, Chief Financial Officer\nTelephone: +852‑2215‑5100\nFacsimile: +852‑2215‑5200\nAlibaba Group Holding Limited\n26/F Tower One, Times Square\n1 Matheson Street, Causeway Bay\nHong Kong S.A.R.\n\nPeople’s Republic of China",
+            "bbox": [
+                30,
+                134.3125,
+                1234,
+                269.96875
+            ]
+        }
+    ]
+}

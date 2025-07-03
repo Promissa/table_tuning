@@ -1,0 +1,25 @@
+{
+    "imagePath": "table_307.png",
+    "imageWidth": 1264,
+    "imageHeight": 165,
+    "cells": [
+        {
+            "text": "•",
+            "bbox": [
+                30,
+                30,
+                42.03125,
+                135
+            ]
+        },
+        {
+            "text": "“access denied tokens,” which are tokens that are restricted from being accessed by the holder to comply with a law, regulation, or legal order from a duly recognized and authorized court of competent jurisdiction or governmental or other authority with jurisdiction over the Company. When these tokens were originally issued (i.e., before they were restricted from being accessed), we received the equivalent amount of fiat currency in connection with their original minting. Upon determination that a token should be an “access denied token,” we restrict the access of the holder to such token and transfer the reserves relating to such token to a segregated bank account specifically for “access denied tokens.” The assets in such segregated bank account constitute a component of USDC reserves, and we do not extinguish the associated liability until the segregated reserve funds are transferred to the relevant law enforcement agency or government body or until the access denial request is reversed and a subsequent redemption request is made by the stablecoin holder. As of December 31, 2024, 2023, and 2022, there were $91.8 million, $77.7 million, and $6.2 million of “access denied tokens,” respectively.",
+            "bbox": [
+                54.0625,
+                30,
+                1234.0,
+                135
+            ]
+        }
+    ]
+}

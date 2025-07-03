@@ -1,0 +1,25 @@
+{
+    "imagePath": "table_121.png",
+    "imageWidth": 1264,
+    "imageHeight": 120,
+    "cells": [
+        {
+            "text": "•",
+            "bbox": [
+                30,
+                30,
+                42.03125,
+                90
+            ]
+        },
+        {
+            "text": "International remittances and cross-border payments: Stablecoins on blockchain networks can be transmitted and shared seamlessly and virtually instantly on a peer-to-peer basis, obviating the need for intermediaries, lengthy settlement times, and transaction costs. While international payments are a necessary component of all international trade, demand for cross-border transactions within, to, and from emerging markets is particularly notable. We believe that the Circle stablecoin network has the potential to disrupt the international remittances and cross-border payments market. According to McKinsey’s 2024 Global Payments Report, annual international remittances and cross-border payments revenue stood at approximately $288 billion in 2023.",
+            "bbox": [
+                54.0625,
+                30,
+                1234.0,
+                90
+            ]
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "imagePath": "table_193.png",
+    "imageWidth": 533.703125,
+    "imageHeight": 110.3125,
+    "cells": [
+        {
+            "text": "Delaware",
+            "bbox": [
+                30,
+                30,
+                191.046875,
+                47.15625
+            ]
+        },
+        {
+            "text": "47-4257046",
+            "bbox": [
+                352.125,
+                30,
+                503.703125,
+                47.15625
+            ]
+        },
+        {
+            "text": "(State or other jurisdiction of\n\nincorporation or organization)",
+            "bbox": [
+                30,
+                47.15625,
+                191.046875,
+                80.3125
+            ]
+        },
+        {
+            "text": "(I.R.S. Employer\n\nIdentification Number)",
+            "bbox": [
+                352.125,
+                47.15625,
+                503.703125,
+                80.3125
+            ]
+        }
+    ]
+}

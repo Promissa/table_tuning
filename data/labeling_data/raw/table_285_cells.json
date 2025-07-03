@@ -1,0 +1,538 @@
+{
+    "imagePath": "table_285.png",
+    "imageWidth": 1264,
+    "imageHeight": 2914,
+    "cells": [
+        {
+            "text": "Incorporated by Reference",
+            "bbox": [
+                316.640625,
+                30,
+                1176.5625,
+                44
+            ]
+        },
+        {
+            "text": "Exhibit\n\nNumber",
+            "bbox": [
+                30,
+                44,
+                87.328125,
+                69
+            ]
+        },
+        {
+            "text": "Exhibit Description",
+            "bbox": [
+                144.65625,
+                44,
+                201.984375,
+                69
+            ]
+        },
+        {
+            "text": "Filed\n\nHerewith",
+            "bbox": [
+                259.3125,
+                44,
+                316.640625,
+                69
+            ]
+        },
+        {
+            "text": "Form",
+            "bbox": [
+                373.96875,
+                44,
+                488.625,
+                69
+            ]
+        },
+        {
+            "text": "Period\n\nEnding",
+            "bbox": [
+                603.28125,
+                44,
+                717.9375,
+                69
+            ]
+        },
+        {
+            "text": "Exhibit",
+            "bbox": [
+                832.59375,
+                44,
+                947.25,
+                69
+            ]
+        },
+        {
+            "text": "Filing Date",
+            "bbox": [
+                1061.90625,
+                44,
+                1176.5625,
+                69
+            ]
+        },
+        {
+            "text": "10.24*",
+            "bbox": [
+                30,
+                69,
+                87.328125,
+                295
+            ]
+        },
+        {
+            "text": "Long-Term Performance Stock Award Agreement between Microsoft Corporation and Satya Nadella",
+            "bbox": [
+                144.65625,
+                69,
+                201.984375,
+                295
+            ]
+        },
+        {
+            "text": "10-Q",
+            "bbox": [
+                431.296875,
+                69,
+                488.625,
+                295
+            ]
+        },
+        {
+            "text": "12/31/2014",
+            "bbox": [
+                660.609375,
+                69,
+                717.9375,
+                295
+            ]
+        },
+        {
+            "text": "10.24",
+            "bbox": [
+                889.921875,
+                69,
+                947.25,
+                295
+            ]
+        },
+        {
+            "text": "1/26/2015",
+            "bbox": [
+                1119.234375,
+                69,
+                1176.5625,
+                295
+            ]
+        },
+        {
+            "text": "10.25*",
+            "bbox": [
+                30,
+                295,
+                87.328125,
+                505
+            ]
+        },
+        {
+            "text": "Offer Letter, dated October 25, 2020, between Microsoft Corporation and Christopher Young",
+            "bbox": [
+                144.65625,
+                295,
+                201.984375,
+                505
+            ]
+        },
+        {
+            "text": "10-Q",
+            "bbox": [
+                431.296875,
+                295,
+                488.625,
+                505
+            ]
+        },
+        {
+            "text": "9/30/2021",
+            "bbox": [
+                660.609375,
+                295,
+                717.9375,
+                505
+            ]
+        },
+        {
+            "text": "10.27",
+            "bbox": [
+                889.921875,
+                295,
+                947.25,
+                505
+            ]
+        },
+        {
+            "text": "10/26/2021",
+            "bbox": [
+                1119.234375,
+                295,
+                1176.5625,
+                505
+            ]
+        },
+        {
+            "text": "19.1",
+            "bbox": [
+                30,
+                505,
+                87.328125,
+                571
+            ]
+        },
+        {
+            "text": "General Insider Trading Policy",
+            "bbox": [
+                144.65625,
+                505,
+                201.984375,
+                571
+            ]
+        },
+        {
+            "text": "X",
+            "bbox": [
+                259.3125,
+                505,
+                316.640625,
+                571
+            ]
+        },
+        {
+            "text": "19.2",
+            "bbox": [
+                30,
+                571,
+                87.328125,
+                653
+            ]
+        },
+        {
+            "text": "Restricted Trading Window Policy",
+            "bbox": [
+                144.65625,
+                571,
+                201.984375,
+                653
+            ]
+        },
+        {
+            "text": "X",
+            "bbox": [
+                259.3125,
+                571,
+                316.640625,
+                653
+            ]
+        },
+        {
+            "text": "19.3",
+            "bbox": [
+                30,
+                653,
+                87.328125,
+                895
+            ]
+        },
+        {
+            "text": "Insider Trading Compliance and Preclearance Policies for Section 16 Officers and Directors of Microsoft",
+            "bbox": [
+                144.65625,
+                653,
+                201.984375,
+                895
+            ]
+        },
+        {
+            "text": "X",
+            "bbox": [
+                259.3125,
+                653,
+                316.640625,
+                895
+            ]
+        },
+        {
+            "text": "21",
+            "bbox": [
+                30,
+                895,
+                87.328125,
+                961
+            ]
+        },
+        {
+            "text": "Subsidiaries of Registrant",
+            "bbox": [
+                144.65625,
+                895,
+                201.984375,
+                961
+            ]
+        },
+        {
+            "text": "X",
+            "bbox": [
+                259.3125,
+                895,
+                316.640625,
+                961
+            ]
+        },
+        {
+            "text": "23.1",
+            "bbox": [
+                30,
+                961,
+                87.328125,
+                1091
+            ]
+        },
+        {
+            "text": "Consent of Independent Registered Public Accounting Firm",
+            "bbox": [
+                144.65625,
+                961,
+                201.984375,
+                1091
+            ]
+        },
+        {
+            "text": "X",
+            "bbox": [
+                259.3125,
+                961,
+                316.640625,
+                1091
+            ]
+        },
+        {
+            "text": "31.1",
+            "bbox": [
+                30,
+                1091,
+                87.328125,
+                1317
+            ]
+        },
+        {
+            "text": "Certification of Chief Executive Officer Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002",
+            "bbox": [
+                144.65625,
+                1091,
+                201.984375,
+                1317
+            ]
+        },
+        {
+            "text": "X",
+            "bbox": [
+                259.3125,
+                1091,
+                316.640625,
+                1317
+            ]
+        },
+        {
+            "text": "31.2",
+            "bbox": [
+                30,
+                1317,
+                87.328125,
+                1543
+            ]
+        },
+        {
+            "text": "Certification of Chief Financial Officer Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002",
+            "bbox": [
+                144.65625,
+                1317,
+                201.984375,
+                1543
+            ]
+        },
+        {
+            "text": "X",
+            "bbox": [
+                259.3125,
+                1317,
+                316.640625,
+                1543
+            ]
+        },
+        {
+            "text": "32.1**",
+            "bbox": [
+                30,
+                1543,
+                87.328125,
+                1769
+            ]
+        },
+        {
+            "text": "Certification of Chief Executive Officer Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002",
+            "bbox": [
+                144.65625,
+                1543,
+                201.984375,
+                1769
+            ]
+        },
+        {
+            "text": "X",
+            "bbox": [
+                259.3125,
+                1543,
+                316.640625,
+                1769
+            ]
+        },
+        {
+            "text": "32.2**",
+            "bbox": [
+                30,
+                1769,
+                87.328125,
+                1995
+            ]
+        },
+        {
+            "text": "Certification of Chief Financial Officer Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002",
+            "bbox": [
+                144.65625,
+                1769,
+                201.984375,
+                1995
+            ]
+        },
+        {
+            "text": "X",
+            "bbox": [
+                259.3125,
+                1769,
+                316.640625,
+                1995
+            ]
+        },
+        {
+            "text": "97.1*",
+            "bbox": [
+                30,
+                1995,
+                87.328125,
+                2141
+            ]
+        },
+        {
+            "text": "Microsoft Corporation Executive Compensation Recovery Policy",
+            "bbox": [
+                144.65625,
+                1995,
+                201.984375,
+                2141
+            ]
+        },
+        {
+            "text": "X",
+            "bbox": [
+                259.3125,
+                1995,
+                316.640625,
+                2141
+            ]
+        },
+        {
+            "text": "101.INS",
+            "bbox": [
+                30,
+                2141,
+                87.328125,
+                2496
+            ]
+        },
+        {
+            "text": "Inline XBRL Instance Document�the instance document does not appear in the Interactive Data File as its XBRL tags are embedded within the Inline XBRL document",
+            "bbox": [
+                144.65625,
+                2141,
+                201.984375,
+                2496
+            ]
+        },
+        {
+            "text": "X",
+            "bbox": [
+                259.3125,
+                2141,
+                316.640625,
+                2496
+            ]
+        },
+        {
+            "text": "101.SCH",
+            "bbox": [
+                30,
+                2496,
+                87.328125,
+                2706
+            ]
+        },
+        {
+            "text": "Inline XBRL Taxonomy Extension Schema With Embedded Linkbase Documents",
+            "bbox": [
+                144.65625,
+                2496,
+                201.984375,
+                2706
+            ]
+        },
+        {
+            "text": "X",
+            "bbox": [
+                259.3125,
+                2496,
+                316.640625,
+                2706
+            ]
+        },
+        {
+            "text": "104",
+            "bbox": [
+                30,
+                2706,
+                87.328125,
+                2884
+            ]
+        },
+        {
+            "text": "Cover page formatted as Inline XBRL and contained in Exhibit 101",
+            "bbox": [
+                144.65625,
+                2706,
+                201.984375,
+                2884
+            ]
+        },
+        {
+            "text": "X",
+            "bbox": [
+                259.3125,
+                2706,
+                316.640625,
+                2884
+            ]
+        }
+    ]
+}

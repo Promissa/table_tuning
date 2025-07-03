@@ -1,0 +1,34 @@
+{
+    "imagePath": "table_680.png",
+    "imageWidth": 1264,
+    "imageHeight": 215.65625,
+    "cells": [
+        {
+            "text": "Uncertain Tax Positions",
+            "bbox": [
+                120.328125,
+                30,
+                1234.0,
+                52
+            ]
+        },
+        {
+            "text": "Description of the Matter",
+            "bbox": [
+                30,
+                52,
+                120.328125,
+                178
+            ]
+        },
+        {
+            "text": "As discussed in Note 7 to the financial statements, the Company is subject to income taxes in the U.S. and numerous foreign jurisdictions. As of September 28, 2024, the total amount of gross unrecognized tax benefits was $22.0 billion, of which $10.8 billion, if recognized, would impact the Company�s effective tax rate. In accounting for some of the uncertain tax positions, the Company uses significant judgment in the interpretation and application of GAAP and complex domestic and international tax laws.\nAuditing management�s evaluation of whether an uncertain tax position is more likely than not to be sustained and the measurement of the benefit of various tax positions can be complex, involves significant judgment, and is based on interpretations of tax laws and legal rulings.",
+            "bbox": [
+                120.328125,
+                52,
+                1234.0,
+                178
+            ]
+        }
+    ]
+}

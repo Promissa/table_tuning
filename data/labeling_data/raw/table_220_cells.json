@@ -1,0 +1,97 @@
+{
+    "imagePath": "table_220.png",
+    "imageWidth": 1264,
+    "imageHeight": 175.28125,
+    "cells": [
+        {
+            "text": "·",
+            "bbox": [
+                90.1875,
+                30,
+                114.265625,
+                46.65625
+            ]
+        },
+        {
+            "text": "our Annual Report on Form 10-K for the fiscal year ended December 31, 2023, filed on March 12, 2024;",
+            "bbox": [
+                114.265625,
+                30,
+                1234.0,
+                46.65625
+            ]
+        },
+        {
+            "text": "·",
+            "bbox": [
+                90.1875,
+                46.65625,
+                114.265625,
+                63.3125
+            ]
+        },
+        {
+            "text": "our Quarterly Report on Form 10-Q for the quarterly periods ended March 31, 2024, June 30, 2024 and September 30, 2024, filed on May 9, 2024, August 8, 2024 and November 7, 2024, respectively;",
+            "bbox": [
+                114.265625,
+                46.65625,
+                1234.0,
+                63.3125
+            ]
+        },
+        {
+            "text": "·",
+            "bbox": [
+                90.1875,
+                63.3125,
+                114.265625,
+                95.96875
+            ]
+        },
+        {
+            "text": "our definitive Proxy Statement on Schedule 14A (other than information furnished rather than filed) to the extent incorporated by reference into our Annual Report on Form 10-K for the year ended December 31, 2023, filed on April 9, 2024;",
+            "bbox": [
+                114.265625,
+                63.3125,
+                1234.0,
+                95.96875
+            ]
+        },
+        {
+            "text": "·",
+            "bbox": [
+                90.1875,
+                95.96875,
+                114.265625,
+                112.625
+            ]
+        },
+        {
+            "text": "our Current Reports on Form 8-K, filed on February 23, 2024, May 21, 2024, May 22, 2024, and November 21, 2024; and",
+            "bbox": [
+                114.265625,
+                95.96875,
+                1234.0,
+                112.625
+            ]
+        },
+        {
+            "text": "·",
+            "bbox": [
+                90.1875,
+                112.625,
+                114.265625,
+                145.28125
+            ]
+        },
+        {
+            "text": "the description of our capital stock contained in Exhibit 4.5 to our Annual Report on Form 10-K for the year ended December 31, 2023 including any amendment or report filed for the purpose of updating such description.",
+            "bbox": [
+                114.265625,
+                112.625,
+                1234.0,
+                145.28125
+            ]
+        }
+    ]
+}

@@ -1,0 +1,349 @@
+{
+    "imagePath": "table_116.png",
+    "imageWidth": 1264,
+    "imageHeight": 378.65625,
+    "cells": [
+        {
+            "text": "Exhibit Number",
+            "bbox": [
+                30,
+                30,
+                82.421875,
+                70.5
+            ]
+        },
+        {
+            "text": "Exhibit Description",
+            "bbox": [
+                85.078125,
+                30,
+                1000.046875,
+                70.5
+            ]
+        },
+        {
+            "text": "Incorporated by Reference",
+            "bbox": [
+                1002.703125,
+                30,
+                1186.21875,
+                70.5
+            ]
+        },
+        {
+            "text": "Filed\nHerewith",
+            "bbox": [
+                1188.875,
+                30,
+                1234.0,
+                70.5
+            ]
+        },
+        {
+            "text": "Form",
+            "bbox": [
+                1002.703125,
+                70.5,
+                1030.8125,
+                93.0
+            ]
+        },
+        {
+            "text": "File No.",
+            "bbox": [
+                1033.46875,
+                70.5,
+                1077.40625,
+                93.0
+            ]
+        },
+        {
+            "text": "Exhibit",
+            "bbox": [
+                1080.0625,
+                70.5,
+                1116.5,
+                93.0
+            ]
+        },
+        {
+            "text": "Filing Date",
+            "bbox": [
+                1119.15625,
+                70.5,
+                1186.21875,
+                93.0
+            ]
+        },
+        {
+            "text": "3.1",
+            "bbox": [
+                30,
+                93,
+                82.421875,
+                133
+            ]
+        },
+        {
+            "text": "Restated Certificate of Incorporation",
+            "bbox": [
+                85.078125,
+                93,
+                1000.046875,
+                133
+            ]
+        },
+        {
+            "text": "8-K",
+            "bbox": [
+                1002.703125,
+                93,
+                1030.8125,
+                133
+            ]
+        },
+        {
+            "text": "001-35727",
+            "bbox": [
+                1033.46875,
+                93,
+                1077.40625,
+                133
+            ]
+        },
+        {
+            "text": "3.1",
+            "bbox": [
+                1080.0625,
+                93,
+                1116.5,
+                133
+            ]
+        },
+        {
+            "text": "June 8, 2022",
+            "bbox": [
+                1119.15625,
+                93,
+                1186.21875,
+                133
+            ]
+        },
+        {
+            "text": "3.2",
+            "bbox": [
+                30,
+                133,
+                82.421875,
+                173
+            ]
+        },
+        {
+            "text": "Amended and Restated Bylaws",
+            "bbox": [
+                85.078125,
+                133,
+                1000.046875,
+                173
+            ]
+        },
+        {
+            "text": "8-K",
+            "bbox": [
+                1002.703125,
+                133,
+                1030.8125,
+                173
+            ]
+        },
+        {
+            "text": "001-35727",
+            "bbox": [
+                1033.46875,
+                133,
+                1077.40625,
+                173
+            ]
+        },
+        {
+            "text": "3.2",
+            "bbox": [
+                1080.0625,
+                133,
+                1116.5,
+                173
+            ]
+        },
+        {
+            "text": "February 24, 2023",
+            "bbox": [
+                1119.15625,
+                133,
+                1186.21875,
+                173
+            ]
+        },
+        {
+            "text": "31.1",
+            "bbox": [
+                30,
+                173,
+                82.421875,
+                195
+            ]
+        },
+        {
+            "text": "Certification of Co-Chief Executive Officer Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002",
+            "bbox": [
+                85.078125,
+                173,
+                1000.046875,
+                195
+            ]
+        },
+        {
+            "text": "X",
+            "bbox": [
+                1188.875,
+                173,
+                1234.0,
+                195
+            ]
+        },
+        {
+            "text": "31.2",
+            "bbox": [
+                30,
+                195,
+                82.421875,
+                217
+            ]
+        },
+        {
+            "text": "Certification of Co-Chief Executive Officer Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002",
+            "bbox": [
+                85.078125,
+                195,
+                1000.046875,
+                217
+            ]
+        },
+        {
+            "text": "X",
+            "bbox": [
+                1188.875,
+                195,
+                1234.0,
+                217
+            ]
+        },
+        {
+            "text": "31.3",
+            "bbox": [
+                30,
+                217,
+                82.421875,
+                239
+            ]
+        },
+        {
+            "text": "Certification of Chief Financial Officer Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002",
+            "bbox": [
+                85.078125,
+                217,
+                1000.046875,
+                239
+            ]
+        },
+        {
+            "text": "X",
+            "bbox": [
+                1188.875,
+                217,
+                1234.0,
+                239
+            ]
+        },
+        {
+            "text": "32.1*",
+            "bbox": [
+                30,
+                239,
+                82.421875,
+                261
+            ]
+        },
+        {
+            "text": "Certifications of Co-Chief Executive Officers and Chief Financial Officer Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002",
+            "bbox": [
+                85.078125,
+                239,
+                1000.046875,
+                261
+            ]
+        },
+        {
+            "text": "X",
+            "bbox": [
+                1188.875,
+                239,
+                1234.0,
+                261
+            ]
+        },
+        {
+            "text": "101",
+            "bbox": [
+                30,
+                261,
+                82.421875,
+                319
+            ]
+        },
+        {
+            "text": "The following financial statements from the Company's Quarterly Report on Form 10-Q for the quarter ended March 31, 2025, formatted in Inline XBRL: (i) Consolidated Statements of Operations, (ii) Consolidated Statements of Comprehensive Income, (iii) Consolidated Statements of Cash Flows, (iv) Consolidated Balance Sheets, (v) Consolidated Statements of Stockholders' Equity and (vi) Notes to Consolidated Financial Statements, tagged as blocks of text and including detailed tags",
+            "bbox": [
+                85.078125,
+                261,
+                1000.046875,
+                319
+            ]
+        },
+        {
+            "text": "X",
+            "bbox": [
+                1188.875,
+                261,
+                1234.0,
+                319
+            ]
+        },
+        {
+            "text": "104",
+            "bbox": [
+                30,
+                319,
+                82.421875,
+                341
+            ]
+        },
+        {
+            "text": "The cover page from the Company's Quarterly Report on Form 10-Q for the quarter ended March 31, 2025, formatted in Inline XBRL",
+            "bbox": [
+                85.078125,
+                319,
+                1000.046875,
+                341
+            ]
+        },
+        {
+            "text": "X",
+            "bbox": [
+                1188.875,
+                319,
+                1234.0,
+                341
+            ]
+        }
+    ]
+}

@@ -1,0 +1,277 @@
+{
+    "imagePath": "table_153.png",
+    "imageWidth": 867,
+    "imageHeight": 285,
+    "cells": [
+        {
+            "text": "1.1*",
+            "bbox": [
+                33.71875,
+                30,
+                74.5,
+                45
+            ]
+        },
+        {
+            "text": "Form of Underwriting Agreement",
+            "bbox": [
+                85.640625,
+                30,
+                837.0,
+                45
+            ]
+        },
+        {
+            "text": "3.1",
+            "bbox": [
+                33.71875,
+                45,
+                74.5,
+                60
+            ]
+        },
+        {
+            "text": "Form of amended and restated certificate of incorporation, to be in effect immediately prior to the consummation of this offering",
+            "bbox": [
+                85.640625,
+                45,
+                837.0,
+                60
+            ]
+        },
+        {
+            "text": "3.2",
+            "bbox": [
+                33.71875,
+                60,
+                74.5,
+                75
+            ]
+        },
+        {
+            "text": "Form of amended and restated bylaws, to be in effect immediately prior to the consummation of this offering",
+            "bbox": [
+                85.640625,
+                60,
+                837.0,
+                75
+            ]
+        },
+        {
+            "text": "5.1*",
+            "bbox": [
+                33.71875,
+                75,
+                74.5,
+                90
+            ]
+        },
+        {
+            "text": "Opinion of Davis Polk & Wardwell LLP",
+            "bbox": [
+                85.640625,
+                75,
+                837.0,
+                90
+            ]
+        },
+        {
+            "text": "10.1#†",
+            "bbox": [
+                33.71875,
+                90,
+                74.5,
+                105
+            ]
+        },
+        {
+            "text": "Collaboration Agreement, dated August 18, 2023, between Circle Internet Financial, LLC and Coinbase Global, Inc.",
+            "bbox": [
+                85.640625,
+                90,
+                837.0,
+                105
+            ]
+        },
+        {
+            "text": "10.2#†",
+            "bbox": [
+                33.71875,
+                105,
+                74.5,
+                120
+            ]
+        },
+        {
+            "text": "Stablecoin Ecosystem Agreement, dated November 14, 2024, between Circle Internet Financial, LLC and Coinbase Global, Inc.",
+            "bbox": [
+                85.640625,
+                105,
+                837.0,
+                120
+            ]
+        },
+        {
+            "text": "10.3†",
+            "bbox": [
+                33.71875,
+                120,
+                74.5,
+                135
+            ]
+        },
+        {
+            "text": "Investors’ Rights Agreement, dated July 1, 2024, between Circle Internet Group, Inc. and the holders named therein",
+            "bbox": [
+                85.640625,
+                120,
+                837.0,
+                135
+            ]
+        },
+        {
+            "text": "10.4§",
+            "bbox": [
+                33.71875,
+                135,
+                74.5,
+                150
+            ]
+        },
+        {
+            "text": "Employment Offer Letter of Jeremy Allaire",
+            "bbox": [
+                85.640625,
+                135,
+                837.0,
+                150
+            ]
+        },
+        {
+            "text": "10.5§",
+            "bbox": [
+                33.71875,
+                150,
+                74.5,
+                165
+            ]
+        },
+        {
+            "text": "Employment Offer Letter of Jeremy Fox-Geen",
+            "bbox": [
+                85.640625,
+                150,
+                837.0,
+                165
+            ]
+        },
+        {
+            "text": "10.6§",
+            "bbox": [
+                33.71875,
+                165,
+                74.5,
+                180
+            ]
+        },
+        {
+            "text": "Employment Offer Letter of Elisabeth Carpenter",
+            "bbox": [
+                85.640625,
+                165,
+                837.0,
+                180
+            ]
+        },
+        {
+            "text": "10.7§",
+            "bbox": [
+                33.71875,
+                180,
+                74.5,
+                195
+            ]
+        },
+        {
+            "text": "Employment Offer Letter of Heath Tarbert",
+            "bbox": [
+                85.640625,
+                180,
+                837.0,
+                195
+            ]
+        },
+        {
+            "text": "10.8§",
+            "bbox": [
+                33.71875,
+                195,
+                74.5,
+                210
+            ]
+        },
+        {
+            "text": "Employment Offer Letter of Nikhil Chandhok",
+            "bbox": [
+                85.640625,
+                195,
+                837.0,
+                210
+            ]
+        },
+        {
+            "text": "10.9§",
+            "bbox": [
+                33.71875,
+                210,
+                74.5,
+                225
+            ]
+        },
+        {
+            "text": "Circle Internet Financial Limited Share Award Scheme",
+            "bbox": [
+                85.640625,
+                210,
+                837.0,
+                225
+            ]
+        },
+        {
+            "text": "10.10§",
+            "bbox": [
+                33.71875,
+                225,
+                74.5,
+                240
+            ]
+        },
+        {
+            "text": "Circle Internet Group, Inc. Share Award Plan",
+            "bbox": [
+                85.640625,
+                225,
+                837.0,
+                240
+            ]
+        },
+        {
+            "text": "10.11§",
+            "bbox": [
+                33.71875,
+                240,
+                74.5,
+                255
+            ]
+        },
+        {
+            "text": "Form of Circle Internet Group, Inc. Omnibus Incentive Plan",
+            "bbox": [
+                85.640625,
+                240,
+                837.0,
+                255
+            ]
+        }
+    ]
+}

@@ -1,0 +1,124 @@
+{
+    "imagePath": "table_462.png",
+    "imageWidth": 1112.84375,
+    "imageHeight": 172.8125,
+    "cells": [
+        {
+            "text": "Name and Title",
+            "bbox": [
+                30,
+                30,
+                163.796875,
+                52.5
+            ]
+        },
+        {
+            "text": "Action",
+            "bbox": [
+                163.796875,
+                30,
+                219.078125,
+                52.5
+            ]
+        },
+        {
+            "text": "Date Adopted",
+            "bbox": [
+                219.078125,
+                30,
+                290.640625,
+                52.5
+            ]
+        },
+        {
+            "text": "Character of Trading Arrangement(1)",
+            "bbox": [
+                290.640625,
+                30,
+                494.125,
+                52.5
+            ]
+        },
+        {
+            "text": "Aggregate Number of Common Stock to be Purchased or Sold Pursuant to Trading Arrangement",
+            "bbox": [
+                494.125,
+                30,
+                985.03125,
+                52.5
+            ]
+        },
+        {
+            "text": "Expiration Date(2)(3)",
+            "bbox": [
+                985.03125,
+                30,
+                1082.84375,
+                52.5
+            ]
+        },
+        {
+            "text": "Shelagh Glaser",
+            "bbox": [
+                30,
+                52.5,
+                163.796875,
+                80.5
+            ]
+        },
+        {
+            "text": "Adoption",
+            "bbox": [
+                163.796875,
+                52.5,
+                219.078125,
+                135.15625
+            ]
+        },
+        {
+            "text": "1/13/2025",
+            "bbox": [
+                219.078125,
+                52.5,
+                290.640625,
+                135.15625
+            ]
+        },
+        {
+            "text": "Rule 10b5-1 Trading Arrangement",
+            "bbox": [
+                290.640625,
+                52.5,
+                494.125,
+                135.15625
+            ]
+        },
+        {
+            "text": "Up to 14,622 shares to be sold",
+            "bbox": [
+                494.125,
+                52.5,
+                985.03125,
+                135.15625
+            ]
+        },
+        {
+            "text": "12/12/2025",
+            "bbox": [
+                985.03125,
+                52.5,
+                1082.84375,
+                135.15625
+            ]
+        },
+        {
+            "text": "Chief Financial Officer",
+            "bbox": [
+                30,
+                80.5,
+                163.796875,
+                135.15625
+            ]
+        }
+    ]
+}

@@ -1,0 +1,124 @@
+{
+    "imagePath": "table_171.png",
+    "imageWidth": 381.375,
+    "imageHeight": 240,
+    "cells": [
+        {
+            "text": "Name",
+            "bbox": [
+                30,
+                30,
+                238.203125,
+                44.5
+            ]
+        },
+        {
+            "text": "Number of shares",
+            "bbox": [
+                245.625,
+                30,
+                347.65625,
+                44.5
+            ]
+        },
+        {
+            "text": "J.P. Morgan Securities LLC",
+            "bbox": [
+                30,
+                44.5,
+                238.203125,
+                60.0
+            ]
+        },
+        {
+            "text": "Citigroup Global Markets Inc.",
+            "bbox": [
+                30,
+                60,
+                238.203125,
+                75
+            ]
+        },
+        {
+            "text": "Barclays Capital Inc.",
+            "bbox": [
+                30,
+                75,
+                238.203125,
+                90
+            ]
+        },
+        {
+            "text": "Deutsche Bank Securities Inc.",
+            "bbox": [
+                30,
+                90,
+                238.203125,
+                105
+            ]
+        },
+        {
+            "text": "SG Americas Securities, LLC",
+            "bbox": [
+                30,
+                105,
+                238.203125,
+                120
+            ]
+        },
+        {
+            "text": "BNY Mellon Capital Markets, LLC",
+            "bbox": [
+                30,
+                120,
+                238.203125,
+                135
+            ]
+        },
+        {
+            "text": "Canaccord Genuity LLC",
+            "bbox": [
+                30,
+                135,
+                238.203125,
+                150
+            ]
+        },
+        {
+            "text": "Needham & Company, LLC",
+            "bbox": [
+                30,
+                150,
+                238.203125,
+                165
+            ]
+        },
+        {
+            "text": "Oppenheimer & Co. Inc.",
+            "bbox": [
+                30,
+                165,
+                238.203125,
+                180
+            ]
+        },
+        {
+            "text": "Santander US Capital Markets LLC",
+            "bbox": [
+                30,
+                180,
+                238.203125,
+                195
+            ]
+        },
+        {
+            "text": "Total",
+            "bbox": [
+                30,
+                195,
+                238.203125,
+                210
+            ]
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "imagePath": "table_665.png",
+    "imageWidth": 332.375,
+    "imageHeight": 124,
+    "cells": [
+        {
+            "text": "Plant and machinery - 10 years",
+            "bbox": [
+                57.234375,
+                30,
+                264.21875,
+                46
+            ]
+        },
+        {
+            "text": "Furniture, fixtures and equipment - 5 to 10 years",
+            "bbox": [
+                57.234375,
+                46,
+                264.21875,
+                78
+            ]
+        },
+        {
+            "text": "Motor vehicles - 5 years",
+            "bbox": [
+                57.234375,
+                78,
+                264.21875,
+                94
+            ]
+        }
+    ]
+}

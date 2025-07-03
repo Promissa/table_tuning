@@ -1,0 +1,106 @@
+{
+    "imagePath": "table_441.png",
+    "imageWidth": 417.921875,
+    "imageHeight": 154,
+    "cells": [
+        {
+            "text": "Table 2. Acquired Intangible Assets Useful Life",
+            "bbox": [
+                30,
+                30,
+                295.625,
+                44
+            ]
+        },
+        {
+            "text": "Acquired intangible assets",
+            "bbox": [
+                30,
+                44,
+                295.625,
+                58.5
+            ]
+        },
+        {
+            "text": "Useful life",
+            "bbox": [
+                303.046875,
+                44,
+                384.203125,
+                58.5
+            ]
+        },
+        {
+            "text": "Developed technology",
+            "bbox": [
+                30,
+                58.5,
+                295.625,
+                74.0
+            ]
+        },
+        {
+            "text": "2 ~ 6 years",
+            "bbox": [
+                306.765625,
+                58.5,
+                384.203125,
+                74.0
+            ]
+        },
+        {
+            "text": "Customer relationships",
+            "bbox": [
+                30,
+                74,
+                295.625,
+                89
+            ]
+        },
+        {
+            "text": "2.5 ~ 4 years",
+            "bbox": [
+                306.765625,
+                74,
+                384.203125,
+                89
+            ]
+        },
+        {
+            "text": "Regulatory licenses",
+            "bbox": [
+                30,
+                89,
+                295.625,
+                104
+            ]
+        },
+        {
+            "text": "5 years",
+            "bbox": [
+                306.765625,
+                89,
+                384.203125,
+                104
+            ]
+        },
+        {
+            "text": "Patents and trade name",
+            "bbox": [
+                30,
+                104,
+                295.625,
+                123.5
+            ]
+        },
+        {
+            "text": "1 ~ 17 years",
+            "bbox": [
+                306.765625,
+                104,
+                384.203125,
+                123.5
+            ]
+        }
+    ]
+}

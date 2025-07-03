@@ -1,0 +1,25 @@
+{
+    "imagePath": "table_733.png",
+    "imageWidth": 1264,
+    "imageHeight": 135,
+    "cells": [
+        {
+            "text": "•",
+            "bbox": [
+                30,
+                30,
+                42.03125,
+                105
+            ]
+        },
+        {
+            "text": "Digital assets:  As of December 31, 2024, the market capitalization of all tracked digital assets was $3.3 trillion, according to CoinMarketCap. We anticipate the role of digital assets in the broader financial ecosystem will continue to grow, with the tokenization of traditional assets (including TMMFs) and new digital-only assets in areas as diverse as gaming, loyalty rewards, private equity, and even the credit markets. As tokenization continues to scale, trading and usage of digital assets will be an increasingly fundamental use case for the Circle stablecoin network. As the largest regulated payment stablecoin by the amount of stablecoins in circulation, we believe USDC will become the preferred medium through which to buy, sell, and trade digital assets, enabling us to take advantage of a sector that we believe will grow considerably in the future.",
+            "bbox": [
+                54.0625,
+                30,
+                1234.0,
+                105
+            ]
+        }
+    ]
+}

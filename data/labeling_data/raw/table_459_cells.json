@@ -1,0 +1,25 @@
+{
+    "imagePath": "table_459.png",
+    "imageWidth": 1264,
+    "imageHeight": 165,
+    "cells": [
+        {
+            "text": "•",
+            "bbox": [
+                30,
+                30,
+                42.03125,
+                135
+            ]
+        },
+        {
+            "text": "Fixed-income investments for which market quotations are readily available are generally valued using the last available bid price or current market quotations provided by independent dealers or third-party pricing services. Pricing services generally value fixed-income securities assuming orderly transactions of an institutional round lot size, but a fund may hold or transact in such securities in smaller, odd lot sizes. Odd lots may trade at lower prices than institutional round lots. The pricing services may use matrix pricing or valuation models that utilize certain inputs and assumptions to derive values, including transaction data (e.g., recent representative bids and offers), market data, credit quality information, perceived market movements, news, and other relevant information. Certain fixed-income securities, including asset-backed and mortgage related securities may be valued based on valuation models that consider the estimated cash flows of each tranche of the entity, establish a benchmark yield and develop an estimated tranche specific spread to the benchmark yield based on the unique attributes of the tranche. The amortized cost method of valuation may be used with respect to debt obligations with sixty days or less remaining to maturity unless the Manager determines such method does not represent fair value.",
+            "bbox": [
+                54.0625,
+                30,
+                1234.0,
+                135
+            ]
+        }
+    ]
+}

@@ -1,0 +1,421 @@
+{
+    "imagePath": "table_318.png",
+    "imageWidth": 1264,
+    "imageHeight": 978.265625,
+    "cells": [
+        {
+            "text": "Exhibit Number",
+            "bbox": [
+                30,
+                30,
+                632,
+                72.265625
+            ]
+        },
+        {
+            "text": "Description of Document",
+            "bbox": [
+                632,
+                30,
+                1234,
+                72.265625
+            ]
+        },
+        {
+            "text": "4.16(5)",
+            "bbox": [
+                30,
+                72.265625,
+                632,
+                118.265625
+            ]
+        },
+        {
+            "text": "Amended and Restated Commercial Agreement by and among the Registrant, Ant Group Co., Ltd. and Alipay.com Co., Ltd., dated July 25, 2022",
+            "bbox": [
+                632,
+                72.265625,
+                1234,
+                118.265625
+            ]
+        },
+        {
+            "text": "4.17(10)",
+            "bbox": [
+                30,
+                118.265625,
+                632,
+                180.265625
+            ]
+        },
+        {
+            "text": "Second Amended and Restated Intellectual Property License and Software Technology Services Agreement by and among the Registrant, Ant Small and Micro Financial Services Group Co., Ltd. (currently known as Ant Group) and Alipay.com Co., Ltd., dated September 23, 2019",
+            "bbox": [
+                632,
+                118.265625,
+                1234,
+                180.265625
+            ]
+        },
+        {
+            "text": "4.18(10)",
+            "bbox": [
+                30,
+                180.265625,
+                632,
+                226.265625
+            ]
+        },
+        {
+            "text": "Cross License Agreement by and between the Registrant and Ant Small and Micro Financial Services Group Co., Ltd. (currently known as Ant Group), dated September 23, 2019",
+            "bbox": [
+                632,
+                180.265625,
+                1234,
+                226.265625
+            ]
+        },
+        {
+            "text": "4.19(12)†",
+            "bbox": [
+                30,
+                226.265625,
+                632,
+                276.265625
+            ]
+        },
+        {
+            "text": "Third Amendment and Restatement Agreement, dated May 16, 2023, in respect of a US$4,000,000,000 Facility Agreement dated March 9, 2016",
+            "bbox": [
+                632,
+                226.265625,
+                1234,
+                276.265625
+            ]
+        },
+        {
+            "text": "4.20(12)†",
+            "bbox": [
+                30,
+                276.265625,
+                632,
+                326.265625
+            ]
+        },
+        {
+            "text": "Second Amendment and Restatement Agreement, dated May 16, 2023, in respect of a US$6,500,000,000 Facility Agreement dated April 7, 2017",
+            "bbox": [
+                632,
+                276.265625,
+                1234,
+                326.265625
+            ]
+        },
+        {
+            "text": "4.21†",
+            "bbox": [
+                30,
+                326.265625,
+                632,
+                392.265625
+            ]
+        },
+        {
+            "text": "Second Amendment and Restatement Agreement, dated January 4, 2024, in respect of a HK$7,653,750,000 Facility Agreement, dated May 17, 2019, between Alibaba Group Services Limited, as Guarantor, and the other parties named therein",
+            "bbox": [
+                632,
+                326.265625,
+                1234,
+                392.265625
+            ]
+        },
+        {
+            "text": "8.1",
+            "bbox": [
+                30,
+                392.265625,
+                632,
+                426.265625
+            ]
+        },
+        {
+            "text": "List of Subsidiaries and Consolidated Entities of the Registrant",
+            "bbox": [
+                632,
+                392.265625,
+                1234,
+                426.265625
+            ]
+        },
+        {
+            "text": "11.1(5)",
+            "bbox": [
+                30,
+                426.265625,
+                632,
+                460.265625
+            ]
+        },
+        {
+            "text": "Code of Ethics of the Registrant",
+            "bbox": [
+                632,
+                426.265625,
+                1234,
+                460.265625
+            ]
+        },
+        {
+            "text": "11.2",
+            "bbox": [
+                30,
+                460.265625,
+                632,
+                494.265625
+            ]
+        },
+        {
+            "text": "Insider Trading Policy",
+            "bbox": [
+                632,
+                460.265625,
+                1234,
+                494.265625
+            ]
+        },
+        {
+            "text": "12.1",
+            "bbox": [
+                30,
+                494.265625,
+                632,
+                528.265625
+            ]
+        },
+        {
+            "text": "Principal Executive Officer Certification Pursuant to Section 302 of the Sarbanes‑Oxley Act of 2002",
+            "bbox": [
+                632,
+                494.265625,
+                1234,
+                528.265625
+            ]
+        },
+        {
+            "text": "12.2",
+            "bbox": [
+                30,
+                528.265625,
+                632,
+                562.265625
+            ]
+        },
+        {
+            "text": "Principal Financial Officer Certification Pursuant to Section 302 of the Sarbanes‑Oxley Act of 2002",
+            "bbox": [
+                632,
+                528.265625,
+                1234,
+                562.265625
+            ]
+        },
+        {
+            "text": "13.1(13)",
+            "bbox": [
+                30,
+                562.265625,
+                632,
+                596.265625
+            ]
+        },
+        {
+            "text": "Principal Executive Officer Certification Pursuant to Section 906 of the Sarbanes‑Oxley Act of 2002",
+            "bbox": [
+                632,
+                562.265625,
+                1234,
+                596.265625
+            ]
+        },
+        {
+            "text": "13.2(13)",
+            "bbox": [
+                30,
+                596.265625,
+                632,
+                630.265625
+            ]
+        },
+        {
+            "text": "Principal Financial Officer Certification Pursuant to Section 906 of the Sarbanes‑Oxley Act of 2002",
+            "bbox": [
+                632,
+                596.265625,
+                1234,
+                630.265625
+            ]
+        },
+        {
+            "text": "15.1",
+            "bbox": [
+                30,
+                630.265625,
+                632,
+                664.265625
+            ]
+        },
+        {
+            "text": "Consent of PricewaterhouseCoopers Zhong Tian LLP — Independent Registered Public Accounting Firm",
+            "bbox": [
+                632,
+                630.265625,
+                1234,
+                664.265625
+            ]
+        },
+        {
+            "text": "15.2",
+            "bbox": [
+                30,
+                664.265625,
+                632,
+                698.265625
+            ]
+        },
+        {
+            "text": "Consent of PricewaterhouseCoopers — Independent Registered Public Accounting Firm",
+            "bbox": [
+                632,
+                664.265625,
+                1234,
+                698.265625
+            ]
+        },
+        {
+            "text": "15.3",
+            "bbox": [
+                30,
+                698.265625,
+                632,
+                732.265625
+            ]
+        },
+        {
+            "text": "Consent of Fangda Partners",
+            "bbox": [
+                632,
+                698.265625,
+                1234,
+                732.265625
+            ]
+        },
+        {
+            "text": "15.4",
+            "bbox": [
+                30,
+                732.265625,
+                632,
+                766.265625
+            ]
+        },
+        {
+            "text": "Consent of Maples and Calder (Hong Kong) LLP",
+            "bbox": [
+                632,
+                732.265625,
+                1234,
+                766.265625
+            ]
+        },
+        {
+            "text": "16.1(13)",
+            "bbox": [
+                30,
+                766.265625,
+                632,
+                800.265625
+            ]
+        },
+        {
+            "text": "Letter from PricewaterhouseCoopers to the Securities and Exchange Commission",
+            "bbox": [
+                632,
+                766.265625,
+                1234,
+                800.265625
+            ]
+        },
+        {
+            "text": "97.1",
+            "bbox": [
+                30,
+                800.265625,
+                632,
+                834.265625
+            ]
+        },
+        {
+            "text": "Incentive Compensation Clawback Policy",
+            "bbox": [
+                632,
+                800.265625,
+                1234,
+                834.265625
+            ]
+        },
+        {
+            "text": "101.INS",
+            "bbox": [
+                30,
+                834.265625,
+                632,
+                880.265625
+            ]
+        },
+        {
+            "text": "Inline XBRL Instance Document-the instance document does not appear in the Interactive Data File as its XBRL tags are embedded within the Inline XBRL document",
+            "bbox": [
+                632,
+                834.265625,
+                1234,
+                880.265625
+            ]
+        },
+        {
+            "text": "101.SCH",
+            "bbox": [
+                30,
+                880.265625,
+                632,
+                914.265625
+            ]
+        },
+        {
+            "text": "Inline XBRL Taxonomy Extension Schema With Embedded Linkbase Documents",
+            "bbox": [
+                632,
+                880.265625,
+                1234,
+                914.265625
+            ]
+        },
+        {
+            "text": "104",
+            "bbox": [
+                30,
+                914.265625,
+                632,
+                948.265625
+            ]
+        },
+        {
+            "text": "Cover Page formatted as Inline XBRL and contained in Exhibit 101",
+            "bbox": [
+                632,
+                914.265625,
+                1234,
+                948.265625
+            ]
+        }
+    ]
+}

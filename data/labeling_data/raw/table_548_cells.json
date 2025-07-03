@@ -1,0 +1,25 @@
+{
+    "imagePath": "table_548.png",
+    "imageWidth": 1264,
+    "imageHeight": 120,
+    "cells": [
+        {
+            "text": "•",
+            "bbox": [
+                30,
+                30,
+                42.03125,
+                90
+            ]
+        },
+        {
+            "text": "New forms of commerce and finance enabled by programmable money:  The capability to program the behavior of digital money using smart contracts fundamentally changes how market participants can conduct digital commerce. For example, smart contracts can improve the speed and transparency of every step in a commercial value chain, deliver new forms of adaptive loyalty and rewards for retail purchasers, and support expansion in models for flexible work and labor support for businesses of all sizes. For financial institutions, programmable money promises to unlock new utility for end-customers, provide more targeted and just-in-time finance, improve risk management, and provide greater observability to compliance, audit, and regulatory functions.",
+            "bbox": [
+                54.0625,
+                30,
+                1234.0,
+                90
+            ]
+        }
+    ]
+}

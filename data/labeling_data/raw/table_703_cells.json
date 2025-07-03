@@ -1,0 +1,52 @@
+{
+    "imagePath": "table_703.png",
+    "imageWidth": 370.359375,
+    "imageHeight": 206.15625,
+    "cells": [
+        {
+            "text": "SYNOPSYS, INC.",
+            "bbox": [
+                176.859375,
+                30,
+                339.890625,
+                52
+            ]
+        },
+        {
+            "text": "Date: February 26, 2025",
+            "bbox": [
+                30,
+                52,
+                176.859375,
+                92
+            ]
+        },
+        {
+            "text": "By:",
+            "bbox": [
+                176.859375,
+                52,
+                198.78125,
+                92
+            ]
+        },
+        {
+            "text": "/s/    SHELAGH GLASER",
+            "bbox": [
+                198.78125,
+                52,
+                339.890625,
+                92
+            ]
+        },
+        {
+            "text": "Shelagh Glaser\nChief Financial Officer\n(Principal Financial Officer)",
+            "bbox": [
+                198.78125,
+                92,
+                339.890625,
+                168.5
+            ]
+        }
+    ]
+}

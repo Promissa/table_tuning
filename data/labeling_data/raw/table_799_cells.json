@@ -1,0 +1,79 @@
+{
+    "imagePath": "table_799.png",
+    "imageWidth": 1264,
+    "imageHeight": 132,
+    "cells": [
+        {
+            "text": "User base and customer relationships",
+            "bbox": [
+                90.203125,
+                30,
+                451.390625,
+                48
+            ]
+        },
+        {
+            "text": "3 – 16 years",
+            "bbox": [
+                812.578125,
+                30,
+                1173.796875,
+                48
+            ]
+        },
+        {
+            "text": "Trade names, trademarks and domain names",
+            "bbox": [
+                90.203125,
+                48,
+                451.390625,
+                66
+            ]
+        },
+        {
+            "text": "5 – 20 years",
+            "bbox": [
+                812.578125,
+                48,
+                1173.796875,
+                66
+            ]
+        },
+        {
+            "text": "Developed technology and patents",
+            "bbox": [
+                90.203125,
+                66,
+                451.390625,
+                84
+            ]
+        },
+        {
+            "text": "2 – 10 years",
+            "bbox": [
+                812.578125,
+                66,
+                1173.796875,
+                84
+            ]
+        },
+        {
+            "text": "Non-compete agreements",
+            "bbox": [
+                90.203125,
+                84,
+                451.390625,
+                102
+            ]
+        },
+        {
+            "text": "over the contracted term of up to 10 years",
+            "bbox": [
+                812.578125,
+                84,
+                1173.796875,
+                102
+            ]
+        }
+    ]
+}

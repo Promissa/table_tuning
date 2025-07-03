@@ -1,0 +1,394 @@
+{
+    "imagePath": "table_630.png",
+    "imageWidth": 731.9375,
+    "imageHeight": 554,
+    "cells": [
+        {
+            "text": "Three months ended\nMarch 31, 2025",
+            "bbox": [
+                429.015625,
+                30,
+                569.0625,
+                58.5
+            ]
+        },
+        {
+            "text": "Three months ended\nMarch 31, 2024",
+            "bbox": [
+                580.203125,
+                30,
+                698.21875,
+                73.5
+            ]
+        },
+        {
+            "text": "High",
+            "bbox": [
+                429.015625,
+                58.5,
+                493.46875,
+                73.5
+            ]
+        },
+        {
+            "text": "Low",
+            "bbox": [
+                504.609375,
+                58.5,
+                569.0625,
+                73.5
+            ]
+        },
+        {
+            "text": "(in thousands)",
+            "bbox": [
+                504.609375,
+                73.5,
+                698.21875,
+                88.0
+            ]
+        },
+        {
+            "text": "Revenue and reserve income",
+            "bbox": [
+                30,
+                88,
+                421.59375,
+                103
+            ]
+        },
+        {
+            "text": "Reserve income",
+            "bbox": [
+                30,
+                103,
+                421.59375,
+                118
+            ]
+        },
+        {
+            "text": "$",
+            "bbox": [
+                429.015625,
+                103,
+                436.4375,
+                118
+            ]
+        },
+        {
+            "text": "$",
+            "bbox": [
+                504.609375,
+                103,
+                512.03125,
+                118
+            ]
+        },
+        {
+            "text": "$",
+            "bbox": [
+                580.203125,
+                103,
+                593.78125,
+                118
+            ]
+        },
+        {
+            "text": "Other revenue",
+            "bbox": [
+                30,
+                118,
+                421.59375,
+                133
+            ]
+        },
+        {
+            "text": "Total revenue and reserve income from continuing operations",
+            "bbox": [
+                30,
+                133,
+                421.59375,
+                148
+            ]
+        },
+        {
+            "text": "Distribution, transaction, and other costs",
+            "bbox": [
+                30,
+                148,
+                421.59375,
+                163
+            ]
+        },
+        {
+            "text": "Distribution and transaction costs",
+            "bbox": [
+                30,
+                163,
+                421.59375,
+                178
+            ]
+        },
+        {
+            "text": "Other costs",
+            "bbox": [
+                30,
+                178,
+                421.59375,
+                193
+            ]
+        },
+        {
+            "text": "Total distribution, transaction, and other costs",
+            "bbox": [
+                30,
+                193,
+                421.59375,
+                208
+            ]
+        },
+        {
+            "text": "Operating expenses",
+            "bbox": [
+                30,
+                208,
+                421.59375,
+                223
+            ]
+        },
+        {
+            "text": "Compensation expenses",
+            "bbox": [
+                30,
+                223,
+                421.59375,
+                238
+            ]
+        },
+        {
+            "text": "General and administrative expenses",
+            "bbox": [
+                30,
+                238,
+                421.59375,
+                253
+            ]
+        },
+        {
+            "text": "Depreciation and amortization expense",
+            "bbox": [
+                30,
+                253,
+                421.59375,
+                268
+            ]
+        },
+        {
+            "text": "IT infrastructure costs",
+            "bbox": [
+                30,
+                268,
+                421.59375,
+                283
+            ]
+        },
+        {
+            "text": "Marketing expenses",
+            "bbox": [
+                30,
+                283,
+                421.59375,
+                298
+            ]
+        },
+        {
+            "text": "Gain on sale of intangible assets",
+            "bbox": [
+                30,
+                298,
+                421.59375,
+                313
+            ]
+        },
+        {
+            "text": "Merger termination expenses",
+            "bbox": [
+                30,
+                313,
+                421.59375,
+                328
+            ]
+        },
+        {
+            "text": "Restructuring expenses",
+            "bbox": [
+                30,
+                328,
+                421.59375,
+                343
+            ]
+        },
+        {
+            "text": "Digital assets (gains) losses and impairment",
+            "bbox": [
+                30,
+                343,
+                421.59375,
+                358
+            ]
+        },
+        {
+            "text": "Total operating expenses",
+            "bbox": [
+                30,
+                358,
+                421.59375,
+                373
+            ]
+        },
+        {
+            "text": "Operating income (loss) from continuing operations",
+            "bbox": [
+                30,
+                373,
+                421.59375,
+                388
+            ]
+        },
+        {
+            "text": "Other income (expense), net",
+            "bbox": [
+                30,
+                388,
+                421.59375,
+                403
+            ]
+        },
+        {
+            "text": "Net income (loss) before income taxes",
+            "bbox": [
+                30,
+                403,
+                421.59375,
+                418
+            ]
+        },
+        {
+            "text": "Income tax expense",
+            "bbox": [
+                30,
+                418,
+                421.59375,
+                433
+            ]
+        },
+        {
+            "text": "Net income (loss) from continuing operations",
+            "bbox": [
+                30,
+                433,
+                421.59375,
+                448
+            ]
+        },
+        {
+            "text": "Discontinued operations, net of taxes",
+            "bbox": [
+                30,
+                448,
+                421.59375,
+                463
+            ]
+        },
+        {
+            "text": "Loss from operations of discontinued businesses",
+            "bbox": [
+                30,
+                463,
+                421.59375,
+                478
+            ]
+        },
+        {
+            "text": "Net income (loss)",
+            "bbox": [
+                30,
+                478,
+                421.59375,
+                493
+            ]
+        },
+        {
+            "text": "$",
+            "bbox": [
+                429.015625,
+                478,
+                436.4375,
+                493
+            ]
+        },
+        {
+            "text": "$",
+            "bbox": [
+                504.609375,
+                478,
+                512.03125,
+                493
+            ]
+        },
+        {
+            "text": "$",
+            "bbox": [
+                580.203125,
+                478,
+                593.78125,
+                493
+            ]
+        },
+        {
+            "text": "Other financial information:",
+            "bbox": [
+                30,
+                493,
+                421.59375,
+                508
+            ]
+        },
+        {
+            "text": "Adjusted EBITDA(1)",
+            "bbox": [
+                30,
+                508,
+                421.59375,
+                523.5
+            ]
+        },
+        {
+            "text": "$",
+            "bbox": [
+                429.015625,
+                508,
+                436.4375,
+                523.5
+            ]
+        },
+        {
+            "text": "$",
+            "bbox": [
+                504.609375,
+                508,
+                512.03125,
+                523.5
+            ]
+        },
+        {
+            "text": "$",
+            "bbox": [
+                580.203125,
+                508,
+                593.78125,
+                523.5
+            ]
+        }
+    ]
+}

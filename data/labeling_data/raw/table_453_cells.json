@@ -1,0 +1,43 @@
+{
+    "imagePath": "table_453.png",
+    "imageWidth": 229.71875,
+    "imageHeight": 163,
+    "cells": [
+        {
+            "text": "COINBASE GLOBAL, INC.",
+            "bbox": [
+                32.65625,
+                30,
+                197.53125,
+                70
+            ]
+        },
+        {
+            "text": "By:",
+            "bbox": [
+                32.65625,
+                70,
+                55.515625,
+                92.5
+            ]
+        },
+        {
+            "text": "/s/ Brian Armstrong",
+            "bbox": [
+                55.515625,
+                70,
+                197.53125,
+                92.5
+            ]
+        },
+        {
+            "text": "Brian Armstrong\nChief Executive Officer",
+            "bbox": [
+                55.515625,
+                92.5,
+                197.53125,
+                133.0
+            ]
+        }
+    ]
+}

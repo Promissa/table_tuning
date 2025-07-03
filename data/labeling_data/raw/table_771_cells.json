@@ -1,0 +1,421 @@
+{
+    "imagePath": "table_771.png",
+    "imageWidth": 1264,
+    "imageHeight": 508.65625,
+    "cells": [
+        {
+            "text": "Exhibit\nNumber",
+            "bbox": [
+                30,
+                30,
+                72.9375,
+                75
+            ]
+        },
+        {
+            "text": "Incorporated By Reference",
+            "bbox": [
+                1000.375,
+                30,
+                1180.09375,
+                52.5
+            ]
+        },
+        {
+            "text": "Filed\nHerewith",
+            "bbox": [
+                1182.75,
+                30,
+                1230.46875,
+                75
+            ]
+        },
+        {
+            "text": "Exhibit Description",
+            "bbox": [
+                75.59375,
+                52.5,
+                997.71875,
+                75.0
+            ]
+        },
+        {
+            "text": "Form",
+            "bbox": [
+                1000.375,
+                52.5,
+                1029.9375,
+                75.0
+            ]
+        },
+        {
+            "text": "File No.",
+            "bbox": [
+                1032.59375,
+                52.5,
+                1077.59375,
+                75.0
+            ]
+        },
+        {
+            "text": "Exhibit",
+            "bbox": [
+                1080.25,
+                52.5,
+                1118.453125,
+                75.0
+            ]
+        },
+        {
+            "text": "Filing Date",
+            "bbox": [
+                1121.109375,
+                52.5,
+                1180.09375,
+                75.0
+            ]
+        },
+        {
+            "text": "2.1",
+            "bbox": [
+                30,
+                75,
+                72.9375,
+                115
+            ]
+        },
+        {
+            "text": "Agreement and Plan of Merger, dated as of January 15, 2024, by and among Synopsys, Inc., ANSYS, Inc. and ALTA Acquisition Corp.",
+            "bbox": [
+                75.59375,
+                75,
+                997.71875,
+                115
+            ]
+        },
+        {
+            "text": "8-K",
+            "bbox": [
+                1000.375,
+                75,
+                1029.9375,
+                115
+            ]
+        },
+        {
+            "text": "000-19807",
+            "bbox": [
+                1032.59375,
+                75,
+                1077.59375,
+                115
+            ]
+        },
+        {
+            "text": "2.1",
+            "bbox": [
+                1080.25,
+                75,
+                1118.453125,
+                115
+            ]
+        },
+        {
+            "text": "1/16/2024",
+            "bbox": [
+                1121.109375,
+                75,
+                1180.09375,
+                115
+            ]
+        },
+        {
+            "text": "3.1",
+            "bbox": [
+                30,
+                115,
+                72.9375,
+                155
+            ]
+        },
+        {
+            "text": "Amended and Restated Certificate of Incorporation",
+            "bbox": [
+                75.59375,
+                115,
+                997.71875,
+                155
+            ]
+        },
+        {
+            "text": "10-Q",
+            "bbox": [
+                1000.375,
+                115,
+                1029.9375,
+                155
+            ]
+        },
+        {
+            "text": "000-19807",
+            "bbox": [
+                1032.59375,
+                115,
+                1077.59375,
+                155
+            ]
+        },
+        {
+            "text": "3.1",
+            "bbox": [
+                1080.25,
+                115,
+                1118.453125,
+                155
+            ]
+        },
+        {
+            "text": "9/15/2003",
+            "bbox": [
+                1121.109375,
+                115,
+                1180.09375,
+                155
+            ]
+        },
+        {
+            "text": "3.2",
+            "bbox": [
+                30,
+                155,
+                72.9375,
+                195
+            ]
+        },
+        {
+            "text": "Amended and Restated Bylaws",
+            "bbox": [
+                75.59375,
+                155,
+                997.71875,
+                195
+            ]
+        },
+        {
+            "text": "8-K",
+            "bbox": [
+                1000.375,
+                155,
+                1029.9375,
+                195
+            ]
+        },
+        {
+            "text": "000-19807",
+            "bbox": [
+                1032.59375,
+                155,
+                1077.59375,
+                195
+            ]
+        },
+        {
+            "text": "3.1",
+            "bbox": [
+                1080.25,
+                155,
+                1118.453125,
+                195
+            ]
+        },
+        {
+            "text": "3/25/2024",
+            "bbox": [
+                1121.109375,
+                155,
+                1180.09375,
+                195
+            ]
+        },
+        {
+            "text": "4.1",
+            "bbox": [
+                30,
+                195,
+                72.9375,
+                253
+            ]
+        },
+        {
+            "text": "Specimen Common Stock Certificate",
+            "bbox": [
+                75.59375,
+                195,
+                997.71875,
+                253
+            ]
+        },
+        {
+            "text": "S-1",
+            "bbox": [
+                1000.375,
+                195,
+                1029.9375,
+                253
+            ]
+        },
+        {
+            "text": "33-45138",
+            "bbox": [
+                1032.59375,
+                195,
+                1077.59375,
+                253
+            ]
+        },
+        {
+            "text": "4.3",
+            "bbox": [
+                1080.25,
+                195,
+                1118.453125,
+                253
+            ]
+        },
+        {
+            "text": "2/24/1992\n(effective \ndate)",
+            "bbox": [
+                1121.109375,
+                195,
+                1180.09375,
+                253
+            ]
+        },
+        {
+            "text": "31.1",
+            "bbox": [
+                30,
+                253,
+                72.9375,
+                275
+            ]
+        },
+        {
+            "text": "Certification of Chief Executive Officer pursuant to Rule 13a-14(a) or Rule 15d-14(a) of the Exchange Act",
+            "bbox": [
+                75.59375,
+                253,
+                997.71875,
+                275
+            ]
+        },
+        {
+            "text": "X",
+            "bbox": [
+                1182.75,
+                253,
+                1230.46875,
+                275
+            ]
+        },
+        {
+            "text": "31.2",
+            "bbox": [
+                30,
+                275,
+                72.9375,
+                297
+            ]
+        },
+        {
+            "text": "Certification of Chief Financial Officer pursuant to Rule 13a-14(a) or Rule 15d-14(a) of the Exchange Act",
+            "bbox": [
+                75.59375,
+                275,
+                997.71875,
+                297
+            ]
+        },
+        {
+            "text": "X",
+            "bbox": [
+                1182.75,
+                275,
+                1230.46875,
+                297
+            ]
+        },
+        {
+            "text": "32.1*",
+            "bbox": [
+                30,
+                297,
+                72.9375,
+                337
+            ]
+        },
+        {
+            "text": "Certification of Chief Executive Officer and Chief Financial Officer furnished pursuant to Rule 13a-14(b) or Rule 15d-14(b) of the Exchange Act and Section 1350 of Chapter 63 of Title 18 of the United States Code",
+            "bbox": [
+                75.59375,
+                297,
+                997.71875,
+                337
+            ]
+        },
+        {
+            "text": "X",
+            "bbox": [
+                1182.75,
+                297,
+                1230.46875,
+                337
+            ]
+        },
+        {
+            "text": "101",
+            "bbox": [
+                30,
+                337,
+                72.9375,
+                449
+            ]
+        },
+        {
+            "text": "The following financial statements from Synopsys' Quarterly Report on Form 10-Q for the quarter ended January 31, 2025, formatted in Inline XBRL: (i) Condensed Consolidated Balance Sheets as of January 31, 2025 and November 2, 2024, (ii) Condensed Consolidated Statements of Income for the Three Months Ended January 31, 2025 and February 3, 2024, (iii) Condensed Consolidated Statements of Comprehensive Income for the Three Months Ended January 31, 2025 and February 3, 2024, (iv) Condensed Consolidated Statements of Stockholders' Equity at January 31, 2025 and February 3, 2024, (v) Condensed Consolidated Statements of Cash Flows for the Three Months Ended January 31, 2025 and February 3, 2024 and (vi) the Notes to Condensed Consolidated Financial Statements, tagged as blocks of text and including detailed tags",
+            "bbox": [
+                75.59375,
+                337,
+                997.71875,
+                449
+            ]
+        },
+        {
+            "text": "X",
+            "bbox": [
+                1182.75,
+                337,
+                1230.46875,
+                449
+            ]
+        },
+        {
+            "text": "104",
+            "bbox": [
+                30,
+                449,
+                72.9375,
+                471
+            ]
+        },
+        {
+            "text": "Cover Page Interactive Data File (formatted as Inline XBRL and contained in Exhibit 101)",
+            "bbox": [
+                75.59375,
+                449,
+                997.71875,
+                471
+            ]
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "imagePath": "table_376.png",
+    "imageWidth": 1264,
+    "imageHeight": 120,
+    "cells": [
+        {
+            "text": "not directly provide stablecoin liquidity to all of these venues and distribution channels; instead, we depend upon a global network of market makers and over-the-counter liquidity providers to supply USDC. These institutional trading firms play an important role in ensuring that USDC is widely accessible, including in dozens of international markets where they facilitate trading using local currencies and banking infrastructure. Leading global market makers and liquidity providers include Cumberland, Galaxy Digital, Wintermute Trading, and B2C2. For example, in December 2024, we entered into an agreement with Cumberland to expand liquidity and settlement capabilities in USYC and USDC over the course of a three-year term.",
+            "bbox": [
+                54.078125,
+                30,
+                1234.0,
+                90
+            ]
+        }
+    ]
+}

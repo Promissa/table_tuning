@@ -1,0 +1,385 @@
+{
+    "imagePath": "table_729.png",
+    "imageWidth": 1264,
+    "imageHeight": 1022.265625,
+    "cells": [
+        {
+            "text": "Exhibit Number",
+            "bbox": [
+                30,
+                30,
+                632,
+                72.265625
+            ]
+        },
+        {
+            "text": "Description of Document",
+            "bbox": [
+                632,
+                30,
+                1234,
+                72.265625
+            ]
+        },
+        {
+            "text": "2.22(8)",
+            "bbox": [
+                30,
+                72.265625,
+                632,
+                118.265625
+            ]
+        },
+        {
+            "text": "Ninth Supplemental Indenture, dated as of February 9, 2021, between the Registrant and Bank of New York Mellon as Trustee",
+            "bbox": [
+                632,
+                72.265625,
+                1234,
+                118.265625
+            ]
+        },
+        {
+            "text": "2.23(8)",
+            "bbox": [
+                30,
+                118.265625,
+                632,
+                152.265625
+            ]
+        },
+        {
+            "text": "Form of 2.125% Senior Notes Due 2031 (included in Exhibit 2.19)",
+            "bbox": [
+                632,
+                118.265625,
+                1234,
+                152.265625
+            ]
+        },
+        {
+            "text": "2.24(8)",
+            "bbox": [
+                30,
+                152.265625,
+                632,
+                186.265625
+            ]
+        },
+        {
+            "text": "Form of 2.700% Senior Notes Due 2041 (included in Exhibit 2.20)",
+            "bbox": [
+                632,
+                152.265625,
+                1234,
+                186.265625
+            ]
+        },
+        {
+            "text": "2.25(8)",
+            "bbox": [
+                30,
+                186.265625,
+                632,
+                220.265625
+            ]
+        },
+        {
+            "text": "Form of 3.150% Senior Notes Due 2051 (included in Exhibit 2.21)",
+            "bbox": [
+                632,
+                186.265625,
+                1234,
+                220.265625
+            ]
+        },
+        {
+            "text": "2.26(8)",
+            "bbox": [
+                30,
+                220.265625,
+                632,
+                254.265625
+            ]
+        },
+        {
+            "text": "Form of 3.250% Senior Notes Due 2061 (included in Exhibit 2.22)",
+            "bbox": [
+                632,
+                220.265625,
+                1234,
+                254.265625
+            ]
+        },
+        {
+            "text": "4.1",
+            "bbox": [
+                30,
+                254.265625,
+                632,
+                288.265625
+            ]
+        },
+        {
+            "text": "Form of Indemnification Agreement between the Registrant and its directors and executive officers",
+            "bbox": [
+                632,
+                254.265625,
+                1234,
+                288.265625
+            ]
+        },
+        {
+            "text": "4.2(4)",
+            "bbox": [
+                30,
+                288.265625,
+                632,
+                322.265625
+            ]
+        },
+        {
+            "text": "Form of Employment Agreement between the Registrant and its executive officers",
+            "bbox": [
+                632,
+                288.265625,
+                1234,
+                322.265625
+            ]
+        },
+        {
+            "text": "4.3(4)",
+            "bbox": [
+                30,
+                322.265625,
+                632,
+                356.265625
+            ]
+        },
+        {
+            "text": "Form of Share Retention Agreement between the Registrant and certain members of management",
+            "bbox": [
+                632,
+                322.265625,
+                1234,
+                356.265625
+            ]
+        },
+        {
+            "text": "4.4(5)",
+            "bbox": [
+                30,
+                356.265625,
+                632,
+                390.265625
+            ]
+        },
+        {
+            "text": "Second Amended and Restated 2014 Post‑IPO Equity Incentive Plan",
+            "bbox": [
+                632,
+                356.265625,
+                1234,
+                390.265625
+            ]
+        },
+        {
+            "text": "4.5",
+            "bbox": [
+                30,
+                390.265625,
+                632,
+                436.265625
+            ]
+        },
+        {
+            "text": "Schedules of Material Differences of Contractual Arrangements of Representative Variable Interest Entities of the Registrant",
+            "bbox": [
+                632,
+                390.265625,
+                1234,
+                436.265625
+            ]
+        },
+        {
+            "text": "4.6(7)",
+            "bbox": [
+                30,
+                436.265625,
+                632,
+                482.265625
+            ]
+        },
+        {
+            "text": "English translation of Loan Agreement, between Hangzhou Zhenxi Investment Management Co., Ltd. and Zhejiang Tmall Technology Co., Ltd., dated January 10, 2018",
+            "bbox": [
+                632,
+                436.265625,
+                1234,
+                482.265625
+            ]
+        },
+        {
+            "text": "4.7(7)",
+            "bbox": [
+                30,
+                482.265625,
+                632,
+                544.265625
+            ]
+        },
+        {
+            "text": "English translation of Exclusive Call Option Agreement entered into by and among Hangzhou Zhenxi Investment Management Co., Ltd., Zhejiang Tmall Technology Co., Ltd. and Zhejiang Tmall Network Co., Ltd., dated January 10, 2018",
+            "bbox": [
+                632,
+                482.265625,
+                1234,
+                544.265625
+            ]
+        },
+        {
+            "text": "4.8(7)",
+            "bbox": [
+                30,
+                544.265625,
+                632,
+                606.265625
+            ]
+        },
+        {
+            "text": "English translation of Shareholder’s Voting Rights Proxy Agreement entered into by and among Hangzhou Zhenxi Investment Management Co., Ltd., Zhejiang Tmall Technology Co., Ltd. and Zhejiang Tmall Network Co., Ltd., dated January 10, 2018",
+            "bbox": [
+                632,
+                544.265625,
+                1234,
+                606.265625
+            ]
+        },
+        {
+            "text": "4.9(7)",
+            "bbox": [
+                30,
+                606.265625,
+                632,
+                668.265625
+            ]
+        },
+        {
+            "text": "English translation of Equity Pledge Agreement entered into by and among Hangzhou Zhenxi Investment Management Co., Ltd., Zhejiang Tmall Technology Co., Ltd. and Zhejiang Tmall Network Co., Ltd., dated January 10, 2018",
+            "bbox": [
+                632,
+                606.265625,
+                1234,
+                668.265625
+            ]
+        },
+        {
+            "text": "4.10(7)",
+            "bbox": [
+                30,
+                668.265625,
+                632,
+                714.265625
+            ]
+        },
+        {
+            "text": "English translation of Exclusive Services Agreement entered into between Zhejiang Tmall Network Co., Ltd. and Zhejiang Tmall Technology Co., Ltd., dated January 10, 2018",
+            "bbox": [
+                632,
+                668.265625,
+                1234,
+                714.265625
+            ]
+        },
+        {
+            "text": "4.11(4)",
+            "bbox": [
+                30,
+                714.265625,
+                632,
+                776.265625
+            ]
+        },
+        {
+            "text": "Share and Asset Purchase Agreement by and among the Registrant, Zhejiang Ant Small and Micro Financial Services Group Co., Ltd. (currently known as Ant Group), Yahoo! Inc., SoftBank Corp. and the other Parties named therein, dated August 12, 2014",
+            "bbox": [
+                632,
+                714.265625,
+                1234,
+                776.265625
+            ]
+        },
+        {
+            "text": "4.12(9)",
+            "bbox": [
+                30,
+                776.265625,
+                632,
+                838.265625
+            ]
+        },
+        {
+            "text": "Amendment to Share and Asset Purchase Agreement by and among the Registrant, Ant Small and Micro Financial Services Group Co., Ltd. (currently known as Ant Group), SoftBank Group Corp., Jack Ma, Joseph C. Tsai, and the other Parties named therein, dated February 1, 2018",
+            "bbox": [
+                632,
+                776.265625,
+                1234,
+                838.265625
+            ]
+        },
+        {
+            "text": "4.13(10)",
+            "bbox": [
+                30,
+                838.265625,
+                632,
+                900.265625
+            ]
+        },
+        {
+            "text": "Second Amendment to Share and Asset Purchase Agreement by and among the Registrant, Ant Small and Micro Financial Services Group Co., Ltd. (currently known as Ant Group) and SoftBank Group Corp., dated September 23, 2019",
+            "bbox": [
+                632,
+                838.265625,
+                1234,
+                900.265625
+            ]
+        },
+        {
+            "text": "4.14(11)",
+            "bbox": [
+                30,
+                900.265625,
+                632,
+                946.265625
+            ]
+        },
+        {
+            "text": "Third Amendment to Share and Asset Purchase Agreement by and among the Registrant, Ant Group Co., Ltd., SoftBank Group Corp. and the other parties named therein, dated August 24, 2020",
+            "bbox": [
+                632,
+                900.265625,
+                1234,
+                946.265625
+            ]
+        },
+        {
+            "text": "4.15(5)",
+            "bbox": [
+                30,
+                946.265625,
+                632,
+                992.265625
+            ]
+        },
+        {
+            "text": "Fourth Amendment to Share and Asset Purchase Agreement by and among the Registrant, Ant Group Co., Ltd., SoftBank Group Corp. and the other parties named therein, dated July 25, 2022",
+            "bbox": [
+                632,
+                946.265625,
+                1234,
+                992.265625
+            ]
+        }
+    ]
+}

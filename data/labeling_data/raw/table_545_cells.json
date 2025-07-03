@@ -1,0 +1,34 @@
+{
+    "imagePath": "table_545.png",
+    "imageWidth": 621.421875,
+    "imageHeight": 145.328125,
+    "cells": [
+        {
+            "text": "Richard D. Truesdell, Jr.\nDaniel P. Gibbons\n\nDavis Polk & Wardwell LLP\n\n450 Lexington Avenue\n\nNew York, NY 10017\n\n(212) 450-4000",
+            "bbox": [
+                30,
+                30,
+                167.046875,
+                115.328125
+            ]
+        },
+        {
+            "text": "Sarah K. Wilson\n\n\nGeneral Counsel & Corporate Secretary\n\n\nCircle Internet Group, Inc.\n\nOne World Trade Center\nNew York, NY 10007\n(332) 334-0660",
+            "bbox": [
+                170.015625,
+                30,
+                370.859375,
+                115.328125
+            ]
+        },
+        {
+            "text": "Ryan J. Dzierniejko\nDwight S. Yoo\nJeffrey A. Brill\n\nSkadden, Arps, Slate, Meagher & Flom LLP\n\nOne Manhattan West\n\nNew York, NY 10001\n\n(212) 735-3000",
+            "bbox": [
+                373.828125,
+                30,
+                591.421875,
+                115.328125
+            ]
+        }
+    ]
+}

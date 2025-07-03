@@ -1,0 +1,151 @@
+{
+    "imagePath": "table_505.png",
+    "imageWidth": 337.375,
+    "imageHeight": 385.15625,
+    "cells": [
+        {
+            "text": "NETFLIX, INC.",
+            "bbox": [
+                121.53125,
+                30,
+                279.921875,
+                52
+            ]
+        },
+        {
+            "text": "Dated:",
+            "bbox": [
+                30,
+                52,
+                68.203125,
+                92
+            ]
+        },
+        {
+            "text": "April 18, 2025",
+            "bbox": [
+                68.203125,
+                52,
+                121.53125,
+                92
+            ]
+        },
+        {
+            "text": "By:",
+            "bbox": [
+                121.53125,
+                52,
+                143.453125,
+                92
+            ]
+        },
+        {
+            "text": "/s/ Ted Sarandos",
+            "bbox": [
+                143.453125,
+                52,
+                279.921875,
+                92
+            ]
+        },
+        {
+            "text": "Ted Sarandos\nCo-Chief Executive Officer\n(Principal executive officer)",
+            "bbox": [
+                143.453125,
+                92,
+                279.921875,
+                150.5
+            ]
+        },
+        {
+            "text": "Dated:",
+            "bbox": [
+                30,
+                150.5,
+                68.203125,
+                190.5
+            ]
+        },
+        {
+            "text": "April 18, 2025",
+            "bbox": [
+                68.203125,
+                150.5,
+                121.53125,
+                190.5
+            ]
+        },
+        {
+            "text": "By:",
+            "bbox": [
+                121.53125,
+                150.5,
+                143.453125,
+                190.5
+            ]
+        },
+        {
+            "text": "/s/ Greg Peters",
+            "bbox": [
+                143.453125,
+                150.5,
+                279.921875,
+                190.5
+            ]
+        },
+        {
+            "text": "Greg Peters\nCo-Chief Executive Officer\n(Principal executive officer)",
+            "bbox": [
+                143.453125,
+                190.5,
+                279.921875,
+                249.0
+            ]
+        },
+        {
+            "text": "Dated:",
+            "bbox": [
+                30,
+                249,
+                68.203125,
+                289
+            ]
+        },
+        {
+            "text": "April 18, 2025",
+            "bbox": [
+                68.203125,
+                249,
+                121.53125,
+                289
+            ]
+        },
+        {
+            "text": "By:",
+            "bbox": [
+                121.53125,
+                249,
+                143.453125,
+                289
+            ]
+        },
+        {
+            "text": "/s/ Jeffrey Karbowski",
+            "bbox": [
+                143.453125,
+                249,
+                279.921875,
+                289
+            ]
+        },
+        {
+            "text": "Jeffrey Karbowski\nChief Accounting Officer\n(Principal accounting officer)",
+            "bbox": [
+                143.453125,
+                289,
+                279.921875,
+                347.5
+            ]
+        }
+    ]
+}

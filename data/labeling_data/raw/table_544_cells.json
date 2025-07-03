@@ -1,0 +1,25 @@
+{
+    "imagePath": "table_544.png",
+    "imageWidth": 1264,
+    "imageHeight": 195,
+    "cells": [
+        {
+            "text": "•",
+            "bbox": [
+                30,
+                30,
+                42.03125,
+                165
+            ]
+        },
+        {
+            "text": "Partner with leading at-scale consumer-facing businesses and applications to bring the Circle stablecoin network to their users.  We do not directly face individuals (other than by redeeming USDC and EURC in our role as the redeemer of last resort). To achieve widespread distribution and grow the utility of the Circle stablecoin network, we partner with a growing number of leading at-scale consumer-facing businesses and applications, bringing Web3 capabilities such as Circle stablecoins and related products and services to their users, and hence growing the reach (potential end-users) and actual end-users, utility, and value of our network. Examples include digital asset exchanges and marketplaces (e.g., Coinbase, Binance, OKX), neo-banks, brokerages (e.g., Robinhood), and payments providers (e.g., Block), remittance providers (e.g., MoneyGram), superapps (e.g., Grab), and commerce companies (e.g., Mercado Libre). We manage such partnerships through the Circle Alliance Program, our global partnership and alliance program, as well as worldwide industry and event sponsorships. The Circle Alliance Program was established based on our recognition that we do not have sufficient resources to partner directly with all (or even a majority) of the companies that are interested in using or offering Circle stablecoins and related products and services. Through the Circle Alliance Program, we manage and seek to expand our partnerships (see “—Our platform, products, and ecosystem—The Circle stablecoin ecosystem” for examples of the partners and parties in the Circle stablecoin ecosystem) and intend to allow smaller companies to co-market and co-brand with us.",
+            "bbox": [
+                54.0625,
+                30,
+                1234.0,
+                165
+            ]
+        }
+    ]
+}

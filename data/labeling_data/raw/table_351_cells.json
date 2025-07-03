@@ -1,0 +1,25 @@
+{
+    "imagePath": "table_351.png",
+    "imageWidth": 1264,
+    "imageHeight": 150,
+    "cells": [
+        {
+            "text": "•",
+            "bbox": [
+                30,
+                30,
+                42.03125,
+                120
+            ]
+        },
+        {
+            "text": "“tokens allowed but not issued,” which are tokens that exist on the Algorand, Hedera, Polkadot, and Solana blockchains due to the technical implementation of USDC on those blockchains. These tokens are held by us in restricted, segregated “tokens allowed but not issued” blockchain addresses. We do not receive any funds for their creation, and they are not redeemable for the U.S. dollar. These tokens are restricted for use while held in such blockchain addresses. These tokens cannot be redeemed for the U.S. dollar as the private keys are securely controlled by us and the blockchain addresses are not configured to allow redemption requests to be established by Circle Mint. When a minting request is received for USDC on these blockchains and the funds underlying such request is received, the corresponding amount of “tokens allowed but not issued” is transferred from the segregated “tokens allowed but not issued” addresses to the minting address via a system controlled process administered by us, at which point the tokens are considered to be USDC in circulation.",
+            "bbox": [
+                54.0625,
+                30,
+                1234.0,
+                120
+            ]
+        }
+    ]
+}

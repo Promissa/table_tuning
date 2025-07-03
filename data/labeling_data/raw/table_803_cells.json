@@ -1,0 +1,25 @@
+{
+    "imagePath": "table_803.png",
+    "imageWidth": 1264,
+    "imageHeight": 120,
+    "cells": [
+        {
+            "text": "Use of proceeds",
+            "bbox": [
+                30,
+                30,
+                367.109375,
+                90
+            ]
+        },
+        {
+            "text": "We estimate that the net proceeds to us from this offering will be approximately $   million, or approximately $   million if the underwriters exercise their option to purchase additional shares in full, assuming an initial public offering price of $   per share, which is the midpoint of the price range set forth on the cover page of this prospectus, after deducting underwriting discounts and commissions and estimated offering expenses payable by us.",
+            "bbox": [
+                367.109375,
+                30,
+                1234.0,
+                90
+            ]
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "imagePath": "table_446.png",
+    "imageWidth": 1264,
+    "imageHeight": 150,
+    "cells": [
+        {
+            "text": "For the Fiscal Year Ended June 30, 2024",
+            "bbox": [
+                632,
+                30,
+                1234,
+                48
+            ]
+        },
+        {
+            "text": "OR",
+            "bbox": [
+                632,
+                48,
+                1234,
+                67
+            ]
+        },
+        {
+            "text": "☐",
+            "bbox": [
+                30,
+                67,
+                632,
+                103
+            ]
+        },
+        {
+            "text": "TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934",
+            "bbox": [
+                632,
+                67,
+                1234,
+                103
+            ]
+        },
+        {
+            "text": "For the Transition Period From                  to",
+            "bbox": [
+                632,
+                103,
+                1234,
+                120
+            ]
+        }
+    ]
+}

@@ -1,0 +1,421 @@
+{
+    "imagePath": "table_761.png",
+    "imageWidth": 1264,
+    "imageHeight": 983.578125,
+    "cells": [
+        {
+            "text": "Exhibit Number",
+            "bbox": [
+                30,
+                30,
+                632,
+                72.265625
+            ]
+        },
+        {
+            "text": "Description of Document",
+            "bbox": [
+                632,
+                30,
+                1234,
+                72.265625
+            ]
+        },
+        {
+            "text": "1.1(1)",
+            "bbox": [
+                30,
+                72.265625,
+                632,
+                106.265625
+            ]
+        },
+        {
+            "text": "Amended and Restated Memorandum and Articles of Association of the Registrant as currently in effect",
+            "bbox": [
+                632,
+                72.265625,
+                1234,
+                106.265625
+            ]
+        },
+        {
+            "text": "2.1(2)",
+            "bbox": [
+                30,
+                106.265625,
+                632,
+                140.265625
+            ]
+        },
+        {
+            "text": "Registrant’s Form of Ordinary Share Certificate",
+            "bbox": [
+                632,
+                106.265625,
+                1234,
+                140.265625
+            ]
+        },
+        {
+            "text": "2.2(3)",
+            "bbox": [
+                30,
+                140.265625,
+                632,
+                200.921875
+            ]
+        },
+        {
+            "text": "Deposit Agreement, dated as of September 24, 2014, between the Registrant, the depositary and holders and beneficial holders of American Depositary Shares evidenced by American Depositary Receipts issued thereunder, including the form of American Depositary Receipt",
+            "bbox": [
+                632,
+                140.265625,
+                1234,
+                200.921875
+            ]
+        },
+        {
+            "text": "2.3(3)",
+            "bbox": [
+                30,
+                200.921875,
+                632,
+                234.921875
+            ]
+        },
+        {
+            "text": "Form of American Depositary Receipt evidencing American Depositary Shares (included in Exhibit 2.2)",
+            "bbox": [
+                632,
+                200.921875,
+                1234,
+                234.921875
+            ]
+        },
+        {
+            "text": "2.4(6)",
+            "bbox": [
+                30,
+                234.921875,
+                632,
+                268.921875
+            ]
+        },
+        {
+            "text": "Indenture, dated as of November 28, 2014, between the Registrant and Bank of New York Mellon as Trustee",
+            "bbox": [
+                632,
+                234.921875,
+                1234,
+                268.921875
+            ]
+        },
+        {
+            "text": "2.5(6)",
+            "bbox": [
+                30,
+                268.921875,
+                632,
+                313.578125
+            ]
+        },
+        {
+            "text": "Fifth Supplemental Indenture, dated as of November 28, 2014, between the Registrant and Bank of New York Mellon as Trustee",
+            "bbox": [
+                632,
+                268.921875,
+                1234,
+                313.578125
+            ]
+        },
+        {
+            "text": "2.6(6)",
+            "bbox": [
+                30,
+                313.578125,
+                632,
+                359.578125
+            ]
+        },
+        {
+            "text": "Sixth Supplemental Indenture, dated as of November 28, 2014, between the Registrant and Bank of New York Mellon as Trustee",
+            "bbox": [
+                632,
+                313.578125,
+                1234,
+                359.578125
+            ]
+        },
+        {
+            "text": "2.7(6)",
+            "bbox": [
+                30,
+                359.578125,
+                632,
+                393.578125
+            ]
+        },
+        {
+            "text": "Form of 3.600% Senior Notes Due 2024 (included in Exhibit 2.5)",
+            "bbox": [
+                632,
+                359.578125,
+                1234,
+                393.578125
+            ]
+        },
+        {
+            "text": "2.8(6)",
+            "bbox": [
+                30,
+                393.578125,
+                632,
+                427.578125
+            ]
+        },
+        {
+            "text": "Form of 4.500% Senior Notes Due 2034 (included in Exhibit 2.6)",
+            "bbox": [
+                632,
+                393.578125,
+                1234,
+                427.578125
+            ]
+        },
+        {
+            "text": "2.9(7)",
+            "bbox": [
+                30,
+                427.578125,
+                632,
+                461.578125
+            ]
+        },
+        {
+            "text": "Indenture, dated as of December 6, 2017, between the Registrant and Bank of New York Mellon as Trustee",
+            "bbox": [
+                632,
+                427.578125,
+                1234,
+                461.578125
+            ]
+        },
+        {
+            "text": "2.10(7)",
+            "bbox": [
+                30,
+                461.578125,
+                632,
+                507.578125
+            ]
+        },
+        {
+            "text": "Second Supplemental Indenture, dated as of December 6, 2017, between the Registrant and Bank of New York Mellon as Trustee",
+            "bbox": [
+                632,
+                461.578125,
+                1234,
+                507.578125
+            ]
+        },
+        {
+            "text": "2.11(7)",
+            "bbox": [
+                30,
+                507.578125,
+                632,
+                553.578125
+            ]
+        },
+        {
+            "text": "Third Supplemental Indenture, dated as of December 6, 2017, between the Registrant and Bank of New York Mellon as Trustee",
+            "bbox": [
+                632,
+                507.578125,
+                1234,
+                553.578125
+            ]
+        },
+        {
+            "text": "2.12(7)",
+            "bbox": [
+                30,
+                553.578125,
+                632,
+                599.578125
+            ]
+        },
+        {
+            "text": "Fourth Supplemental Indenture, dated as of December 6, 2017, between the Registrant and Bank of New York Mellon as Trustee",
+            "bbox": [
+                632,
+                553.578125,
+                1234,
+                599.578125
+            ]
+        },
+        {
+            "text": "2.13(7)",
+            "bbox": [
+                30,
+                599.578125,
+                632,
+                645.578125
+            ]
+        },
+        {
+            "text": "Fifth Supplemental Indenture, dated as of December 6, 2017, between the Registrant and Bank of New York Mellon as Trustee",
+            "bbox": [
+                632,
+                599.578125,
+                1234,
+                645.578125
+            ]
+        },
+        {
+            "text": "2.14(7)",
+            "bbox": [
+                30,
+                645.578125,
+                632,
+                679.578125
+            ]
+        },
+        {
+            "text": "Form of 3.400% Senior Notes Due 2027 (included in Exhibit 2.10)",
+            "bbox": [
+                632,
+                645.578125,
+                1234,
+                679.578125
+            ]
+        },
+        {
+            "text": "2.15(7)",
+            "bbox": [
+                30,
+                679.578125,
+                632,
+                713.578125
+            ]
+        },
+        {
+            "text": "Form of 4.000% Senior Notes Due 2037 (included in Exhibit 2.11)",
+            "bbox": [
+                632,
+                679.578125,
+                1234,
+                713.578125
+            ]
+        },
+        {
+            "text": "2.16(7)",
+            "bbox": [
+                30,
+                713.578125,
+                632,
+                747.578125
+            ]
+        },
+        {
+            "text": "Form of 4.200% Senior Notes Due 2047 (included in Exhibit 2.12)",
+            "bbox": [
+                632,
+                713.578125,
+                1234,
+                747.578125
+            ]
+        },
+        {
+            "text": "2.17(7)",
+            "bbox": [
+                30,
+                747.578125,
+                632,
+                781.578125
+            ]
+        },
+        {
+            "text": "Form of 4.400% Senior Notes Due 2057 (included in Exhibit 2.13)",
+            "bbox": [
+                632,
+                747.578125,
+                1234,
+                781.578125
+            ]
+        },
+        {
+            "text": "2.18",
+            "bbox": [
+                30,
+                781.578125,
+                632,
+                815.578125
+            ]
+        },
+        {
+            "text": "Description of Securities Registered under Section 12 of the U.S. Exchange Act",
+            "bbox": [
+                632,
+                781.578125,
+                1234,
+                815.578125
+            ]
+        },
+        {
+            "text": "2.19(8)",
+            "bbox": [
+                30,
+                815.578125,
+                632,
+                861.578125
+            ]
+        },
+        {
+            "text": "Sixth Supplemental Indenture, dated as of February 9, 2021, between the Registrant and Bank of New York Mellon as Trustee",
+            "bbox": [
+                632,
+                815.578125,
+                1234,
+                861.578125
+            ]
+        },
+        {
+            "text": "2.20(8)",
+            "bbox": [
+                30,
+                861.578125,
+                632,
+                907.578125
+            ]
+        },
+        {
+            "text": "Seventh Supplemental Indenture, dated as of February 9, 2021, between the Registrant and Bank of New York Mellon as Trustee",
+            "bbox": [
+                632,
+                861.578125,
+                1234,
+                907.578125
+            ]
+        },
+        {
+            "text": "2.21(8)",
+            "bbox": [
+                30,
+                907.578125,
+                632,
+                953.578125
+            ]
+        },
+        {
+            "text": "Eighth Supplemental Indenture, dated as of February 9, 2021, between the Registrant and Bank of New York Mellon as Trustee",
+            "bbox": [
+                632,
+                907.578125,
+                1234,
+                953.578125
+            ]
+        }
+    ]
+}

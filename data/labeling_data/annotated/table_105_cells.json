@@ -1,0 +1,151 @@
+{
+    "imagePath": "table_105.png",
+    "imageWidth": 1264,
+    "imageHeight": 204,
+    "cells": [
+        {
+            "text": "(1)",
+            "bbox": [
+                33.34375,
+                30,
+                64.34375,
+                46
+            ]
+        },
+        {
+            "text": "Unless otherwise indicated, the business address of each of the individuals is c/o Priority Technology Holdings, Inc., 2001 Westside Parkway, Suite 155, Alpharetta, GA 30004.",
+            "bbox": [
+                64.34375,
+                30,
+                1234.0,
+                46
+            ]
+        },
+        {
+            "text": "(2)",
+            "bbox": [
+                33.34375,
+                46,
+                64.34375,
+                62
+            ]
+        },
+        {
+            "text": "Trident Finxera Holdings LP, a Delaware limited partnership, is owned by certain funds managed by Stone Point Capital LLC. The address for Stone Point Capital LLC is 20 Horseneck Lane, Greenwich, CT 06830.",
+            "bbox": [
+                64.34375,
+                46,
+                1234.0,
+                62
+            ]
+        },
+        {
+            "text": "(3)",
+            "bbox": [
+                33.34375,
+                62,
+                64.34375,
+                78
+            ]
+        },
+        {
+            "text": "Currently serves as a director. Includes 4,697,431 common stock held by AESV Credit Card Consulting, LLC.",
+            "bbox": [
+                64.34375,
+                62,
+                1234.0,
+                78
+            ]
+        },
+        {
+            "text": "(4)",
+            "bbox": [
+                33.34375,
+                78,
+                64.34375,
+                110
+            ]
+        },
+        {
+            "text": "Includes 1,803,841 shares of Common Stock that may be acquired through the exercise of warrants that are exercisable as of, or will become exercisable within 60 days of, the date above. The address for Ares Management Corporation is 1800 Avenue of the Stars Suite 1400, Los Angeles, CA 90067.",
+            "bbox": [
+                64.34375,
+                78,
+                1234.0,
+                110
+            ]
+        },
+        {
+            "text": "(5)",
+            "bbox": [
+                33.34375,
+                110,
+                64.34375,
+                126
+            ]
+        },
+        {
+            "text": "Currently serves as President, Chief Executive Officer, and Chairman.",
+            "bbox": [
+                64.34375,
+                110,
+                1234.0,
+                126
+            ]
+        },
+        {
+            "text": "(6)",
+            "bbox": [
+                33.34375,
+                126,
+                64.34375,
+                142
+            ]
+        },
+        {
+            "text": "Includes 404,114 common stock held in Goyle Nanda 2018 Irrevocable Trust.",
+            "bbox": [
+                64.34375,
+                126,
+                1234.0,
+                142
+            ]
+        },
+        {
+            "text": "(7)",
+            "bbox": [
+                33.34375,
+                142,
+                64.34375,
+                158
+            ]
+        },
+        {
+            "text": "Currently serves as Chief Strategy Officer.",
+            "bbox": [
+                64.34375,
+                142,
+                1234.0,
+                158
+            ]
+        },
+        {
+            "text": "(8)",
+            "bbox": [
+                33.34375,
+                158,
+                64.34375,
+                174
+            ]
+        },
+        {
+            "text": "Currently serves as Chief Operating Officer.",
+            "bbox": [
+                64.34375,
+                158,
+                1234.0,
+                174
+            ]
+        }
+    ]
+}

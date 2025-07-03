@@ -1,0 +1,79 @@
+{
+    "imagePath": "table_654.png",
+    "imageWidth": 704.796875,
+    "imageHeight": 124,
+    "cells": [
+        {
+            "text": "●",
+            "bbox": [
+                54,
+                30,
+                78,
+                46
+            ]
+        },
+        {
+            "text": "from any breach of the director’s duty of loyalty to us or our stockholders;",
+            "bbox": [
+                78,
+                30,
+                674.796875,
+                46
+            ]
+        },
+        {
+            "text": "●",
+            "bbox": [
+                54,
+                46,
+                78,
+                62
+            ]
+        },
+        {
+            "text": "from acts or omissions not in good faith or which involve intentional misconduct or a knowing violation of law;",
+            "bbox": [
+                78,
+                46,
+                674.796875,
+                62
+            ]
+        },
+        {
+            "text": "●",
+            "bbox": [
+                54,
+                62,
+                78,
+                78
+            ]
+        },
+        {
+            "text": "under Section 174 of the Delaware General Corporation Law; or",
+            "bbox": [
+                78,
+                62,
+                674.796875,
+                78
+            ]
+        },
+        {
+            "text": "●",
+            "bbox": [
+                54,
+                78,
+                78,
+                94
+            ]
+        },
+        {
+            "text": "from any transaction from which the director derived an improper personal benefit.",
+            "bbox": [
+                78,
+                78,
+                674.796875,
+                94
+            ]
+        }
+    ]
+}

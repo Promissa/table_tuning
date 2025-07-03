@@ -1,0 +1,25 @@
+{
+    "imagePath": "table_298.png",
+    "imageWidth": 1264,
+    "imageHeight": 120,
+    "cells": [
+        {
+            "text": "•",
+            "bbox": [
+                30,
+                30,
+                42.03125,
+                90
+            ]
+        },
+        {
+            "text": "Payments companies.  Increasingly, leading payments companies are integrating the Circle stablecoin network into their offerings as a means of settlement (directly or indirectly) for their customers. As the global digital assets ecosystem grows, these companies are building products that are “future proof” and enabled for increasing integration with the financial system. This includes payment processors, credit card networks, and money remittance services. We are working with leading payments companies like Visa, Mastercard, Stripe, Worldpay, and MoneyGram to facilitate stablecoin settlement on the Circle stablecoin network.",
+            "bbox": [
+                54.0625,
+                30,
+                1234.0,
+                90
+            ]
+        }
+    ]
+}

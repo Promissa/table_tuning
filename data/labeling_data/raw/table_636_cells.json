@@ -1,0 +1,25 @@
+{
+    "imagePath": "table_636.png",
+    "imageWidth": 1264,
+    "imageHeight": 120,
+    "cells": [
+        {
+            "text": "•",
+            "bbox": [
+                30,
+                30,
+                42.03125,
+                90
+            ]
+        },
+        {
+            "text": "High costs: More than $120 trillion in global business-to-business payments are processed annually, according to Visa. Much of these payments are made using legacy infrastructure, such as checks and bank wires. Businesses seeking to accept payments from customers are often charged several percentage points of the transaction’s value, which functionally represents a global economic tax amounting to trillions in value annually, much of which could be returned to productive use with the adoption of more efficient, internet-native payments infrastructure. Entire industries have been established predicated upon intermediary fees, with global payments industry revenue standing at $2.4 trillion in 2023, according to McKinsey’s 2024 Global Payments Report.",
+            "bbox": [
+                54.0625,
+                30,
+                1234.0,
+                90
+            ]
+        }
+    ]
+}

@@ -1,0 +1,295 @@
+{
+    "imagePath": "table_647.png",
+    "imageWidth": 1264,
+    "imageHeight": 413,
+    "cells": [
+        {
+            "text": "Exhibit\nNumber",
+            "bbox": [
+                30,
+                30,
+                126.3125,
+                62.5
+            ]
+        },
+        {
+            "text": "Description of Exhibit",
+            "bbox": [
+                150.390625,
+                30,
+                1234.0,
+                62.5
+            ]
+        },
+        {
+            "text": "1.1†",
+            "bbox": [
+                30,
+                62.5,
+                126.3125,
+                79.0
+            ]
+        },
+        {
+            "text": "Form of Underwriting Agreement",
+            "bbox": [
+                150.390625,
+                62.5,
+                1234.0,
+                79.0
+            ]
+        },
+        {
+            "text": "2.1**",
+            "bbox": [
+                30,
+                79,
+                126.3125,
+                111
+            ]
+        },
+        {
+            "text": "Agreement and Plan of Merger dated as of March 5, 2021, by and among the Company, Finxera Holdings, Inc., Prime Warrior Acquisition Corp., and Stone Point Capital LLC (incorporated by reference to Exhibit 2.1 to the Company’s Current Report on Form 8-K, filed March 8, 2021)",
+            "bbox": [
+                150.390625,
+                79,
+                1234.0,
+                111
+            ]
+        },
+        {
+            "text": "3.1**",
+            "bbox": [
+                30,
+                111,
+                126.3125,
+                143
+            ]
+        },
+        {
+            "text": "Second Amended and Restated Certificate of Incorporation of Priority Technology Holdings, Inc. (incorporated by reference to Exhibit 3.1 to the Company’s Current Report on Form 8-K, filed July 31, 2018)",
+            "bbox": [
+                150.390625,
+                111,
+                1234.0,
+                143
+            ]
+        },
+        {
+            "text": "3.2**",
+            "bbox": [
+                30,
+                143,
+                126.3125,
+                175
+            ]
+        },
+        {
+            "text": "Certificate of Amendment to the Certificate of Incorporation of Priority Technology Holdings dated April 16, 2021, (incorporated by reference to Annex 1 to the Company’s Proxy Statement on Schedule 14(a), filed April 29, 2021)",
+            "bbox": [
+                150.390625,
+                143,
+                1234.0,
+                175
+            ]
+        },
+        {
+            "text": "3.3**",
+            "bbox": [
+                30,
+                175,
+                126.3125,
+                191
+            ]
+        },
+        {
+            "text": "Certificate of Designations of Senior Preferred Stock (incorporated by reference to Exhibit 3.1 to the Company’s Current Report on Form 8-K, filed May 3, 2021)",
+            "bbox": [
+                150.390625,
+                175,
+                1234.0,
+                191
+            ]
+        },
+        {
+            "text": "3.4**",
+            "bbox": [
+                30,
+                191,
+                126.3125,
+                207
+            ]
+        },
+        {
+            "text": "Amended and Restated Bylaws of Priority Technology Holdings, Inc. (incorporated by reference to Exhibit 3.2 to the Company’s Current Report on Form 8-K, filed July 31, 2018)",
+            "bbox": [
+                150.390625,
+                191,
+                1234.0,
+                207
+            ]
+        },
+        {
+            "text": "4.2**",
+            "bbox": [
+                30,
+                207,
+                126.3125,
+                223
+            ]
+        },
+        {
+            "text": "Specimen Common Stock Certificate (incorporated by reference to Exhibit 4.2 to the Registration Statement on Form S-1, filed July 26, 2016)",
+            "bbox": [
+                150.390625,
+                207,
+                1234.0,
+                223
+            ]
+        },
+        {
+            "text": "4.3**",
+            "bbox": [
+                30,
+                223,
+                126.3125,
+                255
+            ]
+        },
+        {
+            "text": "Securities Purchase Agreement, dated April 27, 2021, by and between the Company, Ares Capital Corporation and Investors named therein (incorporated by reference to Exhibit 10.1 to the Company’s Current Report on Form 8-K, filed May 3, 2021)",
+            "bbox": [
+                150.390625,
+                223,
+                1234.0,
+                255
+            ]
+        },
+        {
+            "text": "4.4**",
+            "bbox": [
+                30,
+                255,
+                126.3125,
+                287
+            ]
+        },
+        {
+            "text": "Registration Rights Agreement, dated April 27, 2021, by and between the Company, Ares Capital Corporation and Investors named therein (incorporated by reference to Exhibit 10.2 to the Company’s Current Report on Form 8-K, filed May 3, 2021)",
+            "bbox": [
+                150.390625,
+                255,
+                1234.0,
+                287
+            ]
+        },
+        {
+            "text": "4.5**",
+            "bbox": [
+                30,
+                287,
+                126.3125,
+                303
+            ]
+        },
+        {
+            "text": "Form of Warrant (incorporated by reference to Exhibit 4.1 to the Company’s Current Report on Form 8-K, filed May 3, 2021)",
+            "bbox": [
+                150.390625,
+                287,
+                1234.0,
+                303
+            ]
+        },
+        {
+            "text": "5.1*",
+            "bbox": [
+                30,
+                303,
+                126.3125,
+                319
+            ]
+        },
+        {
+            "text": "Opinion of Troutman Pepper Hamilton Sanders LLP",
+            "bbox": [
+                150.390625,
+                303,
+                1234.0,
+                319
+            ]
+        },
+        {
+            "text": "23.1*",
+            "bbox": [
+                30,
+                319,
+                126.3125,
+                335
+            ]
+        },
+        {
+            "text": "Consent of Independent Registered Public Accounting Firm",
+            "bbox": [
+                150.390625,
+                319,
+                1234.0,
+                335
+            ]
+        },
+        {
+            "text": "23.2*",
+            "bbox": [
+                30,
+                335,
+                126.3125,
+                351
+            ]
+        },
+        {
+            "text": "Consent of Troutman Pepper Hamilton Sanders LLP (included in Exhibit 5.1)",
+            "bbox": [
+                150.390625,
+                335,
+                1234.0,
+                351
+            ]
+        },
+        {
+            "text": "24.1*",
+            "bbox": [
+                30,
+                351,
+                126.3125,
+                367
+            ]
+        },
+        {
+            "text": "Powers of Attorney (included on signature page hereto)",
+            "bbox": [
+                150.390625,
+                351,
+                1234.0,
+                367
+            ]
+        },
+        {
+            "text": "107*",
+            "bbox": [
+                30,
+                367,
+                126.3125,
+                383
+            ]
+        },
+        {
+            "text": "Filing Fee Table",
+            "bbox": [
+                150.390625,
+                367,
+                1234.0,
+                383
+            ]
+        }
+    ]
+}

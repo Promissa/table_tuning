@@ -1,0 +1,25 @@
+{
+    "imagePath": "table_263.png",
+    "imageWidth": 1264,
+    "imageHeight": 129.65625,
+    "cells": [
+        {
+            "text": "(1) In September 2023, the Company’s Board of Directors authorized the repurchase of up to $10 billion of its common stock, with no expiration date, and in December 2024, the Board of Directors increased the share repurchase authorization by an additional $15 billion, also with no expiration date. For further information regarding stock repurchase activity, see Note 9 Stockholders’ Equity to the consolidated financial statements in this Quarterly Report.",
+            "bbox": [
+                30,
+                30,
+                1234,
+                70
+            ]
+        },
+        {
+            "text": "(2) Average price paid per share includes costs associated with the repurchases but excludes the 1% excise tax on stock repurchases imposed by the Inflation Reduction Act of 2022.",
+            "bbox": [
+                30,
+                70,
+                1234,
+                92
+            ]
+        }
+    ]
+}

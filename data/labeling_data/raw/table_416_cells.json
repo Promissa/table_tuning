@@ -1,0 +1,1177 @@
+{
+    "imagePath": "table_416.png",
+    "imageWidth": 1264,
+    "imageHeight": 871.65625,
+    "cells": [
+        {
+            "text": "Incorporated by Reference",
+            "bbox": [
+                1085.671875,
+                30,
+                1234.0,
+                52.5
+            ]
+        },
+        {
+            "text": "Exhibit Number",
+            "bbox": [
+                30,
+                52.5,
+                101.109375,
+                111.5
+            ]
+        },
+        {
+            "text": "Exhibit Description",
+            "bbox": [
+                103.765625,
+                52.5,
+                1083.015625,
+                111.5
+            ]
+        },
+        {
+            "text": "Form",
+            "bbox": [
+                1085.671875,
+                52.5,
+                1115.0,
+                111.5
+            ]
+        },
+        {
+            "text": "Exhibit",
+            "bbox": [
+                1117.65625,
+                52.5,
+                1155.859375,
+                111.5
+            ]
+        },
+        {
+            "text": "Filing Date/\nPeriod End Date",
+            "bbox": [
+                1158.515625,
+                52.5,
+                1234.0,
+                111.5
+            ]
+        },
+        {
+            "text": "4.28",
+            "bbox": [
+                30,
+                111.5,
+                101.109375,
+                152.0
+            ]
+        },
+        {
+            "text": "Officer�s Certificate of the Registrant, dated as of May 10, 2023, including forms of global notes representing the 4.421% Notes due 2026, 4.000% Notes due 2028, 4.150% Notes due 2030, 4.300% Notes due 2033 and 4.850% Notes due 2053.",
+            "bbox": [
+                103.765625,
+                111.5,
+                1083.015625,
+                152.0
+            ]
+        },
+        {
+            "text": "8-K",
+            "bbox": [
+                1085.671875,
+                111.5,
+                1115.0,
+                152.0
+            ]
+        },
+        {
+            "text": "4.1",
+            "bbox": [
+                1117.65625,
+                111.5,
+                1155.859375,
+                152.0
+            ]
+        },
+        {
+            "text": "5/10/23",
+            "bbox": [
+                1158.515625,
+                111.5,
+                1234.0,
+                152.0
+            ]
+        },
+        {
+            "text": "4.29*",
+            "bbox": [
+                30,
+                152,
+                101.109375,
+                174
+            ]
+        },
+        {
+            "text": "Apple Inc. Deferred Compensation Plan.",
+            "bbox": [
+                103.765625,
+                152,
+                1083.015625,
+                174
+            ]
+        },
+        {
+            "text": "S-8",
+            "bbox": [
+                1085.671875,
+                152,
+                1115.0,
+                174
+            ]
+        },
+        {
+            "text": "4.1",
+            "bbox": [
+                1117.65625,
+                152,
+                1155.859375,
+                174
+            ]
+        },
+        {
+            "text": "8/23/18",
+            "bbox": [
+                1158.515625,
+                152,
+                1234.0,
+                174
+            ]
+        },
+        {
+            "text": "10.1*",
+            "bbox": [
+                30,
+                174,
+                101.109375,
+                196
+            ]
+        },
+        {
+            "text": "Apple Inc. Employee Stock Purchase Plan, as amended and restated as of March 10, 2015.",
+            "bbox": [
+                103.765625,
+                174,
+                1083.015625,
+                196
+            ]
+        },
+        {
+            "text": "8-K",
+            "bbox": [
+                1085.671875,
+                174,
+                1115.0,
+                196
+            ]
+        },
+        {
+            "text": "10.1",
+            "bbox": [
+                1117.65625,
+                174,
+                1155.859375,
+                196
+            ]
+        },
+        {
+            "text": "3/13/15",
+            "bbox": [
+                1158.515625,
+                174,
+                1234.0,
+                196
+            ]
+        },
+        {
+            "text": "10.2*",
+            "bbox": [
+                30,
+                196,
+                101.109375,
+                218
+            ]
+        },
+        {
+            "text": "Form of Indemnification Agreement between the Registrant and each director and executive officer of the Registrant.",
+            "bbox": [
+                103.765625,
+                196,
+                1083.015625,
+                218
+            ]
+        },
+        {
+            "text": "10-Q",
+            "bbox": [
+                1085.671875,
+                196,
+                1115.0,
+                218
+            ]
+        },
+        {
+            "text": "10.2",
+            "bbox": [
+                1117.65625,
+                196,
+                1155.859375,
+                218
+            ]
+        },
+        {
+            "text": "6/27/09",
+            "bbox": [
+                1158.515625,
+                196,
+                1234.0,
+                218
+            ]
+        },
+        {
+            "text": "10.3*",
+            "bbox": [
+                30,
+                218,
+                101.109375,
+                240
+            ]
+        },
+        {
+            "text": "Apple Inc. Non-Employee Director Stock Plan, as amended November 9, 2021.",
+            "bbox": [
+                103.765625,
+                218,
+                1083.015625,
+                240
+            ]
+        },
+        {
+            "text": "10-Q",
+            "bbox": [
+                1085.671875,
+                218,
+                1115.0,
+                240
+            ]
+        },
+        {
+            "text": "10.1",
+            "bbox": [
+                1117.65625,
+                218,
+                1155.859375,
+                240
+            ]
+        },
+        {
+            "text": "12/25/21",
+            "bbox": [
+                1158.515625,
+                218,
+                1234.0,
+                240
+            ]
+        },
+        {
+            "text": "10.4*",
+            "bbox": [
+                30,
+                240,
+                101.109375,
+                262
+            ]
+        },
+        {
+            "text": "Apple Inc. 2014 Employee Stock Plan, as amended and restated as of October 1, 2017.",
+            "bbox": [
+                103.765625,
+                240,
+                1083.015625,
+                262
+            ]
+        },
+        {
+            "text": "10-K",
+            "bbox": [
+                1085.671875,
+                240,
+                1115.0,
+                262
+            ]
+        },
+        {
+            "text": "10.8",
+            "bbox": [
+                1117.65625,
+                240,
+                1155.859375,
+                262
+            ]
+        },
+        {
+            "text": "9/30/17",
+            "bbox": [
+                1158.515625,
+                240,
+                1234.0,
+                262
+            ]
+        },
+        {
+            "text": "10.5*",
+            "bbox": [
+                30,
+                262,
+                101.109375,
+                284
+            ]
+        },
+        {
+            "text": "Form of Restricted Stock Unit Award Agreement under 2014 Employee Stock Plan effective as of September 26, 2017.",
+            "bbox": [
+                103.765625,
+                262,
+                1083.015625,
+                284
+            ]
+        },
+        {
+            "text": "10-K",
+            "bbox": [
+                1085.671875,
+                262,
+                1115.0,
+                284
+            ]
+        },
+        {
+            "text": "10.20",
+            "bbox": [
+                1117.65625,
+                262,
+                1155.859375,
+                284
+            ]
+        },
+        {
+            "text": "9/30/17",
+            "bbox": [
+                1158.515625,
+                262,
+                1234.0,
+                284
+            ]
+        },
+        {
+            "text": "10.6*",
+            "bbox": [
+                30,
+                284,
+                101.109375,
+                306
+            ]
+        },
+        {
+            "text": "Form of Restricted Stock Unit Award Agreement under Non-Employee Director Stock Plan effective as of February 13, 2018.",
+            "bbox": [
+                103.765625,
+                284,
+                1083.015625,
+                306
+            ]
+        },
+        {
+            "text": "10-Q",
+            "bbox": [
+                1085.671875,
+                284,
+                1115.0,
+                306
+            ]
+        },
+        {
+            "text": "10.2",
+            "bbox": [
+                1117.65625,
+                284,
+                1155.859375,
+                306
+            ]
+        },
+        {
+            "text": "3/31/18",
+            "bbox": [
+                1158.515625,
+                284,
+                1234.0,
+                306
+            ]
+        },
+        {
+            "text": "10.7*",
+            "bbox": [
+                30,
+                306,
+                101.109375,
+                328
+            ]
+        },
+        {
+            "text": "Form of Restricted Stock Unit Award Agreement under 2014 Employee Stock Plan effective as of August 21, 2018.",
+            "bbox": [
+                103.765625,
+                306,
+                1083.015625,
+                328
+            ]
+        },
+        {
+            "text": "10-K",
+            "bbox": [
+                1085.671875,
+                306,
+                1115.0,
+                328
+            ]
+        },
+        {
+            "text": "10.17",
+            "bbox": [
+                1117.65625,
+                306,
+                1155.859375,
+                328
+            ]
+        },
+        {
+            "text": "9/29/18",
+            "bbox": [
+                1158.515625,
+                306,
+                1234.0,
+                328
+            ]
+        },
+        {
+            "text": "10.8*",
+            "bbox": [
+                30,
+                328,
+                101.109375,
+                350
+            ]
+        },
+        {
+            "text": "Form of Restricted Stock Unit Award Agreement under 2014 Employee Stock Plan effective as of September 29, 2019.",
+            "bbox": [
+                103.765625,
+                328,
+                1083.015625,
+                350
+            ]
+        },
+        {
+            "text": "10-K",
+            "bbox": [
+                1085.671875,
+                328,
+                1115.0,
+                350
+            ]
+        },
+        {
+            "text": "10.15",
+            "bbox": [
+                1117.65625,
+                328,
+                1155.859375,
+                350
+            ]
+        },
+        {
+            "text": "9/28/19",
+            "bbox": [
+                1158.515625,
+                328,
+                1234.0,
+                350
+            ]
+        },
+        {
+            "text": "10.9*",
+            "bbox": [
+                30,
+                350,
+                101.109375,
+                372
+            ]
+        },
+        {
+            "text": "Form of Restricted Stock Unit Award Agreement under 2014 Employee Stock Plan effective as of August 18, 2020.",
+            "bbox": [
+                103.765625,
+                350,
+                1083.015625,
+                372
+            ]
+        },
+        {
+            "text": "10-K",
+            "bbox": [
+                1085.671875,
+                350,
+                1115.0,
+                372
+            ]
+        },
+        {
+            "text": "10.16",
+            "bbox": [
+                1117.65625,
+                350,
+                1155.859375,
+                372
+            ]
+        },
+        {
+            "text": "9/26/20",
+            "bbox": [
+                1158.515625,
+                350,
+                1234.0,
+                372
+            ]
+        },
+        {
+            "text": "10.10*",
+            "bbox": [
+                30,
+                372,
+                101.109375,
+                394
+            ]
+        },
+        {
+            "text": "Form of Performance Award Agreement under 2014 Employee Stock Plan effective as of August 18, 2020.",
+            "bbox": [
+                103.765625,
+                372,
+                1083.015625,
+                394
+            ]
+        },
+        {
+            "text": "10-K",
+            "bbox": [
+                1085.671875,
+                372,
+                1115.0,
+                394
+            ]
+        },
+        {
+            "text": "10.17",
+            "bbox": [
+                1117.65625,
+                372,
+                1155.859375,
+                394
+            ]
+        },
+        {
+            "text": "9/26/20",
+            "bbox": [
+                1158.515625,
+                372,
+                1234.0,
+                394
+            ]
+        },
+        {
+            "text": "10.11*",
+            "bbox": [
+                30,
+                394,
+                101.109375,
+                416
+            ]
+        },
+        {
+            "text": "Form of CEO Restricted Stock Unit Award Agreement under 2014 Employee Stock Plan effective as of September 27, 2020.",
+            "bbox": [
+                103.765625,
+                394,
+                1083.015625,
+                416
+            ]
+        },
+        {
+            "text": "10-Q",
+            "bbox": [
+                1085.671875,
+                394,
+                1115.0,
+                416
+            ]
+        },
+        {
+            "text": "10.1",
+            "bbox": [
+                1117.65625,
+                394,
+                1155.859375,
+                416
+            ]
+        },
+        {
+            "text": "12/26/20",
+            "bbox": [
+                1158.515625,
+                394,
+                1234.0,
+                416
+            ]
+        },
+        {
+            "text": "10.12*",
+            "bbox": [
+                30,
+                416,
+                101.109375,
+                438
+            ]
+        },
+        {
+            "text": "Form of CEO Performance Award Agreement under 2014 Employee Stock Plan effective as of September 27, 2020.",
+            "bbox": [
+                103.765625,
+                416,
+                1083.015625,
+                438
+            ]
+        },
+        {
+            "text": "10-Q",
+            "bbox": [
+                1085.671875,
+                416,
+                1115.0,
+                438
+            ]
+        },
+        {
+            "text": "10.2",
+            "bbox": [
+                1117.65625,
+                416,
+                1155.859375,
+                438
+            ]
+        },
+        {
+            "text": "12/26/20",
+            "bbox": [
+                1158.515625,
+                416,
+                1234.0,
+                438
+            ]
+        },
+        {
+            "text": "10.13*",
+            "bbox": [
+                30,
+                438,
+                101.109375,
+                460
+            ]
+        },
+        {
+            "text": "Apple Inc. 2022 Employee Stock Plan.",
+            "bbox": [
+                103.765625,
+                438,
+                1083.015625,
+                460
+            ]
+        },
+        {
+            "text": "8-K",
+            "bbox": [
+                1085.671875,
+                438,
+                1115.0,
+                460
+            ]
+        },
+        {
+            "text": "10.1",
+            "bbox": [
+                1117.65625,
+                438,
+                1155.859375,
+                460
+            ]
+        },
+        {
+            "text": "3/4/22",
+            "bbox": [
+                1158.515625,
+                438,
+                1234.0,
+                460
+            ]
+        },
+        {
+            "text": "10.14*",
+            "bbox": [
+                30,
+                460,
+                101.109375,
+                482
+            ]
+        },
+        {
+            "text": "Form of Restricted Stock Unit Award Agreement under 2022 Employee Stock Plan effective as of March 4, 2022.",
+            "bbox": [
+                103.765625,
+                460,
+                1083.015625,
+                482
+            ]
+        },
+        {
+            "text": "8-K",
+            "bbox": [
+                1085.671875,
+                460,
+                1115.0,
+                482
+            ]
+        },
+        {
+            "text": "10.2",
+            "bbox": [
+                1117.65625,
+                460,
+                1155.859375,
+                482
+            ]
+        },
+        {
+            "text": "3/4/22",
+            "bbox": [
+                1158.515625,
+                460,
+                1234.0,
+                482
+            ]
+        },
+        {
+            "text": "10.15*",
+            "bbox": [
+                30,
+                482,
+                101.109375,
+                504
+            ]
+        },
+        {
+            "text": "Form of Performance Award Agreement under 2022 Employee Stock Plan effective as of March 4, 2022.",
+            "bbox": [
+                103.765625,
+                482,
+                1083.015625,
+                504
+            ]
+        },
+        {
+            "text": "8-K",
+            "bbox": [
+                1085.671875,
+                482,
+                1115.0,
+                504
+            ]
+        },
+        {
+            "text": "10.3",
+            "bbox": [
+                1117.65625,
+                482,
+                1155.859375,
+                504
+            ]
+        },
+        {
+            "text": "3/4/22",
+            "bbox": [
+                1158.515625,
+                482,
+                1234.0,
+                504
+            ]
+        },
+        {
+            "text": "10.16*",
+            "bbox": [
+                30,
+                504,
+                101.109375,
+                526
+            ]
+        },
+        {
+            "text": "Apple Inc. Executive Cash Incentive Plan.",
+            "bbox": [
+                103.765625,
+                504,
+                1083.015625,
+                526
+            ]
+        },
+        {
+            "text": "8-K",
+            "bbox": [
+                1085.671875,
+                504,
+                1115.0,
+                526
+            ]
+        },
+        {
+            "text": "10.1",
+            "bbox": [
+                1117.65625,
+                504,
+                1155.859375,
+                526
+            ]
+        },
+        {
+            "text": "8/19/22",
+            "bbox": [
+                1158.515625,
+                504,
+                1234.0,
+                526
+            ]
+        },
+        {
+            "text": "10.17*",
+            "bbox": [
+                30,
+                526,
+                101.109375,
+                548
+            ]
+        },
+        {
+            "text": "Form of CEO Restricted Stock Unit Award Agreement under 2022 Employee Stock Plan effective as of September 25, 2022.",
+            "bbox": [
+                103.765625,
+                526,
+                1083.015625,
+                548
+            ]
+        },
+        {
+            "text": "10-Q",
+            "bbox": [
+                1085.671875,
+                526,
+                1115.0,
+                548
+            ]
+        },
+        {
+            "text": "10.1",
+            "bbox": [
+                1117.65625,
+                526,
+                1155.859375,
+                548
+            ]
+        },
+        {
+            "text": "12/31/22",
+            "bbox": [
+                1158.515625,
+                526,
+                1234.0,
+                548
+            ]
+        },
+        {
+            "text": "10.18*",
+            "bbox": [
+                30,
+                548,
+                101.109375,
+                570
+            ]
+        },
+        {
+            "text": "Form of CEO Performance Award Agreement under 2022 Employee Stock Plan effective as of September 25, 2022.",
+            "bbox": [
+                103.765625,
+                548,
+                1083.015625,
+                570
+            ]
+        },
+        {
+            "text": "10-Q",
+            "bbox": [
+                1085.671875,
+                548,
+                1115.0,
+                570
+            ]
+        },
+        {
+            "text": "10.2",
+            "bbox": [
+                1117.65625,
+                548,
+                1155.859375,
+                570
+            ]
+        },
+        {
+            "text": "12/31/22",
+            "bbox": [
+                1158.515625,
+                548,
+                1234.0,
+                570
+            ]
+        },
+        {
+            "text": "10.19*, **",
+            "bbox": [
+                30,
+                570,
+                101.109375,
+                592
+            ]
+        },
+        {
+            "text": "Form of Restricted Stock Unit Award Agreement under 2022 Employee Stock Plan effective as of September 29, 2024.",
+            "bbox": [
+                103.765625,
+                570,
+                1083.015625,
+                592
+            ]
+        },
+        {
+            "text": "10.20*, **",
+            "bbox": [
+                30,
+                592,
+                101.109375,
+                614
+            ]
+        },
+        {
+            "text": "Form of Performance Award Agreement under 2022 Employee Stock Plan effective as of September 29, 2024.",
+            "bbox": [
+                103.765625,
+                592,
+                1083.015625,
+                614
+            ]
+        },
+        {
+            "text": "10.21*, **",
+            "bbox": [
+                30,
+                614,
+                101.109375,
+                636
+            ]
+        },
+        {
+            "text": "Form of CEO Restricted Stock Unit Award Agreement under 2022 Employee Stock Plan effective as of September 29, 2024.",
+            "bbox": [
+                103.765625,
+                614,
+                1083.015625,
+                636
+            ]
+        },
+        {
+            "text": "10.22*, **",
+            "bbox": [
+                30,
+                636,
+                101.109375,
+                658
+            ]
+        },
+        {
+            "text": "Form of CEO Performance Award Agreement under 2022 Employee Stock Plan effective as of September 29, 2024.",
+            "bbox": [
+                103.765625,
+                636,
+                1083.015625,
+                658
+            ]
+        },
+        {
+            "text": "19.1**",
+            "bbox": [
+                30,
+                658,
+                101.109375,
+                680
+            ]
+        },
+        {
+            "text": "Insider Trading Policy",
+            "bbox": [
+                103.765625,
+                658,
+                1083.015625,
+                680
+            ]
+        },
+        {
+            "text": "21.1**",
+            "bbox": [
+                30,
+                680,
+                101.109375,
+                702
+            ]
+        },
+        {
+            "text": "Subsidiaries of the Registrant.",
+            "bbox": [
+                103.765625,
+                680,
+                1083.015625,
+                702
+            ]
+        },
+        {
+            "text": "23.1**",
+            "bbox": [
+                30,
+                702,
+                101.109375,
+                724
+            ]
+        },
+        {
+            "text": "Consent of Independent Registered Public Accounting Firm.",
+            "bbox": [
+                103.765625,
+                702,
+                1083.015625,
+                724
+            ]
+        },
+        {
+            "text": "24.1**",
+            "bbox": [
+                30,
+                724,
+                101.109375,
+                746
+            ]
+        },
+        {
+            "text": "Power of Attorney (included on the Signatures page of this Annual Report on Form 10-K).",
+            "bbox": [
+                103.765625,
+                724,
+                1083.015625,
+                746
+            ]
+        },
+        {
+            "text": "31.1**",
+            "bbox": [
+                30,
+                746,
+                101.109375,
+                768
+            ]
+        },
+        {
+            "text": "Rule 13a-14(a) / 15d-14(a) Certification of Chief Executive Officer.",
+            "bbox": [
+                103.765625,
+                746,
+                1083.015625,
+                768
+            ]
+        },
+        {
+            "text": "31.2**",
+            "bbox": [
+                30,
+                768,
+                101.109375,
+                790
+            ]
+        },
+        {
+            "text": "Rule 13a-14(a) / 15d-14(a) Certification of Chief Financial Officer.",
+            "bbox": [
+                103.765625,
+                768,
+                1083.015625,
+                790
+            ]
+        },
+        {
+            "text": "32.1***",
+            "bbox": [
+                30,
+                790,
+                101.109375,
+                812
+            ]
+        },
+        {
+            "text": "Section 1350 Certifications of Chief Executive Officer and Chief Financial Officer.",
+            "bbox": [
+                103.765625,
+                790,
+                1083.015625,
+                812
+            ]
+        },
+        {
+            "text": "97.1*, **",
+            "bbox": [
+                30,
+                812,
+                101.109375,
+                834
+            ]
+        },
+        {
+            "text": "Rule 10D-1 Recovery Policy",
+            "bbox": [
+                103.765625,
+                812,
+                1083.015625,
+                834
+            ]
+        }
+    ]
+}

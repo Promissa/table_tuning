@@ -1,0 +1,259 @@
+{
+    "imagePath": "table_273.png",
+    "imageWidth": 993.890625,
+    "imageHeight": 374,
+    "cells": [
+        {
+            "text": "Three months ended\nMarch 31, 2025",
+            "bbox": [
+                690.96875,
+                30,
+                831.015625,
+                58.5
+            ]
+        },
+        {
+            "text": "Three months ended\nMarch 31, 2024",
+            "bbox": [
+                842.15625,
+                30,
+                960.171875,
+                73.5
+            ]
+        },
+        {
+            "text": "High",
+            "bbox": [
+                690.96875,
+                58.5,
+                755.421875,
+                73.5
+            ]
+        },
+        {
+            "text": "Low",
+            "bbox": [
+                766.5625,
+                58.5,
+                831.015625,
+                73.5
+            ]
+        },
+        {
+            "text": "(in thousands)",
+            "bbox": [
+                766.5625,
+                73.5,
+                960.171875,
+                88.0
+            ]
+        },
+        {
+            "text": "Net income (loss) from continuing operations",
+            "bbox": [
+                30,
+                88,
+                683.546875,
+                103
+            ]
+        },
+        {
+            "text": "$",
+            "bbox": [
+                690.96875,
+                88,
+                698.390625,
+                103
+            ]
+        },
+        {
+            "text": "$",
+            "bbox": [
+                766.5625,
+                88,
+                773.984375,
+                103
+            ]
+        },
+        {
+            "text": "$",
+            "bbox": [
+                842.15625,
+                88,
+                855.734375,
+                103
+            ]
+        },
+        {
+            "text": "Adjusted for:",
+            "bbox": [
+                30,
+                103,
+                683.546875,
+                118
+            ]
+        },
+        {
+            "text": "Depreciation and amortization expense",
+            "bbox": [
+                30,
+                118,
+                683.546875,
+                133
+            ]
+        },
+        {
+            "text": "Interest expense, net of amortization of discounts and premiums",
+            "bbox": [
+                30,
+                133,
+                683.546875,
+                148
+            ]
+        },
+        {
+            "text": "Interest income(1)",
+            "bbox": [
+                30,
+                148,
+                683.546875,
+                163
+            ]
+        },
+        {
+            "text": "Income tax expense",
+            "bbox": [
+                30,
+                163,
+                683.546875,
+                178
+            ]
+        },
+        {
+            "text": "Stock compensation expense",
+            "bbox": [
+                30,
+                178,
+                683.546875,
+                193
+            ]
+        },
+        {
+            "text": "Certain legal expenses(2)",
+            "bbox": [
+                30,
+                193,
+                683.546875,
+                208
+            ]
+        },
+        {
+            "text": "Realized and unrealized (gains) losses, net, on digital assets held for investment and other related investments",
+            "bbox": [
+                30,
+                208,
+                683.546875,
+                223
+            ]
+        },
+        {
+            "text": "Realized (gains) losses on available-for-sale debt securities",
+            "bbox": [
+                30,
+                223,
+                683.546875,
+                238
+            ]
+        },
+        {
+            "text": "Impairment losses on strategic investments",
+            "bbox": [
+                30,
+                238,
+                683.546875,
+                253
+            ]
+        },
+        {
+            "text": "Restructuring expenses(3)",
+            "bbox": [
+                30,
+                253,
+                683.546875,
+                268
+            ]
+        },
+        {
+            "text": "Acquisition-related costs(4)",
+            "bbox": [
+                30,
+                268,
+                683.546875,
+                283
+            ]
+        },
+        {
+            "text": "Change in fair value of convertible debt, warrant liability, and embedded derivatives",
+            "bbox": [
+                30,
+                283,
+                683.546875,
+                298
+            ]
+        },
+        {
+            "text": "(Gains) losses on sale of long-lived assets",
+            "bbox": [
+                30,
+                298,
+                683.546875,
+                313
+            ]
+        },
+        {
+            "text": "Foreign currency exchange loss",
+            "bbox": [
+                30,
+                313,
+                683.546875,
+                328
+            ]
+        },
+        {
+            "text": "Adjusted EBITDA",
+            "bbox": [
+                30,
+                328,
+                683.546875,
+                343.5
+            ]
+        },
+        {
+            "text": "$",
+            "bbox": [
+                690.96875,
+                328,
+                698.390625,
+                343.5
+            ]
+        },
+        {
+            "text": "$",
+            "bbox": [
+                766.5625,
+                328,
+                773.984375,
+                343.5
+            ]
+        },
+        {
+            "text": "$",
+            "bbox": [
+                842.15625,
+                328,
+                855.734375,
+                343.5
+            ]
+        }
+    ]
+}

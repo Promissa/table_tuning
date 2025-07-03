@@ -1,0 +1,160 @@
+{
+    "imagePath": "table_489.png",
+    "imageWidth": 654.59375,
+    "imageHeight": 165,
+    "cells": [
+        {
+            "text": "Table 9. Changes in the Carrying Value of Equity Investments under Measurement Alternative",
+            "bbox": [
+                30,
+                30,
+                560.8125,
+                44
+            ]
+        },
+        {
+            "text": "Balance as of December 31, 2023",
+            "bbox": [
+                30,
+                44,
+                560.8125,
+                59
+            ]
+        },
+        {
+            "text": "$",
+            "bbox": [
+                568.234375,
+                44,
+                575.65625,
+                59
+            ]
+        },
+        {
+            "text": "66,008",
+            "bbox": [
+                575.65625,
+                44,
+                616.4375,
+                59
+            ]
+        },
+        {
+            "text": "Net investments and returns in privately held companies",
+            "bbox": [
+                30,
+                59,
+                560.8125,
+                74
+            ]
+        },
+        {
+            "text": "1,162",
+            "bbox": [
+                575.65625,
+                59,
+                616.4375,
+                74
+            ]
+        },
+        {
+            "text": "Upward adjustments",
+            "bbox": [
+                30,
+                74,
+                560.8125,
+                89
+            ]
+        },
+        {
+            "text": "4,969",
+            "bbox": [
+                575.65625,
+                74,
+                616.4375,
+                89
+            ]
+        },
+        {
+            "text": "Downward adjustments",
+            "bbox": [
+                30,
+                89,
+                560.8125,
+                104
+            ]
+        },
+        {
+            "text": "(2,098",
+            "bbox": [
+                575.65625,
+                89,
+                616.4375,
+                104
+            ]
+        },
+        {
+            "text": ")",
+            "bbox": [
+                616.4375,
+                89,
+                624.59375,
+                104
+            ]
+        },
+        {
+            "text": "Realized losses and impairments",
+            "bbox": [
+                30,
+                104,
+                560.8125,
+                119
+            ]
+        },
+        {
+            "text": "(1,812",
+            "bbox": [
+                575.65625,
+                104,
+                616.4375,
+                119
+            ]
+        },
+        {
+            "text": ")",
+            "bbox": [
+                616.4375,
+                104,
+                624.59375,
+                119
+            ]
+        },
+        {
+            "text": "Balance as of December 31, 2024 (1)",
+            "bbox": [
+                30,
+                119,
+                560.8125,
+                134.5
+            ]
+        },
+        {
+            "text": "$",
+            "bbox": [
+                568.234375,
+                119,
+                575.65625,
+                134.5
+            ]
+        },
+        {
+            "text": "68,229",
+            "bbox": [
+                575.65625,
+                119,
+                616.4375,
+                134.5
+            ]
+        }
+    ]
+}

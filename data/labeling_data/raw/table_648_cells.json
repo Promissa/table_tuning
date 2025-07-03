@@ -1,0 +1,133 @@
+{
+    "imagePath": "table_648.png",
+    "imageWidth": 1264,
+    "imageHeight": 252,
+    "cells": [
+        {
+            "text": "Shares of common stock offered by the selling stockholders",
+            "bbox": [
+                30,
+                30,
+                367.109375,
+                62
+            ]
+        },
+        {
+            "text": "We are registering the resale by the selling stockholders of an aggregate of 3,007,271 Shares, consisting of (i)1,171,189 PIPE Shares, (ii) 278,098 Pre-Funded Warrant Shares, (iii) 1,449,287 Common Warrant Shares, and (iv) 108,697 Placement Agent Warrant Shares.",
+            "bbox": [
+                391.1875,
+                30,
+                1234.0,
+                62
+            ]
+        },
+        {
+            "text": "Common stock outstanding",
+            "bbox": [
+                30,
+                62,
+                367.109375,
+                78
+            ]
+        },
+        {
+            "text": "2,515,179 shares",
+            "bbox": [
+                391.1875,
+                62,
+                1234.0,
+                78
+            ]
+        },
+        {
+            "text": "Common stock outstanding assuming exercise of all Warrants",
+            "bbox": [
+                30,
+                78,
+                367.109375,
+                110
+            ]
+        },
+        {
+            "text": "4,351,261 shares",
+            "bbox": [
+                391.1875,
+                78,
+                1234.0,
+                110
+            ]
+        },
+        {
+            "text": "Terms of the offering",
+            "bbox": [
+                30,
+                110,
+                367.109375,
+                142
+            ]
+        },
+        {
+            "text": "Each selling stockholder will determine when and how it will sell the common stock offered in this prospectus, as described in the “Plan of Distribution” on page 23.",
+            "bbox": [
+                391.1875,
+                110,
+                1234.0,
+                142
+            ]
+        },
+        {
+            "text": "Use of proceeds",
+            "bbox": [
+                30,
+                142,
+                367.109375,
+                190
+            ]
+        },
+        {
+            "text": "We will not receive any proceeds from the sale of the Shares. In the event the selling stockholders exercise all of the Warrants for cash, we will, receive an aggregate of approximately $5.28 million of gross proceeds, assuming all of the Warrants, including the Placement Agent Warrants. Any proceeds that we receive from the exercise of such Warrants will be used for working capital and general corporate purposes.",
+            "bbox": [
+                391.1875,
+                142,
+                1234.0,
+                190
+            ]
+        },
+        {
+            "text": "Risk Factors",
+            "bbox": [
+                30,
+                190,
+                367.109375,
+                206
+            ]
+        },
+        {
+            "text": "See “Risk Factors” on page 6 for a discussion of factors you should carefully consider before deciding to invest in our common stock.",
+            "bbox": [
+                391.1875,
+                190,
+                1234.0,
+                206
+            ]
+        },
+        {
+            "text": "Nasdaq Capital Market symbol",
+            "bbox": [
+                30,
+                206,
+                367.109375,
+                222
+            ]
+        },
+        {
+            "text": "Our common stock is listed on the Nasdaq Capital Market under the symbol “SINT.”",
+            "bbox": [
+                391.1875,
+                206,
+                1234.0,
+                222
+            ]
+        }
+    ]
+}

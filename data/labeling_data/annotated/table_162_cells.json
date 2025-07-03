@@ -1,0 +1,25 @@
+{
+    "imagePath": "table_162.png",
+    "imageWidth": 1264,
+    "imageHeight": 120,
+    "cells": [
+        {
+            "text": "Concentration of voting power",
+            "bbox": [
+                30,
+                30,
+                367.109375,
+                90
+            ]
+        },
+        {
+            "text": "Our Class B common stock, which will be held by our founders, Jeremy Allaire and Patrick Sean Neville, and certain entities controlled by our founders, will represent approximately   % of the total voting power of our outstanding common stock following this offering (or approximately   % of the total voting power of our outstanding common stock if the underwriters exercise their option to purchase additional shares in full). Upon the completion of this offering, we will not be a “controlled company” within the meaning of the NYSE’s corporate governance standards.",
+            "bbox": [
+                367.109375,
+                30,
+                1234.0,
+                90
+            ]
+        }
+    ]
+}

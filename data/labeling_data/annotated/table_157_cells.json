@@ -1,0 +1,25 @@
+{
+    "imagePath": "table_157.png",
+    "imageWidth": 1264,
+    "imageHeight": 135,
+    "cells": [
+        {
+            "text": "•",
+            "bbox": [
+                30,
+                30,
+                42.03125,
+                105
+            ]
+        },
+        {
+            "text": "Technology improvements.  Blockchain technologies continue to improve, supporting larger-scale applications, improved security and privacy, greater operational efficiency, and new standards that can simplify the user experience of interacting with blockchain-based applications and online transactions. These improvements are often exponential—Bitcoin (introduced in 2009) could support approximately seven transactions per second at launch, while Ethereum (introduced in 2015) could support approximately 15 transactions per second at launch. Since then, a multitude of other blockchains have emerged that can support orders of magnitude more transactions per second, such as Solana (introduced in 2020) and its theoretical peak capacity to handle tens of thousands of transactions each second. These continuing (and escalating) improvements are ushering in a world that we believe will support billions of users and millions of businesses operating on these networks.",
+            "bbox": [
+                54.0625,
+                30,
+                1234.0,
+                105
+            ]
+        }
+    ]
+}

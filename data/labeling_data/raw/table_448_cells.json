@@ -1,0 +1,25 @@
+{
+    "imagePath": "table_448.png",
+    "imageWidth": 1264,
+    "imageHeight": 140,
+    "cells": [
+        {
+            "text": "(5)",
+            "bbox": [
+                78,
+                30,
+                126,
+                110
+            ]
+        },
+        {
+            "text": "That, for the purpose of determining liability of the registrant under the Securities Act of 1933 to any purchaser in the initial distribution of the securities:\n\nThe undersigned registrant undertakes that in a primary offering of securities of the undersigned registrant pursuant to this registration statement, regardless of the underwriting method used to sell the securities to the purchaser, if the securities are offered or sold to such purchaser by means of any of the following communications, the undersigned registrant will be a seller to the purchaser and will be considered to offer or sell such securities to such purchaser:",
+            "bbox": [
+                126,
+                30,
+                1234,
+                110
+            ]
+        }
+    ]
+}

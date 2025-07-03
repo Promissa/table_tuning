@@ -1,0 +1,61 @@
+{
+  "imagePath": "table_0.png",
+  "imageWidth": 446.59375,
+  "imageHeight": 128.65625,
+  "cells": [
+    {
+      "text": "Delaware",
+      "bbox": [
+        30,
+        30,
+        171.328125,
+        52
+      ]
+    },
+    {
+      "text": "7389",
+      "bbox": [
+        171.328125,
+        30,
+        309.65625,
+        52
+      ]
+    },
+    {
+      "text": "46-4707224",
+      "bbox": [
+        309.65625,
+        30,
+        416.59375,
+        52
+      ]
+    },
+    {
+      "text": "(State or other jurisdiction of\nincorporation or organization)",
+      "bbox": [
+        30,
+        52,
+        171.328125,
+        92
+      ]
+    },
+    {
+      "text": "(Primary Standard Industrial\nClassification Code Number)",
+      "bbox": [
+        171.328125,
+        52,
+        309.65625,
+        92
+      ]
+    },
+    {
+      "text": "(I.R.S. Employer\nIdentification Number)",
+      "bbox": [
+        309.65625,
+        52,
+        416.59375,
+        92
+      ]
+    }
+  ]
+}

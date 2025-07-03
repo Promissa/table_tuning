@@ -1,0 +1,160 @@
+{
+    "imagePath": "table_225.png",
+    "imageWidth": 562.390625,
+    "imageHeight": 152,
+    "cells": [
+        {
+            "text": "ACI Worldwide, Inc.",
+            "bbox": [
+                30,
+                31,
+                205.59375,
+                47
+            ]
+        },
+        {
+            "text": "LendingClub Corporation",
+            "bbox": [
+                213.015625,
+                31,
+                380.484375,
+                47
+            ]
+        },
+        {
+            "text": "Shift4 Payments, Inc.",
+            "bbox": [
+                387.90625,
+                31,
+                532.390625,
+                47
+            ]
+        },
+        {
+            "text": "Affirm Holdings, Inc.",
+            "bbox": [
+                30,
+                47,
+                205.59375,
+                62
+            ]
+        },
+        {
+            "text": "Marqeta, Inc.",
+            "bbox": [
+                213.015625,
+                47,
+                380.484375,
+                62
+            ]
+        },
+        {
+            "text": "SoFi Technologies, Inc.",
+            "bbox": [
+                387.90625,
+                47,
+                532.390625,
+                62
+            ]
+        },
+        {
+            "text": "BILL Holdings, Inc.",
+            "bbox": [
+                30,
+                62,
+                205.59375,
+                77
+            ]
+        },
+        {
+            "text": "MongoDB, Inc.",
+            "bbox": [
+                213.015625,
+                62,
+                380.484375,
+                77
+            ]
+        },
+        {
+            "text": "Synovus Financial Corp.",
+            "bbox": [
+                387.90625,
+                62,
+                532.390625,
+                77
+            ]
+        },
+        {
+            "text": "Coinbase Global, Inc.",
+            "bbox": [
+                30,
+                77,
+                205.59375,
+                92
+            ]
+        },
+        {
+            "text": "Payoneer Global Inc.",
+            "bbox": [
+                213.015625,
+                77,
+                380.484375,
+                92
+            ]
+        },
+        {
+            "text": "Upstart Holdings, Inc.",
+            "bbox": [
+                387.90625,
+                77,
+                532.390625,
+                92
+            ]
+        },
+        {
+            "text": "Customers Bancorp, Inc.",
+            "bbox": [
+                30,
+                92,
+                205.59375,
+                107
+            ]
+        },
+        {
+            "text": "Q2 Holdings, Inc.",
+            "bbox": [
+                213.015625,
+                92,
+                380.484375,
+                107
+            ]
+        },
+        {
+            "text": "WEX Inc.",
+            "bbox": [
+                387.90625,
+                92,
+                532.390625,
+                107
+            ]
+        },
+        {
+            "text": "Jack Henry & Associates, Inc.",
+            "bbox": [
+                30,
+                107,
+                205.59375,
+                122
+            ]
+        },
+        {
+            "text": "Repay Holdings Corporation",
+            "bbox": [
+                213.015625,
+                107,
+                380.484375,
+                122
+            ]
+        }
+    ]
+}

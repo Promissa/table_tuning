@@ -1,0 +1,61 @@
+{
+  "imagePath": "table_64.png",
+  "imageWidth": 367.921875,
+  "imageHeight": 192,
+  "cells": [
+    {
+      "text": "Crypto asset borrowings with embedded derivatives",
+      "bbox": [
+        30,
+        30,
+        337.921875,
+        52
+      ]
+    },
+    {
+      "text": "9,305 BTC",
+      "bbox": [
+        30,
+        52,
+        337.921875,
+        74
+      ]
+    },
+    {
+      "text": "3,000 ETH",
+      "bbox": [
+        30,
+        74,
+        337.921875,
+        96
+      ]
+    },
+    {
+      "text": "1,500,000 XRP",
+      "bbox": [
+        30,
+        96,
+        337.921875,
+        118
+      ]
+    },
+    {
+      "text": "Warrant to purchase crypto assets",
+      "bbox": [
+        30,
+        118,
+        337.921875,
+        140
+      ]
+    },
+    {
+      "text": "800,000 UNI",
+      "bbox": [
+        30,
+        140,
+        337.921875,
+        162
+      ]
+    }
+  ]
+}

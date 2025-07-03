@@ -1,0 +1,745 @@
+{
+    "imagePath": "table_582.png",
+    "imageWidth": 1264,
+    "imageHeight": 1193,
+    "cells": [
+        {
+            "text": "Page",
+            "bbox": [
+                782.5,
+                30,
+                1083.5,
+                43
+            ]
+        },
+        {
+            "text": "PART I",
+            "bbox": [
+                30,
+                43,
+                481.5,
+                61
+            ]
+        },
+        {
+            "text": "Item 1.",
+            "bbox": [
+                331,
+                61,
+                481.5,
+                79
+            ]
+        },
+        {
+            "text": "Business",
+            "bbox": [
+                632,
+                61,
+                782.5,
+                79
+            ]
+        },
+        {
+            "text": "3",
+            "bbox": [
+                933,
+                61,
+                1083.5,
+                79
+            ]
+        },
+        {
+            "text": "Information about our Executive Officers",
+            "bbox": [
+                632,
+                79,
+                782.5,
+                113
+            ]
+        },
+        {
+            "text": "18",
+            "bbox": [
+                933,
+                79,
+                1083.5,
+                113
+            ]
+        },
+        {
+            "text": "Item 1A.",
+            "bbox": [
+                331,
+                113,
+                481.5,
+                131
+            ]
+        },
+        {
+            "text": "Risk Factors",
+            "bbox": [
+                632,
+                113,
+                782.5,
+                131
+            ]
+        },
+        {
+            "text": "20",
+            "bbox": [
+                933,
+                113,
+                1083.5,
+                131
+            ]
+        },
+        {
+            "text": "Item 1B.",
+            "bbox": [
+                331,
+                131,
+                481.5,
+                165
+            ]
+        },
+        {
+            "text": "Unresolved Staff Comments",
+            "bbox": [
+                632,
+                131,
+                782.5,
+                165
+            ]
+        },
+        {
+            "text": "34",
+            "bbox": [
+                933,
+                131,
+                1083.5,
+                165
+            ]
+        },
+        {
+            "text": "Item 1C.",
+            "bbox": [
+                331,
+                165,
+                481.5,
+                183
+            ]
+        },
+        {
+            "text": "Cybersecurity",
+            "bbox": [
+                632,
+                165,
+                782.5,
+                183
+            ]
+        },
+        {
+            "text": "34",
+            "bbox": [
+                933,
+                165,
+                1083.5,
+                183
+            ]
+        },
+        {
+            "text": "Item 2.",
+            "bbox": [
+                331,
+                183,
+                481.5,
+                201
+            ]
+        },
+        {
+            "text": "Properties",
+            "bbox": [
+                632,
+                183,
+                782.5,
+                201
+            ]
+        },
+        {
+            "text": "36",
+            "bbox": [
+                933,
+                183,
+                1083.5,
+                201
+            ]
+        },
+        {
+            "text": "Item 3.",
+            "bbox": [
+                331,
+                201,
+                481.5,
+                219
+            ]
+        },
+        {
+            "text": "Legal Proceedings",
+            "bbox": [
+                632,
+                201,
+                782.5,
+                219
+            ]
+        },
+        {
+            "text": "36",
+            "bbox": [
+                933,
+                201,
+                1083.5,
+                219
+            ]
+        },
+        {
+            "text": "Item 4.",
+            "bbox": [
+                331,
+                219,
+                481.5,
+                237
+            ]
+        },
+        {
+            "text": "Mine Safety Disclosures",
+            "bbox": [
+                632,
+                219,
+                782.5,
+                237
+            ]
+        },
+        {
+            "text": "36",
+            "bbox": [
+                933,
+                219,
+                1083.5,
+                237
+            ]
+        },
+        {
+            "text": "PART II",
+            "bbox": [
+                30,
+                237,
+                481.5,
+                255
+            ]
+        },
+        {
+            "text": "Item 5.",
+            "bbox": [
+                331,
+                255,
+                481.5,
+                338
+            ]
+        },
+        {
+            "text": "Market for Registrant�s Common Equity, Related Stockholder Matters, and Issuer Purchases of Equity Securities",
+            "bbox": [
+                632,
+                255,
+                782.5,
+                338
+            ]
+        },
+        {
+            "text": "37",
+            "bbox": [
+                933,
+                255,
+                1083.5,
+                338
+            ]
+        },
+        {
+            "text": "Item 6.",
+            "bbox": [
+                331,
+                338,
+                481.5,
+                356
+            ]
+        },
+        {
+            "text": "[Reserved]",
+            "bbox": [
+                632,
+                338,
+                782.5,
+                356
+            ]
+        },
+        {
+            "text": "38",
+            "bbox": [
+                933,
+                338,
+                1083.5,
+                356
+            ]
+        },
+        {
+            "text": "Item 7.",
+            "bbox": [
+                331,
+                356,
+                481.5,
+                439
+            ]
+        },
+        {
+            "text": "Management�s Discussion and Analysis of Financial Condition and Results of Operations",
+            "bbox": [
+                632,
+                356,
+                782.5,
+                439
+            ]
+        },
+        {
+            "text": "39",
+            "bbox": [
+                933,
+                356,
+                1083.5,
+                439
+            ]
+        },
+        {
+            "text": "Item 7A.",
+            "bbox": [
+                331,
+                439,
+                481.5,
+                489
+            ]
+        },
+        {
+            "text": "Quantitative and Qualitative Disclosures About Market Risk",
+            "bbox": [
+                632,
+                439,
+                782.5,
+                489
+            ]
+        },
+        {
+            "text": "55",
+            "bbox": [
+                933,
+                439,
+                1083.5,
+                489
+            ]
+        },
+        {
+            "text": "Item 8.",
+            "bbox": [
+                331,
+                489,
+                481.5,
+                523
+            ]
+        },
+        {
+            "text": "Financial Statements and Supplementary Data",
+            "bbox": [
+                632,
+                489,
+                782.5,
+                523
+            ]
+        },
+        {
+            "text": "56",
+            "bbox": [
+                933,
+                489,
+                1083.5,
+                523
+            ]
+        },
+        {
+            "text": "Item 9.",
+            "bbox": [
+                331,
+                523,
+                481.5,
+                605
+            ]
+        },
+        {
+            "text": "Changes in and Disagreements with Accountants on Accounting and Financial Disclosure",
+            "bbox": [
+                632,
+                523,
+                782.5,
+                605
+            ]
+        },
+        {
+            "text": "98",
+            "bbox": [
+                933,
+                523,
+                1083.5,
+                605
+            ]
+        },
+        {
+            "text": "Item 9A.",
+            "bbox": [
+                331,
+                605,
+                481.5,
+                623
+            ]
+        },
+        {
+            "text": "Controls and Procedures",
+            "bbox": [
+                632,
+                605,
+                782.5,
+                623
+            ]
+        },
+        {
+            "text": "98",
+            "bbox": [
+                933,
+                605,
+                1083.5,
+                623
+            ]
+        },
+        {
+            "text": "Report of Management on Internal Control over Financial Reporting",
+            "bbox": [
+                632,
+                623,
+                782.5,
+                673
+            ]
+        },
+        {
+            "text": "98",
+            "bbox": [
+                933,
+                623,
+                1083.5,
+                673
+            ]
+        },
+        {
+            "text": "Report of Independent Registered Public Accounting Firm",
+            "bbox": [
+                632,
+                673,
+                782.5,
+                723
+            ]
+        },
+        {
+            "text": "99",
+            "bbox": [
+                933,
+                673,
+                1083.5,
+                723
+            ]
+        },
+        {
+            "text": "Item 9B.",
+            "bbox": [
+                331,
+                723,
+                481.5,
+                741
+            ]
+        },
+        {
+            "text": "Other Information",
+            "bbox": [
+                632,
+                723,
+                782.5,
+                741
+            ]
+        },
+        {
+            "text": "101",
+            "bbox": [
+                933,
+                723,
+                1083.5,
+                741
+            ]
+        },
+        {
+            "text": "Item 9C.",
+            "bbox": [
+                331,
+                741,
+                481.5,
+                791
+            ]
+        },
+        {
+            "text": "Disclosure Regarding Foreign Jurisdictions that Prevent Inspections",
+            "bbox": [
+                632,
+                741,
+                782.5,
+                791
+            ]
+        },
+        {
+            "text": "101",
+            "bbox": [
+                933,
+                741,
+                1083.5,
+                791
+            ]
+        },
+        {
+            "text": "PART III",
+            "bbox": [
+                30,
+                791,
+                481.5,
+                809
+            ]
+        },
+        {
+            "text": "Item 10.",
+            "bbox": [
+                331,
+                809,
+                481.5,
+                859
+            ]
+        },
+        {
+            "text": "Directors, Executive Officers, and Corporate Governance",
+            "bbox": [
+                632,
+                809,
+                782.5,
+                859
+            ]
+        },
+        {
+            "text": "101",
+            "bbox": [
+                933,
+                809,
+                1083.5,
+                859
+            ]
+        },
+        {
+            "text": "Item 11.",
+            "bbox": [
+                331,
+                859,
+                481.5,
+                877
+            ]
+        },
+        {
+            "text": "Executive Compensation",
+            "bbox": [
+                632,
+                859,
+                782.5,
+                877
+            ]
+        },
+        {
+            "text": "102",
+            "bbox": [
+                933,
+                859,
+                1083.5,
+                877
+            ]
+        },
+        {
+            "text": "Item 12.",
+            "bbox": [
+                331,
+                877,
+                481.5,
+                975
+            ]
+        },
+        {
+            "text": "Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters",
+            "bbox": [
+                632,
+                877,
+                782.5,
+                975
+            ]
+        },
+        {
+            "text": "102",
+            "bbox": [
+                933,
+                877,
+                1083.5,
+                975
+            ]
+        },
+        {
+            "text": "Item 13.",
+            "bbox": [
+                331,
+                975,
+                481.5,
+                1041
+            ]
+        },
+        {
+            "text": "Certain Relationships and Related Transactions, and Director Independence",
+            "bbox": [
+                632,
+                975,
+                782.5,
+                1041
+            ]
+        },
+        {
+            "text": "102",
+            "bbox": [
+                933,
+                975,
+                1083.5,
+                1041
+            ]
+        },
+        {
+            "text": "Item 14.",
+            "bbox": [
+                331,
+                1041,
+                481.5,
+                1075
+            ]
+        },
+        {
+            "text": "Principal Accountant Fees and Services",
+            "bbox": [
+                632,
+                1041,
+                782.5,
+                1075
+            ]
+        },
+        {
+            "text": "102",
+            "bbox": [
+                933,
+                1041,
+                1083.5,
+                1075
+            ]
+        },
+        {
+            "text": "PART IV",
+            "bbox": [
+                30,
+                1075,
+                481.5,
+                1093
+            ]
+        },
+        {
+            "text": "Item 15.",
+            "bbox": [
+                331,
+                1093,
+                481.5,
+                1127
+            ]
+        },
+        {
+            "text": "Exhibit and Financial Statement Schedules",
+            "bbox": [
+                632,
+                1093,
+                782.5,
+                1127
+            ]
+        },
+        {
+            "text": "103",
+            "bbox": [
+                933,
+                1093,
+                1083.5,
+                1127
+            ]
+        },
+        {
+            "text": "Item 16.",
+            "bbox": [
+                331,
+                1127,
+                481.5,
+                1145
+            ]
+        },
+        {
+            "text": "Form 10-K Summary",
+            "bbox": [
+                632,
+                1127,
+                782.5,
+                1145
+            ]
+        },
+        {
+            "text": "110",
+            "bbox": [
+                933,
+                1127,
+                1083.5,
+                1145
+            ]
+        },
+        {
+            "text": "Signatures",
+            "bbox": [
+                632,
+                1145,
+                782.5,
+                1163
+            ]
+        },
+        {
+            "text": "111",
+            "bbox": [
+                933,
+                1145,
+                1083.5,
+                1163
+            ]
+        }
+    ]
+}

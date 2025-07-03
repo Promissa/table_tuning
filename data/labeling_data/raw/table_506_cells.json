@@ -1,0 +1,25 @@
+{
+    "imagePath": "table_506.png",
+    "imageWidth": 1264,
+    "imageHeight": 140,
+    "cells": [
+        {
+            "text": "(ii)",
+            "bbox": [
+                126,
+                30,
+                174,
+                110
+            ]
+        },
+        {
+            "text": "To reflect in the prospectus any facts or events arising after the effective date of the registration statement (or the most recent post-effective amendment thereof) which, individually or in the aggregate, represent a fundamental change in the information set forth in the registration statement. Notwithstanding the foregoing, any increase or decrease in volume of securities offered (if the total dollar value of securities offered would not exceed that which was registered) and any deviation from the low or high end of the estimated maximum offering range may be reflected in the form of prospectus filed with the Commission pursuant to Rule 424(b) if, in the aggregate, the changes in volume and price represent no more than 20 percent change in the maximum aggregate offering price set forth in the “Calculation of Registration Fee” table in the effective registration statement.",
+            "bbox": [
+                174,
+                30,
+                1234,
+                110
+            ]
+        }
+    ]
+}

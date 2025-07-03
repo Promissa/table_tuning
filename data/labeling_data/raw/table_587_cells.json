@@ -1,0 +1,484 @@
+{
+    "imagePath": "table_587.png",
+    "imageWidth": 1146.1875,
+    "imageHeight": 390,
+    "cells": [
+        {
+            "text": "Before this offering",
+            "bbox": [
+                309.875,
+                30,
+                575.59375,
+                50.5
+            ]
+        },
+        {
+            "text": "Shares\noffered",
+            "bbox": [
+                581.34375,
+                30,
+                612.96875,
+                102.5
+            ]
+        },
+        {
+            "text": "After this offering if underwriters’\noption is not exercised",
+            "bbox": [
+                618.71875,
+                30,
+                863.1875,
+                50.5
+            ]
+        },
+        {
+            "text": "After this offering if underwriters’\noption is exercised in full",
+            "bbox": [
+                868.9375,
+                30,
+                1113.40625,
+                50.5
+            ]
+        },
+        {
+            "text": "Class A\ncommon stock\nbeneficially\nowned",
+            "bbox": [
+                309.875,
+                50.5,
+                422.453125,
+                91.5
+            ]
+        },
+        {
+            "text": "Class B\ncommon stock\nbeneficially\nowned",
+            "bbox": [
+                428.203125,
+                50.5,
+                519.53125,
+                91.5
+            ]
+        },
+        {
+            "text": "Percentage\nvoting\npower",
+            "bbox": [
+                525.28125,
+                50.5,
+                575.59375,
+                102.5
+            ]
+        },
+        {
+            "text": "Class A\ncommon stock\nbeneficially\nowned",
+            "bbox": [
+                618.71875,
+                50.5,
+                710.046875,
+                91.5
+            ]
+        },
+        {
+            "text": "Class B\ncommon stock\nbeneficially\nowned",
+            "bbox": [
+                715.796875,
+                50.5,
+                807.125,
+                91.5
+            ]
+        },
+        {
+            "text": "Percentage\nvoting\npower",
+            "bbox": [
+                812.875,
+                50.5,
+                863.1875,
+                102.5
+            ]
+        },
+        {
+            "text": "Class A\ncommon stock\nbeneficially\nowned",
+            "bbox": [
+                868.9375,
+                50.5,
+                960.265625,
+                91.5
+            ]
+        },
+        {
+            "text": "Class B\ncommon stock\nbeneficially\nowned",
+            "bbox": [
+                966.015625,
+                50.5,
+                1057.34375,
+                91.5
+            ]
+        },
+        {
+            "text": "Percentage\nvoting\npower",
+            "bbox": [
+                1063.09375,
+                50.5,
+                1113.40625,
+                102.5
+            ]
+        },
+        {
+            "text": "Name",
+            "bbox": [
+                30,
+                91.5,
+                306.90625,
+                102.5
+            ]
+        },
+        {
+            "text": "Number",
+            "bbox": [
+                309.875,
+                91.5,
+                366.203125,
+                102.5
+            ]
+        },
+        {
+            "text": "Percentage",
+            "bbox": [
+                372.140625,
+                91.5,
+                422.453125,
+                102.5
+            ]
+        },
+        {
+            "text": "Number",
+            "bbox": [
+                428.203125,
+                91.5,
+                463.46875,
+                102.5
+            ]
+        },
+        {
+            "text": "Percentage",
+            "bbox": [
+                469.21875,
+                91.5,
+                519.53125,
+                102.5
+            ]
+        },
+        {
+            "text": "Number",
+            "bbox": [
+                618.71875,
+                91.5,
+                653.984375,
+                102.5
+            ]
+        },
+        {
+            "text": "Percentage",
+            "bbox": [
+                659.734375,
+                91.5,
+                710.046875,
+                102.5
+            ]
+        },
+        {
+            "text": "Number",
+            "bbox": [
+                715.796875,
+                91.5,
+                751.0625,
+                102.5
+            ]
+        },
+        {
+            "text": "Percentage",
+            "bbox": [
+                756.8125,
+                91.5,
+                807.125,
+                102.5
+            ]
+        },
+        {
+            "text": "Number",
+            "bbox": [
+                868.9375,
+                91.5,
+                904.203125,
+                102.5
+            ]
+        },
+        {
+            "text": "Percentage",
+            "bbox": [
+                909.953125,
+                91.5,
+                960.265625,
+                102.5
+            ]
+        },
+        {
+            "text": "Number",
+            "bbox": [
+                966.015625,
+                91.5,
+                1001.28125,
+                102.5
+            ]
+        },
+        {
+            "text": "Percentage",
+            "bbox": [
+                1007.03125,
+                91.5,
+                1057.34375,
+                102.5
+            ]
+        },
+        {
+            "text": "Directors and executive officers:",
+            "bbox": [
+                30,
+                102.5,
+                306.90625,
+                115.0
+            ]
+        },
+        {
+            "text": "Jeremy Allaire",
+            "bbox": [
+                30,
+                115,
+                306.90625,
+                127
+            ]
+        },
+        {
+            "text": "Jeremy Fox-Geen",
+            "bbox": [
+                30,
+                127,
+                306.90625,
+                139
+            ]
+        },
+        {
+            "text": "Heath Tarbert",
+            "bbox": [
+                30,
+                139,
+                306.90625,
+                151
+            ]
+        },
+        {
+            "text": "Nikhil Chandhok",
+            "bbox": [
+                30,
+                151,
+                306.90625,
+                163
+            ]
+        },
+        {
+            "text": "Craig Broderick",
+            "bbox": [
+                30,
+                163,
+                306.90625,
+                175
+            ]
+        },
+        {
+            "text": "M. Michele Burns",
+            "bbox": [
+                30,
+                175,
+                306.90625,
+                187
+            ]
+        },
+        {
+            "text": "Rajeev Date",
+            "bbox": [
+                30,
+                187,
+                306.90625,
+                199
+            ]
+        },
+        {
+            "text": "Bradley Horowitz",
+            "bbox": [
+                30,
+                199,
+                306.90625,
+                211
+            ]
+        },
+        {
+            "text": "P. Sean Neville",
+            "bbox": [
+                30,
+                211,
+                306.90625,
+                223
+            ]
+        },
+        {
+            "text": "David Orfao",
+            "bbox": [
+                30,
+                223,
+                306.90625,
+                235
+            ]
+        },
+        {
+            "text": "Danita Ostling",
+            "bbox": [
+                30,
+                235,
+                306.90625,
+                247
+            ]
+        },
+        {
+            "text": "All directors and executive officers as a group (11 persons)",
+            "bbox": [
+                30,
+                247,
+                306.90625,
+                259
+            ]
+        },
+        {
+            "text": "Five percent holders:",
+            "bbox": [
+                30,
+                259,
+                306.90625,
+                271
+            ]
+        },
+        {
+            "text": "Entities affiliated with Accel(2)",
+            "bbox": [
+                30,
+                271,
+                306.90625,
+                283
+            ]
+        },
+        {
+            "text": "12,816,613",
+            "bbox": [
+                312.84375,
+                271,
+                366.203125,
+                283
+            ]
+        },
+        {
+            "text": "Entities affiliated with Breyer(3)",
+            "bbox": [
+                30,
+                283,
+                306.90625,
+                295
+            ]
+        },
+        {
+            "text": "16,716,330",
+            "bbox": [
+                312.84375,
+                283,
+                366.203125,
+                295
+            ]
+        },
+        {
+            "text": "General Catalyst Group VI, L.P.(4)",
+            "bbox": [
+                30,
+                295,
+                306.90625,
+                307
+            ]
+        },
+        {
+            "text": "23,671,493",
+            "bbox": [
+                312.84375,
+                295,
+                366.203125,
+                307
+            ]
+        },
+        {
+            "text": "Entities affiliated with IDG Capital(5)",
+            "bbox": [
+                30,
+                307,
+                306.90625,
+                319
+            ]
+        },
+        {
+            "text": "23,275,040",
+            "bbox": [
+                312.84375,
+                307,
+                366.203125,
+                319
+            ]
+        },
+        {
+            "text": "Oak Investment Partners XIII, L.P.(6)",
+            "bbox": [
+                30,
+                319,
+                306.90625,
+                331
+            ]
+        },
+        {
+            "text": "13,977,268",
+            "bbox": [
+                312.84375,
+                319,
+                366.203125,
+                331
+            ]
+        },
+        {
+            "text": "FMR LLC (7)",
+            "bbox": [
+                30,
+                331,
+                306.90625,
+                343
+            ]
+        },
+        {
+            "text": "13,417,823",
+            "bbox": [
+                312.84375,
+                331,
+                366.203125,
+                343
+            ]
+        },
+        {
+            "text": "Other selling stockholders:",
+            "bbox": [
+                30,
+                343,
+                306.90625,
+                359.5
+            ]
+        }
+    ]
+}

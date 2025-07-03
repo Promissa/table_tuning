@@ -1,0 +1,97 @@
+{
+    "imagePath": "table_518.png",
+    "imageWidth": 1264,
+    "imageHeight": 211.65625,
+    "cells": [
+        {
+            "text": "Incorporated by Reference",
+            "bbox": [
+                1080.890625,
+                30,
+                1234.0,
+                52.5
+            ]
+        },
+        {
+            "text": "Exhibit Number",
+            "bbox": [
+                30,
+                52.5,
+                107.71875,
+                111.5
+            ]
+        },
+        {
+            "text": "Exhibit Description",
+            "bbox": [
+                110.375,
+                52.5,
+                1078.234375,
+                111.5
+            ]
+        },
+        {
+            "text": "Form",
+            "bbox": [
+                1080.890625,
+                52.5,
+                1110.203125,
+                111.5
+            ]
+        },
+        {
+            "text": "Exhibit",
+            "bbox": [
+                1112.859375,
+                52.5,
+                1151.0625,
+                111.5
+            ]
+        },
+        {
+            "text": "Filing Date/\nPeriod End Date",
+            "bbox": [
+                1153.71875,
+                52.5,
+                1234.0,
+                111.5
+            ]
+        },
+        {
+            "text": "101**",
+            "bbox": [
+                30,
+                111.5,
+                107.71875,
+                152.0
+            ]
+        },
+        {
+            "text": "Inline XBRL Document Set for the consolidated financial statements and accompanying notes in Part II, Item 8, �Financial Statements and Supplementary Data� of this Annual Report on Form 10-K.",
+            "bbox": [
+                110.375,
+                111.5,
+                1078.234375,
+                152.0
+            ]
+        },
+        {
+            "text": "104**",
+            "bbox": [
+                30,
+                152,
+                107.71875,
+                174
+            ]
+        },
+        {
+            "text": "Inline XBRL for the cover page of this Annual Report on Form 10-K, included in the Exhibit 101 Inline XBRL Document Set.",
+            "bbox": [
+                110.375,
+                152,
+                1078.234375,
+                174
+            ]
+        }
+    ]
+}

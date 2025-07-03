@@ -1,0 +1,25 @@
+{
+    "imagePath": "table_310.png",
+    "imageWidth": 1264,
+    "imageHeight": 150,
+    "cells": [
+        {
+            "text": "•",
+            "bbox": [
+                30,
+                30,
+                42.03125,
+                120
+            ]
+        },
+        {
+            "text": "Identity and compliance standards.  Alongside regulatory clarity are standards and requirements to meet important global financial crime compliance rules (e.g., AML). Identity verification and financial crime compliance standards have historically been challenging to design and implement consistently due to structural issues within the financial system, including “walled gardens,” and technological challenges impeding the standardization of procedures and expectations. However, Financial Action Task Force recommendations and new digital asset laws’ requirements have increasingly heightened the need for proving the identities of digital wallet users and keeping and exchanging records of their transactions. Market constituents are also exploring the creation of an open standards body to further reinforce this process. These rules and initiatives will help maintain the financial integrity of these networks and increase the confidence of companies and financial institutions using these networks.",
+            "bbox": [
+                54.0625,
+                30,
+                1234.0,
+                120
+            ]
+        }
+    ]
+}

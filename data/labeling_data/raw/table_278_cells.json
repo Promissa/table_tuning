@@ -1,0 +1,25 @@
+{
+    "imagePath": "table_278.png",
+    "imageWidth": 1264,
+    "imageHeight": 150,
+    "cells": [
+        {
+            "text": "•",
+            "bbox": [
+                30,
+                30,
+                42.03125,
+                120
+            ]
+        },
+        {
+            "text": "Significant inefficiencies: Existing global systems of payment and value exchange are riddled with the same inefficiencies as pre-internet communications—money often takes days or longer to move, particularly cross-border. Besides adding significant fees from foreign exchange and other transaction-related expenses, these slow processes can create loss potential and result in significant capital being locked up for days awaiting settlement (e.g., margin posted to securities clearinghouses that settle T+1). Commercial transactions are plagued by delayed financial settlement and high costs, reflecting a lucrative source of revenue for payment processors but consequently representing a real cost to the global economy that could otherwise be put to more productive use. Inefficiencies in the incumbent financial system also encourage counterparties to use high-friction financial instruments, such as bank guarantees or letters of credit, which perpetuate the inefficiencies inherent in the system.",
+            "bbox": [
+                54.0625,
+                30,
+                1234.0,
+                120
+            ]
+        }
+    ]
+}

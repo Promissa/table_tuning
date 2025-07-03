@@ -1,0 +1,25 @@
+{
+    "imagePath": "table_537.png",
+    "imageWidth": 1264,
+    "imageHeight": 135,
+    "cells": [
+        {
+            "text": "Voting rights",
+            "bbox": [
+                30,
+                30,
+                367.109375,
+                105
+            ]
+        },
+        {
+            "text": "Upon completion of this offering, we will have three authorized series of common stock: Class A common stock, which is entitled to one vote per share; Class B common stock, which is entitled to 5 votes per share (but the aggregate voting power of Class B common stock cannot exceed 30% of the total voting power of our capital stock); and Class C common stock, which does not have any voting power other than to the extent set forth in our certificate of incorporation or otherwise required by applicable law. Holders of our common stock vote together as a single class on all matters, except as otherwise set forth in our certificate of incorporation or as required by applicable law. See “Description of capital stock.”",
+            "bbox": [
+                367.109375,
+                30,
+                1234.0,
+                105
+            ]
+        }
+    ]
+}

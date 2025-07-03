@@ -1,0 +1,79 @@
+{
+    "imagePath": "table_615.png",
+    "imageWidth": 1264,
+    "imageHeight": 132,
+    "cells": [
+        {
+            "text": "Computer equipment and software",
+            "bbox": [
+                90.203125,
+                30,
+                451.390625,
+                48
+            ]
+        },
+        {
+            "text": "3 – 5 years",
+            "bbox": [
+                812.578125,
+                30,
+                1173.796875,
+                48
+            ]
+        },
+        {
+            "text": "Furniture, office and transportation equipment and others",
+            "bbox": [
+                90.203125,
+                48,
+                451.390625,
+                66
+            ]
+        },
+        {
+            "text": "3 – 10 years",
+            "bbox": [
+                812.578125,
+                48,
+                1173.796875,
+                66
+            ]
+        },
+        {
+            "text": "Buildings and other property",
+            "bbox": [
+                90.203125,
+                66,
+                451.390625,
+                84
+            ]
+        },
+        {
+            "text": "10 – 50 years",
+            "bbox": [
+                812.578125,
+                66,
+                1173.796875,
+                84
+            ]
+        },
+        {
+            "text": "Property improvements",
+            "bbox": [
+                90.203125,
+                84,
+                451.390625,
+                102
+            ]
+        },
+        {
+            "text": "shorter of remaining lease period or estimated useful life",
+            "bbox": [
+                812.578125,
+                84,
+                1173.796875,
+                102
+            ]
+        }
+    ]
+}

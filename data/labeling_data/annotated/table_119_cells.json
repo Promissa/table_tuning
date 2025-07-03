@@ -1,0 +1,43 @@
+{
+    "imagePath": "table_119.png",
+    "imageWidth": 1264,
+    "imageHeight": 156,
+    "cells": [
+        {
+            "text": "*",
+            "bbox": [
+                30,
+                30,
+                58.796875,
+                46
+            ]
+        },
+        {
+            "text": "less than 1%.",
+            "bbox": [
+                58.796875,
+                30,
+                1234.0,
+                46
+            ]
+        },
+        {
+            "text": "(1)",
+            "bbox": [
+                30,
+                46,
+                58.796875,
+                126
+            ]
+        },
+        {
+            "text": "Consists of (i)124,000 PIPE Shares, (ii) 20,928 Pre-Funded Warrant Shares, and (iii) 144,928 Common Warrant Shares. 3i Management LLC is the general partner of 3i, LP, and Maier Joshua Tarlow is the manager of 3i Management LLC. As such, Mr. Tarlow exercises sole voting and investment discretion over securities beneficially owned directly or indirectly by 3i, LP and 3i Management LLC. Mr. Tarlow disclaims beneficial ownership of the securities beneficially owned directly by 3i, LP and indirectly by 3i Management LLC. The business address of each of the aforementioned parties is 2 Wooster Street, 2nd Floor, New York, NY 10013. We have been advised that none of Mr. Tarlow, 3i Management LLC, or 3i, LP is a member of the Financial Industry Regulatory Authority, or FINRA, or an independent broker-dealer, or an affiliate or associated person of a FINRA member or independent broker-dealer.",
+            "bbox": [
+                58.796875,
+                46,
+                1234.0,
+                126
+            ]
+        }
+    ]
+}

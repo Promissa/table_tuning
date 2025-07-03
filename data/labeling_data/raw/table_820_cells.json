@@ -1,0 +1,25 @@
+{
+    "imagePath": "table_820.png",
+    "imageWidth": 1264,
+    "imageHeight": 120,
+    "cells": [
+        {
+            "text": "•",
+            "bbox": [
+                30,
+                30,
+                42.03125,
+                90
+            ]
+        },
+        {
+            "text": "Walled gardens:  Today’s systems of electronic money are constructed around national and corporate boundaries, often regulated and operated by national monopolies, similar to the world of media and communications in the pre-internet era. Payments are bound by “walled gardens,” harkening back to the days when one could send an email to a recipient only if both sides used the same online mail service (such as AOL and CompuServe). In the incumbent financial system, electronic money can only travel within tightly controlled ecosystems, often trapped in various privately mediated networks, exacerbating concerns relating to financial exclusion and connectivity around the world.",
+            "bbox": [
+                54.0625,
+                30,
+                1234.0,
+                90
+            ]
+        }
+    ]
+}

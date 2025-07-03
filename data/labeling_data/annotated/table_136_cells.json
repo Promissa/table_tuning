@@ -1,0 +1,304 @@
+{
+    "imagePath": "table_136.png",
+    "imageWidth": 1264,
+    "imageHeight": 2351,
+    "cells": [
+        {
+            "text": "Incorporated by Reference",
+            "bbox": [
+                316.640625,
+                30,
+                1176.5625,
+                44
+            ]
+        },
+        {
+            "text": "Exhibit\n\nNumber",
+            "bbox": [
+                30,
+                44,
+                87.328125,
+                69
+            ]
+        },
+        {
+            "text": "Exhibit Description",
+            "bbox": [
+                144.65625,
+                44,
+                201.984375,
+                69
+            ]
+        },
+        {
+            "text": "Filed\n\nHerewith",
+            "bbox": [
+                259.3125,
+                44,
+                316.640625,
+                69
+            ]
+        },
+        {
+            "text": "Form",
+            "bbox": [
+                373.96875,
+                44,
+                488.625,
+                69
+            ]
+        },
+        {
+            "text": "Period\n\nEnding",
+            "bbox": [
+                603.28125,
+                44,
+                717.9375,
+                69
+            ]
+        },
+        {
+            "text": "Exhibit",
+            "bbox": [
+                832.59375,
+                44,
+                947.25,
+                69
+            ]
+        },
+        {
+            "text": "Filing Date",
+            "bbox": [
+                1061.90625,
+                44,
+                1176.5625,
+                69
+            ]
+        },
+        {
+            "text": "3.1",
+            "bbox": [
+                30,
+                69,
+                87.328125,
+                231
+            ]
+        },
+        {
+            "text": "Amended and Restated Articles of Incorporation of Microsoft Corporation",
+            "bbox": [
+                144.65625,
+                69,
+                201.984375,
+                231
+            ]
+        },
+        {
+            "text": "8-K",
+            "bbox": [
+                431.296875,
+                69,
+                488.625,
+                231
+            ]
+        },
+        {
+            "text": "3.1",
+            "bbox": [
+                889.921875,
+                69,
+                947.25,
+                231
+            ]
+        },
+        {
+            "text": "12/1/2016",
+            "bbox": [
+                1119.234375,
+                69,
+                1176.5625,
+                231
+            ]
+        },
+        {
+            "text": "3.2",
+            "bbox": [
+                30,
+                231,
+                87.328125,
+                313
+            ]
+        },
+        {
+            "text": "Bylaws of Microsoft Corporation",
+            "bbox": [
+                144.65625,
+                231,
+                201.984375,
+                313
+            ]
+        },
+        {
+            "text": "8-K",
+            "bbox": [
+                431.296875,
+                231,
+                488.625,
+                313
+            ]
+        },
+        {
+            "text": "3.2",
+            "bbox": [
+                889.921875,
+                231,
+                947.25,
+                313
+            ]
+        },
+        {
+            "text": "7/3/2023",
+            "bbox": [
+                1119.234375,
+                231,
+                1176.5625,
+                313
+            ]
+        },
+        {
+            "text": "4.1",
+            "bbox": [
+                30,
+                313,
+                87.328125,
+                669
+            ]
+        },
+        {
+            "text": "Indenture, dated as of May 18, 2009, between Microsoft Corporation and The Bank of New York Mellon Trust Company, N.A., as Trustee (�Base Indenture�)",
+            "bbox": [
+                144.65625,
+                313,
+                201.984375,
+                669
+            ]
+        },
+        {
+            "text": "S-3ASR",
+            "bbox": [
+                431.296875,
+                313,
+                488.625,
+                669
+            ]
+        },
+        {
+            "text": "4.1",
+            "bbox": [
+                889.921875,
+                313,
+                947.25,
+                669
+            ]
+        },
+        {
+            "text": "10/29/2015",
+            "bbox": [
+                1119.234375,
+                313,
+                1176.5625,
+                669
+            ]
+        },
+        {
+            "text": "4.2",
+            "bbox": [
+                30,
+                669,
+                87.328125,
+                1327
+            ]
+        },
+        {
+            "text": "Form of First Supplemental Indenture for 2.95% Notes due 2014, 4.20% Notes due 2019, and 5.20% Notes due 2039, dated as of May 18, 2009, between Microsoft Corporation and The Bank of New York Mellon Trust Company, N.A., as Trustee, to the Base Indenture",
+            "bbox": [
+                144.65625,
+                669,
+                201.984375,
+                1327
+            ]
+        },
+        {
+            "text": "8-K",
+            "bbox": [
+                431.296875,
+                669,
+                488.625,
+                1327
+            ]
+        },
+        {
+            "text": "4.2",
+            "bbox": [
+                889.921875,
+                669,
+                947.25,
+                1327
+            ]
+        },
+        {
+            "text": "5/15/2009",
+            "bbox": [
+                1119.234375,
+                669,
+                1176.5625,
+                1327
+            ]
+        },
+        {
+            "text": "4.5",
+            "bbox": [
+                30,
+                1327,
+                87.328125,
+                2321
+            ]
+        },
+        {
+            "text": "Form of Second Supplemental Indenture for 0.875% Notes due 2013, 1.625% Notes due 2015, 3.00% Notes due 2020, and 4.50% Notes due 2040, dated as of September 27, 2010, between Microsoft Corporation and The Bank of New York Mellon Trust Company, N.A., as Trustee, to the Indenture, dated as of May 18, 2009, between Microsoft Corporation and The Bank of New York Mellon Trust Company, N.A., as Trustee",
+            "bbox": [
+                144.65625,
+                1327,
+                201.984375,
+                2321
+            ]
+        },
+        {
+            "text": "8-K",
+            "bbox": [
+                431.296875,
+                1327,
+                488.625,
+                2321
+            ]
+        },
+        {
+            "text": "4.2",
+            "bbox": [
+                889.921875,
+                1327,
+                947.25,
+                2321
+            ]
+        },
+        {
+            "text": "9/27/2010",
+            "bbox": [
+                1119.234375,
+                1327,
+                1176.5625,
+                2321
+            ]
+        }
+    ]
+}

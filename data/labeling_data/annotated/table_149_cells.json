@@ -1,0 +1,439 @@
+{
+    "imagePath": "table_149.png",
+    "imageWidth": 613.609375,
+    "imageHeight": 420,
+    "cells": [
+        {
+            "text": "Founder’s letter",
+            "bbox": [
+                30,
+                30,
+                546.5,
+                45
+            ]
+        },
+        {
+            "text": "1",
+            "bbox": [
+                557.640625,
+                30,
+                579.890625,
+                45
+            ]
+        },
+        {
+            "text": "Glossary",
+            "bbox": [
+                30,
+                45,
+                546.5,
+                60
+            ]
+        },
+        {
+            "text": "6",
+            "bbox": [
+                557.640625,
+                45,
+                579.890625,
+                60
+            ]
+        },
+        {
+            "text": "Prospectus summary",
+            "bbox": [
+                30,
+                60,
+                546.5,
+                75
+            ]
+        },
+        {
+            "text": "10",
+            "bbox": [
+                557.640625,
+                60,
+                579.890625,
+                75
+            ]
+        },
+        {
+            "text": "Risk factors",
+            "bbox": [
+                30,
+                75,
+                546.5,
+                90
+            ]
+        },
+        {
+            "text": "34",
+            "bbox": [
+                557.640625,
+                75,
+                579.890625,
+                90
+            ]
+        },
+        {
+            "text": "Cautionary statement regarding forward-looking statements",
+            "bbox": [
+                30,
+                90,
+                546.5,
+                105
+            ]
+        },
+        {
+            "text": "82",
+            "bbox": [
+                557.640625,
+                90,
+                579.890625,
+                105
+            ]
+        },
+        {
+            "text": "Use of proceeds",
+            "bbox": [
+                30,
+                105,
+                546.5,
+                120
+            ]
+        },
+        {
+            "text": "84",
+            "bbox": [
+                557.640625,
+                105,
+                579.890625,
+                120
+            ]
+        },
+        {
+            "text": "Dividend policy",
+            "bbox": [
+                30,
+                120,
+                546.5,
+                135
+            ]
+        },
+        {
+            "text": "85",
+            "bbox": [
+                557.640625,
+                120,
+                579.890625,
+                135
+            ]
+        },
+        {
+            "text": "Capitalization",
+            "bbox": [
+                30,
+                135,
+                546.5,
+                150
+            ]
+        },
+        {
+            "text": "86",
+            "bbox": [
+                557.640625,
+                135,
+                579.890625,
+                150
+            ]
+        },
+        {
+            "text": "Dilution",
+            "bbox": [
+                30,
+                150,
+                546.5,
+                165
+            ]
+        },
+        {
+            "text": "87",
+            "bbox": [
+                557.640625,
+                150,
+                579.890625,
+                165
+            ]
+        },
+        {
+            "text": "Management’s discussion and analysis of financial condition and results of operations",
+            "bbox": [
+                30,
+                165,
+                546.5,
+                180
+            ]
+        },
+        {
+            "text": "89",
+            "bbox": [
+                557.640625,
+                165,
+                579.890625,
+                180
+            ]
+        },
+        {
+            "text": "Business",
+            "bbox": [
+                30,
+                180,
+                546.5,
+                195
+            ]
+        },
+        {
+            "text": "124",
+            "bbox": [
+                557.640625,
+                180,
+                579.890625,
+                195
+            ]
+        },
+        {
+            "text": "Management",
+            "bbox": [
+                30,
+                195,
+                546.5,
+                210
+            ]
+        },
+        {
+            "text": "161",
+            "bbox": [
+                557.640625,
+                195,
+                579.890625,
+                210
+            ]
+        },
+        {
+            "text": "Compensation discussion & analysis",
+            "bbox": [
+                30,
+                210,
+                546.5,
+                225
+            ]
+        },
+        {
+            "text": "167",
+            "bbox": [
+                557.640625,
+                210,
+                579.890625,
+                225
+            ]
+        },
+        {
+            "text": "Certain relationships and related-party transactions",
+            "bbox": [
+                30,
+                225,
+                546.5,
+                240
+            ]
+        },
+        {
+            "text": "193",
+            "bbox": [
+                557.640625,
+                225,
+                579.890625,
+                240
+            ]
+        },
+        {
+            "text": "Principal and selling stockholders",
+            "bbox": [
+                30,
+                240,
+                546.5,
+                255
+            ]
+        },
+        {
+            "text": "195",
+            "bbox": [
+                557.640625,
+                240,
+                579.890625,
+                255
+            ]
+        },
+        {
+            "text": "Description of capital stock",
+            "bbox": [
+                30,
+                255,
+                546.5,
+                270
+            ]
+        },
+        {
+            "text": "198",
+            "bbox": [
+                557.640625,
+                255,
+                579.890625,
+                270
+            ]
+        },
+        {
+            "text": "Material U.S. federal tax considerations for non-U.S. holders of Class A common stock",
+            "bbox": [
+                30,
+                270,
+                546.5,
+                285
+            ]
+        },
+        {
+            "text": "207",
+            "bbox": [
+                557.640625,
+                270,
+                579.890625,
+                285
+            ]
+        },
+        {
+            "text": "Shares eligible for future sale",
+            "bbox": [
+                30,
+                285,
+                546.5,
+                300
+            ]
+        },
+        {
+            "text": "210",
+            "bbox": [
+                557.640625,
+                285,
+                579.890625,
+                300
+            ]
+        },
+        {
+            "text": "Underwriting",
+            "bbox": [
+                30,
+                300,
+                546.5,
+                315
+            ]
+        },
+        {
+            "text": "213",
+            "bbox": [
+                557.640625,
+                300,
+                579.890625,
+                315
+            ]
+        },
+        {
+            "text": "Changes in and disagreements with accountants on accounting and financial disclosure",
+            "bbox": [
+                30,
+                315,
+                546.5,
+                330
+            ]
+        },
+        {
+            "text": "223",
+            "bbox": [
+                557.640625,
+                315,
+                579.890625,
+                330
+            ]
+        },
+        {
+            "text": "Legal matters",
+            "bbox": [
+                30,
+                330,
+                546.5,
+                345
+            ]
+        },
+        {
+            "text": "224",
+            "bbox": [
+                557.640625,
+                330,
+                579.890625,
+                345
+            ]
+        },
+        {
+            "text": "Experts",
+            "bbox": [
+                30,
+                345,
+                546.5,
+                360
+            ]
+        },
+        {
+            "text": "224",
+            "bbox": [
+                557.640625,
+                345,
+                579.890625,
+                360
+            ]
+        },
+        {
+            "text": "Where you can find more information",
+            "bbox": [
+                30,
+                360,
+                546.5,
+                375
+            ]
+        },
+        {
+            "text": "225",
+            "bbox": [
+                557.640625,
+                360,
+                579.890625,
+                375
+            ]
+        },
+        {
+            "text": "Index to consolidated financial statements",
+            "bbox": [
+                30,
+                375,
+                546.5,
+                390
+            ]
+        },
+        {
+            "text": "F-1",
+            "bbox": [
+                557.640625,
+                375,
+                579.890625,
+                390
+            ]
+        }
+    ]
+}

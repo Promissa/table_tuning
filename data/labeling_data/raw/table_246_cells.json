@@ -1,0 +1,196 @@
+{
+    "imagePath": "table_246.png",
+    "imageWidth": 611.671875,
+    "imageHeight": 255.453125,
+    "cells": [
+        {
+            "text": "Name",
+            "bbox": [
+                30,
+                30,
+                130,
+                57.921875
+            ]
+        },
+        {
+            "text": "Age",
+            "bbox": [
+                130,
+                30,
+                364.578125,
+                57.921875
+            ]
+        },
+        {
+            "text": "Position with Bonso",
+            "bbox": [
+                364.578125,
+                30,
+                581.671875,
+                57.921875
+            ]
+        },
+        {
+            "text": "Anthony So",
+            "bbox": [
+                30,
+                57.921875,
+                130,
+                85.84375
+            ]
+        },
+        {
+            "text": "77",
+            "bbox": [
+                130,
+                57.921875,
+                151.484375,
+                85.84375
+            ]
+        },
+        {
+            "text": "Chairman of the Board, and Director",
+            "bbox": [
+                151.484375,
+                57.921875,
+                577.671875,
+                85.84375
+            ]
+        },
+        {
+            "text": "Andrew So",
+            "bbox": [
+                30,
+                85.84375,
+                130,
+                113.765625
+            ]
+        },
+        {
+            "text": "35",
+            "bbox": [
+                130,
+                85.84375,
+                151.484375,
+                113.765625
+            ]
+        },
+        {
+            "text": "Deputy Chairman of the Board, President, Chief Executive Officer and Director",
+            "bbox": [
+                151.484375,
+                85.84375,
+                577.671875,
+                113.765625
+            ]
+        },
+        {
+            "text": "Albert So",
+            "bbox": [
+                30,
+                113.765625,
+                130,
+                141.6875
+            ]
+        },
+        {
+            "text": "43",
+            "bbox": [
+                130,
+                113.765625,
+                151.484375,
+                141.6875
+            ]
+        },
+        {
+            "text": "Director, Chief Financial Officer, Treasurer, Financial Controller and Secretary",
+            "bbox": [
+                151.484375,
+                113.765625,
+                577.671875,
+                141.6875
+            ]
+        },
+        {
+            "text": "Kim Wah Chung",
+            "bbox": [
+                30,
+                141.6875,
+                130,
+                169.609375
+            ]
+        },
+        {
+            "text": "63",
+            "bbox": [
+                130,
+                141.6875,
+                151.484375,
+                169.609375
+            ]
+        },
+        {
+            "text": "Director, Director of Engineering and Research and Development",
+            "bbox": [
+                151.484375,
+                141.6875,
+                577.671875,
+                169.609375
+            ]
+        },
+        {
+            "text": "Woo-Ping Fok",
+            "bbox": [
+                30,
+                169.609375,
+                130,
+                197.53125
+            ]
+        },
+        {
+            "text": "72",
+            "bbox": [
+                130,
+                169.609375,
+                151.484375,
+                197.53125
+            ]
+        },
+        {
+            "text": "Director",
+            "bbox": [
+                151.484375,
+                169.609375,
+                577.671875,
+                197.53125
+            ]
+        },
+        {
+            "text": "Henry F. Schlueter",
+            "bbox": [
+                30,
+                197.53125,
+                130,
+                225.453125
+            ]
+        },
+        {
+            "text": "70",
+            "bbox": [
+                130,
+                197.53125,
+                151.484375,
+                225.453125
+            ]
+        },
+        {
+            "text": "Director and Assistant Secretary",
+            "bbox": [
+                151.484375,
+                197.53125,
+                577.671875,
+                225.453125
+            ]
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "imagePath": "table_160.png",
+    "imageWidth": 1063.109375,
+    "imageHeight": 133.828125,
+    "cells": [
+        {
+            "text": "Dated: August 16, 2021",
+            "bbox": [
+                30,
+                30,
+                541.59375,
+                48
+            ]
+        },
+        {
+            "text": "BONSO ELECTRONICS INTERNATIONAL INC.",
+            "bbox": [
+                541.59375,
+                30,
+                1033.109375,
+                48
+            ]
+        },
+        {
+            "text": "By:",
+            "bbox": [
+                541.59375,
+                48,
+                571.671875,
+                67.328125
+            ]
+        },
+        {
+            "text": "/s/ Andrew So",
+            "bbox": [
+                571.671875,
+                48,
+                1033.109375,
+                67.328125
+            ]
+        },
+        {
+            "text": "Andrew So, Chief Executive Officer and Director",
+            "bbox": [
+                571.671875,
+                67.328125,
+                1033.109375,
+                103.828125
+            ]
+        }
+    ]
+}

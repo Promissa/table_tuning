@@ -1,0 +1,142 @@
+{
+    "imagePath": "table_593.png",
+    "imageWidth": 1264,
+    "imageHeight": 228,
+    "cells": [
+        {
+            "text": "Securities registered pursuant to Section 12(b) of the Act:",
+            "bbox": [
+                30,
+                30,
+                270.796875,
+                62
+            ]
+        },
+        {
+            "text": "Title of each class",
+            "bbox": [
+                30,
+                62,
+                270.796875,
+                79
+            ]
+        },
+        {
+            "text": "Trading Symbol",
+            "bbox": [
+                511.59375,
+                62,
+                752.390625,
+                79
+            ]
+        },
+        {
+            "text": "Name of exchange on which registered",
+            "bbox": [
+                993.1875,
+                62,
+                1234.0,
+                79
+            ]
+        },
+        {
+            "text": "Common stock, $0.00000625 par value per share",
+            "bbox": [
+                30,
+                79,
+                270.796875,
+                113
+            ]
+        },
+        {
+            "text": "MSFT",
+            "bbox": [
+                511.59375,
+                79,
+                752.390625,
+                113
+            ]
+        },
+        {
+            "text": "NASDAQ",
+            "bbox": [
+                993.1875,
+                79,
+                1234.0,
+                113
+            ]
+        },
+        {
+            "text": "3.125% Notes due 2028",
+            "bbox": [
+                30,
+                113,
+                270.796875,
+                131
+            ]
+        },
+        {
+            "text": "MSFT",
+            "bbox": [
+                511.59375,
+                113,
+                752.390625,
+                131
+            ]
+        },
+        {
+            "text": "NASDAQ",
+            "bbox": [
+                993.1875,
+                113,
+                1234.0,
+                131
+            ]
+        },
+        {
+            "text": "2.625% Notes due 2033",
+            "bbox": [
+                30,
+                131,
+                270.796875,
+                149
+            ]
+        },
+        {
+            "text": "MSFT",
+            "bbox": [
+                511.59375,
+                131,
+                752.390625,
+                149
+            ]
+        },
+        {
+            "text": "NASDAQ",
+            "bbox": [
+                993.1875,
+                131,
+                1234.0,
+                149
+            ]
+        },
+        {
+            "text": "Securities registered pursuant to Section 12(g) of the Act:",
+            "bbox": [
+                30,
+                149,
+                270.796875,
+                181
+            ]
+        },
+        {
+            "text": "None",
+            "bbox": [
+                30,
+                181,
+                270.796875,
+                198
+            ]
+        }
+    ]
+}

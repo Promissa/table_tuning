@@ -1,0 +1,25 @@
+{
+    "imagePath": "table_822.png",
+    "imageWidth": 1264,
+    "imageHeight": 120,
+    "cells": [
+        {
+            "text": "•",
+            "bbox": [
+                30,
+                30,
+                42.03125,
+                90
+            ]
+        },
+        {
+            "text": "Promoting open standards.  We are committed to driving stablecoin adoption through the promotion of open standards to improve interoperability and compliance for stablecoin applications. This includes new non-profit open-source foundations we are forming to promote standards in digital identity, global standards for implementing compliance with the global Travel Rule (which is a key anti-money laundering (“AML”)/countering the financing of terrorism (“CFT”) rule to prevent illicit activity with virtual assets), and new open-source standards aimed at promoting the use of stablecoins within blockchain-based credit and lending applications.",
+            "bbox": [
+                54.0625,
+                30,
+                1234.0,
+                90
+            ]
+        }
+    ]
+}

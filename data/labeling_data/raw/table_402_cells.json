@@ -1,0 +1,196 @@
+{
+    "imagePath": "table_402.png",
+    "imageWidth": 478.921875,
+    "imageHeight": 286,
+    "cells": [
+        {
+            "text": "Amount Paid or to be Paid",
+            "bbox": [
+                313,
+                30,
+                448.921875,
+                52.5
+            ]
+        },
+        {
+            "text": "SEC registration fee",
+            "bbox": [
+                30,
+                52.5,
+                313,
+                75.0
+            ]
+        },
+        {
+            "text": "$",
+            "bbox": [
+                313,
+                52.5,
+                334.1875,
+                75.0
+            ]
+        },
+        {
+            "text": "109,100",
+            "bbox": [
+                334.1875,
+                52.5,
+                446.109375,
+                75.0
+            ]
+        },
+        {
+            "text": "Nasdaq Global Select Market listing fee",
+            "bbox": [
+                30,
+                75,
+                313,
+                97
+            ]
+        },
+        {
+            "text": "*",
+            "bbox": [
+                334.1875,
+                75,
+                448.921875,
+                97
+            ]
+        },
+        {
+            "text": "Printing fees and expenses",
+            "bbox": [
+                30,
+                97,
+                313,
+                119
+            ]
+        },
+        {
+            "text": "*",
+            "bbox": [
+                334.1875,
+                97,
+                448.921875,
+                119
+            ]
+        },
+        {
+            "text": "Legal fees and expenses",
+            "bbox": [
+                30,
+                119,
+                313,
+                141
+            ]
+        },
+        {
+            "text": "*",
+            "bbox": [
+                334.1875,
+                119,
+                448.921875,
+                141
+            ]
+        },
+        {
+            "text": "Accounting fees and expenses",
+            "bbox": [
+                30,
+                141,
+                313,
+                163
+            ]
+        },
+        {
+            "text": "*",
+            "bbox": [
+                334.1875,
+                141,
+                448.921875,
+                163
+            ]
+        },
+        {
+            "text": "Transfer agent and registrar fees and expenses",
+            "bbox": [
+                30,
+                163,
+                313,
+                185
+            ]
+        },
+        {
+            "text": "*",
+            "bbox": [
+                334.1875,
+                163,
+                448.921875,
+                185
+            ]
+        },
+        {
+            "text": "Other advisors’ fees",
+            "bbox": [
+                30,
+                185,
+                313,
+                207
+            ]
+        },
+        {
+            "text": "*",
+            "bbox": [
+                334.1875,
+                185,
+                448.921875,
+                207
+            ]
+        },
+        {
+            "text": "Miscellaneous expenses",
+            "bbox": [
+                30,
+                207,
+                313,
+                229.5
+            ]
+        },
+        {
+            "text": "*",
+            "bbox": [
+                334.1875,
+                207,
+                448.921875,
+                229.5
+            ]
+        },
+        {
+            "text": "Total",
+            "bbox": [
+                30,
+                229.5,
+                313,
+                254.0
+            ]
+        },
+        {
+            "text": "$",
+            "bbox": [
+                313,
+                229.5,
+                334.1875,
+                254.0
+            ]
+        },
+        {
+            "text": "*",
+            "bbox": [
+                334.1875,
+                229.5,
+                448.921875,
+                254.0
+            ]
+        }
+    ]
+}

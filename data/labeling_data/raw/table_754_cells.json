@@ -1,0 +1,205 @@
+{
+    "imagePath": "table_754.png",
+    "imageWidth": 773.140625,
+    "imageHeight": 226,
+    "cells": [
+        {
+            "text": "10.12§",
+            "bbox": [
+                33.71875,
+                30,
+                81.90625,
+                45
+            ]
+        },
+        {
+            "text": "Form of Circle Internet Group, Inc. Employee Stock Purchase Plan",
+            "bbox": [
+                93.046875,
+                30,
+                743.140625,
+                45
+            ]
+        },
+        {
+            "text": "10.13§",
+            "bbox": [
+                33.71875,
+                45,
+                81.90625,
+                60
+            ]
+        },
+        {
+            "text": "Circle Internet Group, Inc. Executive Severance Plan",
+            "bbox": [
+                93.046875,
+                45,
+                743.140625,
+                60
+            ]
+        },
+        {
+            "text": "10.14§†",
+            "bbox": [
+                33.71875,
+                60,
+                81.90625,
+                75
+            ]
+        },
+        {
+            "text": "Form of Executive Severance Plan Participation Agreement",
+            "bbox": [
+                93.046875,
+                60,
+                743.140625,
+                75
+            ]
+        },
+        {
+            "text": "10.15",
+            "bbox": [
+                33.71875,
+                75,
+                81.90625,
+                90
+            ]
+        },
+        {
+            "text": "Form of Indemnification Agreement for directors and executive officers",
+            "bbox": [
+                93.046875,
+                75,
+                743.140625,
+                90
+            ]
+        },
+        {
+            "text": "16.1",
+            "bbox": [
+                33.71875,
+                90,
+                81.90625,
+                105
+            ]
+        },
+        {
+            "text": "Letter from Grant Thornton LLP",
+            "bbox": [
+                93.046875,
+                90,
+                743.140625,
+                105
+            ]
+        },
+        {
+            "text": "21.1",
+            "bbox": [
+                33.71875,
+                105,
+                81.90625,
+                120
+            ]
+        },
+        {
+            "text": "List of subsidiaries",
+            "bbox": [
+                93.046875,
+                105,
+                743.140625,
+                120
+            ]
+        },
+        {
+            "text": "23.1",
+            "bbox": [
+                33.71875,
+                120,
+                81.90625,
+                135
+            ]
+        },
+        {
+            "text": "Consent of Deloitte & Touche LLP, independent registered public accounting firm for Circle Internet Group, Inc.",
+            "bbox": [
+                93.046875,
+                120,
+                743.140625,
+                135
+            ]
+        },
+        {
+            "text": "23.2",
+            "bbox": [
+                33.71875,
+                135,
+                81.90625,
+                150
+            ]
+        },
+        {
+            "text": "Consent of Deloitte & Touche LLP, independent registered public accounting firm for Circle Reserve Fund",
+            "bbox": [
+                93.046875,
+                135,
+                743.140625,
+                150
+            ]
+        },
+        {
+            "text": "23.3*",
+            "bbox": [
+                33.71875,
+                150,
+                81.90625,
+                165
+            ]
+        },
+        {
+            "text": "Consent of Davis Polk & Wardwell LLP (included in Exhibit 5.1)",
+            "bbox": [
+                93.046875,
+                150,
+                743.140625,
+                165
+            ]
+        },
+        {
+            "text": "24.1",
+            "bbox": [
+                33.71875,
+                165,
+                81.90625,
+                180
+            ]
+        },
+        {
+            "text": "Powers of attorney (included on signature page to the registration statement)",
+            "bbox": [
+                93.046875,
+                165,
+                743.140625,
+                180
+            ]
+        },
+        {
+            "text": "107",
+            "bbox": [
+                33.71875,
+                180,
+                81.90625,
+                195.5
+            ]
+        },
+        {
+            "text": "Filing fee table",
+            "bbox": [
+                93.046875,
+                180,
+                743.140625,
+                195.5
+            ]
+        }
+    ]
+}

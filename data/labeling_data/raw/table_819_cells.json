@@ -1,0 +1,358 @@
+{
+    "imagePath": "table_819.png",
+    "imageWidth": 573.875,
+    "imageHeight": 511,
+    "cells": [
+        {
+            "text": "Signature",
+            "bbox": [
+                30,
+                30,
+                212.671875,
+                52
+            ]
+        },
+        {
+            "text": "Title",
+            "bbox": [
+                215.328125,
+                30,
+                429.625,
+                52
+            ]
+        },
+        {
+            "text": "Date",
+            "bbox": [
+                432.28125,
+                30,
+                543.875,
+                52
+            ]
+        },
+        {
+            "text": "/s/ Brian Armstrong",
+            "bbox": [
+                30,
+                52,
+                212.671875,
+                74.5
+            ]
+        },
+        {
+            "text": "Chief Executive Officer and Director\n(Principal Executive Officer)",
+            "bbox": [
+                215.328125,
+                52,
+                429.625,
+                97
+            ]
+        },
+        {
+            "text": "February 25, 2021",
+            "bbox": [
+                432.28125,
+                52,
+                543.875,
+                97
+            ]
+        },
+        {
+            "text": "Brian Armstrong",
+            "bbox": [
+                30,
+                74.5,
+                212.671875,
+                97.0
+            ]
+        },
+        {
+            "text": "/s/ Alesia J. Haas",
+            "bbox": [
+                30,
+                97,
+                212.671875,
+                119.5
+            ]
+        },
+        {
+            "text": "Chief Financial Officer\n(Principal Financial Officer)",
+            "bbox": [
+                215.328125,
+                97,
+                429.625,
+                142
+            ]
+        },
+        {
+            "text": "February 25, 2021",
+            "bbox": [
+                432.28125,
+                97,
+                543.875,
+                142
+            ]
+        },
+        {
+            "text": "Alesia J. Haas",
+            "bbox": [
+                30,
+                119.5,
+                212.671875,
+                142.0
+            ]
+        },
+        {
+            "text": "/s/ Jennifer N. Jones",
+            "bbox": [
+                30,
+                142,
+                212.671875,
+                164.5
+            ]
+        },
+        {
+            "text": "Chief Accounting Officer\n(Principal Accounting Officer)",
+            "bbox": [
+                215.328125,
+                142,
+                429.625,
+                187
+            ]
+        },
+        {
+            "text": "February 25, 2021",
+            "bbox": [
+                432.28125,
+                142,
+                543.875,
+                187
+            ]
+        },
+        {
+            "text": "Jennifer N. Jones",
+            "bbox": [
+                30,
+                164.5,
+                212.671875,
+                187.0
+            ]
+        },
+        {
+            "text": "/s/ Marc L. Andreessen",
+            "bbox": [
+                30,
+                187,
+                212.671875,
+                209.5
+            ]
+        },
+        {
+            "text": "Director",
+            "bbox": [
+                215.328125,
+                187,
+                429.625,
+                232
+            ]
+        },
+        {
+            "text": "February 25, 2021",
+            "bbox": [
+                432.28125,
+                187,
+                543.875,
+                232
+            ]
+        },
+        {
+            "text": "Marc L. Andreessen",
+            "bbox": [
+                30,
+                209.5,
+                212.671875,
+                232.0
+            ]
+        },
+        {
+            "text": "/s/ Frederick Ernest Ehrsam III",
+            "bbox": [
+                30,
+                232,
+                212.671875,
+                254.5
+            ]
+        },
+        {
+            "text": "Director",
+            "bbox": [
+                215.328125,
+                232,
+                429.625,
+                289
+            ]
+        },
+        {
+            "text": "February 25, 2021",
+            "bbox": [
+                432.28125,
+                232,
+                543.875,
+                289
+            ]
+        },
+        {
+            "text": "Frederick Ernest Ehrsam III",
+            "bbox": [
+                30,
+                254.5,
+                212.671875,
+                289.0
+            ]
+        },
+        {
+            "text": "/s/ Kathryn Haun",
+            "bbox": [
+                30,
+                289,
+                212.671875,
+                311.5
+            ]
+        },
+        {
+            "text": "Director",
+            "bbox": [
+                215.328125,
+                289,
+                429.625,
+                346
+            ]
+        },
+        {
+            "text": "February 25, 2021",
+            "bbox": [
+                432.28125,
+                289,
+                543.875,
+                346
+            ]
+        },
+        {
+            "text": "Kathryn Haun",
+            "bbox": [
+                30,
+                311.5,
+                212.671875,
+                346.0
+            ]
+        },
+        {
+            "text": "/s/ Kelly Kramer",
+            "bbox": [
+                30,
+                346,
+                212.671875,
+                368.5
+            ]
+        },
+        {
+            "text": "Director",
+            "bbox": [
+                215.328125,
+                346,
+                429.625,
+                391
+            ]
+        },
+        {
+            "text": "February 25, 2021",
+            "bbox": [
+                432.28125,
+                346,
+                543.875,
+                391
+            ]
+        },
+        {
+            "text": "Kelly Kramer",
+            "bbox": [
+                30,
+                368.5,
+                212.671875,
+                391.0
+            ]
+        },
+        {
+            "text": "/s/ Gokul Rajaram",
+            "bbox": [
+                30,
+                391,
+                212.671875,
+                413.5
+            ]
+        },
+        {
+            "text": "Director",
+            "bbox": [
+                215.328125,
+                391,
+                429.625,
+                436
+            ]
+        },
+        {
+            "text": "February 25, 2021",
+            "bbox": [
+                432.28125,
+                391,
+                543.875,
+                436
+            ]
+        },
+        {
+            "text": "Gokul Rajaram",
+            "bbox": [
+                30,
+                413.5,
+                212.671875,
+                436.0
+            ]
+        },
+        {
+            "text": "/s/ Fred Wilson",
+            "bbox": [
+                30,
+                436,
+                212.671875,
+                458.5
+            ]
+        },
+        {
+            "text": "Director",
+            "bbox": [
+                215.328125,
+                436,
+                429.625,
+                481
+            ]
+        },
+        {
+            "text": "February 25, 2021",
+            "bbox": [
+                432.28125,
+                436,
+                543.875,
+                481
+            ]
+        },
+        {
+            "text": "Fred Wilson",
+            "bbox": [
+                30,
+                458.5,
+                212.671875,
+                481.0
+            ]
+        }
+    ]
+}

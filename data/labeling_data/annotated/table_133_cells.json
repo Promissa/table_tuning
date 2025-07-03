@@ -1,0 +1,25 @@
+{
+    "imagePath": "table_133.png",
+    "imageWidth": 1264,
+    "imageHeight": 135,
+    "cells": [
+        {
+            "text": "•",
+            "bbox": [
+                30,
+                30,
+                42.03125,
+                105
+            ]
+        },
+        {
+            "text": "Circle CCTP.  As blockchain applications grow and blockchain networks compete for developers and end-users, it has become important for end-users to be able to easily and safely transfer stablecoins across different blockchain networks. For most end-users, the process of making a transfer across blockchain networks is cumbersome, expensive, slow, and introduces significant security and financial integrity risks. Blockchains have generally not been interoperable with each other, contributing to difficulties bridging from one chain to another. The only way for most end-users to move value across blockchains has been to use a “wrapped token,” or a tokenized representation of a particular digital asset that enables it to be operable on another blockchain. Such protocols introduce undue risk and hacking opportunities into a process that should otherwise be simple and hassle-free.",
+            "bbox": [
+                54.0625,
+                30,
+                1234.0,
+                105
+            ]
+        }
+    ]
+}

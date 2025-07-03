@@ -1,0 +1,160 @@
+{
+    "imagePath": "table_100.png",
+    "imageWidth": 1264,
+    "imageHeight": 266,
+    "cells": [
+        {
+            "text": "Page",
+            "bbox": [
+                632,
+                30,
+                1234,
+                44
+            ]
+        },
+        {
+            "text": "Report of Independent Registered Public Accounting Firm for the Year Ended March 31, 2024 (PCAOB ID 1424)",
+            "bbox": [
+                30,
+                44,
+                632,
+                78
+            ]
+        },
+        {
+            "text": "F-2",
+            "bbox": [
+                632,
+                44,
+                1234,
+                78
+            ]
+        },
+        {
+            "text": "Report of Independent Registered Public Accounting Firm for the Years Ended March 31, 2022 and 2023 (PCAOB ID 1389)",
+            "bbox": [
+                30,
+                78,
+                632,
+                112
+            ]
+        },
+        {
+            "text": "F-5",
+            "bbox": [
+                632,
+                78,
+                1234,
+                112
+            ]
+        },
+        {
+            "text": "Consolidated Income Statements for the Years Ended March 31, 2022, 2023 and 2024",
+            "bbox": [
+                30,
+                112,
+                632,
+                130
+            ]
+        },
+        {
+            "text": "F-6",
+            "bbox": [
+                632,
+                112,
+                1234,
+                130
+            ]
+        },
+        {
+            "text": "Consolidated Statements of Comprehensive Income for the Years Ended March 31, 2022, 2023 and 2024",
+            "bbox": [
+                30,
+                130,
+                632,
+                148
+            ]
+        },
+        {
+            "text": "F-7",
+            "bbox": [
+                632,
+                130,
+                1234,
+                148
+            ]
+        },
+        {
+            "text": "Consolidated Balance Sheets as of March 31, 2023 and 2024",
+            "bbox": [
+                30,
+                148,
+                632,
+                166
+            ]
+        },
+        {
+            "text": "F-8",
+            "bbox": [
+                632,
+                148,
+                1234,
+                166
+            ]
+        },
+        {
+            "text": "Consolidated Statements of Changes in Shareholders’ Equity for the Years Ended March 31, 2022, 2023 and 2024",
+            "bbox": [
+                30,
+                166,
+                632,
+                200
+            ]
+        },
+        {
+            "text": "F-10",
+            "bbox": [
+                632,
+                166,
+                1234,
+                200
+            ]
+        },
+        {
+            "text": "Consolidated Statements of Cash Flows for the Years Ended March 31, 2022, 2023 and 2024",
+            "bbox": [
+                30,
+                200,
+                632,
+                218
+            ]
+        },
+        {
+            "text": "F-13",
+            "bbox": [
+                632,
+                200,
+                1234,
+                218
+            ]
+        },
+        {
+            "text": "Notes to Consolidated Financial Statements",
+            "bbox": [
+                30,
+                218,
+                632,
+                236
+            ]
+        },
+        {
+            "text": "F-16",
+            "bbox": [
+                632,
+                218,
+                1234,
+                236
+            ]
+        }
+    ]
+}

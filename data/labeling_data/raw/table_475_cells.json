@@ -1,0 +1,205 @@
+{
+    "imagePath": "table_475.png",
+    "imageWidth": 1264,
+    "imageHeight": 623,
+    "cells": [
+        {
+            "text": "Related Party",
+            "bbox": [
+                30,
+                30,
+                431.328125,
+                43
+            ]
+        },
+        {
+            "text": "Transaction Description",
+            "bbox": [
+                832.65625,
+                30,
+                1234.0,
+                43
+            ]
+        },
+        {
+            "text": "•\nWe and Ant Group cooperate with each other with respect to the enforcement of each other’s rights and the provision of certain financial services to our customers and merchants in connection with the SME loan business.",
+            "bbox": [
+                832.65625,
+                43,
+                1234.0,
+                99
+            ]
+        },
+        {
+            "text": "•\nWe granted Ant Group a license for it to continue to use certain trademarks and domain names.",
+            "bbox": [
+                832.65625,
+                99,
+                1234.0,
+                137
+            ]
+        },
+        {
+            "text": "•\nVarious investments involving Ant Group.",
+            "bbox": [
+                832.65625,
+                137,
+                1234.0,
+                157
+            ]
+        },
+        {
+            "text": "•\nPrior to 2023, we granted share-based awards to employees of Ant Group; Junhan, a major equity holder of Ant Group, and Ant Group granted share-based awards to our employees. We, Junhan and Ant Group agreed to settle with each other the cost associated with certain share-based awards granted to each other’s employees upon vesting.",
+            "bbox": [
+                832.65625,
+                157,
+                1234.0,
+                249
+            ]
+        },
+        {
+            "text": "Entities affiliated with our directors and officers",
+            "bbox": [
+                30,
+                249,
+                832.65625,
+                287
+            ]
+        },
+        {
+            "text": "•\nWe agreed to assume the cost of maintenance, crew and operation of personal aircraft of our chairman where the cost is allocated for business purposes.",
+            "bbox": [
+                832.65625,
+                249,
+                1234.0,
+                287
+            ]
+        },
+        {
+            "text": "•\nInvestments in and various investments involving the Vision Plus Capital Funds, investment funds affiliated with our director and chief executive officer.",
+            "bbox": [
+                832.65625,
+                287,
+                1234.0,
+                325
+            ]
+        },
+        {
+            "text": "Investment funds affiliated with Jack Ma",
+            "bbox": [
+                30,
+                325,
+                832.65625,
+                363
+            ]
+        },
+        {
+            "text": "•\nVarious investments involving the Yunfeng Funds, investment funds affiliated with Jack Ma.",
+            "bbox": [
+                832.65625,
+                325,
+                1234.0,
+                363
+            ]
+        },
+        {
+            "text": "Jack Ma",
+            "bbox": [
+                30,
+                363,
+                832.65625,
+                401
+            ]
+        },
+        {
+            "text": "•\nJack Ma, formerly one of our directors made certain commitments to us relating to his interest in Ant Group, the Yunfeng Funds and other entities.",
+            "bbox": [
+                832.65625,
+                363,
+                1234.0,
+                401
+            ]
+        },
+        {
+            "text": "Investees",
+            "bbox": [
+                30,
+                401,
+                832.65625,
+                421
+            ]
+        },
+        {
+            "text": "•\nWe extended loans to and provided a guarantee for certain of our investees.",
+            "bbox": [
+                832.65625,
+                401,
+                1234.0,
+                421
+            ]
+        },
+        {
+            "text": "•\nWe have made co‑investments with certain of our investees.",
+            "bbox": [
+                832.65625,
+                421,
+                1234.0,
+                441
+            ]
+        },
+        {
+            "text": "Variable interest entities and variable interest entity equity holders",
+            "bbox": [
+                30,
+                441,
+                832.65625,
+                497
+            ]
+        },
+        {
+            "text": "•\nWe operate certain of our businesses in China through contractual arrangements between our relevant subsidiaries, the variable interest entities and variable interest entity equity holders.",
+            "bbox": [
+                832.65625,
+                441,
+                1234.0,
+                497
+            ]
+        },
+        {
+            "text": "Directors and executive officers",
+            "bbox": [
+                30,
+                497,
+                832.65625,
+                535
+            ]
+        },
+        {
+            "text": "•\nWe entered into indemnification agreements with our directors and executive officers.",
+            "bbox": [
+                832.65625,
+                497,
+                1234.0,
+                535
+            ]
+        },
+        {
+            "text": "•\nWe entered into employment agreements with our directors and executive officers.",
+            "bbox": [
+                832.65625,
+                535,
+                1234.0,
+                573
+            ]
+        },
+        {
+            "text": "•\nWe grant equity incentive awards to our directors and executive officers.",
+            "bbox": [
+                832.65625,
+                573,
+                1234.0,
+                593
+            ]
+        }
+    ]
+}

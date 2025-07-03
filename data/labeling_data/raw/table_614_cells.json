@@ -1,0 +1,493 @@
+{
+    "imagePath": "table_614.png",
+    "imageWidth": 682.984375,
+    "imageHeight": 654,
+    "cells": [
+        {
+            "text": "About This Prospectus",
+            "bbox": [
+                30,
+                30,
+                628.078125,
+                52
+            ]
+        },
+        {
+            "text": "ii",
+            "bbox": [
+                628.078125,
+                30,
+                652.984375,
+                52
+            ]
+        },
+        {
+            "text": "Glossary to the Cryptoeconomy",
+            "bbox": [
+                30,
+                52,
+                628.078125,
+                74
+            ]
+        },
+        {
+            "text": "iii",
+            "bbox": [
+                628.078125,
+                52,
+                652.984375,
+                74
+            ]
+        },
+        {
+            "text": "A Letter from our Co-Founder and CEO",
+            "bbox": [
+                30,
+                74,
+                628.078125,
+                96
+            ]
+        },
+        {
+            "text": "vi",
+            "bbox": [
+                628.078125,
+                74,
+                652.984375,
+                96
+            ]
+        },
+        {
+            "text": "Prospectus Summary",
+            "bbox": [
+                30,
+                96,
+                628.078125,
+                118
+            ]
+        },
+        {
+            "text": "1",
+            "bbox": [
+                628.078125,
+                96,
+                652.984375,
+                118
+            ]
+        },
+        {
+            "text": "Risk Factors",
+            "bbox": [
+                30,
+                118,
+                628.078125,
+                140
+            ]
+        },
+        {
+            "text": "15",
+            "bbox": [
+                628.078125,
+                118,
+                652.984375,
+                140
+            ]
+        },
+        {
+            "text": "Special Note Regarding Forward-Looking Statements",
+            "bbox": [
+                30,
+                140,
+                628.078125,
+                162
+            ]
+        },
+        {
+            "text": "75",
+            "bbox": [
+                628.078125,
+                140,
+                652.984375,
+                162
+            ]
+        },
+        {
+            "text": "Market and Industry Data",
+            "bbox": [
+                30,
+                162,
+                628.078125,
+                184
+            ]
+        },
+        {
+            "text": "77",
+            "bbox": [
+                628.078125,
+                162,
+                652.984375,
+                184
+            ]
+        },
+        {
+            "text": "Use of Proceeds",
+            "bbox": [
+                30,
+                184,
+                628.078125,
+                206
+            ]
+        },
+        {
+            "text": "78",
+            "bbox": [
+                628.078125,
+                184,
+                652.984375,
+                206
+            ]
+        },
+        {
+            "text": "Dividend Policy",
+            "bbox": [
+                30,
+                206,
+                628.078125,
+                228
+            ]
+        },
+        {
+            "text": "79",
+            "bbox": [
+                628.078125,
+                206,
+                652.984375,
+                228
+            ]
+        },
+        {
+            "text": "Capitalization",
+            "bbox": [
+                30,
+                228,
+                628.078125,
+                250
+            ]
+        },
+        {
+            "text": "80",
+            "bbox": [
+                628.078125,
+                228,
+                652.984375,
+                250
+            ]
+        },
+        {
+            "text": "Selected Consolidated Financials and Other Data",
+            "bbox": [
+                30,
+                250,
+                628.078125,
+                272
+            ]
+        },
+        {
+            "text": "83",
+            "bbox": [
+                628.078125,
+                250,
+                652.984375,
+                272
+            ]
+        },
+        {
+            "text": "Management’s Discussion and Analysis of Financial Condition and Results of Operations",
+            "bbox": [
+                30,
+                272,
+                628.078125,
+                294
+            ]
+        },
+        {
+            "text": "88",
+            "bbox": [
+                628.078125,
+                272,
+                652.984375,
+                294
+            ]
+        },
+        {
+            "text": "Business",
+            "bbox": [
+                30,
+                294,
+                628.078125,
+                316
+            ]
+        },
+        {
+            "text": "120",
+            "bbox": [
+                628.078125,
+                294,
+                652.984375,
+                316
+            ]
+        },
+        {
+            "text": "Management",
+            "bbox": [
+                30,
+                316,
+                628.078125,
+                338
+            ]
+        },
+        {
+            "text": "155",
+            "bbox": [
+                628.078125,
+                316,
+                652.984375,
+                338
+            ]
+        },
+        {
+            "text": "Executive Compensation",
+            "bbox": [
+                30,
+                338,
+                628.078125,
+                360
+            ]
+        },
+        {
+            "text": "166",
+            "bbox": [
+                628.078125,
+                338,
+                652.984375,
+                360
+            ]
+        },
+        {
+            "text": "Certain Relationships and Related Party Transactions",
+            "bbox": [
+                30,
+                360,
+                628.078125,
+                382
+            ]
+        },
+        {
+            "text": "178",
+            "bbox": [
+                628.078125,
+                360,
+                652.984375,
+                382
+            ]
+        },
+        {
+            "text": "Principal and Registered Stockholders",
+            "bbox": [
+                30,
+                382,
+                628.078125,
+                404
+            ]
+        },
+        {
+            "text": "182",
+            "bbox": [
+                628.078125,
+                382,
+                652.984375,
+                404
+            ]
+        },
+        {
+            "text": "Description of Capital Stock",
+            "bbox": [
+                30,
+                404,
+                628.078125,
+                426
+            ]
+        },
+        {
+            "text": "186",
+            "bbox": [
+                628.078125,
+                404,
+                652.984375,
+                426
+            ]
+        },
+        {
+            "text": "Shares Eligible for Future Sale",
+            "bbox": [
+                30,
+                426,
+                628.078125,
+                448
+            ]
+        },
+        {
+            "text": "196",
+            "bbox": [
+                628.078125,
+                426,
+                652.984375,
+                448
+            ]
+        },
+        {
+            "text": "Sale Price History of our Capital Stock",
+            "bbox": [
+                30,
+                448,
+                628.078125,
+                470
+            ]
+        },
+        {
+            "text": "198",
+            "bbox": [
+                628.078125,
+                448,
+                652.984375,
+                470
+            ]
+        },
+        {
+            "text": "Certain Material U.S. Federal Income Tax Consequences to Non-U.S. Holders of Our Common Stock",
+            "bbox": [
+                30,
+                470,
+                628.078125,
+                492
+            ]
+        },
+        {
+            "text": "199",
+            "bbox": [
+                628.078125,
+                470,
+                652.984375,
+                492
+            ]
+        },
+        {
+            "text": "Plan of Distribution",
+            "bbox": [
+                30,
+                492,
+                628.078125,
+                514
+            ]
+        },
+        {
+            "text": "204",
+            "bbox": [
+                628.078125,
+                492,
+                652.984375,
+                514
+            ]
+        },
+        {
+            "text": "Legal Matters",
+            "bbox": [
+                30,
+                514,
+                628.078125,
+                536
+            ]
+        },
+        {
+            "text": "207",
+            "bbox": [
+                628.078125,
+                514,
+                652.984375,
+                536
+            ]
+        },
+        {
+            "text": "Change In Accountants",
+            "bbox": [
+                30,
+                536,
+                628.078125,
+                558
+            ]
+        },
+        {
+            "text": "207",
+            "bbox": [
+                628.078125,
+                536,
+                652.984375,
+                558
+            ]
+        },
+        {
+            "text": "Experts",
+            "bbox": [
+                30,
+                558,
+                628.078125,
+                580
+            ]
+        },
+        {
+            "text": "207",
+            "bbox": [
+                628.078125,
+                558,
+                652.984375,
+                580
+            ]
+        },
+        {
+            "text": "Additional Information",
+            "bbox": [
+                30,
+                580,
+                628.078125,
+                602
+            ]
+        },
+        {
+            "text": "208",
+            "bbox": [
+                628.078125,
+                580,
+                652.984375,
+                602
+            ]
+        },
+        {
+            "text": "Index to Consolidated Financial Statements",
+            "bbox": [
+                30,
+                602,
+                628.078125,
+                624
+            ]
+        },
+        {
+            "text": "F-1",
+            "bbox": [
+                628.078125,
+                602,
+                652.984375,
+                624
+            ]
+        }
+    ]
+}

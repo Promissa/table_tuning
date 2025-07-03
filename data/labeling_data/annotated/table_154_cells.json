@@ -1,0 +1,259 @@
+{
+    "imagePath": "table_154.png",
+    "imageWidth": 1068.484375,
+    "imageHeight": 406.5,
+    "cells": [
+        {
+            "text": "Year Ended December 31,",
+            "bbox": [
+                905.46875,
+                30,
+                1038.484375,
+                52
+            ]
+        },
+        {
+            "text": "2020",
+            "bbox": [
+                905.46875,
+                52,
+                1038.484375,
+                74.5
+            ]
+        },
+        {
+            "text": "Numerator",
+            "bbox": [
+                30,
+                74.5,
+                905.46875,
+                96.5
+            ]
+        },
+        {
+            "text": "Net income attributable to common stockholders, basic and diluted",
+            "bbox": [
+                30,
+                96.5,
+                905.46875,
+                118.5
+            ]
+        },
+        {
+            "text": "$",
+            "bbox": [
+                905.46875,
+                96.5,
+                924.25,
+                118.5
+            ]
+        },
+        {
+            "text": "322,317",
+            "bbox": [
+                924.25,
+                96.5,
+                1035.625,
+                118.5
+            ]
+        },
+        {
+            "text": "Denominator",
+            "bbox": [
+                30,
+                118.5,
+                905.46875,
+                140.5
+            ]
+        },
+        {
+            "text": "Weighted-average shares of common stock used to compute net income per share attributable to common stockholders, basic",
+            "bbox": [
+                30,
+                140.5,
+                905.46875,
+                162.5
+            ]
+        },
+        {
+            "text": "68,671",
+            "bbox": [
+                905.46875,
+                140.5,
+                1035.625,
+                162.5
+            ]
+        },
+        {
+            "text": "Assumed conversion of convertible preferred stock",
+            "bbox": [
+                30,
+                162.5,
+                905.46875,
+                185.0
+            ]
+        },
+        {
+            "text": "114,274",
+            "bbox": [
+                905.46875,
+                162.5,
+                1035.625,
+                185.0
+            ]
+        },
+        {
+            "text": "Pro forma weighted-average shares of common stock used to compute pro forma net income per share attributable to common stockholders, basic",
+            "bbox": [
+                30,
+                185,
+                905.46875,
+                209.5
+            ]
+        },
+        {
+            "text": "182,945",
+            "bbox": [
+                905.46875,
+                185,
+                1038.484375,
+                209.5
+            ]
+        },
+        {
+            "text": "Assumed exercise of stock options",
+            "bbox": [
+                30,
+                209.5,
+                905.46875,
+                233.5
+            ]
+        },
+        {
+            "text": "22,146",
+            "bbox": [
+                905.46875,
+                209.5,
+                1035.625,
+                233.5
+            ]
+        },
+        {
+            "text": "Assumed exercise of warrants",
+            "bbox": [
+                30,
+                233.5,
+                905.46875,
+                255.5
+            ]
+        },
+        {
+            "text": "392",
+            "bbox": [
+                905.46875,
+                233.5,
+                1035.625,
+                255.5
+            ]
+        },
+        {
+            "text": "Assumed vesting of RSA",
+            "bbox": [
+                30,
+                255.5,
+                905.46875,
+                278.0
+            ]
+        },
+        {
+            "text": "92",
+            "bbox": [
+                905.46875,
+                255.5,
+                1035.625,
+                278.0
+            ]
+        },
+        {
+            "text": "Pro forma weighted-average shares of common stock used to compute pro forma net income per share attributable to common stockholders, diluted",
+            "bbox": [
+                30,
+                278,
+                905.46875,
+                302.5
+            ]
+        },
+        {
+            "text": "205,575",
+            "bbox": [
+                905.46875,
+                278,
+                1038.484375,
+                302.5
+            ]
+        },
+        {
+            "text": "Pro forma net income per share attributable to common stockholders:",
+            "bbox": [
+                30,
+                302.5,
+                905.46875,
+                324.5
+            ]
+        },
+        {
+            "text": "Basic",
+            "bbox": [
+                30,
+                324.5,
+                905.46875,
+                348.5
+            ]
+        },
+        {
+            "text": "$",
+            "bbox": [
+                905.46875,
+                324.5,
+                924.25,
+                348.5
+            ]
+        },
+        {
+            "text": "1.76",
+            "bbox": [
+                924.25,
+                324.5,
+                1035.625,
+                348.5
+            ]
+        },
+        {
+            "text": "Diluted",
+            "bbox": [
+                30,
+                348.5,
+                905.46875,
+                374.5
+            ]
+        },
+        {
+            "text": "$",
+            "bbox": [
+                905.46875,
+                348.5,
+                924.25,
+                374.5
+            ]
+        },
+        {
+            "text": "1.57",
+            "bbox": [
+                924.25,
+                348.5,
+                1035.625,
+                374.5
+            ]
+        }
+    ]
+}

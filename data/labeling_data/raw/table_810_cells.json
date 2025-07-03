@@ -1,0 +1,25 @@
+{
+    "imagePath": "table_810.png",
+    "imageWidth": 1264,
+    "imageHeight": 156,
+    "cells": [
+        {
+            "text": "(c)",
+            "bbox": [
+                33.34375,
+                30,
+                81.34375,
+                126
+            ]
+        },
+        {
+            "text": "Insofar as indemnification for liabilities arising under the Securities Act of 1933 may be permitted to directors, officers and controlling persons of the registrant pursuant to the foregoing provisions, or otherwise, the registrant has been advised that in the opinion of the Securities and Exchange Commission such indemnification is against public policy as expressed in the Act and is, therefore, unenforceable. In the event that a claim for indemnification against such liabilities (other than the payment by the registrant of expenses incurred or paid by a director, officer or controlling person of the registrant in the successful defense of any action, suit or proceeding) is asserted by such director, officer or controlling person in connection with the securities being registered, the registrant will, unless in the opinion of its counsel the matter has been settled by controlling precedent, submit to a court of appropriate jurisdiction the question whether such indemnification by it is against public policy as expressed in the Act and will be governed by the final adjudication of such issue.",
+            "bbox": [
+                81.34375,
+                30,
+                1234.0,
+                126
+            ]
+        }
+    ]
+}

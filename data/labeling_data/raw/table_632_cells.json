@@ -1,0 +1,25 @@
+{
+    "imagePath": "table_632.png",
+    "imageWidth": 1264,
+    "imageHeight": 122.453125,
+    "cells": [
+        {
+            "text": "(b)",
+            "bbox": [
+                30,
+                30,
+                90.1875,
+                92.453125
+            ]
+        },
+        {
+            "text": "The contributions to each of the above schemes are recognized as employee benefit expense when they are due and are charged to the consolidated statement of income (loss). The Group’s total contributions to the above schemes for the years ended March 31, 2019, 2020 and 2021 amounted to approximately $264,000, $258,000 and $149,000, respectively. The Group has no other obligation to make payments in respect of retirement benefits of the employees.",
+            "bbox": [
+                90.1875,
+                30,
+                1234.0,
+                92.453125
+            ]
+        }
+    ]
+}

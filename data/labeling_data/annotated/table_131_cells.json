@@ -1,0 +1,25 @@
+{
+    "imagePath": "table_131.png",
+    "imageWidth": 1264,
+    "imageHeight": 135,
+    "cells": [
+        {
+            "text": "•",
+            "bbox": [
+                30,
+                30,
+                42.03125,
+                105
+            ]
+        },
+        {
+            "text": "Consumer payments:  Just as global consumers use the internet to share information, the internet financial system will enable consumers to use the internet to transfer money—in traditional and newly programmable ways—at lower costs and quicker speeds, and with greater access. Stablecoins have the potential to become the standard for everyday use in P2P transactions and in retail payments, and critically, for all forms of programmable commerce. According to McKinsey’s 2024 Global Payments Report, annual global consumer payments revenue stood at approximately $2.4 trillion in 2023. In addition, our technology has the potential to drive material growth in the consumer payments market itself. As both the unit economics and utility from stablecoins grow, our technology could contribute to an ever larger volume of consumer payments than has been possible in the existing financial system.",
+            "bbox": [
+                54.0625,
+                30,
+                1234.0,
+                105
+            ]
+        }
+    ]
+}

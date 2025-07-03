@@ -1,0 +1,88 @@
+{
+    "imagePath": "table_669.png",
+    "imageWidth": 649.890625,
+    "imageHeight": 124,
+    "cells": [
+        {
+            "text": "Table 5.3. Weighted-average Lease Terms and Discount Rates",
+            "bbox": [
+                30,
+                30,
+                381.453125,
+                44
+            ]
+        },
+        {
+            "text": "December 31, 2024",
+            "bbox": [
+                388.875,
+                44,
+                496.953125,
+                58.5
+            ]
+        },
+        {
+            "text": "December 31, 2023",
+            "bbox": [
+                508.09375,
+                44,
+                616.171875,
+                58.5
+            ]
+        },
+        {
+            "text": "Weighted-average remaining lease term",
+            "bbox": [
+                30,
+                58.5,
+                381.453125,
+                74.0
+            ]
+        },
+        {
+            "text": "8.3 years",
+            "bbox": [
+                395.734375,
+                58.5,
+                496.953125,
+                74.0
+            ]
+        },
+        {
+            "text": "1.1 years",
+            "bbox": [
+                514.953125,
+                58.5,
+                616.171875,
+                74.0
+            ]
+        },
+        {
+            "text": "Weighted-average discount rates",
+            "bbox": [
+                30,
+                74,
+                381.453125,
+                93.5
+            ]
+        },
+        {
+            "text": "12.8%",
+            "bbox": [
+                395.734375,
+                74,
+                496.953125,
+                93.5
+            ]
+        },
+        {
+            "text": "8.5%",
+            "bbox": [
+                514.953125,
+                74,
+                616.171875,
+                93.5
+            ]
+        }
+    ]
+}

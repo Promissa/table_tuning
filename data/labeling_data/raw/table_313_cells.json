@@ -1,0 +1,25 @@
+{
+    "imagePath": "table_313.png",
+    "imageWidth": 1264,
+    "imageHeight": 150,
+    "cells": [
+        {
+            "text": "•",
+            "bbox": [
+                30,
+                30,
+                42.03125,
+                120
+            ]
+        },
+        {
+            "text": "Barriers to access:  The existing financial system, as a result of limited reach and high costs that preclude servicing certain market participants, excludes large portions of the global population. The World Bank estimates that as of 2022, approximately 1.4 billion people, or 24% of adults globally, lack an account at a financial institution or mobile money provider (29% of adults in developing economies). While progress has been made on this front with some traditional financial system providers entering new markets, these unbanked figures still represent more than a billion people. Financial access metrics also often exhibit meaningful gender gaps, both in terms of bank accounts as well as access to credit. Small- and medium-sized enterprises (“SMEs”) can also be inhibited in access to credit. The IMF has estimated that, in 2022, approximately 75% of countries reporting SME loan data saw a decline in SME loans relative to the size of their economies, as COVID support measures unwound.",
+            "bbox": [
+                54.0625,
+                30,
+                1234.0,
+                120
+            ]
+        }
+    ]
+}

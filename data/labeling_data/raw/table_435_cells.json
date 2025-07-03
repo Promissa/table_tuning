@@ -1,0 +1,25 @@
+{
+    "imagePath": "table_435.png",
+    "imageWidth": 1264,
+    "imageHeight": 135,
+    "cells": [
+        {
+            "text": "•",
+            "bbox": [
+                30,
+                30,
+                42.03125,
+                105
+            ]
+        },
+        {
+            "text": "in the case of any shares acquired by it as a financial intermediary, as that term is used in Article 5 of the Prospectus Regulation, (i) the shares acquired by it in the offering have not been acquired on a non-discretionary basis on behalf of, nor have they been acquired with a view to their offer or resale to, persons in any Member State other than qualified investors, as that term is defined in the Prospectus Regulation, or have been acquired in other circumstances falling within the points (a) to (d) of Article 1(4) of the Prospectus Regulation and the prior consent of the underwriters has been given to the offer or resale; or (ii) where the shares have been acquired by it on behalf of persons in any Member State other than qualified investors, the offer of those shares to it is not treated under the Prospectus Regulation as having been made to such persons.",
+            "bbox": [
+                54.0625,
+                30,
+                1234.0,
+                105
+            ]
+        }
+    ]
+}

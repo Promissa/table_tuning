@@ -1,0 +1,304 @@
+{
+    "imagePath": "table_150.png",
+    "imageWidth": 1264,
+    "imageHeight": 4381,
+    "cells": [
+        {
+            "text": "Incorporated by Reference",
+            "bbox": [
+                316.640625,
+                30,
+                1176.5625,
+                44
+            ]
+        },
+        {
+            "text": "Exhibit\n\nNumber",
+            "bbox": [
+                30,
+                44,
+                87.328125,
+                69
+            ]
+        },
+        {
+            "text": "Exhibit Description",
+            "bbox": [
+                144.65625,
+                44,
+                201.984375,
+                69
+            ]
+        },
+        {
+            "text": "Filed\n\nHerewith",
+            "bbox": [
+                259.3125,
+                44,
+                316.640625,
+                69
+            ]
+        },
+        {
+            "text": "Form",
+            "bbox": [
+                373.96875,
+                44,
+                488.625,
+                69
+            ]
+        },
+        {
+            "text": "Period\n\nEnding",
+            "bbox": [
+                603.28125,
+                44,
+                717.9375,
+                69
+            ]
+        },
+        {
+            "text": "Exhibit",
+            "bbox": [
+                832.59375,
+                44,
+                947.25,
+                69
+            ]
+        },
+        {
+            "text": "Filing Date",
+            "bbox": [
+                1061.90625,
+                44,
+                1176.5625,
+                69
+            ]
+        },
+        {
+            "text": "4.6",
+            "bbox": [
+                30,
+                69,
+                87.328125,
+                967
+            ]
+        },
+        {
+            "text": "Third Supplemental Indenture for 2.500% Notes due 2016, 4.000% Notes due 2021, and 5.300% Notes due 2041, dated as of February 8, 2011, between Microsoft Corporation and The Bank of New York Mellon Trust Company, N.A., as Trustee, to the Indenture, dated as of May 18, 2009, between Microsoft Corporation and The Bank of New York Mellon Trust Company, N.A., as Trustee",
+            "bbox": [
+                144.65625,
+                69,
+                201.984375,
+                967
+            ]
+        },
+        {
+            "text": "8-K",
+            "bbox": [
+                431.296875,
+                69,
+                488.625,
+                967
+            ]
+        },
+        {
+            "text": "4.2",
+            "bbox": [
+                889.921875,
+                69,
+                947.25,
+                967
+            ]
+        },
+        {
+            "text": "2/8/2011",
+            "bbox": [
+                1119.234375,
+                69,
+                1176.5625,
+                967
+            ]
+        },
+        {
+            "text": "4.7",
+            "bbox": [
+                30,
+                967,
+                87.328125,
+                1881
+            ]
+        },
+        {
+            "text": "Fourth Supplemental Indenture for 0.875% Notes due 2017, 2.125% Notes due 2022, and 3.500% Notes due 2042, dated as of November 7, 2012, between Microsoft Corporation and The Bank of New York Mellon Trust Company, N.A., as Trustee, to the Indenture, dated as of May 18, 2009, between Microsoft Corporation and The Bank of New York Mellon Trust Company, N.A., as Trustee",
+            "bbox": [
+                144.65625,
+                967,
+                201.984375,
+                1881
+            ]
+        },
+        {
+            "text": "8-K",
+            "bbox": [
+                431.296875,
+                967,
+                488.625,
+                1881
+            ]
+        },
+        {
+            "text": "4.1",
+            "bbox": [
+                889.921875,
+                967,
+                947.25,
+                1881
+            ]
+        },
+        {
+            "text": "11/7/2012",
+            "bbox": [
+                1119.234375,
+                967,
+                1176.5625,
+                1881
+            ]
+        },
+        {
+            "text": "4.8",
+            "bbox": [
+                30,
+                1881,
+                87.328125,
+                2619
+            ]
+        },
+        {
+            "text": "Fifth Supplemental Indenture for 2.625% Notes due 2033, dated as of May 2, 2013, between Microsoft Corporation and The Bank of New York Mellon Trust Company, N.A., as Trustee, to the Indenture, dated as of May 18, 2009, between Microsoft Corporation and The Bank of New York Mellon Trust Company, N.A., as Trustee",
+            "bbox": [
+                144.65625,
+                1881,
+                201.984375,
+                2619
+            ]
+        },
+        {
+            "text": "8-K",
+            "bbox": [
+                431.296875,
+                1881,
+                488.625,
+                2619
+            ]
+        },
+        {
+            "text": "4.1",
+            "bbox": [
+                889.921875,
+                1881,
+                947.25,
+                2619
+            ]
+        },
+        {
+            "text": "5/1/2013",
+            "bbox": [
+                1119.234375,
+                1881,
+                1176.5625,
+                2619
+            ]
+        },
+        {
+            "text": "4.9",
+            "bbox": [
+                30,
+                2619,
+                87.328125,
+                3501
+            ]
+        },
+        {
+            "text": "Sixth Supplemental Indenture for 1.000% Notes due 2018, 2.375% Notes due 2023, and 3.750% Notes due 2043, dated as of May 2, 2013, between Microsoft Corporation and The Bank of New York Mellon Trust Company, N.A., as Trustee, to the Indenture, dated as of May 18, 2009, between Microsoft Corporation and The Bank of New York Mellon Trust Company, N.A., as Trustee",
+            "bbox": [
+                144.65625,
+                2619,
+                201.984375,
+                3501
+            ]
+        },
+        {
+            "text": "8-K",
+            "bbox": [
+                431.296875,
+                2619,
+                488.625,
+                3501
+            ]
+        },
+        {
+            "text": "4.2",
+            "bbox": [
+                889.921875,
+                2619,
+                947.25,
+                3501
+            ]
+        },
+        {
+            "text": "5/1/2013",
+            "bbox": [
+                1119.234375,
+                2619,
+                1176.5625,
+                3501
+            ]
+        },
+        {
+            "text": "4.10",
+            "bbox": [
+                30,
+                3501,
+                87.328125,
+                4351
+            ]
+        },
+        {
+            "text": "Seventh Supplemental Indenture for 2.125% Notes due 2021 and 3.125% Notes due 2028, dated as of December 6, 2013, between Microsoft Corporation and The Bank of New York Mellon Trust Company, N.A., as Trustee, to the Indenture, dated as of May 18, 2009, between Microsoft Corporation and The Bank of New York Mellon Trust Company, N.A., as Trustee",
+            "bbox": [
+                144.65625,
+                3501,
+                201.984375,
+                4351
+            ]
+        },
+        {
+            "text": "8-K",
+            "bbox": [
+                431.296875,
+                3501,
+                488.625,
+                4351
+            ]
+        },
+        {
+            "text": "4.1",
+            "bbox": [
+                889.921875,
+                3501,
+                947.25,
+                4351
+            ]
+        },
+        {
+            "text": "12/6/2013",
+            "bbox": [
+                1119.234375,
+                3501,
+                1176.5625,
+                4351
+            ]
+        }
+    ]
+}

@@ -1,0 +1,340 @@
+{
+    "imagePath": "table_500.png",
+    "imageWidth": 1030.21875,
+    "imageHeight": 403.15625,
+    "cells": [
+        {
+            "text": "Three Months Ended",
+            "bbox": [
+                865.5625,
+                30,
+                1000.21875,
+                52.5
+            ]
+        },
+        {
+            "text": "March 31,\n2025",
+            "bbox": [
+                865.5625,
+                52.5,
+                931.5625,
+                93.5
+            ]
+        },
+        {
+            "text": "March 31,\n2024",
+            "bbox": [
+                934.21875,
+                52.5,
+                1000.21875,
+                93.5
+            ]
+        },
+        {
+            "text": "Net income",
+            "bbox": [
+                30,
+                93.5,
+                865.5625,
+                116.0
+            ]
+        },
+        {
+            "text": "$",
+            "bbox": [
+                865.5625,
+                93.5,
+                873.5625,
+                116.0
+            ]
+        },
+        {
+            "text": "2,890,351",
+            "bbox": [
+                873.5625,
+                93.5,
+                930.234375,
+                116.0
+            ]
+        },
+        {
+            "text": "$",
+            "bbox": [
+                934.21875,
+                93.5,
+                942.21875,
+                116.0
+            ]
+        },
+        {
+            "text": "2,332,209",
+            "bbox": [
+                942.21875,
+                93.5,
+                998.890625,
+                116.0
+            ]
+        },
+        {
+            "text": "Other comprehensive income (loss):",
+            "bbox": [
+                30,
+                116,
+                865.5625,
+                138
+            ]
+        },
+        {
+            "text": "Foreign currency translation adjustments, net of income tax benefit of $10 million, and $0, respectively",
+            "bbox": [
+                30,
+                138,
+                865.5625,
+                160
+            ]
+        },
+        {
+            "text": "56,915",
+            "bbox": [
+                865.5625,
+                138,
+                930.234375,
+                160
+            ]
+        },
+        {
+            "text": "(73,052)",
+            "bbox": [
+                934.21875,
+                138,
+                998.890625,
+                160
+            ]
+        },
+        {
+            "text": "Net change in unrealized gains (losses) on available-for-sale securities, net of income tax benefit of $1 million, and $0, respectively",
+            "bbox": [
+                30,
+                160,
+                865.5625,
+                182
+            ]
+        },
+        {
+            "text": "(1,812)",
+            "bbox": [
+                865.5625,
+                160,
+                930.234375,
+                182
+            ]
+        },
+        {
+            "text": "—",
+            "bbox": [
+                934.21875,
+                160,
+                998.890625,
+                182
+            ]
+        },
+        {
+            "text": "Cash flow hedges:",
+            "bbox": [
+                30,
+                182,
+                865.5625,
+                204
+            ]
+        },
+        {
+            "text": "Net unrealized gains (losses)",
+            "bbox": [
+                30,
+                204,
+                865.5625,
+                226
+            ]
+        },
+        {
+            "text": "(375,172)",
+            "bbox": [
+                865.5625,
+                204,
+                930.234375,
+                226
+            ]
+        },
+        {
+            "text": "176,604",
+            "bbox": [
+                934.21875,
+                204,
+                998.890625,
+                226
+            ]
+        },
+        {
+            "text": "Reclassification of net (gains) losses included in net income",
+            "bbox": [
+                30,
+                226,
+                865.5625,
+                248.5
+            ]
+        },
+        {
+            "text": "(125,161)",
+            "bbox": [
+                865.5625,
+                226,
+                930.234375,
+                248.5
+            ]
+        },
+        {
+            "text": "8,514",
+            "bbox": [
+                934.21875,
+                226,
+                998.890625,
+                248.5
+            ]
+        },
+        {
+            "text": "Net change, net of income tax benefit (expense) of $149 million, and $(55) million, respectively",
+            "bbox": [
+                30,
+                248.5,
+                865.5625,
+                271.5
+            ]
+        },
+        {
+            "text": "(500,333)",
+            "bbox": [
+                865.5625,
+                248.5,
+                930.234375,
+                271.5
+            ]
+        },
+        {
+            "text": "185,118",
+            "bbox": [
+                934.21875,
+                248.5,
+                998.890625,
+                271.5
+            ]
+        },
+        {
+            "text": "Fair value hedges:",
+            "bbox": [
+                30,
+                271.5,
+                865.5625,
+                293.5
+            ]
+        },
+        {
+            "text": "Net change in unrealized gains (losses) excluded from the assessment of effectiveness, net of income tax benefit of $1 million, and $0, respectively",
+            "bbox": [
+                30,
+                293.5,
+                865.5625,
+                316.0
+            ]
+        },
+        {
+            "text": "(2,667)",
+            "bbox": [
+                865.5625,
+                293.5,
+                930.234375,
+                316.0
+            ]
+        },
+        {
+            "text": "—",
+            "bbox": [
+                934.21875,
+                293.5,
+                998.890625,
+                316.0
+            ]
+        },
+        {
+            "text": "Total other comprehensive income (loss)",
+            "bbox": [
+                30,
+                316,
+                865.5625,
+                339
+            ]
+        },
+        {
+            "text": "(447,897)",
+            "bbox": [
+                865.5625,
+                316,
+                930.234375,
+                339
+            ]
+        },
+        {
+            "text": "112,066",
+            "bbox": [
+                934.21875,
+                316,
+                998.890625,
+                339
+            ]
+        },
+        {
+            "text": "Comprehensive income",
+            "bbox": [
+                30,
+                339,
+                865.5625,
+                363.5
+            ]
+        },
+        {
+            "text": "$",
+            "bbox": [
+                865.5625,
+                339,
+                873.5625,
+                363.5
+            ]
+        },
+        {
+            "text": "2,442,454",
+            "bbox": [
+                873.5625,
+                339,
+                930.234375,
+                363.5
+            ]
+        },
+        {
+            "text": "$",
+            "bbox": [
+                934.21875,
+                339,
+                942.21875,
+                363.5
+            ]
+        },
+        {
+            "text": "2,444,275",
+            "bbox": [
+                942.21875,
+                339,
+                998.890625,
+                363.5
+            ]
+        }
+    ]
+}

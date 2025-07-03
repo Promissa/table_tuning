@@ -1,0 +1,25 @@
+{
+    "imagePath": "table_522.png",
+    "imageWidth": 1264,
+    "imageHeight": 120,
+    "cells": [
+        {
+            "text": "•",
+            "bbox": [
+                30,
+                30,
+                42.03125,
+                90
+            ]
+        },
+        {
+            "text": "Traditional Exchanges. While nascent, Circle is exploring use cases for USDC in traditional exchange venues and clearing houses. In February 2025, we entered into a memorandum of understanding with ICE, where we agreed to explore (i) collaborating on certain market activities to promote Circle stablecoins, USYC, and related products within ICE’s trading, clearing, and data ecosystem, (ii) integrating Circle stablecoins and USYC as collateral, settlement, and co-branded exchange traded products across ICE’s capital and derivative markets, and (iii) developing co-branded trading and investment products.",
+            "bbox": [
+                54.0625,
+                30,
+                1234.0,
+                90
+            ]
+        }
+    ]
+}

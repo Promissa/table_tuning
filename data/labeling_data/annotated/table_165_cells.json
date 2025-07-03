@@ -1,0 +1,43 @@
+{
+    "imagePath": "table_165.png",
+    "imageWidth": 744.734375,
+    "imageHeight": 133.828125,
+    "cells": [
+        {
+            "text": "Dated: August 16, 2021",
+            "bbox": [
+                30,
+                30,
+                379.21875,
+                48
+            ]
+        },
+        {
+            "text": "By:",
+            "bbox": [
+                379.21875,
+                48,
+                399.75,
+                67.328125
+            ]
+        },
+        {
+            "text": "/s/ Albert So",
+            "bbox": [
+                399.75,
+                48,
+                714.734375,
+                67.328125
+            ]
+        },
+        {
+            "text": "Albert So, Chief Financial Officer, Treasurer and Secretary",
+            "bbox": [
+                399.75,
+                67.328125,
+                714.734375,
+                103.828125
+            ]
+        }
+    ]
+}

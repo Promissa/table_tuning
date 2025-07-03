@@ -1,0 +1,25 @@
+{
+    "imagePath": "table_601.png",
+    "imageWidth": 1264,
+    "imageHeight": 260.578125,
+    "cells": [
+        {
+            "text": "(a)",
+            "bbox": [
+                30,
+                30,
+                102.234375,
+                230.578125
+            ]
+        },
+        {
+            "text": "With effect from January 1, 1988, BEL, a wholly-owned foreign subsidiary of the Company in Hong Kong, implemented a defined contribution plan (the “Plan”) with a major international assurance company to provide life insurance and retirement benefits for its employees. All permanent full-time employees who joined BEL before December 2000, excluding factory workers, are eligible to join the provident fund plan. Eligible employees of the Plan are required to contribute 5% of their monthly salary, while BEL is required to contribute from 5% to 10% based on the eligible employee’s salary, depending on the number of years of the eligible employee’s service.\nThe Mandatory Provident Fund (the “MPF”) was introduced by the Hong Kong Government and commenced in December 2000. BEL joined the MPF by implementing a plan with a major international assurance company. All permanent Hong Kong full time employees who joined BEL on or after December 2000, excluding factory workers, are eligible to join the MPF. Eligible employees’ and the employer’s contributions to the MPF are both at 5% of the eligible employee’s monthly salary and are subject to a maximum mandatory contribution of HK$1,000 (US$128) monthly. The maximum mandatory contribution was increased to HK$1,250 (US$160) monthly starting from June 1, 2012. The maximum mandatory contribution was increased to HK$1,500 (US$192) per month starting from June 1, 2014.\n\nPursuant to the relevant PRC regulations, the Group is required to make contributions for each employee, at rates based upon the employee’s standard salary base as determined by the local Social Security Bureau, to a defined contribution retirement scheme organized by the local Social Security Bureau in respect of the retirement benefits for the Group’s employees in the PRC.",
+            "bbox": [
+                102.234375,
+                30,
+                1234.0,
+                230.578125
+            ]
+        }
+    ]
+}

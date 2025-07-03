@@ -1,0 +1,70 @@
+{
+    "imagePath": "table_693.png",
+    "imageWidth": 1264,
+    "imageHeight": 133,
+    "cells": [
+        {
+            "text": "Alibaba Group Holding Limited",
+            "bbox": [
+                595.890625,
+                30,
+                1234.0,
+                48
+            ]
+        },
+        {
+            "text": "By:",
+            "bbox": [
+                595.890625,
+                48,
+                808.59375,
+                67
+            ]
+        },
+        {
+            "text": "/s/ Eddie Yongming WU",
+            "bbox": [
+                808.59375,
+                48,
+                1234.0,
+                67
+            ]
+        },
+        {
+            "text": "Name:",
+            "bbox": [
+                808.59375,
+                67,
+                1021.296875,
+                85
+            ]
+        },
+        {
+            "text": "Eddie Yongming WU",
+            "bbox": [
+                1021.296875,
+                67,
+                1234.0,
+                85
+            ]
+        },
+        {
+            "text": "Title:",
+            "bbox": [
+                808.59375,
+                85,
+                1021.296875,
+                103
+            ]
+        },
+        {
+            "text": "Chief Executive Officer",
+            "bbox": [
+                1021.296875,
+                85,
+                1234.0,
+                103
+            ]
+        }
+    ]
+}

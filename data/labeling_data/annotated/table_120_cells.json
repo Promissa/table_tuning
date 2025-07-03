@@ -1,0 +1,61 @@
+{
+    "imagePath": "table_120.png",
+    "imageWidth": 875.4375,
+    "imageHeight": 125,
+    "cells": [
+        {
+            "text": "SINTX Technologies, Inc.",
+            "bbox": [
+                146.984375,
+                30,
+                845.4375,
+                46
+            ]
+        },
+        {
+            "text": "Date: March 19, 2025",
+            "bbox": [
+                30,
+                46,
+                146.984375,
+                62.5
+            ]
+        },
+        {
+            "text": "By:",
+            "bbox": [
+                146.984375,
+                46,
+                166.25,
+                62.5
+            ]
+        },
+        {
+            "text": "/s/ Eric Olson",
+            "bbox": [
+                166.25,
+                46,
+                845.4375,
+                62.5
+            ]
+        },
+        {
+            "text": "Eric Olson",
+            "bbox": [
+                166.25,
+                62.5,
+                845.4375,
+                79.0
+            ]
+        },
+        {
+            "text": "President and Chief Executive Officer, Principal Financial Officer (Principal Executive Officer and Principal Financial Officer)",
+            "bbox": [
+                166.25,
+                79,
+                845.4375,
+                95
+            ]
+        }
+    ]
+}

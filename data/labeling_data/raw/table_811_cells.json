@@ -1,0 +1,484 @@
+{
+    "imagePath": "table_811.png",
+    "imageWidth": 1264,
+    "imageHeight": 4123,
+    "cells": [
+        {
+            "text": "Incorporated by Reference",
+            "bbox": [
+                316.640625,
+                30,
+                1176.5625,
+                44
+            ]
+        },
+        {
+            "text": "Exhibit\n\nNumber",
+            "bbox": [
+                30,
+                44,
+                87.328125,
+                69
+            ]
+        },
+        {
+            "text": "Exhibit Description",
+            "bbox": [
+                144.65625,
+                44,
+                201.984375,
+                69
+            ]
+        },
+        {
+            "text": "Filed\n\nHerewith",
+            "bbox": [
+                259.3125,
+                44,
+                316.640625,
+                69
+            ]
+        },
+        {
+            "text": "Form",
+            "bbox": [
+                373.96875,
+                44,
+                488.625,
+                69
+            ]
+        },
+        {
+            "text": "Period\n\nEnding",
+            "bbox": [
+                603.28125,
+                44,
+                717.9375,
+                69
+            ]
+        },
+        {
+            "text": "Exhibit",
+            "bbox": [
+                832.59375,
+                44,
+                947.25,
+                69
+            ]
+        },
+        {
+            "text": "Filing Date",
+            "bbox": [
+                1061.90625,
+                44,
+                1176.5625,
+                69
+            ]
+        },
+        {
+            "text": "4.20",
+            "bbox": [
+                30,
+                69,
+                87.328125,
+                824
+            ]
+        },
+        {
+            "text": "Base Indenture, dated as of May 26, 2017, by and between Activision Blizzard, Inc. and Wells Fargo Bank, National Association, as Trustee, with respect to Activision Blizzard, Inc.�s 3.400% Senior Notes due 2027, 1.350% Senior Notes due 2030, 4.500% Senior Notes due 2047 and 2.500% Senior Notes due 2050",
+            "bbox": [
+                144.65625,
+                69,
+                201.984375,
+                824
+            ]
+        },
+        {
+            "text": "8-K",
+            "bbox": [
+                431.296875,
+                69,
+                488.625,
+                824
+            ]
+        },
+        {
+            "text": "4.10",
+            "bbox": [
+                889.921875,
+                69,
+                947.25,
+                824
+            ]
+        },
+        {
+            "text": "11/6/2023",
+            "bbox": [
+                1119.234375,
+                69,
+                1176.5625,
+                824
+            ]
+        },
+        {
+            "text": "4.21",
+            "bbox": [
+                30,
+                824,
+                87.328125,
+                1451
+            ]
+        },
+        {
+            "text": "First Supplemental Indenture, dated as of May 26, 2017, by and between Activision Blizzard, Inc. and Wells Fargo Bank, National Association, as Trustee, with respect to Activision Blizzard, Inc.�s 3.400% Senior Notes due 2027 and 4.500% Senior Notes due 2047",
+            "bbox": [
+                144.65625,
+                824,
+                201.984375,
+                1451
+            ]
+        },
+        {
+            "text": "8-K",
+            "bbox": [
+                431.296875,
+                824,
+                488.625,
+                1451
+            ]
+        },
+        {
+            "text": "4.11",
+            "bbox": [
+                889.921875,
+                824,
+                947.25,
+                1451
+            ]
+        },
+        {
+            "text": "11/6/2023",
+            "bbox": [
+                1119.234375,
+                824,
+                1176.5625,
+                1451
+            ]
+        },
+        {
+            "text": "4.22",
+            "bbox": [
+                30,
+                1451,
+                87.328125,
+                2094
+            ]
+        },
+        {
+            "text": "Second Supplemental Indenture, dated as of August 10, 2020, by and between Activision Blizzard, Inc. and Wells Fargo Bank, National Association, as Trustee, with respect to Activision Blizzard, Inc.�s 1.350% Senior Notes due 2030 and 2.500% Senior Notes due 2050",
+            "bbox": [
+                144.65625,
+                1451,
+                201.984375,
+                2094
+            ]
+        },
+        {
+            "text": "8-K",
+            "bbox": [
+                431.296875,
+                1451,
+                488.625,
+                2094
+            ]
+        },
+        {
+            "text": "4.12",
+            "bbox": [
+                889.921875,
+                1451,
+                947.25,
+                2094
+            ]
+        },
+        {
+            "text": "11/6/2023",
+            "bbox": [
+                1119.234375,
+                1451,
+                1176.5625,
+                2094
+            ]
+        },
+        {
+            "text": "4.23",
+            "bbox": [
+                30,
+                2094,
+                87.328125,
+                2609
+            ]
+        },
+        {
+            "text": "First Supplemental Indenture, dated as of October 27, 2023, by and between Activision Blizzard, Inc. and Computershare Trust Company, N.A., with respect to Activision Blizzard, Inc.�s 3.400% Senior Notes due 2026",
+            "bbox": [
+                144.65625,
+                2094,
+                201.984375,
+                2609
+            ]
+        },
+        {
+            "text": "8-K",
+            "bbox": [
+                431.296875,
+                2094,
+                488.625,
+                2609
+            ]
+        },
+        {
+            "text": "4.13",
+            "bbox": [
+                889.921875,
+                2094,
+                947.25,
+                2609
+            ]
+        },
+        {
+            "text": "11/6/2023",
+            "bbox": [
+                1119.234375,
+                2094,
+                1176.5625,
+                2609
+            ]
+        },
+        {
+            "text": "4.24",
+            "bbox": [
+                30,
+                2609,
+                87.328125,
+                3220
+            ]
+        },
+        {
+            "text": "Third Supplemental Indenture, dated as of October 27, 2023, by and between Activision Blizzard, Inc. and Computershare Trust Company, N.A., with respect to Activision Blizzard, Inc.�s 3.400% Senior Notes due 2027 and 4.500% Senior Notes due 2047",
+            "bbox": [
+                144.65625,
+                2609,
+                201.984375,
+                3220
+            ]
+        },
+        {
+            "text": "8-K",
+            "bbox": [
+                431.296875,
+                2609,
+                488.625,
+                3220
+            ]
+        },
+        {
+            "text": "4.14",
+            "bbox": [
+                889.921875,
+                2609,
+                947.25,
+                3220
+            ]
+        },
+        {
+            "text": "11/6/2023",
+            "bbox": [
+                1119.234375,
+                2609,
+                1176.5625,
+                3220
+            ]
+        },
+        {
+            "text": "4.25",
+            "bbox": [
+                30,
+                3220,
+                87.328125,
+                3831
+            ]
+        },
+        {
+            "text": "Fourth Supplemental Indenture, dated as of October 27, 2023, by and between Activision Blizzard, Inc. and Computershare Trust Company, N.A., with respect to Activision Blizzard, Inc.�s 1.350% Senior Notes due 2030 and 2.500% Senior Notes due 2050",
+            "bbox": [
+                144.65625,
+                3220,
+                201.984375,
+                3831
+            ]
+        },
+        {
+            "text": "8-K",
+            "bbox": [
+                431.296875,
+                3220,
+                488.625,
+                3831
+            ]
+        },
+        {
+            "text": "4.15",
+            "bbox": [
+                889.921875,
+                3220,
+                947.25,
+                3831
+            ]
+        },
+        {
+            "text": "11/6/2023",
+            "bbox": [
+                1119.234375,
+                3220,
+                1176.5625,
+                3831
+            ]
+        },
+        {
+            "text": "4.26",
+            "bbox": [
+                30,
+                3831,
+                87.328125,
+                3897
+            ]
+        },
+        {
+            "text": "Description of Securities",
+            "bbox": [
+                144.65625,
+                3831,
+                201.984375,
+                3897
+            ]
+        },
+        {
+            "text": "X",
+            "bbox": [
+                259.3125,
+                3831,
+                316.640625,
+                3897
+            ]
+        },
+        {
+            "text": "10.1*",
+            "bbox": [
+                30,
+                3897,
+                87.328125,
+                3979
+            ]
+        },
+        {
+            "text": "Microsoft Corporation 2001 Stock Plan",
+            "bbox": [
+                144.65625,
+                3897,
+                201.984375,
+                3979
+            ]
+        },
+        {
+            "text": "10-Q",
+            "bbox": [
+                431.296875,
+                3897,
+                488.625,
+                3979
+            ]
+        },
+        {
+            "text": "9/30/2016",
+            "bbox": [
+                660.609375,
+                3897,
+                717.9375,
+                3979
+            ]
+        },
+        {
+            "text": "10.1",
+            "bbox": [
+                889.921875,
+                3897,
+                947.25,
+                3979
+            ]
+        },
+        {
+            "text": "10/20/2016",
+            "bbox": [
+                1119.234375,
+                3897,
+                1176.5625,
+                3979
+            ]
+        },
+        {
+            "text": "10.4*",
+            "bbox": [
+                30,
+                3979,
+                87.328125,
+                4093
+            ]
+        },
+        {
+            "text": "Microsoft Corporation Employee Stock Purchase Plan",
+            "bbox": [
+                144.65625,
+                3979,
+                201.984375,
+                4093
+            ]
+        },
+        {
+            "text": "10-K",
+            "bbox": [
+                431.296875,
+                3979,
+                488.625,
+                4093
+            ]
+        },
+        {
+            "text": "6/30/2012",
+            "bbox": [
+                660.609375,
+                3979,
+                717.9375,
+                4093
+            ]
+        },
+        {
+            "text": "10.4",
+            "bbox": [
+                889.921875,
+                3979,
+                947.25,
+                4093
+            ]
+        },
+        {
+            "text": "7/26/2012",
+            "bbox": [
+                1119.234375,
+                3979,
+                1176.5625,
+                4093
+            ]
+        }
+    ]
+}

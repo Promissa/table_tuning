@@ -1,0 +1,43 @@
+{
+    "imagePath": "table_308.png",
+    "imageWidth": 1264,
+    "imageHeight": 349.328125,
+    "cells": [
+        {
+            "text": "What We Do",
+            "bbox": [
+                30,
+                30,
+                699.328125,
+                44.5
+            ]
+        },
+        {
+            "text": "What We Don’t Do",
+            "bbox": [
+                707.25,
+                30,
+                1234.0,
+                44.5
+            ]
+        },
+        {
+            "text": "☑  Maintain a pay-for-performance compensation philosophy to attract, motivate, and retain top executive talent.\n\n \n\n☑   Include a mix of both short and long-term compensation, while emphasizing long-term equity compensation.\n\n \n\n☑   Ensure that a significant portion of compensation is performance-based or variable and not guaranteed.\n\n \n\n☑   Conduct annual reviews of NEO compensation to ensure alignment with competitive market practices.\n\n \n\n☑   Regularly discuss risks of our compensation program.\n\n \n\n☑  Maintain an independent Compensation Committee and independent consultant to the Compensation Committee.\n\n \n\n☑  Require stock ownership equal to 5x base salary for our Chief Executive Officer and 3x base salary for all other executive officers.\n\n \n\n☑  Maintain a compensation recovery policy for erroneously awarded incentive-based compensation to ensure accountability.",
+            "bbox": [
+                30,
+                44.5,
+                699.328125,
+                318.828125
+            ]
+        },
+        {
+            "text": "☒  Offer change-in-control excise tax reimbursement or “gross-ups.”\n\n \n\n☒   Enter into fixed term employment agreements.\n\n \n\n☒  Offer “single-trigger” change-in-control arrangements.\n\n \n\n☒  Provide excessive perquisites.\n\n \n\n☒  Permit hedging or pledging of Circle securities.\n\n \n\n☒   Provide pensions or supplemental executive retirement programs.\n\n \n\n☒   Award option grants at discounted stock prices or permit option repricing without stockholder approval.",
+            "bbox": [
+                707.25,
+                44.5,
+                1234.0,
+                318.828125
+            ]
+        }
+    ]
+}

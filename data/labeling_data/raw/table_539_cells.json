@@ -1,0 +1,97 @@
+{
+    "imagePath": "table_539.png",
+    "imageWidth": 479.875,
+    "imageHeight": 171,
+    "cells": [
+        {
+            "text": "Property and equipment",
+            "bbox": [
+                30,
+                30,
+                185.984375,
+                52.5
+            ]
+        },
+        {
+            "text": "Useful life",
+            "bbox": [
+                188.640625,
+                30,
+                449.875,
+                52.5
+            ]
+        },
+        {
+            "text": "Furniture and fixtures",
+            "bbox": [
+                30,
+                52.5,
+                185.984375,
+                75.0
+            ]
+        },
+        {
+            "text": "Three to five years",
+            "bbox": [
+                188.640625,
+                52.5,
+                449.875,
+                75.0
+            ]
+        },
+        {
+            "text": "Computer equipment",
+            "bbox": [
+                30,
+                75,
+                185.984375,
+                97
+            ]
+        },
+        {
+            "text": "Two to five years",
+            "bbox": [
+                188.640625,
+                75,
+                449.875,
+                97
+            ]
+        },
+        {
+            "text": "Leasehold improvements",
+            "bbox": [
+                30,
+                97,
+                185.984375,
+                119
+            ]
+        },
+        {
+            "text": "Lesser of useful life or remaining lease term",
+            "bbox": [
+                188.640625,
+                97,
+                449.875,
+                119
+            ]
+        },
+        {
+            "text": "Capitalized software",
+            "bbox": [
+                30,
+                119,
+                185.984375,
+                141
+            ]
+        },
+        {
+            "text": "One to three years",
+            "bbox": [
+                188.640625,
+                119,
+                449.875,
+                141
+            ]
+        }
+    ]
+}

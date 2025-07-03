@@ -1,0 +1,25 @@
+{
+    "imagePath": "table_264.png",
+    "imageWidth": 1264,
+    "imageHeight": 135,
+    "cells": [
+        {
+            "text": "•",
+            "bbox": [
+                30,
+                30,
+                42.03125,
+                105
+            ]
+        },
+        {
+            "text": "Broaden and deepen our banking infrastructure globally, so that network participants can mint and redeem Circle stablecoins with maximum speed and efficiency.  Certain end-users of Circle stablecoins need to rapidly move between stablecoins and fiat currency. To enable this seamless primary liquidity, a well-run stablecoin network needs deep integration with the fiat banking system. We are building banking infrastructure globally to bring primary stablecoin liquidity to Circle Mint customers in major financial market centers, so that they are able to mint and redeem Circle stablecoins using local faster-payments networks to reduce settlement times. Today the Circle stablecoin ecosystem includes banks in the United States, Singapore, and Europe, and we are exploring opportunities to add banks in additional markets in Asia, Latin America, and the Middle East.",
+            "bbox": [
+                54.0625,
+                30,
+                1234.0,
+                105
+            ]
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "imagePath": "table_383.png",
+    "imageWidth": 1264,
+    "imageHeight": 267.65625,
+    "cells": [
+        {
+            "text": "(1) Jay Hoag, a member of the Board of Directors, trusts for which he serves as a trustee and a partnership for which he serves as the sole general partner and limited partner, entered into a pre-arranged stock trading plan pursuant to Rule 10b5-1 on January 28, 2025. The plan provides for the potential sale of up to 127,000 shares of Netflix common stock. The plan expires on January 30, 2026, or upon the earlier completion of all authorized transactions under the plan.",
+            "bbox": [
+                30,
+                30,
+                1234,
+                70
+            ]
+        },
+        {
+            "text": "(2) Ann Mather, a member of the Board of Directors, entered into a pre-arranged stock trading plan pursuant to Rule 10b5-1 on February 7, 2025. Ms. Mather's plan provides for the potential exercise of vested stock options and the associated sale of up to 2,448 shares of Netflix common stock. The plan expires on December 31, 2025, or upon the earlier completion of all authorized transactions under the plan.",
+            "bbox": [
+                30,
+                70,
+                1234,
+                110
+            ]
+        },
+        {
+            "text": "(3) Strive Masiyiwa, a member of the Board of Directors, entered into a pre-arranged stock trading plan pursuant to Rule 10b5-1 on February 10, 2025. Mr. Masiyiwa's plan provides for the potential exercise of vested stock options and the associated sale of up to 1,292 shares of Netflix common stock. The plan expires on December 31, 2025, or upon the earlier completion of all authorized transactions under the plan.",
+            "bbox": [
+                30,
+                110,
+                1234,
+                150
+            ]
+        },
+        {
+            "text": "(4) Brad Smith, a member of the Board of Directors, entered into a pre-arranged stock trading plan pursuant to Rule 10b5-1 on February 10, 2025. Mr. Smith's plan provides for the potential exercise of vested stock options and the associated sale of up to 10,697 shares of Netflix common stock. The plan expires on June 18, 2026, or upon the earlier completion of all authorized transactions under the plan.",
+            "bbox": [
+                30,
+                150,
+                1234,
+                190
+            ]
+        },
+        {
+            "text": "(5) Leslie Kilgore, a member of the Board of Directors, entered into a pre-arranged stock trading plan pursuant to Rule 10b5-1 on January 22, 2025. Ms. Kilgore's plan provides for the potential exercise of vested stock options and the associated sale of up to 3,430 shares of Netflix common stock. The plan expires on April 30, 2026, or upon the earlier completion of all authorized transactions under the plan.",
+            "bbox": [
+                30,
+                190,
+                1234,
+                230
+            ]
+        }
+    ]
+}

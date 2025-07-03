@@ -1,0 +1,52 @@
+{
+    "imagePath": "table_782.png",
+    "imageWidth": 321.8125,
+    "imageHeight": 132.65625,
+    "cells": [
+        {
+            "text": "Large accelerated filer ☐",
+            "bbox": [
+                30,
+                30,
+                149.953125,
+                52
+            ]
+        },
+        {
+            "text": "Accelerated filer ☐",
+            "bbox": [
+                149.953125,
+                30,
+                291.8125,
+                52
+            ]
+        },
+        {
+            "text": "Non-accelerated filer ☒",
+            "bbox": [
+                30,
+                52,
+                149.953125,
+                74
+            ]
+        },
+        {
+            "text": "Smaller reporting company ☐",
+            "bbox": [
+                149.953125,
+                52,
+                291.8125,
+                74
+            ]
+        },
+        {
+            "text": "Emerging growth company ☐",
+            "bbox": [
+                149.953125,
+                74,
+                291.8125,
+                96
+            ]
+        }
+    ]
+}

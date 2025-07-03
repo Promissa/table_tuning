@@ -1,0 +1,223 @@
+{
+    "imagePath": "table_696.png",
+    "imageWidth": 1264,
+    "imageHeight": 343,
+    "cells": [
+        {
+            "text": "Name",
+            "bbox": [
+                30,
+                30,
+                202,
+                43
+            ]
+        },
+        {
+            "text": "Age",
+            "bbox": [
+                374,
+                30,
+                718,
+                43
+            ]
+        },
+        {
+            "text": "Position with the Company",
+            "bbox": [
+                1062,
+                30,
+                1234,
+                43
+            ]
+        },
+        {
+            "text": "Satya Nadella",
+            "bbox": [
+                30,
+                43,
+                202,
+                77
+            ]
+        },
+        {
+            "text": "56",
+            "bbox": [
+                546,
+                43,
+                718,
+                77
+            ]
+        },
+        {
+            "text": "Chairman and Chief Executive Officer",
+            "bbox": [
+                1062,
+                43,
+                1234,
+                77
+            ]
+        },
+        {
+            "text": "Judson B. Althoff",
+            "bbox": [
+                30,
+                77,
+                202,
+                127
+            ]
+        },
+        {
+            "text": "51",
+            "bbox": [
+                546,
+                77,
+                718,
+                127
+            ]
+        },
+        {
+            "text": "Executive Vice President and Chief Commercial Officer",
+            "bbox": [
+                1062,
+                77,
+                1234,
+                127
+            ]
+        },
+        {
+            "text": "Kathleen T. Hogan",
+            "bbox": [
+                30,
+                127,
+                202,
+                177
+            ]
+        },
+        {
+            "text": "58",
+            "bbox": [
+                546,
+                127,
+                718,
+                177
+            ]
+        },
+        {
+            "text": "Executive Vice President and Chief Human Resources Officer",
+            "bbox": [
+                1062,
+                127,
+                1234,
+                177
+            ]
+        },
+        {
+            "text": "Amy E. Hood",
+            "bbox": [
+                30,
+                177,
+                202,
+                211
+            ]
+        },
+        {
+            "text": "52",
+            "bbox": [
+                546,
+                177,
+                718,
+                211
+            ]
+        },
+        {
+            "text": "Executive Vice President and Chief Financial Officer",
+            "bbox": [
+                1062,
+                177,
+                1234,
+                211
+            ]
+        },
+        {
+            "text": "Takeshi Numoto",
+            "bbox": [
+                30,
+                211,
+                202,
+                245
+            ]
+        },
+        {
+            "text": "53",
+            "bbox": [
+                546,
+                211,
+                718,
+                245
+            ]
+        },
+        {
+            "text": "Executive Vice President and Chief Marketing Officer",
+            "bbox": [
+                1062,
+                211,
+                1234,
+                245
+            ]
+        },
+        {
+            "text": "Bradford L. Smith",
+            "bbox": [
+                30,
+                245,
+                202,
+                263
+            ]
+        },
+        {
+            "text": "65",
+            "bbox": [
+                546,
+                245,
+                718,
+                263
+            ]
+        },
+        {
+            "text": "Vice Chair and President",
+            "bbox": [
+                1062,
+                245,
+                1234,
+                263
+            ]
+        },
+        {
+            "text": "Christopher D. Young",
+            "bbox": [
+                30,
+                263,
+                202,
+                313
+            ]
+        },
+        {
+            "text": "52",
+            "bbox": [
+                546,
+                263,
+                718,
+                313
+            ]
+        },
+        {
+            "text": "Executive Vice President, Business Development, Strategy, and Ventures",
+            "bbox": [
+                1062,
+                263,
+                1234,
+                313
+            ]
+        }
+    ]
+}

@@ -1,0 +1,349 @@
+{
+    "imagePath": "table_103.png",
+    "imageWidth": 1004.4375,
+    "imageHeight": 400.65625,
+    "cells": [
+        {
+            "text": "Three Months Ended",
+            "bbox": [
+                650.515625,
+                30,
+                974.4375,
+                52.5
+            ]
+        },
+        {
+            "text": "March 31, 2025",
+            "bbox": [
+                650.515625,
+                52.5,
+                974.4375,
+                75.5
+            ]
+        },
+        {
+            "text": "Revenues",
+            "bbox": [
+                650.515625,
+                75.5,
+                723.1875,
+                98.5
+            ]
+        },
+        {
+            "text": "Cost of Revenues",
+            "bbox": [
+                725.84375,
+                75.5,
+                806.671875,
+                98.5
+            ]
+        },
+        {
+            "text": "Interest and other income (expense)",
+            "bbox": [
+                809.328125,
+                75.5,
+                974.4375,
+                98.5
+            ]
+        },
+        {
+            "text": "(in thousands)",
+            "bbox": [
+                650.515625,
+                98.5,
+                974.4375,
+                121.0
+            ]
+        },
+        {
+            "text": "Total amounts presented in the Consolidated Statements of Operations",
+            "bbox": [
+                30,
+                121,
+                650.515625,
+                143
+            ]
+        },
+        {
+            "text": "$",
+            "bbox": [
+                650.515625,
+                121,
+                658.515625,
+                143
+            ]
+        },
+        {
+            "text": "10,542,801",
+            "bbox": [
+                658.515625,
+                121,
+                721.859375,
+                143
+            ]
+        },
+        {
+            "text": "$",
+            "bbox": [
+                725.84375,
+                121,
+                735.640625,
+                143
+            ]
+        },
+        {
+            "text": "5,263,147",
+            "bbox": [
+                735.640625,
+                121,
+                805.03125,
+                143
+            ]
+        },
+        {
+            "text": "$",
+            "bbox": [
+                809.328125,
+                121,
+                836.15625,
+                143
+            ]
+        },
+        {
+            "text": "50,899",
+            "bbox": [
+                836.15625,
+                121,
+                970.421875,
+                143
+            ]
+        },
+        {
+            "text": "Gains (losses) on derivatives in cash flow hedging relationship",
+            "bbox": [
+                30,
+                143,
+                650.515625,
+                165
+            ]
+        },
+        {
+            "text": "Foreign exchange contracts",
+            "bbox": [
+                30,
+                165,
+                650.515625,
+                187
+            ]
+        },
+        {
+            "text": "Amount of gains (losses) reclassified from AOCI",
+            "bbox": [
+                30,
+                187,
+                650.515625,
+                209
+            ]
+        },
+        {
+            "text": "164,796",
+            "bbox": [
+                650.515625,
+                187,
+                721.859375,
+                209
+            ]
+        },
+        {
+            "text": "(2,339)",
+            "bbox": [
+                725.84375,
+                187,
+                805.03125,
+                209
+            ]
+        },
+        {
+            "text": "—",
+            "bbox": [
+                809.328125,
+                187,
+                970.421875,
+                209
+            ]
+        },
+        {
+            "text": "Gains (losses) on derivatives in fair value hedging relationship",
+            "bbox": [
+                30,
+                209,
+                650.515625,
+                231
+            ]
+        },
+        {
+            "text": "Foreign exchange contracts",
+            "bbox": [
+                30,
+                231,
+                650.515625,
+                253
+            ]
+        },
+        {
+            "text": "Hedged items",
+            "bbox": [
+                30,
+                253,
+                650.515625,
+                275
+            ]
+        },
+        {
+            "text": "—",
+            "bbox": [
+                650.515625,
+                253,
+                721.859375,
+                275
+            ]
+        },
+        {
+            "text": "—",
+            "bbox": [
+                725.84375,
+                253,
+                805.03125,
+                275
+            ]
+        },
+        {
+            "text": "(153,825)",
+            "bbox": [
+                809.328125,
+                253,
+                970.421875,
+                275
+            ]
+        },
+        {
+            "text": "Derivatives designated as hedging instruments",
+            "bbox": [
+                30,
+                275,
+                650.515625,
+                297
+            ]
+        },
+        {
+            "text": "—",
+            "bbox": [
+                650.515625,
+                275,
+                721.859375,
+                297
+            ]
+        },
+        {
+            "text": "—",
+            "bbox": [
+                725.84375,
+                275,
+                805.03125,
+                297
+            ]
+        },
+        {
+            "text": "157,435",
+            "bbox": [
+                809.328125,
+                275,
+                970.421875,
+                297
+            ]
+        },
+        {
+            "text": "Amount excluded from assessment of effectiveness and recognized in earnings based on amortization approach",
+            "bbox": [
+                30,
+                297,
+                650.515625,
+                319
+            ]
+        },
+        {
+            "text": "—",
+            "bbox": [
+                650.515625,
+                297,
+                721.859375,
+                319
+            ]
+        },
+        {
+            "text": "—",
+            "bbox": [
+                725.84375,
+                297,
+                805.03125,
+                319
+            ]
+        },
+        {
+            "text": "(14,569)",
+            "bbox": [
+                809.328125,
+                297,
+                970.421875,
+                319
+            ]
+        },
+        {
+            "text": "Losses on derivatives not designated as hedging instruments",
+            "bbox": [
+                30,
+                319,
+                650.515625,
+                341
+            ]
+        },
+        {
+            "text": "Foreign exchange contracts",
+            "bbox": [
+                30,
+                341,
+                650.515625,
+                363
+            ]
+        },
+        {
+            "text": "—",
+            "bbox": [
+                650.515625,
+                341,
+                721.859375,
+                363
+            ]
+        },
+        {
+            "text": "—",
+            "bbox": [
+                725.84375,
+                341,
+                805.03125,
+                363
+            ]
+        },
+        {
+            "text": "(20,950)",
+            "bbox": [
+                809.328125,
+                341,
+                970.421875,
+                363
+            ]
+        }
+    ]
+}

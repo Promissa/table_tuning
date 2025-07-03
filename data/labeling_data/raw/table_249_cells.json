@@ -1,0 +1,97 @@
+{
+    "imagePath": "table_249.png",
+    "imageWidth": 1264,
+    "imageHeight": 277.65625,
+    "cells": [
+        {
+            "text": "Persons depositing or withdrawing\nshares or ADS holders must pay:",
+            "bbox": [
+                30,
+                30,
+                431.328125,
+                55.65625
+            ]
+        },
+        {
+            "text": "For:",
+            "bbox": [
+                832.65625,
+                30,
+                1234.0,
+                55.65625
+            ]
+        },
+        {
+            "text": "Up to US$5.00 per 100 ADSs (or fraction thereof)",
+            "bbox": [
+                30,
+                55.65625,
+                832.65625,
+                111.65625
+            ]
+        },
+        {
+            "text": "•\nIssuance of ADSs upon deposit of Shares (excluding issuances as a result of distributions of ADSs pursuant to (i) stock dividends or other free stock distributions, or (ii) exercise of rights to purchase additional ADSs).",
+            "bbox": [
+                832.65625,
+                55.65625,
+                1234.0,
+                111.65625
+            ]
+        },
+        {
+            "text": "•\nDelivery of Shares against surrender of ADSs.",
+            "bbox": [
+                832.65625,
+                111.65625,
+                1234.0,
+                131.65625
+            ]
+        },
+        {
+            "text": "•\nDistribution of cash dividends or other cash distributions.",
+            "bbox": [
+                832.65625,
+                131.65625,
+                1234.0,
+                151.65625
+            ]
+        },
+        {
+            "text": "•\nDistribution of ADSs pursuant to (i) stock dividends or other free stock distributions, or (ii) exercise of rights to purchase additional ADSs.",
+            "bbox": [
+                832.65625,
+                151.65625,
+                1234.0,
+                189.65625
+            ]
+        },
+        {
+            "text": "•\nDistribution of securities other than ADSs or rights to purchase additional ADSs.",
+            "bbox": [
+                832.65625,
+                189.65625,
+                1234.0,
+                227.65625
+            ]
+        },
+        {
+            "text": "Up to US$5.00 per 100 ADS (or fraction thereof) per calendar year",
+            "bbox": [
+                30,
+                227.65625,
+                832.65625,
+                247.65625
+            ]
+        },
+        {
+            "text": "•\nADS services",
+            "bbox": [
+                832.65625,
+                227.65625,
+                1234.0,
+                247.65625
+            ]
+        }
+    ]
+}

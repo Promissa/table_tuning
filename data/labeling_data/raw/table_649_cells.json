@@ -1,0 +1,61 @@
+{
+    "imagePath": "table_649.png",
+    "imageWidth": 1264,
+    "imageHeight": 331,
+    "cells": [
+        {
+            "text": "Related Party",
+            "bbox": [
+                30,
+                30,
+                431.328125,
+                43
+            ]
+        },
+        {
+            "text": "Transaction Description",
+            "bbox": [
+                832.65625,
+                30,
+                1234.0,
+                43
+            ]
+        },
+        {
+            "text": "Ant Group and its affiliates",
+            "bbox": [
+                30,
+                43,
+                832.65625,
+                99
+            ]
+        },
+        {
+            "text": "•\nThe SAPA, which was amended in 2018, 2019, 2020 and 2022, pursuant to which we received a 33% equity interest (on a fully diluted basis) in Ant Group, and which sets forth, among other things, our rights in Ant Group.",
+            "bbox": [
+                832.65625,
+                43,
+                1234.0,
+                99
+            ]
+        },
+        {
+            "text": "•\nThe Alipay commercial agreement, pursuant to which Alipay provides payment and escrow services to us.",
+            "bbox": [
+                832.65625,
+                99,
+                1234.0,
+                137
+            ]
+        },
+        {
+            "text": "•\nThe 2014 IPLA, an amendment to which was subsequently entered into in 2019 upon our receipt of the 33% equity interest (on a fully diluted basis) in Ant Group, or the Amended IPLA, provides that we and our subsidiaries license to Ant Group and/or its subsidiaries certain intellectual property rights and provide various software technology services, and, prior to our receipt of the 33% equity interest (on a fully diluted basis) in Ant Group, Ant Group paid us profit share payments; pursuant to the SAPA, a cross-license agreement was entered into in September 2019 upon our receipt of the 33% equity interest (on a fully diluted basis) in Ant Group.",
+            "bbox": [
+                832.65625,
+                137,
+                1234.0,
+                301
+            ]
+        }
+    ]
+}

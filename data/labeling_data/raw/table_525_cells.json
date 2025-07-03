@@ -1,0 +1,25 @@
+{
+    "imagePath": "table_525.png",
+    "imageWidth": 1264,
+    "imageHeight": 134.65625,
+    "cells": [
+        {
+            "text": "(a)",
+            "bbox": [
+                30,
+                30,
+                78,
+                94
+            ]
+        },
+        {
+            "text": "With effect from January 1, 1988, BEL, a wholly-owned foreign subsidiary of the Company in Hong Kong, implemented a defined contribution plan (the “Plan”) with a major international insurance company to provide life insurance and retirement benefits for its employees. All permanent full time employees who joined BEL before December 2000, excluding factory workers, are eligible to join the Plan. Each eligible employee that chooses to participate in the Plan is required to contribute 5% of their monthly salary, while BEL is required to contribute from 5% to 10% depending on the eligible employee’s salary and number of years in service.",
+            "bbox": [
+                78,
+                30,
+                1234,
+                94
+            ]
+        }
+    ]
+}

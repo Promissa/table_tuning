@@ -1,0 +1,25 @@
+{
+    "imagePath": "table_535.png",
+    "imageWidth": 1264,
+    "imageHeight": 115,
+    "cells": [
+        {
+            "text": "(1)",
+            "bbox": [
+                30,
+                30,
+                54.078125,
+                85
+            ]
+        },
+        {
+            "text": "To provide investors with additional information regarding our financial results, we have disclosed here and elsewhere in this prospectus Adjusted EBITDA, a non-GAAP financial measure that we calculate as net income (loss) from continuing operations excluding: depreciation and amortization expense; interest expense, net of amortization of discounts and premiums; interest income; income tax expense; stock compensation expense; certain legal expenses; realized and unrealized (gains) losses, net, on digital assets held for investment and other related investments; realized (gains) losses on available-for-sale debt securities; impairment losses on strategic investments; merger termination expenses; restructuring expenses; acquisition-related costs; change in fair value of convertible debt, warrant liability, and embedded derivatives; (gains) losses on sale of long-lived assets; and foreign currency exchange loss. For additional information regarding our use and the limitations of Adjusted EBITDA, see “Management’s discussion and analysis of financial condition and results of operations—Non-GAAP financial measures.” The following table reconciles Adjusted EBITDA to net income (loss) from continuing operations, the most closely comparable GAAP financial measure:",
+            "bbox": [
+                66.109375,
+                30,
+                1234.0,
+                85
+            ]
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "imagePath": "table_595.png",
+    "imageWidth": 1264,
+    "imageHeight": 126,
+    "cells": [
+        {
+            "text": "(2)",
+            "bbox": [
+                30,
+                30,
+                54.078125,
+                96
+            ]
+        },
+        {
+            "text": "Represents (i) 10,672,053 shares of Class A common stock held by Accel XI L.P.; (ii) 801,821 shares of Class A common stock held by Accel XI Strategic Partners L.P.; (iii) 1,133,393 shares of Class A common stock held by Accel Investors 2013 L.L.C.; (iv) 191,365 shares of Class A common stock held by Accel XIV L.P.; (v) 7,766 shares of Class A common stock held by Accel XIV Strategic Partners L.P.; and (vi) 10,215 shares of Class A common stock held by Accel XIV Investors (2019) L.L.C. Accel XI Associates L.L.C. (“A11A”) is the General Partner of both Accel XI L.P. and Accel XI Strategic Partners L.P., and has the sole voting and investment power of the shares held by such entities. Accel XIV Associates L.L.C. (“A14A”) is the General Partner of both Accel XIV L.P. and Accel XIV Strategic Partners L.P., and has the sole voting and investment power of the shares held by such entities. Each of A11A, A14A, Accel Investors 2013 L.L.C., and Accel XIV Investors (2019) L.L.C. is controlled by three or more individual managing members, and the voting and investment decisions with respect to shares beneficially owned by such entities requires a vote of the majority of these individual managing members. Each managing member disclaims beneficial ownership except to the extent of their pecuniary interest therein. The business address for each of the reporting entities is 500 University Ave., Palo Alto, CA 94301.",
+            "bbox": [
+                66.109375,
+                30,
+                1234.0,
+                96
+            ]
+        }
+    ]
+}

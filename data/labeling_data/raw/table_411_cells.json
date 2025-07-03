@@ -1,0 +1,88 @@
+{
+    "imagePath": "table_411.png",
+    "imageWidth": 414.578125,
+    "imageHeight": 195.65625,
+    "cells": [
+        {
+            "text": "California",
+            "bbox": [
+                30,
+                30,
+                215.15625,
+                52
+            ]
+        },
+        {
+            "text": "94-2404110",
+            "bbox": [
+                217.8125,
+                30,
+                384.578125,
+                52
+            ]
+        },
+        {
+            "text": "(State or other jurisdiction\nof incorporation or organization)",
+            "bbox": [
+                30,
+                52,
+                215.15625,
+                92
+            ]
+        },
+        {
+            "text": "(I.R.S. Employer Identification No.)",
+            "bbox": [
+                217.8125,
+                52,
+                384.578125,
+                92
+            ]
+        },
+        {
+            "text": "One Apple Park Way",
+            "bbox": [
+                30,
+                92,
+                215.15625,
+                114
+            ]
+        },
+        {
+            "text": "Cupertino, California",
+            "bbox": [
+                30,
+                114,
+                215.15625,
+                136
+            ]
+        },
+        {
+            "text": "95014",
+            "bbox": [
+                217.8125,
+                114,
+                384.578125,
+                136
+            ]
+        },
+        {
+            "text": "(Address of principal executive offices)",
+            "bbox": [
+                30,
+                136,
+                215.15625,
+                158
+            ]
+        },
+        {
+            "text": "(Zip Code)",
+            "bbox": [
+                217.8125,
+                136,
+                384.578125,
+                158
+            ]
+        }
+    ]
+}

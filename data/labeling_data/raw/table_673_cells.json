@@ -1,0 +1,61 @@
+{
+    "imagePath": "table_673.png",
+    "imageWidth": 221.296875,
+    "imageHeight": 156.984375,
+    "cells": [
+        {
+            "text": "/s/ P. Sean Neville\n\nP. Sean Neville",
+            "bbox": [
+                30,
+                30,
+                137.203125,
+                62.328125
+            ]
+        },
+        {
+            "text": "Director",
+            "bbox": [
+                144.625,
+                30,
+                191.296875,
+                62.328125
+            ]
+        },
+        {
+            "text": "/s/ David Orfao\n\nDavid Orfao",
+            "bbox": [
+                30,
+                62.328125,
+                137.203125,
+                94.65625
+            ]
+        },
+        {
+            "text": "Director",
+            "bbox": [
+                144.625,
+                62.328125,
+                191.296875,
+                94.65625
+            ]
+        },
+        {
+            "text": "/s/ Danita Ostling\n\nDanita Ostling",
+            "bbox": [
+                30,
+                94.65625,
+                137.203125,
+                126.984375
+            ]
+        },
+        {
+            "text": "Director",
+            "bbox": [
+                144.625,
+                94.65625,
+                191.296875,
+                126.984375
+            ]
+        }
+    ]
+}

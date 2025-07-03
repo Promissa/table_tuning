@@ -1,0 +1,25 @@
+{
+    "imagePath": "table_688.png",
+    "imageWidth": 1264,
+    "imageHeight": 115,
+    "cells": [
+        {
+            "text": "(7)",
+            "bbox": [
+                30,
+                30,
+                54.078125,
+                85
+            ]
+        },
+        {
+            "text": "These shares are owned by funds and accounts managed by direct or indirect subsidiaries of FMR LLC. All of these shares are beneficially owned, or may be deemed to be beneficially owned, by FMR LLC. Abigail P. Johnson is a Director, the Chairman and the Chief Executive Officer of FMR LLC. Members of the Johnson family, including Abigail P. Johnson, are the predominant owners, directly or through trusts, of Series B voting common shares of FMR LLC, representing 49% of the voting power of FMR LLC. The Johnson family group and all other Series B shareholders have entered into a shareholders’ voting agreement under which all Series B voting common shares will be voted in accordance with the majority vote of Series B voting common shares. Accordingly, through their ownership of voting common shares and the execution of the shareholders’ voting agreement, members of the Johnson family may be deemed, under the 1940 Act, to form a controlling group with respect to FMR LLC. The business address of FMR LLC is 245 Summer Street, Boston, MA 02210.",
+            "bbox": [
+                66.109375,
+                30,
+                1234.0,
+                85
+            ]
+        }
+    ]
+}

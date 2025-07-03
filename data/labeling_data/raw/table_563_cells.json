@@ -1,0 +1,25 @@
+{
+    "imagePath": "table_563.png",
+    "imageWidth": 1264,
+    "imageHeight": 165,
+    "cells": [
+        {
+            "text": "•",
+            "bbox": [
+                30,
+                30,
+                42.03125,
+                135
+            ]
+        },
+        {
+            "text": "On July 1, 2024, we consummated a scheme of arrangement, pursuant to which issued ordinary shares and preferred shares in the capital of Circle Internet Financial Limited were cancelled and, in connection with such cancellation, Circle Internet Group, Inc. issued an equivalent number of shares of its capital stock of the same class and series to then-shareholders of Circle Internet Financial Limited. In this transaction, we issued 55,881,969 shares of Class A common stock, 33,620,690 shares of Series A preferred stock, 17,586,205 shares of Series B preferred stock, 18,445,443 shares of Series C preferred stock, 23,202,679 shares of Series D preferred stock, 36,866,587 shares of Series E preferred stock and 9,515,886 shares of Series F preferred stock. The securities were exempt from registration under Section 3(a)(10) of the Securities Act in that the securities were issued in exchange for outstanding securities of Circle Internet Financial Limited pursuant to a scheme of arrangement whose terms and conditions were approved, after a hearing upon the fairness of such terms and conditions at which all shareholders of Circle Internet Financial Limited had the right to appear, by the Irish High Court.",
+            "bbox": [
+                54.0625,
+                30,
+                1234.0,
+                135
+            ]
+        }
+    ]
+}

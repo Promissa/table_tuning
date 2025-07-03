@@ -1,0 +1,61 @@
+{
+    "imagePath": "table_482.png",
+    "imageWidth": 1264,
+    "imageHeight": 178,
+    "cells": [
+        {
+            "text": "Level 1  —",
+            "bbox": [
+                114.28125,
+                30,
+                674.140625,
+                48
+            ]
+        },
+        {
+            "text": "Valuations based on unadjusted quoted prices for identical assets and liabilities in active markets.",
+            "bbox": [
+                674.140625,
+                30,
+                1234.0,
+                48
+            ]
+        },
+        {
+            "text": "Level 2  —",
+            "bbox": [
+                114.28125,
+                48,
+                674.140625,
+                114
+            ]
+        },
+        {
+            "text": "Valuations based on observable inputs other than quoted prices included in Level 1, such as quoted prices for similar assets and liabilities in active markets, quoted prices for identical or similar assets and liabilities in markets that are not active, or other inputs that are observable or can be corroborated by observable market data.",
+            "bbox": [
+                674.140625,
+                48,
+                1234.0,
+                114
+            ]
+        },
+        {
+            "text": "Level 3  —",
+            "bbox": [
+                114.28125,
+                114,
+                674.140625,
+                148
+            ]
+        },
+        {
+            "text": "Valuations based on unobservable inputs reflecting assumptions, consistent with reasonably available assumptions made by other market participants. These valuations require significant judgment.",
+            "bbox": [
+                674.140625,
+                114,
+                1234.0,
+                148
+            ]
+        }
+    ]
+}

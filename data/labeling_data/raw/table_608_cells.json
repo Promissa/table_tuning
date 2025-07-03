@@ -1,0 +1,61 @@
+{
+    "imagePath": "table_608.png",
+    "imageWidth": 1264,
+    "imageHeight": 168,
+    "cells": [
+        {
+            "text": "Satya Nadella",
+            "bbox": [
+                30,
+                30,
+                632,
+                48
+            ]
+        },
+        {
+            "text": "Chief Executive Officer",
+            "bbox": [
+                30,
+                48,
+                632,
+                66
+            ]
+        },
+        {
+            "text": "Amy E. Hood",
+            "bbox": [
+                30,
+                66,
+                632,
+                84
+            ]
+        },
+        {
+            "text": "Executive Vice President and Chief Financial Officer",
+            "bbox": [
+                30,
+                84,
+                632,
+                102
+            ]
+        },
+        {
+            "text": "Alice L. Jolla",
+            "bbox": [
+                30,
+                102,
+                632,
+                120
+            ]
+        },
+        {
+            "text": "Corporate Vice President and Chief Accounting Officer",
+            "bbox": [
+                30,
+                120,
+                632,
+                138
+            ]
+        }
+    ]
+}

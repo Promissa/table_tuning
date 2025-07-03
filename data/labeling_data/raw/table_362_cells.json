@@ -1,0 +1,187 @@
+{
+    "imagePath": "table_362.png",
+    "imageWidth": 1019.453125,
+    "imageHeight": 220,
+    "cells": [
+        {
+            "text": "●",
+            "bbox": [
+                54,
+                30,
+                78,
+                46
+            ]
+        },
+        {
+            "text": "ordinary brokerage transactions and transactions in which the broker-dealer solicits purchasers;",
+            "bbox": [
+                78,
+                30,
+                989.453125,
+                46
+            ]
+        },
+        {
+            "text": "●",
+            "bbox": [
+                54,
+                46,
+                78,
+                62
+            ]
+        },
+        {
+            "text": "block trades in which the broker-dealer will attempt to sell the securities as agent but may position and resell a portion of the block as principal to facilitate the transaction;",
+            "bbox": [
+                78,
+                46,
+                989.453125,
+                62
+            ]
+        },
+        {
+            "text": "●",
+            "bbox": [
+                54,
+                62,
+                78,
+                78
+            ]
+        },
+        {
+            "text": "purchases by a broker-dealer as principal and resale by the broker-dealer for its account;",
+            "bbox": [
+                78,
+                62,
+                989.453125,
+                78
+            ]
+        },
+        {
+            "text": "●",
+            "bbox": [
+                54,
+                78,
+                78,
+                94
+            ]
+        },
+        {
+            "text": "an exchange distribution in accordance with the rules of the applicable exchange;",
+            "bbox": [
+                78,
+                78,
+                989.453125,
+                94
+            ]
+        },
+        {
+            "text": "●",
+            "bbox": [
+                54,
+                94,
+                78,
+                110
+            ]
+        },
+        {
+            "text": "privately negotiated transactions;",
+            "bbox": [
+                78,
+                94,
+                989.453125,
+                110
+            ]
+        },
+        {
+            "text": "●",
+            "bbox": [
+                54,
+                110,
+                78,
+                126
+            ]
+        },
+        {
+            "text": "settlement of short sales;",
+            "bbox": [
+                78,
+                110,
+                989.453125,
+                126
+            ]
+        },
+        {
+            "text": "●",
+            "bbox": [
+                54,
+                126,
+                78,
+                142
+            ]
+        },
+        {
+            "text": "in transactions through broker-dealers that agree with the selling stockholders to sell a specified number of such securities at a stipulated price per security;",
+            "bbox": [
+                78,
+                126,
+                989.453125,
+                142
+            ]
+        },
+        {
+            "text": "●",
+            "bbox": [
+                54,
+                142,
+                78,
+                158
+            ]
+        },
+        {
+            "text": "through the writing or settlement of options or other hedging transactions, whether through an options exchange or otherwise;",
+            "bbox": [
+                78,
+                142,
+                989.453125,
+                158
+            ]
+        },
+        {
+            "text": "●",
+            "bbox": [
+                54,
+                158,
+                78,
+                174
+            ]
+        },
+        {
+            "text": "a combination of any such methods of sale; or",
+            "bbox": [
+                78,
+                158,
+                989.453125,
+                174
+            ]
+        },
+        {
+            "text": "●",
+            "bbox": [
+                54,
+                174,
+                78,
+                190
+            ]
+        },
+        {
+            "text": "any other method permitted pursuant to applicable law.",
+            "bbox": [
+                78,
+                174,
+                989.453125,
+                190
+            ]
+        }
+    ]
+}

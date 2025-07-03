@@ -1,0 +1,151 @@
+{
+    "imagePath": "table_784.png",
+    "imageWidth": 1264,
+    "imageHeight": 150,
+    "cells": [
+        {
+            "text": "Element",
+            "bbox": [
+                30,
+                30,
+                132.15625,
+                44.5
+            ]
+        },
+        {
+            "text": "Type",
+            "bbox": [
+                139.578125,
+                30,
+                187.5,
+                44.5
+            ]
+        },
+        {
+            "text": "Element",
+            "bbox": [
+                194.921875,
+                30,
+                241.609375,
+                44.5
+            ]
+        },
+        {
+            "text": "Key Features",
+            "bbox": [
+                249.03125,
+                30,
+                1234.0,
+                44.5
+            ]
+        },
+        {
+            "text": "Base Salary",
+            "bbox": [
+                30,
+                44.5,
+                132.15625,
+                60.0
+            ]
+        },
+        {
+            "text": "Fixed",
+            "bbox": [
+                139.578125,
+                44.5,
+                187.5,
+                60.0
+            ]
+        },
+        {
+            "text": "Cash",
+            "bbox": [
+                194.921875,
+                44.5,
+                241.609375,
+                60.0
+            ]
+        },
+        {
+            "text": "Provide fixed, ongoing compensation to attract and retain executives, which is representative of the market for their role and expected contributions.",
+            "bbox": [
+                249.03125,
+                44.5,
+                1234.0,
+                60.0
+            ]
+        },
+        {
+            "text": "Short-Term Incentive",
+            "bbox": [
+                30,
+                60,
+                132.15625,
+                90
+            ]
+        },
+        {
+            "text": "Variable",
+            "bbox": [
+                139.578125,
+                60,
+                187.5,
+                90
+            ]
+        },
+        {
+            "text": "Cash",
+            "bbox": [
+                194.921875,
+                60,
+                241.609375,
+                90
+            ]
+        },
+        {
+            "text": "Variable cash incentive opportunity to motivate executives to achieve key short-term business and financial objectives aligned with the Company’s operating plan and strategic priorities. Payouts are determined formulaically based on the achievement of financial and business performance goals.",
+            "bbox": [
+                249.03125,
+                60,
+                1234.0,
+                90
+            ]
+        },
+        {
+            "text": "Long-Term Incentives",
+            "bbox": [
+                30,
+                90,
+                132.15625,
+                120
+            ]
+        },
+        {
+            "text": "Variable",
+            "bbox": [
+                139.578125,
+                90,
+                187.5,
+                120
+            ]
+        },
+        {
+            "text": "Equity",
+            "bbox": [
+                194.921875,
+                90,
+                241.609375,
+                120
+            ]
+        },
+        {
+            "text": "Granted in the form of restricted stock units (“RSUs”) to align the interests of executives with stockholders by promoting sustainable long-term value creation and reinforcing a pay-for-performance culture. Multi-year vesting schedules encourage long-term ownership, retention, and leadership continuity.",
+            "bbox": [
+                249.03125,
+                90,
+                1234.0,
+                120
+            ]
+        }
+    ]
+}

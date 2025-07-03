@@ -1,0 +1,25 @@
+{
+    "imagePath": "table_640.png",
+    "imageWidth": 1264,
+    "imageHeight": 120,
+    "cells": [
+        {
+            "text": "•",
+            "bbox": [
+                30,
+                30,
+                42.03125,
+                90
+            ]
+        },
+        {
+            "text": "Technology innovation.  We invest considerable product and engineering effort in advancing the state-of-the-art in technologies to scale and simplify the use of stablecoins in everyday financial and commercial applications. Our blockchain infrastructure product pillar is focused on ensuring that end-users can safely move USDC and EURC across many blockchain networks, while abstracting away many of the complexities associated with making a payment or interacting with a blockchain-based financial application. At the same time, through our Developer Services product pillar, we are enabling software developers to easily integrate stablecoins into their own apps, and safely deploy applications that interact with blockchain networks and smart contracts.",
+            "bbox": [
+                54.0625,
+                30,
+                1234.0,
+                90
+            ]
+        }
+    ]
+}

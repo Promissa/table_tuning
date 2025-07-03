@@ -1,0 +1,115 @@
+{
+    "imagePath": "table_838.png",
+    "imageWidth": 1264,
+    "imageHeight": 151.328125,
+    "cells": [
+        {
+            "text": "Name",
+            "bbox": [
+                30,
+                30,
+                105.53125,
+                44.5
+            ]
+        },
+        {
+            "text": "Cash severance",
+            "bbox": [
+                112.953125,
+                30,
+                310.203125,
+                44.5
+            ]
+        },
+        {
+            "text": "Benefit continuation",
+            "bbox": [
+                317.625,
+                30,
+                799.90625,
+                44.5
+            ]
+        },
+        {
+            "text": "Equity awards",
+            "bbox": [
+                807.328125,
+                30,
+                1234.0,
+                44.5
+            ]
+        },
+        {
+            "text": "Jeremy Allaire",
+            "bbox": [
+                30,
+                44.5,
+                105.53125,
+                75.0
+            ]
+        },
+        {
+            "text": "1.5x the sum of base salary and target bonus",
+            "bbox": [
+                112.953125,
+                44.5,
+                310.203125,
+                75.0
+            ]
+        },
+        {
+            "text": "Continuation of medical and welfare benefits at Circle’s cost for the 18-month period following the date of termination",
+            "bbox": [
+                317.625,
+                44.5,
+                799.90625,
+                75.0
+            ]
+        },
+        {
+            "text": "Outstanding equity incentive awards will be treated in accordance with their terms and conditions",
+            "bbox": [
+                807.328125,
+                44.5,
+                1234.0,
+                75.0
+            ]
+        },
+        {
+            "text": "All other NEOs",
+            "bbox": [
+                30,
+                75,
+                105.53125,
+                121.328125
+            ]
+        },
+        {
+            "text": "1.0x the sum of base salary and target bonus",
+            "bbox": [
+                112.953125,
+                75,
+                310.203125,
+                121.328125
+            ]
+        },
+        {
+            "text": "Continuation of medical and welfare benefits at Circle’s cost for the one-year period following the date of termination",
+            "bbox": [
+                317.625,
+                75,
+                799.90625,
+                121.328125
+            ]
+        },
+        {
+            "text": "Vested options will remain exercisable for nine months\n\nOther outstanding equity incentive awards will be treated in accordance with their terms and conditions",
+            "bbox": [
+                807.328125,
+                75,
+                1234.0,
+                121.328125
+            ]
+        }
+    ]
+}

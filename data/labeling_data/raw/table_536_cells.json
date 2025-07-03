@@ -1,0 +1,61 @@
+{
+    "imagePath": "table_536.png",
+    "imageWidth": 337.25,
+    "imageHeight": 174.65625,
+    "cells": [
+        {
+            "text": "Date: November 1, 2024",
+            "bbox": [
+                30,
+                30,
+                163.40625,
+                52
+            ]
+        },
+        {
+            "text": "Apple Inc.",
+            "bbox": [
+                163.40625,
+                30,
+                307.25,
+                52
+            ]
+        },
+        {
+            "text": "By:",
+            "bbox": [
+                163.40625,
+                52,
+                183.40625,
+                74.5
+            ]
+        },
+        {
+            "text": "/s/ Luca Maestri",
+            "bbox": [
+                186.0625,
+                52,
+                307.25,
+                74.5
+            ]
+        },
+        {
+            "text": "Luca Maestri",
+            "bbox": [
+                186.0625,
+                74.5,
+                307.25,
+                97.0
+            ]
+        },
+        {
+            "text": "Senior Vice President,\nChief Financial Officer",
+            "bbox": [
+                186.0625,
+                97,
+                307.25,
+                137
+            ]
+        }
+    ]
+}

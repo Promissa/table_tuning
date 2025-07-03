@@ -1,0 +1,349 @@
+{
+    "imagePath": "table_738.png",
+    "imageWidth": 663.25,
+    "imageHeight": 270,
+    "cells": [
+        {
+            "text": "Annual Retainer for Board Service",
+            "bbox": [
+                30,
+                30,
+                573.90625,
+                45
+            ]
+        },
+        {
+            "text": "Annual service on the board of directors",
+            "bbox": [
+                30,
+                45,
+                573.90625,
+                60
+            ]
+        },
+        {
+            "text": "$",
+            "bbox": [
+                581.328125,
+                45,
+                588.75,
+                60
+            ]
+        },
+        {
+            "text": "80,000",
+            "bbox": [
+                588.75,
+                45,
+                629.53125,
+                60
+            ]
+        },
+        {
+            "text": "Additional retainer for annual service as a lead independent director of the board of directors",
+            "bbox": [
+                30,
+                60,
+                573.90625,
+                75
+            ]
+        },
+        {
+            "text": "$",
+            "bbox": [
+                581.328125,
+                60,
+                588.75,
+                75
+            ]
+        },
+        {
+            "text": "50,000",
+            "bbox": [
+                588.75,
+                60,
+                629.53125,
+                75
+            ]
+        },
+        {
+            "text": "Additional Annual Retainer for Committee Membership",
+            "bbox": [
+                30,
+                75,
+                573.90625,
+                90
+            ]
+        },
+        {
+            "text": "Annual service as audit committee chairperson",
+            "bbox": [
+                30,
+                90,
+                573.90625,
+                105
+            ]
+        },
+        {
+            "text": "$",
+            "bbox": [
+                581.328125,
+                90,
+                588.75,
+                105
+            ]
+        },
+        {
+            "text": "35,000",
+            "bbox": [
+                588.75,
+                90,
+                629.53125,
+                105
+            ]
+        },
+        {
+            "text": "Annual service as member of the audit committee (other than chair)",
+            "bbox": [
+                30,
+                105,
+                573.90625,
+                120
+            ]
+        },
+        {
+            "text": "$",
+            "bbox": [
+                581.328125,
+                105,
+                588.75,
+                120
+            ]
+        },
+        {
+            "text": "15,000",
+            "bbox": [
+                588.75,
+                105,
+                629.53125,
+                120
+            ]
+        },
+        {
+            "text": "Annual service as compensation committee chairperson",
+            "bbox": [
+                30,
+                120,
+                573.90625,
+                135
+            ]
+        },
+        {
+            "text": "$",
+            "bbox": [
+                581.328125,
+                120,
+                588.75,
+                135
+            ]
+        },
+        {
+            "text": "20,000",
+            "bbox": [
+                588.75,
+                120,
+                629.53125,
+                135
+            ]
+        },
+        {
+            "text": "Annual service as member of the compensation committee (other than chair)",
+            "bbox": [
+                30,
+                135,
+                573.90625,
+                150
+            ]
+        },
+        {
+            "text": "$",
+            "bbox": [
+                581.328125,
+                135,
+                588.75,
+                150
+            ]
+        },
+        {
+            "text": "9,000",
+            "bbox": [
+                588.75,
+                135,
+                629.53125,
+                150
+            ]
+        },
+        {
+            "text": "Annual service as risk committee chairperson",
+            "bbox": [
+                30,
+                150,
+                573.90625,
+                165
+            ]
+        },
+        {
+            "text": "$",
+            "bbox": [
+                581.328125,
+                150,
+                588.75,
+                165
+            ]
+        },
+        {
+            "text": "27,500",
+            "bbox": [
+                588.75,
+                150,
+                629.53125,
+                165
+            ]
+        },
+        {
+            "text": "Annual service as member of the risk committee (other than chair)",
+            "bbox": [
+                30,
+                165,
+                573.90625,
+                180
+            ]
+        },
+        {
+            "text": "$",
+            "bbox": [
+                581.328125,
+                165,
+                588.75,
+                180
+            ]
+        },
+        {
+            "text": "12,000",
+            "bbox": [
+                588.75,
+                165,
+                629.53125,
+                180
+            ]
+        },
+        {
+            "text": "Annual service as nominating and governance committee chairperson",
+            "bbox": [
+                30,
+                180,
+                573.90625,
+                195
+            ]
+        },
+        {
+            "text": "$",
+            "bbox": [
+                581.328125,
+                180,
+                588.75,
+                195
+            ]
+        },
+        {
+            "text": "15,000",
+            "bbox": [
+                588.75,
+                180,
+                629.53125,
+                195
+            ]
+        },
+        {
+            "text": "Annual service as member of the nominating and governance committee (other than chair)",
+            "bbox": [
+                30,
+                195,
+                573.90625,
+                210
+            ]
+        },
+        {
+            "text": "$",
+            "bbox": [
+                581.328125,
+                195,
+                588.75,
+                210
+            ]
+        },
+        {
+            "text": "6,000",
+            "bbox": [
+                588.75,
+                195,
+                629.53125,
+                210
+            ]
+        },
+        {
+            "text": "Annual service as strategy committee chairperson",
+            "bbox": [
+                30,
+                210,
+                573.90625,
+                225
+            ]
+        },
+        {
+            "text": "$",
+            "bbox": [
+                581.328125,
+                210,
+                588.75,
+                225
+            ]
+        },
+        {
+            "text": "27,500",
+            "bbox": [
+                588.75,
+                210,
+                629.53125,
+                225
+            ]
+        },
+        {
+            "text": "Annual service as member of the strategy committee (other than chair)",
+            "bbox": [
+                30,
+                225,
+                573.90625,
+                240
+            ]
+        },
+        {
+            "text": "$",
+            "bbox": [
+                581.328125,
+                225,
+                588.75,
+                240
+            ]
+        },
+        {
+            "text": "12,000",
+            "bbox": [
+                588.75,
+                225,
+                629.53125,
+                240
+            ]
+        }
+    ]
+}

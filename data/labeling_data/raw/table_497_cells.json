@@ -1,0 +1,466 @@
+{
+    "imagePath": "table_497.png",
+    "imageWidth": 1264,
+    "imageHeight": 559,
+    "cells": [
+        {
+            "text": "Name",
+            "bbox": [
+                30,
+                30,
+                270.796875,
+                49
+            ]
+        },
+        {
+            "text": "Age",
+            "bbox": [
+                511.59375,
+                30,
+                752.390625,
+                49
+            ]
+        },
+        {
+            "text": "Position/Title",
+            "bbox": [
+                993.1875,
+                30,
+                1234.0,
+                49
+            ]
+        },
+        {
+            "text": "Joseph C. TSAI†(2)(a)",
+            "bbox": [
+                30,
+                49,
+                270.796875,
+                99
+            ]
+        },
+        {
+            "text": "60",
+            "bbox": [
+                511.59375,
+                49,
+                752.390625,
+                99
+            ]
+        },
+        {
+            "text": "Chairman; \nChairman, Cainiao Smart Logistics Network Limited",
+            "bbox": [
+                993.1875,
+                49,
+                1234.0,
+                99
+            ]
+        },
+        {
+            "text": "Eddie Yongming WU†(1)(b)",
+            "bbox": [
+                30,
+                99,
+                270.796875,
+                181
+            ]
+        },
+        {
+            "text": "49",
+            "bbox": [
+                511.59375,
+                99,
+                752.390625,
+                181
+            ]
+        },
+        {
+            "text": "Director and Chief Executive Officer; \nChairman and Chief Executive Officer, Taobao and Tmall Group;\nChairman and Chief Executive Officer, Cloud Intelligence Group",
+            "bbox": [
+                993.1875,
+                99,
+                1234.0,
+                181
+            ]
+        },
+        {
+            "text": "J. Michael EVANS†(2)(a)",
+            "bbox": [
+                30,
+                181,
+                270.796875,
+                231
+            ]
+        },
+        {
+            "text": "66",
+            "bbox": [
+                511.59375,
+                181,
+                752.390625,
+                231
+            ]
+        },
+        {
+            "text": "Director and President;\nCo-Chairman, Alibaba International Digital Commerce Group",
+            "bbox": [
+                993.1875,
+                181,
+                1234.0,
+                231
+            ]
+        },
+        {
+            "text": "Maggie Wei WU†(2)(c)",
+            "bbox": [
+                30,
+                231,
+                270.796875,
+                249
+            ]
+        },
+        {
+            "text": "56",
+            "bbox": [
+                511.59375,
+                231,
+                752.390625,
+                249
+            ]
+        },
+        {
+            "text": "Director",
+            "bbox": [
+                993.1875,
+                231,
+                1234.0,
+                249
+            ]
+        },
+        {
+            "text": "Jerry YANG(2)(b)",
+            "bbox": [
+                30,
+                249,
+                270.796875,
+                267
+            ]
+        },
+        {
+            "text": "55",
+            "bbox": [
+                511.59375,
+                249,
+                752.390625,
+                267
+            ]
+        },
+        {
+            "text": "Independent director",
+            "bbox": [
+                993.1875,
+                249,
+                1234.0,
+                267
+            ]
+        },
+        {
+            "text": "Wan Ling MARTELLO(2)(b)",
+            "bbox": [
+                30,
+                267,
+                270.796875,
+                285
+            ]
+        },
+        {
+            "text": "66",
+            "bbox": [
+                511.59375,
+                267,
+                752.390625,
+                285
+            ]
+        },
+        {
+            "text": "Independent director",
+            "bbox": [
+                993.1875,
+                267,
+                1234.0,
+                285
+            ]
+        },
+        {
+            "text": "Weijian SHAN(2)(a)",
+            "bbox": [
+                30,
+                285,
+                270.796875,
+                303
+            ]
+        },
+        {
+            "text": "70",
+            "bbox": [
+                511.59375,
+                285,
+                752.390625,
+                303
+            ]
+        },
+        {
+            "text": "Independent director",
+            "bbox": [
+                993.1875,
+                285,
+                1234.0,
+                303
+            ]
+        },
+        {
+            "text": "Irene Yun-Lien LEE(2)(a)",
+            "bbox": [
+                30,
+                303,
+                270.796875,
+                321
+            ]
+        },
+        {
+            "text": "70",
+            "bbox": [
+                511.59375,
+                303,
+                752.390625,
+                321
+            ]
+        },
+        {
+            "text": "Independent director",
+            "bbox": [
+                993.1875,
+                303,
+                1234.0,
+                321
+            ]
+        },
+        {
+            "text": "Albert Kong Ping NG(2)(b)",
+            "bbox": [
+                30,
+                321,
+                270.796875,
+                339
+            ]
+        },
+        {
+            "text": "66",
+            "bbox": [
+                511.59375,
+                321,
+                752.390625,
+                339
+            ]
+        },
+        {
+            "text": "Independent director",
+            "bbox": [
+                993.1875,
+                321,
+                1234.0,
+                339
+            ]
+        },
+        {
+            "text": "Kabir MISRA(2)(c)",
+            "bbox": [
+                30,
+                339,
+                270.796875,
+                357
+            ]
+        },
+        {
+            "text": "54",
+            "bbox": [
+                511.59375,
+                339,
+                752.390625,
+                357
+            ]
+        },
+        {
+            "text": "Independent director",
+            "bbox": [
+                993.1875,
+                339,
+                1234.0,
+                357
+            ]
+        },
+        {
+            "text": "Toby Hong XU(1)",
+            "bbox": [
+                30,
+                357,
+                270.796875,
+                375
+            ]
+        },
+        {
+            "text": "51",
+            "bbox": [
+                511.59375,
+                357,
+                752.390625,
+                375
+            ]
+        },
+        {
+            "text": "Chief Financial Officer",
+            "bbox": [
+                993.1875,
+                357,
+                1234.0,
+                375
+            ]
+        },
+        {
+            "text": "Jane Fang JIANG(1)",
+            "bbox": [
+                30,
+                375,
+                270.796875,
+                393
+            ]
+        },
+        {
+            "text": "50",
+            "bbox": [
+                511.59375,
+                375,
+                752.390625,
+                393
+            ]
+        },
+        {
+            "text": "Chief People Officer",
+            "bbox": [
+                993.1875,
+                375,
+                1234.0,
+                393
+            ]
+        },
+        {
+            "text": "Sara Siying YU(1)",
+            "bbox": [
+                30,
+                393,
+                270.796875,
+                411
+            ]
+        },
+        {
+            "text": "49",
+            "bbox": [
+                511.59375,
+                393,
+                752.390625,
+                411
+            ]
+        },
+        {
+            "text": "General Counsel",
+            "bbox": [
+                993.1875,
+                393,
+                1234.0,
+                411
+            ]
+        },
+        {
+            "text": "Fan JIANG(1)",
+            "bbox": [
+                30,
+                411,
+                270.796875,
+                461
+            ]
+        },
+        {
+            "text": "38",
+            "bbox": [
+                511.59375,
+                411,
+                752.390625,
+                461
+            ]
+        },
+        {
+            "text": "Co-Chairman and Chief Executive Officer, Alibaba International Digital Commerce Group",
+            "bbox": [
+                993.1875,
+                411,
+                1234.0,
+                461
+            ]
+        },
+        {
+            "text": "Lin WAN(1)",
+            "bbox": [
+                30,
+                461,
+                270.796875,
+                495
+            ]
+        },
+        {
+            "text": "49",
+            "bbox": [
+                511.59375,
+                461,
+                752.390625,
+                495
+            ]
+        },
+        {
+            "text": "Chief Executive Officer, Cainiao Smart Logistics Network Limited",
+            "bbox": [
+                993.1875,
+                461,
+                1234.0,
+                495
+            ]
+        },
+        {
+            "text": "Luyuan FAN(1)",
+            "bbox": [
+                30,
+                495,
+                270.796875,
+                529
+            ]
+        },
+        {
+            "text": "51",
+            "bbox": [
+                511.59375,
+                495,
+                752.390625,
+                529
+            ]
+        },
+        {
+            "text": "Chairman and Chief Executive Officer, Digital Media and Entertainment Group",
+            "bbox": [
+                993.1875,
+                495,
+                1234.0,
+                529
+            ]
+        }
+    ]
+}

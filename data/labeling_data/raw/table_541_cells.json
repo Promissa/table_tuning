@@ -1,0 +1,97 @@
+{
+    "imagePath": "table_541.png",
+    "imageWidth": 707.9375,
+    "imageHeight": 136,
+    "cells": [
+        {
+            "text": "Assumed initial public offering price per share",
+            "bbox": [
+                30,
+                30,
+                553.40625,
+                45
+            ]
+        },
+        {
+            "text": "$",
+            "bbox": [
+                623.09375,
+                30,
+                630.515625,
+                45
+            ]
+        },
+        {
+            "text": "Pro forma net tangible book value per share as of December 31, 2024",
+            "bbox": [
+                30,
+                45,
+                553.40625,
+                60
+            ]
+        },
+        {
+            "text": "$",
+            "bbox": [
+                560.828125,
+                45,
+                568.25,
+                60
+            ]
+        },
+        {
+            "text": "Increase in pro forma net tangible book value per share attributable to new investors",
+            "bbox": [
+                30,
+                60,
+                553.40625,
+                75
+            ]
+        },
+        {
+            "text": "$",
+            "bbox": [
+                560.828125,
+                60,
+                568.25,
+                75
+            ]
+        },
+        {
+            "text": "Pro forma as adjusted net tangible book value per share after giving effect to this offering",
+            "bbox": [
+                30,
+                75,
+                553.40625,
+                90
+            ]
+        },
+        {
+            "text": "$",
+            "bbox": [
+                623.09375,
+                75,
+                630.515625,
+                90
+            ]
+        },
+        {
+            "text": "Dilution per share to investors",
+            "bbox": [
+                30,
+                90,
+                553.40625,
+                105.5
+            ]
+        },
+        {
+            "text": "$",
+            "bbox": [
+                623.09375,
+                90,
+                630.515625,
+                105.5
+            ]
+        }
+    ]
+}

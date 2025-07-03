@@ -1,0 +1,187 @@
+{
+    "imagePath": "table_737.png",
+    "imageWidth": 525.546875,
+    "imageHeight": 297,
+    "cells": [
+        {
+            "text": "Three months ended\nMarch 31, 2025",
+            "bbox": [
+                373.8125,
+                30,
+                491.828125,
+                58.5
+            ]
+        },
+        {
+            "text": "(in millions, except\nreserve return rate\nand stablecoin\nmarket share)",
+            "bbox": [
+                373.8125,
+                58.5,
+                491.828125,
+                115.5
+            ]
+        },
+        {
+            "text": "Key operating data:",
+            "bbox": [
+                30,
+                115.5,
+                366.390625,
+                131.0
+            ]
+        },
+        {
+            "text": "USDC in circulation, end of period",
+            "bbox": [
+                30,
+                131,
+                366.390625,
+                146
+            ]
+        },
+        {
+            "text": "$",
+            "bbox": [
+                373.8125,
+                131,
+                382.3125,
+                146
+            ]
+        },
+        {
+            "text": "Average USDC in circulation",
+            "bbox": [
+                30,
+                146,
+                366.390625,
+                161
+            ]
+        },
+        {
+            "text": "$",
+            "bbox": [
+                373.8125,
+                146,
+                382.3125,
+                161
+            ]
+        },
+        {
+            "text": "Reserve return rate",
+            "bbox": [
+                30,
+                161,
+                366.390625,
+                176
+            ]
+        },
+        {
+            "text": "% to   %",
+            "bbox": [
+                382.3125,
+                161,
+                491.828125,
+                176
+            ]
+        },
+        {
+            "text": "USDC on platform, end of period",
+            "bbox": [
+                30,
+                176,
+                366.390625,
+                191
+            ]
+        },
+        {
+            "text": "$",
+            "bbox": [
+                373.8125,
+                176,
+                382.3125,
+                191
+            ]
+        },
+        {
+            "text": "Daily weighted-average percentage of USDC on platform",
+            "bbox": [
+                30,
+                191,
+                366.390625,
+                206
+            ]
+        },
+        {
+            "text": "%",
+            "bbox": [
+                382.3125,
+                191,
+                491.828125,
+                206
+            ]
+        },
+        {
+            "text": "USDC minted",
+            "bbox": [
+                30,
+                206,
+                366.390625,
+                221
+            ]
+        },
+        {
+            "text": "$",
+            "bbox": [
+                373.8125,
+                206,
+                382.3125,
+                221
+            ]
+        },
+        {
+            "text": "USDC redeemed",
+            "bbox": [
+                30,
+                221,
+                366.390625,
+                236
+            ]
+        },
+        {
+            "text": "$",
+            "bbox": [
+                373.8125,
+                221,
+                382.3125,
+                236
+            ]
+        },
+        {
+            "text": "Stablecoin market share, end of period",
+            "bbox": [
+                30,
+                236,
+                366.390625,
+                251
+            ]
+        },
+        {
+            "text": "%",
+            "bbox": [
+                382.3125,
+                236,
+                491.828125,
+                251
+            ]
+        },
+        {
+            "text": "Meaningful Wallets, end of period",
+            "bbox": [
+                30,
+                251,
+                366.390625,
+                266.5
+            ]
+        }
+    ]
+}

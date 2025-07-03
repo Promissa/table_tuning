@@ -1,0 +1,43 @@
+{
+    "imagePath": "table_490.png",
+    "imageWidth": 644.234375,
+    "imageHeight": 127.953125,
+    "cells": [
+        {
+            "text": "Priority Technology Holdings, Inc.",
+            "bbox": [
+                322.125,
+                30,
+                614.234375,
+                46.65625
+            ]
+        },
+        {
+            "text": "/s/ Thomas C. Priore",
+            "bbox": [
+                351.328125,
+                46.65625,
+                614.234375,
+                64.140625
+            ]
+        },
+        {
+            "text": "Thomas C. Priore",
+            "bbox": [
+                351.328125,
+                64.140625,
+                614.234375,
+                81.296875
+            ]
+        },
+        {
+            "text": "President, Chief Executive Officer and Chairman",
+            "bbox": [
+                351.328125,
+                81.296875,
+                614.234375,
+                97.953125
+            ]
+        }
+    ]
+}

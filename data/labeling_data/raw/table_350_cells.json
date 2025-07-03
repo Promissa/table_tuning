@@ -1,0 +1,88 @@
+{
+    "imagePath": "table_350.png",
+    "imageWidth": 1264,
+    "imageHeight": 111.328125,
+    "cells": [
+        {
+            "text": "Title of each class",
+            "bbox": [
+                30,
+                30,
+                431.328125,
+                43.328125
+            ]
+        },
+        {
+            "text": "Trading Symbol(s)",
+            "bbox": [
+                431.328125,
+                30,
+                832.65625,
+                43.328125
+            ]
+        },
+        {
+            "text": "Name of each exchange on which registered",
+            "bbox": [
+                832.65625,
+                30,
+                1234.0,
+                43.328125
+            ]
+        },
+        {
+            "text": "Ordinary Shares, par value US$0.000003125‬ per share",
+            "bbox": [
+                30,
+                43.328125,
+                431.328125,
+                63.328125
+            ]
+        },
+        {
+            "text": "9988 (HKD Counter)\n\n89988 (RMB Counter)",
+            "bbox": [
+                431.328125,
+                43.328125,
+                832.65625,
+                63.328125
+            ]
+        },
+        {
+            "text": "The Stock Exchange of Hong Kong Limited",
+            "bbox": [
+                832.65625,
+                43.328125,
+                1234.0,
+                63.328125
+            ]
+        },
+        {
+            "text": "American Depositary Shares, each representing eight Ordinary Shares",
+            "bbox": [
+                30,
+                63.328125,
+                431.328125,
+                81.328125
+            ]
+        },
+        {
+            "text": "BABA",
+            "bbox": [
+                431.328125,
+                63.328125,
+                832.65625,
+                81.328125
+            ]
+        },
+        {
+            "text": "New York Stock Exchange",
+            "bbox": [
+                832.65625,
+                63.328125,
+                1234.0,
+                81.328125
+            ]
+        }
+    ]
+}

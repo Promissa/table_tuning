@@ -1,0 +1,466 @@
+{
+    "imagePath": "table_576.png",
+    "imageWidth": 1264,
+    "imageHeight": 434,
+    "cells": [
+        {
+            "text": "(in thousands, except par value information)",
+            "bbox": [
+                30,
+                30,
+                1050.453125,
+                58.5
+            ]
+        },
+        {
+            "text": "December 31,\n2024",
+            "bbox": [
+                1057.875,
+                30,
+                1135.921875,
+                58.5
+            ]
+        },
+        {
+            "text": "December 31,\n2023",
+            "bbox": [
+                1147.796875,
+                30,
+                1225.84375,
+                58.5
+            ]
+        },
+        {
+            "text": "Commitments and contingencies (see Note 23)",
+            "bbox": [
+                30,
+                58.5,
+                1050.453125,
+                74.0
+            ]
+        },
+        {
+            "text": "Redeemable convertible preferred stock",
+            "bbox": [
+                30,
+                74,
+                1050.453125,
+                89
+            ]
+        },
+        {
+            "text": "Series A redeemable convertible preferred stock ($0.0001 par value; 33,621 thousand issued and outstanding; $9,078 liquidation preference as of December 31, 2024 and 2023)",
+            "bbox": [
+                30,
+                89,
+                1050.453125,
+                119
+            ]
+        },
+        {
+            "text": "9,000",
+            "bbox": [
+                1065.6875,
+                89,
+                1135.921875,
+                119
+            ]
+        },
+        {
+            "text": "9,000",
+            "bbox": [
+                1155.609375,
+                89,
+                1225.84375,
+                119
+            ]
+        },
+        {
+            "text": "Series B redeemable convertible preferred stock ($0.0001 par value; 17,586 thousand issued and outstanding; $17,059 liquidation preference as of December 31, 2024 and 2023)",
+            "bbox": [
+                30,
+                119,
+                1050.453125,
+                149
+            ]
+        },
+        {
+            "text": "17,000",
+            "bbox": [
+                1065.6875,
+                119,
+                1135.921875,
+                149
+            ]
+        },
+        {
+            "text": "17,000",
+            "bbox": [
+                1155.609375,
+                119,
+                1225.84375,
+                149
+            ]
+        },
+        {
+            "text": "Series C redeemable convertible preferred stock ($0.0001 par value; 18,445 thousand issued and outstanding; $40,027 liquidation preference as of December 31, 2024 and 2023)",
+            "bbox": [
+                30,
+                149,
+                1050.453125,
+                179
+            ]
+        },
+        {
+            "text": "40,050",
+            "bbox": [
+                1065.6875,
+                149,
+                1135.921875,
+                179
+            ]
+        },
+        {
+            "text": "40,050",
+            "bbox": [
+                1155.609375,
+                149,
+                1225.84375,
+                179
+            ]
+        },
+        {
+            "text": "Series D redeemable convertible preferred stock ($0.0001 par value; 23,203 thousand issued and outstanding; $64,039 liquidation preference as of December 31, 2024 and 2023)",
+            "bbox": [
+                30,
+                179,
+                1050.453125,
+                209
+            ]
+        },
+        {
+            "text": "64,152",
+            "bbox": [
+                1065.6875,
+                179,
+                1135.921875,
+                209
+            ]
+        },
+        {
+            "text": "64,152",
+            "bbox": [
+                1155.609375,
+                179,
+                1225.84375,
+                209
+            ]
+        },
+        {
+            "text": "Series E redeemable convertible preferred stock ($0.0001 par value; 37,391 thousand and 36,867 thousand issued and outstanding; $606,850 and $598,345 liquidation preference as of December 31, 2024 and 2023, respectively)",
+            "bbox": [
+                30,
+                209,
+                1050.453125,
+                239
+            ]
+        },
+        {
+            "text": "608,564",
+            "bbox": [
+                1065.6875,
+                209,
+                1135.921875,
+                239
+            ]
+        },
+        {
+            "text": "600,059",
+            "bbox": [
+                1155.609375,
+                209,
+                1225.84375,
+                239
+            ]
+        },
+        {
+            "text": "Series F redeemable convertible preferred stock ($0.0001 par value; 9,516 thousand issued and outstanding; $400,999 liquidation preference as of December 31, 2024 and 2023)",
+            "bbox": [
+                30,
+                239,
+                1050.453125,
+                269
+            ]
+        },
+        {
+            "text": "400,999",
+            "bbox": [
+                1065.6875,
+                239,
+                1135.921875,
+                269
+            ]
+        },
+        {
+            "text": "400,999",
+            "bbox": [
+                1155.609375,
+                239,
+                1225.84375,
+                269
+            ]
+        },
+        {
+            "text": "Stockholders’ equity",
+            "bbox": [
+                30,
+                269,
+                1050.453125,
+                284
+            ]
+        },
+        {
+            "text": "Class A common stock ($0.0001 par value; 300,000 thousand and 262,500 thousand authorized; 56,353 thousand and 53,685 thousand issued and outstanding at December 31, 2024 and 2023, respectively)",
+            "bbox": [
+                30,
+                284,
+                1050.453125,
+                314
+            ]
+        },
+        {
+            "text": "6",
+            "bbox": [
+                1065.6875,
+                284,
+                1135.921875,
+                314
+            ]
+        },
+        {
+            "text": "6",
+            "bbox": [
+                1155.609375,
+                284,
+                1225.84375,
+                314
+            ]
+        },
+        {
+            "text": "Treasury stock at cost (4,960 thousand shares held as of December 31, 2024 and 2023)",
+            "bbox": [
+                30,
+                314,
+                1050.453125,
+                329
+            ]
+        },
+        {
+            "text": "(2,877",
+            "bbox": [
+                1065.6875,
+                314,
+                1135.921875,
+                329
+            ]
+        },
+        {
+            "text": ")",
+            "bbox": [
+                1135.921875,
+                314,
+                1144.078125,
+                329
+            ]
+        },
+        {
+            "text": "(2,877",
+            "bbox": [
+                1155.609375,
+                314,
+                1225.84375,
+                329
+            ]
+        },
+        {
+            "text": ")",
+            "bbox": [
+                1225.84375,
+                314,
+                1234.0,
+                329
+            ]
+        },
+        {
+            "text": "Additional paid-in capital",
+            "bbox": [
+                30,
+                329,
+                1050.453125,
+                344
+            ]
+        },
+        {
+            "text": "1,792,969",
+            "bbox": [
+                1065.6875,
+                329,
+                1135.921875,
+                344
+            ]
+        },
+        {
+            "text": "1,723,020",
+            "bbox": [
+                1155.609375,
+                329,
+                1225.84375,
+                344
+            ]
+        },
+        {
+            "text": "Accumulated deficit",
+            "bbox": [
+                30,
+                344,
+                1050.453125,
+                359
+            ]
+        },
+        {
+            "text": "(1,223,213",
+            "bbox": [
+                1065.6875,
+                344,
+                1135.921875,
+                359
+            ]
+        },
+        {
+            "text": ")",
+            "bbox": [
+                1135.921875,
+                344,
+                1144.078125,
+                359
+            ]
+        },
+        {
+            "text": "(1,385,607",
+            "bbox": [
+                1155.609375,
+                344,
+                1225.84375,
+                359
+            ]
+        },
+        {
+            "text": ")",
+            "bbox": [
+                1225.84375,
+                344,
+                1234.0,
+                359
+            ]
+        },
+        {
+            "text": "Accumulated other comprehensive income",
+            "bbox": [
+                30,
+                359,
+                1050.453125,
+                374
+            ]
+        },
+        {
+            "text": "3,644",
+            "bbox": [
+                1065.6875,
+                359,
+                1135.921875,
+                374
+            ]
+        },
+        {
+            "text": "4,929",
+            "bbox": [
+                1155.609375,
+                359,
+                1225.84375,
+                374
+            ]
+        },
+        {
+            "text": "Total stockholders’ equity",
+            "bbox": [
+                30,
+                374,
+                1050.453125,
+                389
+            ]
+        },
+        {
+            "text": "570,529",
+            "bbox": [
+                1065.6875,
+                374,
+                1135.921875,
+                389
+            ]
+        },
+        {
+            "text": "339,471",
+            "bbox": [
+                1155.609375,
+                374,
+                1225.84375,
+                389
+            ]
+        },
+        {
+            "text": "Total liabilities, redeemable convertible preferred stock and stockholders’ equity",
+            "bbox": [
+                30,
+                389,
+                1050.453125,
+                404
+            ]
+        },
+        {
+            "text": "$",
+            "bbox": [
+                1057.875,
+                389,
+                1065.6875,
+                404
+            ]
+        },
+        {
+            "text": "45,834,409",
+            "bbox": [
+                1065.6875,
+                389,
+                1135.921875,
+                404
+            ]
+        },
+        {
+            "text": "$",
+            "bbox": [
+                1147.796875,
+                389,
+                1155.609375,
+                404
+            ]
+        },
+        {
+            "text": "25,996,583",
+            "bbox": [
+                1155.609375,
+                389,
+                1225.84375,
+                404
+            ]
+        }
+    ]
+}

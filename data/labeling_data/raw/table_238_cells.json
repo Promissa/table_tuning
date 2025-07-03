@@ -1,0 +1,25 @@
+{
+    "imagePath": "table_238.png",
+    "imageWidth": 1264,
+    "imageHeight": 120,
+    "cells": [
+        {
+            "text": "•",
+            "bbox": [
+                30,
+                30,
+                42.03125,
+                90
+            ]
+        },
+        {
+            "text": "During the years ended December 31, 2022, 2023, and 2024, stock options to purchase 509,776 shares, 989,800 shares, and 1,220,764 shares, respectively, were exercised, at weighted-average exercise prices of $1.10, $1.05, and $1.32, respectively. The issuance of the shares upon exercise were exempt from registration under Section 4(a)(2) of the Securities Act in that the transaction was between an issuer and sophisticated investors or members of its management and did not involve any public offering or under Rule 701 promulgated under the Securities Act in that the transactions were under compensatory benefit plans and contracts relating to compensation.",
+            "bbox": [
+                54.0625,
+                30,
+                1234.0,
+                90
+            ]
+        }
+    ]
+}

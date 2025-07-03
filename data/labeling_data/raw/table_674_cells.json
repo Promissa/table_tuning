@@ -1,0 +1,133 @@
+{
+    "imagePath": "table_674.png",
+    "imageWidth": 1264,
+    "imageHeight": 459,
+    "cells": [
+        {
+            "text": "Office Commercial products and cloud services revenue growth",
+            "bbox": [
+                30,
+                30,
+                431.328125,
+                128
+            ]
+        },
+        {
+            "text": "Revenue from Office Commercial products and cloud services (Office 365 subscriptions, the Office 365 portion of Microsoft 365 Commercial subscriptions, and Office licensed on-premises), comprising Office, Exchange, SharePoint, Microsoft Teams, Office 365 Security and Compliance, Microsoft Viva, and Copilot for Microsoft 365",
+            "bbox": [
+                832.65625,
+                30,
+                1234.0,
+                128
+            ]
+        },
+        {
+            "text": "Office Consumer products and cloud services revenue growth",
+            "bbox": [
+                30,
+                128,
+                431.328125,
+                178
+            ]
+        },
+        {
+            "text": "Revenue from Office Consumer products and cloud services, including Microsoft 365 Consumer and Copilot Pro subscriptions, Office licensed on-premises, and other Office services",
+            "bbox": [
+                832.65625,
+                128,
+                1234.0,
+                178
+            ]
+        },
+        {
+            "text": "Office 365 Commercial seat growth",
+            "bbox": [
+                30,
+                178,
+                431.328125,
+                228
+            ]
+        },
+        {
+            "text": "The number of Office 365 Commercial seats at end of period where seats are paid users covered by an Office 365 Commercial subscription",
+            "bbox": [
+                832.65625,
+                178,
+                1234.0,
+                228
+            ]
+        },
+        {
+            "text": "Microsoft 365 Consumer subscribers",
+            "bbox": [
+                30,
+                228,
+                431.328125,
+                262
+            ]
+        },
+        {
+            "text": "The number of Microsoft 365 Consumer and Copilot Pro subscribers at end of period",
+            "bbox": [
+                832.65625,
+                228,
+                1234.0,
+                262
+            ]
+        },
+        {
+            "text": "Dynamics products and cloud services revenue growth",
+            "bbox": [
+                30,
+                262,
+                431.328125,
+                328
+            ]
+        },
+        {
+            "text": "Revenue from Dynamics products and cloud services, including Dynamics 365, comprising a set of intelligent, cloud-based applications across ERP, CRM, Power Apps, and Power Automate; and on-premises ERP and CRM applications",
+            "bbox": [
+                832.65625,
+                262,
+                1234.0,
+                328
+            ]
+        },
+        {
+            "text": "LinkedIn revenue growth",
+            "bbox": [
+                30,
+                328,
+                431.328125,
+                362
+            ]
+        },
+        {
+            "text": "Revenue from LinkedIn, including Talent Solutions, Marketing Solutions, Premium Subscriptions, and Sales Solutions",
+            "bbox": [
+                832.65625,
+                328,
+                1234.0,
+                362
+            ]
+        },
+        {
+            "text": "Server products and cloud services revenue growth",
+            "bbox": [
+                30,
+                362,
+                431.328125,
+                429
+            ]
+        },
+        {
+            "text": "Revenue from Server products and cloud services, including Azure and other cloud services; SQL Server, Windows Server, Visual Studio, System Center, and related Client Access Licenses (�CALs�); and Nuance and GitHub",
+            "bbox": [
+                832.65625,
+                362,
+                1234.0,
+                429
+            ]
+        }
+    ]
+}

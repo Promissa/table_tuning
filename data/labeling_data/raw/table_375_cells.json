@@ -1,0 +1,529 @@
+{
+    "imagePath": "table_375.png",
+    "imageWidth": 1264,
+    "imageHeight": 463.65625,
+    "cells": [
+        {
+            "text": "Incorporated by Reference",
+            "bbox": [
+                1091.375,
+                30,
+                1234.0,
+                52.5
+            ]
+        },
+        {
+            "text": "Exhibit Number",
+            "bbox": [
+                30,
+                52.5,
+                95.375,
+                111.5
+            ]
+        },
+        {
+            "text": "Exhibit Description",
+            "bbox": [
+                98.03125,
+                52.5,
+                1088.71875,
+                111.5
+            ]
+        },
+        {
+            "text": "Form",
+            "bbox": [
+                1091.375,
+                52.5,
+                1120.6875,
+                111.5
+            ]
+        },
+        {
+            "text": "Exhibit",
+            "bbox": [
+                1123.34375,
+                52.5,
+                1161.546875,
+                111.5
+            ]
+        },
+        {
+            "text": "Filing Date/\nPeriod End Date",
+            "bbox": [
+                1164.203125,
+                52.5,
+                1234.0,
+                111.5
+            ]
+        },
+        {
+            "text": "3.1",
+            "bbox": [
+                30,
+                111.5,
+                95.375,
+                134.0
+            ]
+        },
+        {
+            "text": "Restated Articles of Incorporation of the Registrant filed on August 3, 2020.",
+            "bbox": [
+                98.03125,
+                111.5,
+                1088.71875,
+                134.0
+            ]
+        },
+        {
+            "text": "8-K",
+            "bbox": [
+                1091.375,
+                111.5,
+                1120.6875,
+                134.0
+            ]
+        },
+        {
+            "text": "3.1",
+            "bbox": [
+                1123.34375,
+                111.5,
+                1161.546875,
+                134.0
+            ]
+        },
+        {
+            "text": "8/7/20",
+            "bbox": [
+                1164.203125,
+                111.5,
+                1234.0,
+                134.0
+            ]
+        },
+        {
+            "text": "3.2",
+            "bbox": [
+                30,
+                134,
+                95.375,
+                156
+            ]
+        },
+        {
+            "text": "Amended and Restated Bylaws of the Registrant effective as of August 20, 2024.",
+            "bbox": [
+                98.03125,
+                134,
+                1088.71875,
+                156
+            ]
+        },
+        {
+            "text": "8-K",
+            "bbox": [
+                1091.375,
+                134,
+                1120.6875,
+                156
+            ]
+        },
+        {
+            "text": "3.2",
+            "bbox": [
+                1123.34375,
+                134,
+                1161.546875,
+                156
+            ]
+        },
+        {
+            "text": "8/23/24",
+            "bbox": [
+                1164.203125,
+                134,
+                1234.0,
+                156
+            ]
+        },
+        {
+            "text": "4.1**",
+            "bbox": [
+                30,
+                156,
+                95.375,
+                178
+            ]
+        },
+        {
+            "text": "Description of Securities of the Registrant.",
+            "bbox": [
+                98.03125,
+                156,
+                1088.71875,
+                178
+            ]
+        },
+        {
+            "text": "4.2",
+            "bbox": [
+                30,
+                178,
+                95.375,
+                200
+            ]
+        },
+        {
+            "text": "Indenture, dated as of April 29, 2013, between the Registrant and The Bank of New York Mellon Trust Company, N.A., as Trustee.",
+            "bbox": [
+                98.03125,
+                178,
+                1088.71875,
+                200
+            ]
+        },
+        {
+            "text": "S-3",
+            "bbox": [
+                1091.375,
+                178,
+                1120.6875,
+                200
+            ]
+        },
+        {
+            "text": "4.1",
+            "bbox": [
+                1123.34375,
+                178,
+                1161.546875,
+                200
+            ]
+        },
+        {
+            "text": "4/29/13",
+            "bbox": [
+                1164.203125,
+                178,
+                1234.0,
+                200
+            ]
+        },
+        {
+            "text": "4.3",
+            "bbox": [
+                30,
+                200,
+                95.375,
+                240
+            ]
+        },
+        {
+            "text": "Officer�s Certificate of the Registrant, dated as of May 3, 2013, including forms of global notes representing the Floating Rate Notes due 2016, Floating Rate Notes due 2018, 0.45% Notes due 2016, 1.00% Notes due 2018, 2.40% Notes due 2023 and 3.85% Notes due 2043.",
+            "bbox": [
+                98.03125,
+                200,
+                1088.71875,
+                240
+            ]
+        },
+        {
+            "text": "8-K",
+            "bbox": [
+                1091.375,
+                200,
+                1120.6875,
+                240
+            ]
+        },
+        {
+            "text": "4.1",
+            "bbox": [
+                1123.34375,
+                200,
+                1161.546875,
+                240
+            ]
+        },
+        {
+            "text": "5/3/13",
+            "bbox": [
+                1164.203125,
+                200,
+                1234.0,
+                240
+            ]
+        },
+        {
+            "text": "4.4",
+            "bbox": [
+                30,
+                240,
+                95.375,
+                280
+            ]
+        },
+        {
+            "text": "Officer�s Certificate of the Registrant, dated as of May 6, 2014, including forms of global notes representing the Floating Rate Notes due 2017, Floating Rate Notes due 2019, 1.05% Notes due 2017, 2.10% Notes due 2019, 2.85% Notes due 2021, 3.45% Notes due 2024 and 4.45% Notes due 2044.",
+            "bbox": [
+                98.03125,
+                240,
+                1088.71875,
+                280
+            ]
+        },
+        {
+            "text": "8-K",
+            "bbox": [
+                1091.375,
+                240,
+                1120.6875,
+                280
+            ]
+        },
+        {
+            "text": "4.1",
+            "bbox": [
+                1123.34375,
+                240,
+                1161.546875,
+                280
+            ]
+        },
+        {
+            "text": "5/6/14",
+            "bbox": [
+                1164.203125,
+                240,
+                1234.0,
+                280
+            ]
+        },
+        {
+            "text": "4.5",
+            "bbox": [
+                30,
+                280,
+                95.375,
+                302
+            ]
+        },
+        {
+            "text": "Officer�s Certificate of the Registrant, dated as of November 10, 2014, including forms of global notes representing the 1.000% Notes due 2022 and 1.625% Notes due 2026.",
+            "bbox": [
+                98.03125,
+                280,
+                1088.71875,
+                302
+            ]
+        },
+        {
+            "text": "8-K",
+            "bbox": [
+                1091.375,
+                280,
+                1120.6875,
+                302
+            ]
+        },
+        {
+            "text": "4.1",
+            "bbox": [
+                1123.34375,
+                280,
+                1161.546875,
+                302
+            ]
+        },
+        {
+            "text": "11/10/14",
+            "bbox": [
+                1164.203125,
+                280,
+                1234.0,
+                302
+            ]
+        },
+        {
+            "text": "4.6",
+            "bbox": [
+                30,
+                302,
+                95.375,
+                342
+            ]
+        },
+        {
+            "text": "Officer�s Certificate of the Registrant, dated as of February 9, 2015, including forms of global notes representing the Floating Rate Notes due 2020, 1.55% Notes due 2020, 2.15% Notes due 2022, 2.50% Notes due 2025 and 3.45% Notes due 2045.",
+            "bbox": [
+                98.03125,
+                302,
+                1088.71875,
+                342
+            ]
+        },
+        {
+            "text": "8-K",
+            "bbox": [
+                1091.375,
+                302,
+                1120.6875,
+                342
+            ]
+        },
+        {
+            "text": "4.1",
+            "bbox": [
+                1123.34375,
+                302,
+                1161.546875,
+                342
+            ]
+        },
+        {
+            "text": "2/9/15",
+            "bbox": [
+                1164.203125,
+                302,
+                1234.0,
+                342
+            ]
+        },
+        {
+            "text": "4.7",
+            "bbox": [
+                30,
+                342,
+                95.375,
+                382
+            ]
+        },
+        {
+            "text": "Officer�s Certificate of the Registrant, dated as of May 13, 2015, including forms of global notes representing the Floating Rate Notes due 2017, Floating Rate Notes due 2020, 0.900% Notes due 2017, 2.000% Notes due 2020, 2.700% Notes due 2022, 3.200% Notes due 2025, and 4.375% Notes due 2045.",
+            "bbox": [
+                98.03125,
+                342,
+                1088.71875,
+                382
+            ]
+        },
+        {
+            "text": "8-K",
+            "bbox": [
+                1091.375,
+                342,
+                1120.6875,
+                382
+            ]
+        },
+        {
+            "text": "4.1",
+            "bbox": [
+                1123.34375,
+                342,
+                1161.546875,
+                382
+            ]
+        },
+        {
+            "text": "5/13/15",
+            "bbox": [
+                1164.203125,
+                342,
+                1234.0,
+                382
+            ]
+        },
+        {
+            "text": "4.8",
+            "bbox": [
+                30,
+                382,
+                95.375,
+                404
+            ]
+        },
+        {
+            "text": "Officer�s Certificate of the Registrant, dated as of July 31, 2015, including forms of global notes representing the 3.05% Notes due 2029 and 3.60% Notes due 2042.",
+            "bbox": [
+                98.03125,
+                382,
+                1088.71875,
+                404
+            ]
+        },
+        {
+            "text": "8-K",
+            "bbox": [
+                1091.375,
+                382,
+                1120.6875,
+                404
+            ]
+        },
+        {
+            "text": "4.1",
+            "bbox": [
+                1123.34375,
+                382,
+                1161.546875,
+                404
+            ]
+        },
+        {
+            "text": "7/31/15",
+            "bbox": [
+                1164.203125,
+                382,
+                1234.0,
+                404
+            ]
+        },
+        {
+            "text": "4.9",
+            "bbox": [
+                30,
+                404,
+                95.375,
+                426
+            ]
+        },
+        {
+            "text": "Officer�s Certificate of the Registrant, dated as of September 17, 2015, including forms of global notes representing the 1.375% Notes due 2024 and 2.000% Notes due 2027.",
+            "bbox": [
+                98.03125,
+                404,
+                1088.71875,
+                426
+            ]
+        },
+        {
+            "text": "8-K",
+            "bbox": [
+                1091.375,
+                404,
+                1120.6875,
+                426
+            ]
+        },
+        {
+            "text": "4.1",
+            "bbox": [
+                1123.34375,
+                404,
+                1161.546875,
+                426
+            ]
+        },
+        {
+            "text": "9/17/15",
+            "bbox": [
+                1164.203125,
+                404,
+                1234.0,
+                426
+            ]
+        }
+    ]
+}

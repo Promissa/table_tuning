@@ -1,0 +1,475 @@
+{
+    "imagePath": "table_257.png",
+    "imageWidth": 950.96875,
+    "imageHeight": 633,
+    "cells": [
+        {
+            "text": "Exhibit Number",
+            "bbox": [
+                30,
+                30,
+                111.4375,
+                52.5
+            ]
+        },
+        {
+            "text": "Description of Document",
+            "bbox": [
+                114.09375,
+                30,
+                920.96875,
+                52.5
+            ]
+        },
+        {
+            "text": "3.1",
+            "bbox": [
+                30,
+                52.5,
+                111.4375,
+                75.0
+            ]
+        },
+        {
+            "text": "Amended and Restated Certificate of Incorporation, as currently in effect.",
+            "bbox": [
+                114.09375,
+                52.5,
+                920.96875,
+                75.0
+            ]
+        },
+        {
+            "text": "3.2",
+            "bbox": [
+                30,
+                75,
+                111.4375,
+                97
+            ]
+        },
+        {
+            "text": "Certificate of Amendment to Amended and Restated Certificate of Incorporation, as currently in effect.",
+            "bbox": [
+                114.09375,
+                75,
+                920.96875,
+                97
+            ]
+        },
+        {
+            "text": "3.3",
+            "bbox": [
+                30,
+                97,
+                111.4375,
+                119
+            ]
+        },
+        {
+            "text": "Form of Restated Certificate of Incorporation, to be effective shortly following the effectiveness of this registration statement.",
+            "bbox": [
+                114.09375,
+                97,
+                920.96875,
+                119
+            ]
+        },
+        {
+            "text": "3.4",
+            "bbox": [
+                30,
+                119,
+                111.4375,
+                141
+            ]
+        },
+        {
+            "text": "Second Amended and Restated Bylaws, as currently in effect.",
+            "bbox": [
+                114.09375,
+                119,
+                920.96875,
+                141
+            ]
+        },
+        {
+            "text": "3.5",
+            "bbox": [
+                30,
+                141,
+                111.4375,
+                163
+            ]
+        },
+        {
+            "text": "Form of Restated Bylaws, to be effective shortly following the effectiveness of this registration statement.",
+            "bbox": [
+                114.09375,
+                141,
+                920.96875,
+                163
+            ]
+        },
+        {
+            "text": "4.1",
+            "bbox": [
+                30,
+                163,
+                111.4375,
+                185
+            ]
+        },
+        {
+            "text": "Form of Registrant’s Class A common stock certificate.",
+            "bbox": [
+                114.09375,
+                163,
+                920.96875,
+                185
+            ]
+        },
+        {
+            "text": "4.2*",
+            "bbox": [
+                30,
+                185,
+                111.4375,
+                207
+            ]
+        },
+        {
+            "text": "Amended and Restated Investors’ Rights Agreement by and between the registrant and certain securityholders, dated                   , 2021.",
+            "bbox": [
+                114.09375,
+                185,
+                920.96875,
+                207
+            ]
+        },
+        {
+            "text": "4.3",
+            "bbox": [
+                30,
+                207,
+                111.4375,
+                229
+            ]
+        },
+        {
+            "text": "Warrant to Purchase Common Stock by and between the registrant and Silicon Valley Bank, dated June 24, 2014.",
+            "bbox": [
+                114.09375,
+                207,
+                920.96875,
+                229
+            ]
+        },
+        {
+            "text": "4.4",
+            "bbox": [
+                30,
+                229,
+                111.4375,
+                251
+            ]
+        },
+        {
+            "text": "Warrant to Purchase Common Stock by and between the registrant and Silicon Valley Bank, dated July 31, 2020.",
+            "bbox": [
+                114.09375,
+                229,
+                920.96875,
+                251
+            ]
+        },
+        {
+            "text": "5.1*",
+            "bbox": [
+                30,
+                251,
+                111.4375,
+                273
+            ]
+        },
+        {
+            "text": "Opinion of Fenwick & West LLP.",
+            "bbox": [
+                114.09375,
+                251,
+                920.96875,
+                273
+            ]
+        },
+        {
+            "text": "10.1",
+            "bbox": [
+                30,
+                273,
+                111.4375,
+                295
+            ]
+        },
+        {
+            "text": "Form of Indemnification Agreement by and between the registrant and each of its directors and executive officers.",
+            "bbox": [
+                114.09375,
+                273,
+                920.96875,
+                295
+            ]
+        },
+        {
+            "text": "10.2",
+            "bbox": [
+                30,
+                295,
+                111.4375,
+                317
+            ]
+        },
+        {
+            "text": "2013 Amended and Restated Stock Plan and forms of award agreements thereunder.",
+            "bbox": [
+                114.09375,
+                295,
+                920.96875,
+                317
+            ]
+        },
+        {
+            "text": "10.3",
+            "bbox": [
+                30,
+                317,
+                111.4375,
+                339
+            ]
+        },
+        {
+            "text": "2019 Equity Incentive Plan, as amended, and forms of award agreements thereunder.",
+            "bbox": [
+                114.09375,
+                317,
+                920.96875,
+                339
+            ]
+        },
+        {
+            "text": "10.4",
+            "bbox": [
+                30,
+                339,
+                111.4375,
+                361
+            ]
+        },
+        {
+            "text": "2021 Equity Incentive Plan and forms of award agreements thereunder.",
+            "bbox": [
+                114.09375,
+                339,
+                920.96875,
+                361
+            ]
+        },
+        {
+            "text": "10.5",
+            "bbox": [
+                30,
+                361,
+                111.4375,
+                383
+            ]
+        },
+        {
+            "text": "2021 Employee Stock Purchase Plan.",
+            "bbox": [
+                114.09375,
+                361,
+                920.96875,
+                383
+            ]
+        },
+        {
+            "text": "10.6",
+            "bbox": [
+                30,
+                383,
+                111.4375,
+                405
+            ]
+        },
+        {
+            "text": "Employment Agreement by and between the registrant and Brian Armstrong, dated February 18, 2021.",
+            "bbox": [
+                114.09375,
+                383,
+                920.96875,
+                405
+            ]
+        },
+        {
+            "text": "10.7",
+            "bbox": [
+                30,
+                405,
+                111.4375,
+                427
+            ]
+        },
+        {
+            "text": "Employment Agreement by and between the registrant and Surojit Chatterjee, dated February 24, 2021.",
+            "bbox": [
+                114.09375,
+                405,
+                920.96875,
+                427
+            ]
+        },
+        {
+            "text": "10.8",
+            "bbox": [
+                30,
+                427,
+                111.4375,
+                449
+            ]
+        },
+        {
+            "text": "Employment Agreement by and between the registrant and Paul Grewal, dated February 11. 2021.",
+            "bbox": [
+                114.09375,
+                427,
+                920.96875,
+                449
+            ]
+        },
+        {
+            "text": "10.9",
+            "bbox": [
+                30,
+                449,
+                111.4375,
+                471
+            ]
+        },
+        {
+            "text": "Change of Control and Severance Policy.",
+            "bbox": [
+                114.09375,
+                449,
+                920.96875,
+                471
+            ]
+        },
+        {
+            "text": "16.1",
+            "bbox": [
+                30,
+                471,
+                111.4375,
+                493
+            ]
+        },
+        {
+            "text": "Letter Regarding Change in Accountants.",
+            "bbox": [
+                114.09375,
+                471,
+                920.96875,
+                493
+            ]
+        },
+        {
+            "text": "21.1",
+            "bbox": [
+                30,
+                493,
+                111.4375,
+                515
+            ]
+        },
+        {
+            "text": "List of Subsidiaries of the Registrant.",
+            "bbox": [
+                114.09375,
+                493,
+                920.96875,
+                515
+            ]
+        },
+        {
+            "text": "23.1*",
+            "bbox": [
+                30,
+                515,
+                111.4375,
+                537
+            ]
+        },
+        {
+            "text": "Consent of Fenwick & West LLP (included in Exhibit 5.1).",
+            "bbox": [
+                114.09375,
+                515,
+                920.96875,
+                537
+            ]
+        },
+        {
+            "text": "23.2",
+            "bbox": [
+                30,
+                537,
+                111.4375,
+                559
+            ]
+        },
+        {
+            "text": "Consent of Deloitte & Touche LLP, independent registered public accounting firm.",
+            "bbox": [
+                114.09375,
+                537,
+                920.96875,
+                559
+            ]
+        },
+        {
+            "text": "23.3",
+            "bbox": [
+                30,
+                559,
+                111.4375,
+                581
+            ]
+        },
+        {
+            "text": "Consent of Grant Thornton LLP, independent registered public accounting firm.",
+            "bbox": [
+                114.09375,
+                559,
+                920.96875,
+                581
+            ]
+        },
+        {
+            "text": "24.1",
+            "bbox": [
+                30,
+                581,
+                111.4375,
+                603
+            ]
+        },
+        {
+            "text": "Power of Attorney (included on the signature page to this registration statement).",
+            "bbox": [
+                114.09375,
+                581,
+                920.96875,
+                603
+            ]
+        }
+    ]
+}

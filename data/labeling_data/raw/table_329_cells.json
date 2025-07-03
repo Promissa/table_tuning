@@ -1,0 +1,61 @@
+{
+    "imagePath": "table_329.png",
+    "imageWidth": 533.625,
+    "imageHeight": 168.578125,
+    "cells": [
+        {
+            "text": "Title of each class",
+            "bbox": [
+                30,
+                30,
+                177.078125,
+                70
+            ]
+        },
+        {
+            "text": "Trading Symbol(s)",
+            "bbox": [
+                177.078125,
+                30,
+                271.453125,
+                70
+            ]
+        },
+        {
+            "text": "Name of each exchange on which registered",
+            "bbox": [
+                271.453125,
+                30,
+                493.921875,
+                70
+            ]
+        },
+        {
+            "text": "Common Stock\n(par value of $0.01 per share)",
+            "bbox": [
+                30,
+                70,
+                177.078125,
+                130.921875
+            ]
+        },
+        {
+            "text": "SNPS",
+            "bbox": [
+                177.078125,
+                70,
+                271.453125,
+                130.921875
+            ]
+        },
+        {
+            "text": "Nasdaq Global Select Market",
+            "bbox": [
+                271.453125,
+                70,
+                493.921875,
+                130.921875
+            ]
+        }
+    ]
+}

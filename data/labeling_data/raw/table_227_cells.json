@@ -1,0 +1,25 @@
+{
+    "imagePath": "table_227.png",
+    "imageWidth": 1264,
+    "imageHeight": 120,
+    "cells": [
+        {
+            "text": "•",
+            "bbox": [
+                30,
+                30,
+                42.03125,
+                90
+            ]
+        },
+        {
+            "text": "Nurture our brand and reputation.  To attract end-users, developers, businesses, and institutions to the Circle stablecoin ecosystem, we must not only offer the utility and value of our network, but also ensure that our network sustains a very strong reputation. We have built our brand and reputation for a decade, in line with our values, taking a regulatory-first posture as befits a firm building the new internet financial system. We make substantial investments in policy advocacy, risk management, compliance, financial control, and transparency, so that we can build trust with leading businesses and institutions that are looking for a partner to build with and a stablecoin network to join, as well as regulatory bodies and policymakers.",
+            "bbox": [
+                54.0625,
+                30,
+                1234.0,
+                90
+            ]
+        }
+    ]
+}

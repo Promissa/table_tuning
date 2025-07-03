@@ -1,0 +1,133 @@
+{
+    "imagePath": "table_479.png",
+    "imageWidth": 414.640625,
+    "imageHeight": 286.296875,
+    "cells": [
+        {
+            "text": "/s/ Jeremy Allaire\n\nJeremy Allaire",
+            "bbox": [
+                30,
+                30,
+                154.453125,
+                62.328125
+            ]
+        },
+        {
+            "text": "Chairman and Chief Executive Officer\n\n(principal executive officer)",
+            "bbox": [
+                161.875,
+                30,
+                384.640625,
+                62.328125
+            ]
+        },
+        {
+            "text": "/s/ Jeremy Fox-Geen\n\nJeremy Fox-Geen",
+            "bbox": [
+                30,
+                62.328125,
+                154.453125,
+                94.65625
+            ]
+        },
+        {
+            "text": "Chief Financial Officer\n\n(principal financial officer)",
+            "bbox": [
+                161.875,
+                62.328125,
+                384.640625,
+                94.65625
+            ]
+        },
+        {
+            "text": "/s/ Tamara Schulz\n\nTamara Schulz",
+            "bbox": [
+                30,
+                94.65625,
+                154.453125,
+                126.984375
+            ]
+        },
+        {
+            "text": "Chief Accounting Officer\n\n(principal accounting officer)",
+            "bbox": [
+                161.875,
+                94.65625,
+                384.640625,
+                126.984375
+            ]
+        },
+        {
+            "text": "/s/ Craig Broderick\n\nCraig Broderick",
+            "bbox": [
+                30,
+                126.984375,
+                154.453125,
+                159.3125
+            ]
+        },
+        {
+            "text": "Director",
+            "bbox": [
+                161.875,
+                126.984375,
+                384.640625,
+                159.3125
+            ]
+        },
+        {
+            "text": "/s/ M. Michele Burns\n\nM. Michele Burns",
+            "bbox": [
+                30,
+                159.3125,
+                154.453125,
+                191.640625
+            ]
+        },
+        {
+            "text": "Director",
+            "bbox": [
+                161.875,
+                159.3125,
+                384.640625,
+                191.640625
+            ]
+        },
+        {
+            "text": "/s/ Rajeev Date\n\nRajeev Date",
+            "bbox": [
+                30,
+                191.640625,
+                154.453125,
+                223.96875
+            ]
+        },
+        {
+            "text": "Director",
+            "bbox": [
+                161.875,
+                191.640625,
+                384.640625,
+                223.96875
+            ]
+        },
+        {
+            "text": "/s/ Bradley Horowitz\n\nBradley Horowitz",
+            "bbox": [
+                30,
+                223.96875,
+                154.453125,
+                256.296875
+            ]
+        },
+        {
+            "text": "Director",
+            "bbox": [
+                161.875,
+                223.96875,
+                384.640625,
+                256.296875
+            ]
+        }
+    ]
+}

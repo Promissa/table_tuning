@@ -1,0 +1,25 @@
+{
+    "imagePath": "table_333.png",
+    "imageWidth": 1264,
+    "imageHeight": 120,
+    "cells": [
+        {
+            "text": "•",
+            "bbox": [
+                30,
+                30,
+                42.03125,
+                90
+            ]
+        },
+        {
+            "text": "Circle Wallets.  Circle Wallets is our programmable wallet solution designed for developers to seamlessly provide Web3-enabled wallets to their end users, enabling them to securely store and transact with digital assets. The most important onchain building block for enabling an internet application is the integration of digital wallet technology into applications. As part of our managed wallet services offering, developers can rapidly integrate onchain wallet technology into their end-user applications across mobile apps and the Web. Circle Wallets enable end-user controlled wallets, as well as developer-controlled wallets, and support digital assets and tokens across multiple blockchain networks.",
+            "bbox": [
+                54.0625,
+                30,
+                1234.0,
+                90
+            ]
+        }
+    ]
+}

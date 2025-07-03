@@ -1,0 +1,43 @@
+{
+    "imagePath": "table_431.png",
+    "imageWidth": 1264,
+    "imageHeight": 132.8125,
+    "cells": [
+        {
+            "text": "MICROSOFT CORPORATION",
+            "bbox": [
+                30,
+                30,
+                632,
+                47.953125
+            ]
+        },
+        {
+            "text": "/s/ ALICE L. JOLLA",
+            "bbox": [
+                30,
+                47.953125,
+                632,
+                66.90625
+            ]
+        },
+        {
+            "text": "Alice L. Jolla",
+            "bbox": [
+                30,
+                66.90625,
+                632,
+                84.859375
+            ]
+        },
+        {
+            "text": "Corporate Vice President and Chief Accounting Officer (Principal Accounting Officer)",
+            "bbox": [
+                30,
+                84.859375,
+                632,
+                102.8125
+            ]
+        }
+    ]
+}

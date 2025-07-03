@@ -1,0 +1,871 @@
+{
+    "imagePath": "table_474.png",
+    "imageWidth": 1264,
+    "imageHeight": 779.65625,
+    "cells": [
+        {
+            "text": "Incorporated by Reference",
+            "bbox": [
+                1094.4375,
+                30,
+                1234.0,
+                52.5
+            ]
+        },
+        {
+            "text": "Exhibit Number",
+            "bbox": [
+                30,
+                52.5,
+                91.671875,
+                111.5
+            ]
+        },
+        {
+            "text": "Exhibit Description",
+            "bbox": [
+                94.328125,
+                52.5,
+                1091.78125,
+                111.5
+            ]
+        },
+        {
+            "text": "Form",
+            "bbox": [
+                1094.4375,
+                52.5,
+                1123.75,
+                111.5
+            ]
+        },
+        {
+            "text": "Exhibit",
+            "bbox": [
+                1126.40625,
+                52.5,
+                1164.609375,
+                111.5
+            ]
+        },
+        {
+            "text": "Filing Date/\nPeriod End Date",
+            "bbox": [
+                1167.265625,
+                52.5,
+                1234.0,
+                111.5
+            ]
+        },
+        {
+            "text": "4.10",
+            "bbox": [
+                30,
+                111.5,
+                91.671875,
+                152.0
+            ]
+        },
+        {
+            "text": "Officer�s Certificate of the Registrant, dated as of February 23, 2016, including forms of global notes representing the Floating Rate Notes due 2019, Floating Rate Notes due 2021, 1.300% Notes due 2018, 1.700% Notes due 2019, 2.250% Notes due 2021, 2.850% Notes due 2023, 3.250% Notes due 2026, 4.500% Notes due 2036 and 4.650% Notes due 2046.",
+            "bbox": [
+                94.328125,
+                111.5,
+                1091.78125,
+                152.0
+            ]
+        },
+        {
+            "text": "8-K",
+            "bbox": [
+                1094.4375,
+                111.5,
+                1123.75,
+                152.0
+            ]
+        },
+        {
+            "text": "4.1",
+            "bbox": [
+                1126.40625,
+                111.5,
+                1164.609375,
+                152.0
+            ]
+        },
+        {
+            "text": "2/23/16",
+            "bbox": [
+                1167.265625,
+                111.5,
+                1234.0,
+                152.0
+            ]
+        },
+        {
+            "text": "4.11",
+            "bbox": [
+                30,
+                152,
+                91.671875,
+                174
+            ]
+        },
+        {
+            "text": "Supplement No. 1 to the Officer�s Certificate of the Registrant, dated as of March 24, 2016.",
+            "bbox": [
+                94.328125,
+                152,
+                1091.78125,
+                174
+            ]
+        },
+        {
+            "text": "8-K",
+            "bbox": [
+                1094.4375,
+                152,
+                1123.75,
+                174
+            ]
+        },
+        {
+            "text": "4.1",
+            "bbox": [
+                1126.40625,
+                152,
+                1164.609375,
+                174
+            ]
+        },
+        {
+            "text": "3/24/16",
+            "bbox": [
+                1167.265625,
+                152,
+                1234.0,
+                174
+            ]
+        },
+        {
+            "text": "4.12",
+            "bbox": [
+                30,
+                174,
+                91.671875,
+                214
+            ]
+        },
+        {
+            "text": "Officer�s Certificate of the Registrant, dated as of August 4, 2016, including forms of global notes representing the Floating Rate Notes due 2019, 1.100% Notes due 2019, 1.550% Notes due 2021, 2.450% Notes due 2026 and 3.850% Notes due 2046.",
+            "bbox": [
+                94.328125,
+                174,
+                1091.78125,
+                214
+            ]
+        },
+        {
+            "text": "8-K",
+            "bbox": [
+                1094.4375,
+                174,
+                1123.75,
+                214
+            ]
+        },
+        {
+            "text": "4.1",
+            "bbox": [
+                1126.40625,
+                174,
+                1164.609375,
+                214
+            ]
+        },
+        {
+            "text": "8/4/16",
+            "bbox": [
+                1167.265625,
+                174,
+                1234.0,
+                214
+            ]
+        },
+        {
+            "text": "4.13",
+            "bbox": [
+                30,
+                214,
+                91.671875,
+                272
+            ]
+        },
+        {
+            "text": "Officer�s Certificate of the Registrant, dated as of February 9, 2017, including forms of global notes representing the Floating Rate Notes due 2019, Floating Rate Notes due 2020, Floating Rate Notes due 2022, 1.550% Notes due 2019, 1.900% Notes due 2020, 2.500% Notes due 2022, 3.000% Notes due 2024, 3.350% Notes due 2027 and 4.250% Notes due 2047.",
+            "bbox": [
+                94.328125,
+                214,
+                1091.78125,
+                272
+            ]
+        },
+        {
+            "text": "8-K",
+            "bbox": [
+                1094.4375,
+                214,
+                1123.75,
+                272
+            ]
+        },
+        {
+            "text": "4.1",
+            "bbox": [
+                1126.40625,
+                214,
+                1164.609375,
+                272
+            ]
+        },
+        {
+            "text": "2/9/17",
+            "bbox": [
+                1167.265625,
+                214,
+                1234.0,
+                272
+            ]
+        },
+        {
+            "text": "4.14",
+            "bbox": [
+                30,
+                272,
+                91.671875,
+                312
+            ]
+        },
+        {
+            "text": "Officer�s Certificate of the Registrant, dated as of May 11, 2017, including forms of global notes representing the Floating Rate Notes due 2020, Floating Rate Notes due 2022, 1.800% Notes due 2020, 2.300% Notes due 2022, 2.850% Notes due 2024 and 3.200% Notes due 2027.",
+            "bbox": [
+                94.328125,
+                272,
+                1091.78125,
+                312
+            ]
+        },
+        {
+            "text": "8-K",
+            "bbox": [
+                1094.4375,
+                272,
+                1123.75,
+                312
+            ]
+        },
+        {
+            "text": "4.1",
+            "bbox": [
+                1126.40625,
+                272,
+                1164.609375,
+                312
+            ]
+        },
+        {
+            "text": "5/11/17",
+            "bbox": [
+                1167.265625,
+                272,
+                1234.0,
+                312
+            ]
+        },
+        {
+            "text": "4.15",
+            "bbox": [
+                30,
+                312,
+                91.671875,
+                334
+            ]
+        },
+        {
+            "text": "Officer�s Certificate of the Registrant, dated as of May 24, 2017, including forms of global notes representing the 0.875% Notes due 2025 and 1.375% Notes due 2029.",
+            "bbox": [
+                94.328125,
+                312,
+                1091.78125,
+                334
+            ]
+        },
+        {
+            "text": "8-K",
+            "bbox": [
+                1094.4375,
+                312,
+                1123.75,
+                334
+            ]
+        },
+        {
+            "text": "4.1",
+            "bbox": [
+                1126.40625,
+                312,
+                1164.609375,
+                334
+            ]
+        },
+        {
+            "text": "5/24/17",
+            "bbox": [
+                1167.265625,
+                312,
+                1234.0,
+                334
+            ]
+        },
+        {
+            "text": "4.16",
+            "bbox": [
+                30,
+                334,
+                91.671875,
+                356
+            ]
+        },
+        {
+            "text": "Officer�s Certificate of the Registrant, dated as of June 20, 2017, including form of global note representing the 3.000% Notes due 2027.",
+            "bbox": [
+                94.328125,
+                334,
+                1091.78125,
+                356
+            ]
+        },
+        {
+            "text": "8-K",
+            "bbox": [
+                1094.4375,
+                334,
+                1123.75,
+                356
+            ]
+        },
+        {
+            "text": "4.1",
+            "bbox": [
+                1126.40625,
+                334,
+                1164.609375,
+                356
+            ]
+        },
+        {
+            "text": "6/20/17",
+            "bbox": [
+                1167.265625,
+                334,
+                1234.0,
+                356
+            ]
+        },
+        {
+            "text": "4.17",
+            "bbox": [
+                30,
+                356,
+                91.671875,
+                396
+            ]
+        },
+        {
+            "text": "Officer�s Certificate of the Registrant, dated as of September 12, 2017, including forms of global notes representing the 1.500% Notes due 2019, 2.100% Notes due 2022, 2.900% Notes due 2027 and 3.750% Notes due 2047.",
+            "bbox": [
+                94.328125,
+                356,
+                1091.78125,
+                396
+            ]
+        },
+        {
+            "text": "8-K",
+            "bbox": [
+                1094.4375,
+                356,
+                1123.75,
+                396
+            ]
+        },
+        {
+            "text": "4.1",
+            "bbox": [
+                1126.40625,
+                356,
+                1164.609375,
+                396
+            ]
+        },
+        {
+            "text": "9/12/17",
+            "bbox": [
+                1167.265625,
+                356,
+                1234.0,
+                396
+            ]
+        },
+        {
+            "text": "4.18",
+            "bbox": [
+                30,
+                396,
+                91.671875,
+                436
+            ]
+        },
+        {
+            "text": "Officer�s Certificate of the Registrant, dated as of November 13, 2017, including forms of global notes representing the 1.800% Notes due 2019, 2.000% Notes due 2020, 2.400% Notes due 2023, 2.750% Notes due 2025, 3.000% Notes due 2027 and 3.750% Notes due 2047.",
+            "bbox": [
+                94.328125,
+                396,
+                1091.78125,
+                436
+            ]
+        },
+        {
+            "text": "8-K",
+            "bbox": [
+                1094.4375,
+                396,
+                1123.75,
+                436
+            ]
+        },
+        {
+            "text": "4.1",
+            "bbox": [
+                1126.40625,
+                396,
+                1164.609375,
+                436
+            ]
+        },
+        {
+            "text": "11/13/17",
+            "bbox": [
+                1167.265625,
+                396,
+                1234.0,
+                436
+            ]
+        },
+        {
+            "text": "4.19",
+            "bbox": [
+                30,
+                436,
+                91.671875,
+                458
+            ]
+        },
+        {
+            "text": "Indenture, dated as of November 5, 2018, between the Registrant and The Bank of New York Mellon Trust Company, N.A., as Trustee.",
+            "bbox": [
+                94.328125,
+                436,
+                1091.78125,
+                458
+            ]
+        },
+        {
+            "text": "S-3",
+            "bbox": [
+                1094.4375,
+                436,
+                1123.75,
+                458
+            ]
+        },
+        {
+            "text": "4.1",
+            "bbox": [
+                1126.40625,
+                436,
+                1164.609375,
+                458
+            ]
+        },
+        {
+            "text": "11/5/18",
+            "bbox": [
+                1167.265625,
+                436,
+                1234.0,
+                458
+            ]
+        },
+        {
+            "text": "4.20",
+            "bbox": [
+                30,
+                458,
+                91.671875,
+                498
+            ]
+        },
+        {
+            "text": "Officer�s Certificate of the Registrant, dated as of September 11, 2019, including forms of global notes representing the 1.700% Notes due 2022, 1.800% Notes due 2024, 2.050% Notes due 2026, 2.200% Notes due 2029 and 2.950% Notes due 2049.",
+            "bbox": [
+                94.328125,
+                458,
+                1091.78125,
+                498
+            ]
+        },
+        {
+            "text": "8-K",
+            "bbox": [
+                1094.4375,
+                458,
+                1123.75,
+                498
+            ]
+        },
+        {
+            "text": "4.1",
+            "bbox": [
+                1126.40625,
+                458,
+                1164.609375,
+                498
+            ]
+        },
+        {
+            "text": "9/11/19",
+            "bbox": [
+                1167.265625,
+                458,
+                1234.0,
+                498
+            ]
+        },
+        {
+            "text": "4.21",
+            "bbox": [
+                30,
+                498,
+                91.671875,
+                520
+            ]
+        },
+        {
+            "text": "Officer�s Certificate of the Registrant, dated as of November 15, 2019, including forms of global notes representing the 0.000% Notes due 2025 and 0.500% Notes due 2031.",
+            "bbox": [
+                94.328125,
+                498,
+                1091.78125,
+                520
+            ]
+        },
+        {
+            "text": "8-K",
+            "bbox": [
+                1094.4375,
+                498,
+                1123.75,
+                520
+            ]
+        },
+        {
+            "text": "4.1",
+            "bbox": [
+                1126.40625,
+                498,
+                1164.609375,
+                520
+            ]
+        },
+        {
+            "text": "11/15/19",
+            "bbox": [
+                1167.265625,
+                498,
+                1234.0,
+                520
+            ]
+        },
+        {
+            "text": "4.22",
+            "bbox": [
+                30,
+                520,
+                91.671875,
+                560
+            ]
+        },
+        {
+            "text": "Officer�s Certificate of the Registrant, dated as of May 11, 2020, including forms of global notes representing the 0.750% Notes due 2023, 1.125% Notes due 2025, 1.650% Notes due 2030 and 2.650% Notes due 2050.",
+            "bbox": [
+                94.328125,
+                520,
+                1091.78125,
+                560
+            ]
+        },
+        {
+            "text": "8-K",
+            "bbox": [
+                1094.4375,
+                520,
+                1123.75,
+                560
+            ]
+        },
+        {
+            "text": "4.1",
+            "bbox": [
+                1126.40625,
+                520,
+                1164.609375,
+                560
+            ]
+        },
+        {
+            "text": "5/11/20",
+            "bbox": [
+                1167.265625,
+                520,
+                1234.0,
+                560
+            ]
+        },
+        {
+            "text": "4.23",
+            "bbox": [
+                30,
+                560,
+                91.671875,
+                600
+            ]
+        },
+        {
+            "text": "Officer�s Certificate of the Registrant, dated as of August 20, 2020, including forms of global notes representing the 0.550% Notes due 2025, 1.25% Notes due 2030, 2.400% Notes due 2050 and 2.550% Notes due 2060.",
+            "bbox": [
+                94.328125,
+                560,
+                1091.78125,
+                600
+            ]
+        },
+        {
+            "text": "8-K",
+            "bbox": [
+                1094.4375,
+                560,
+                1123.75,
+                600
+            ]
+        },
+        {
+            "text": "4.1",
+            "bbox": [
+                1126.40625,
+                560,
+                1164.609375,
+                600
+            ]
+        },
+        {
+            "text": "8/20/20",
+            "bbox": [
+                1167.265625,
+                560,
+                1234.0,
+                600
+            ]
+        },
+        {
+            "text": "4.24",
+            "bbox": [
+                30,
+                600,
+                91.671875,
+                640
+            ]
+        },
+        {
+            "text": "Officer�s Certificate of the Registrant, dated as of February 8, 2021, including forms of global notes representing the 0.700% Notes due 2026, 1.200% Notes due 2028, 1.650% Notes due 2031, 2.375% Notes due 2041, 2.650% Notes due 2051 and 2.800% Notes due 2061.",
+            "bbox": [
+                94.328125,
+                600,
+                1091.78125,
+                640
+            ]
+        },
+        {
+            "text": "8-K",
+            "bbox": [
+                1094.4375,
+                600,
+                1123.75,
+                640
+            ]
+        },
+        {
+            "text": "4.1",
+            "bbox": [
+                1126.40625,
+                600,
+                1164.609375,
+                640
+            ]
+        },
+        {
+            "text": "2/8/21",
+            "bbox": [
+                1167.265625,
+                600,
+                1234.0,
+                640
+            ]
+        },
+        {
+            "text": "4.25",
+            "bbox": [
+                30,
+                640,
+                91.671875,
+                680
+            ]
+        },
+        {
+            "text": "Officer�s Certificate of the Registrant, dated as of August 5, 2021, including forms of global notes representing the 1.400% Notes due 2028, 1.700% Notes due 2031, 2.700% Notes due 2051 and 2.850% Notes due 2061.",
+            "bbox": [
+                94.328125,
+                640,
+                1091.78125,
+                680
+            ]
+        },
+        {
+            "text": "8-K",
+            "bbox": [
+                1094.4375,
+                640,
+                1123.75,
+                680
+            ]
+        },
+        {
+            "text": "4.1",
+            "bbox": [
+                1126.40625,
+                640,
+                1164.609375,
+                680
+            ]
+        },
+        {
+            "text": "8/5/21",
+            "bbox": [
+                1167.265625,
+                640,
+                1234.0,
+                680
+            ]
+        },
+        {
+            "text": "4.26",
+            "bbox": [
+                30,
+                680,
+                91.671875,
+                702
+            ]
+        },
+        {
+            "text": "Indenture, dated as of October 28, 2021, between the Registrant and The Bank of New York Mellon Trust Company, N.A., as Trustee.",
+            "bbox": [
+                94.328125,
+                680,
+                1091.78125,
+                702
+            ]
+        },
+        {
+            "text": "S-3",
+            "bbox": [
+                1094.4375,
+                680,
+                1123.75,
+                702
+            ]
+        },
+        {
+            "text": "4.1",
+            "bbox": [
+                1126.40625,
+                680,
+                1164.609375,
+                702
+            ]
+        },
+        {
+            "text": "10/29/21",
+            "bbox": [
+                1167.265625,
+                680,
+                1234.0,
+                702
+            ]
+        },
+        {
+            "text": "4.27",
+            "bbox": [
+                30,
+                702,
+                91.671875,
+                742
+            ]
+        },
+        {
+            "text": "Officer�s Certificate of the Registrant, dated as of August 8, 2022, including forms of global notes representing the 3.250% Notes due 2029, 3.350% Notes due 2032, 3.950% Notes due 2052 and 4.100% Notes due 2062.",
+            "bbox": [
+                94.328125,
+                702,
+                1091.78125,
+                742
+            ]
+        },
+        {
+            "text": "8-K",
+            "bbox": [
+                1094.4375,
+                702,
+                1123.75,
+                742
+            ]
+        },
+        {
+            "text": "4.1",
+            "bbox": [
+                1126.40625,
+                702,
+                1164.609375,
+                742
+            ]
+        },
+        {
+            "text": "8/8/22",
+            "bbox": [
+                1167.265625,
+                702,
+                1234.0,
+                742
+            ]
+        }
+    ]
+}

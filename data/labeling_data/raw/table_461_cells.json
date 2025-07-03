@@ -1,0 +1,25 @@
+{
+    "imagePath": "table_461.png",
+    "imageWidth": 1264,
+    "imageHeight": 120,
+    "cells": [
+        {
+            "text": "•",
+            "bbox": [
+                30,
+                30,
+                42.03125,
+                90
+            ]
+        },
+        {
+            "text": "Modernizing traditional capital markets:  A programmable money system native to the internet can also revolutionize the global capital markets. According to S&P Global, annual global capital markets revenue stood at approximately $180 billion in 2023. Even beyond the near-term opportunity of USDC to facilitate settlement activities, large-scale capital markets activities including foreign exchange, interest rate-related securities and derivatives, and equity and fixed income investment vehicles can all be tokenized using blockchain technology and then denominated in, and settled with, stablecoins, enhancing their usability and transferability.",
+            "bbox": [
+                54.0625,
+                30,
+                1234.0,
+                90
+            ]
+        }
+    ]
+}

@@ -1,0 +1,97 @@
+{
+    "imagePath": "table_552.png",
+    "imageWidth": 1264,
+    "imageHeight": 311,
+    "cells": [
+        {
+            "text": "Windows OEM revenue growth",
+            "bbox": [
+                30,
+                30,
+                431.328125,
+                64
+            ]
+        },
+        {
+            "text": "Revenue from sales of Windows Pro and non-Pro licenses sold through the OEM channel",
+            "bbox": [
+                832.65625,
+                30,
+                1234.0,
+                64
+            ]
+        },
+        {
+            "text": "Windows Commercial products and cloud services revenue growth",
+            "bbox": [
+                30,
+                64,
+                431.328125,
+                114
+            ]
+        },
+        {
+            "text": "Revenue from Windows Commercial products and cloud services, comprising volume licensing of the Windows operating system, Windows cloud services, and other Windows commercial offerings",
+            "bbox": [
+                832.65625,
+                64,
+                1234.0,
+                114
+            ]
+        },
+        {
+            "text": "Devices revenue growth",
+            "bbox": [
+                30,
+                114,
+                431.328125,
+                148
+            ]
+        },
+        {
+            "text": "Revenue from Devices, including Surface, HoloLens, and PC accessories",
+            "bbox": [
+                832.65625,
+                114,
+                1234.0,
+                148
+            ]
+        },
+        {
+            "text": "Xbox content and services revenue growth",
+            "bbox": [
+                30,
+                148,
+                431.328125,
+                230
+            ]
+        },
+        {
+            "text": "Revenue from Xbox content and services, comprising first-party content (such as Activision Blizzard) and third-party content, including games and in-game content; Xbox Game Pass and other subscriptions; Xbox Cloud Gaming; advertising; third-party disc royalties; and other cloud services",
+            "bbox": [
+                832.65625,
+                148,
+                1234.0,
+                230
+            ]
+        },
+        {
+            "text": "Search and news advertising revenue (ex TAC) growth",
+            "bbox": [
+                30,
+                230,
+                431.328125,
+                281
+            ]
+        },
+        {
+            "text": "Revenue from search and news advertising excluding traffic acquisition costs (�TAC�) paid to Bing Ads network publishers and news partners",
+            "bbox": [
+                832.65625,
+                230,
+                1234.0,
+                281
+            ]
+        }
+    ]
+}

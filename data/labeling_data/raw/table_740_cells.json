@@ -1,0 +1,97 @@
+{
+    "imagePath": "table_740.png",
+    "imageWidth": 1210,
+    "imageHeight": 140,
+    "cells": [
+        {
+            "text": "●",
+            "bbox": [
+                54,
+                30,
+                78,
+                46
+            ]
+        },
+        {
+            "text": "100,572 shares of common stock issuable upon the exercise of outstanding options and restricted stock units granted under our equity incentive plans at a weighted average exercise price of $17.17 per share;",
+            "bbox": [
+                78,
+                30,
+                1180,
+                46
+            ]
+        },
+        {
+            "text": "●",
+            "bbox": [
+                54,
+                46,
+                78,
+                62
+            ]
+        },
+        {
+            "text": "169,308 shares of common stock issuable upon the exercise of outstanding warrants, excluding the Warrants;",
+            "bbox": [
+                78,
+                46,
+                1180,
+                62
+            ]
+        },
+        {
+            "text": "●",
+            "bbox": [
+                54,
+                62,
+                78,
+                78
+            ]
+        },
+        {
+            "text": "7,385 shares of our common stock issuable upon the conversion of 19 shares of series B convertible preferred stock outstanding;",
+            "bbox": [
+                78,
+                62,
+                1180,
+                78
+            ]
+        },
+        {
+            "text": "●",
+            "bbox": [
+                54,
+                78,
+                78,
+                94
+            ]
+        },
+        {
+            "text": "2 shares of our common stock issuable upon the conversion of 50 shares of series C convertible preferred stock outstanding; and",
+            "bbox": [
+                78,
+                78,
+                1180,
+                94
+            ]
+        },
+        {
+            "text": "●",
+            "bbox": [
+                54,
+                94,
+                78,
+                110
+            ]
+        },
+        {
+            "text": "60 shares of common stock reserved for issuance upon conversion of 180 shares of the Series D Preferred Stock outstanding.",
+            "bbox": [
+                78,
+                94,
+                1180,
+                110
+            ]
+        }
+    ]
+}

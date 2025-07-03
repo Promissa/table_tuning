@@ -1,0 +1,25 @@
+{
+    "imagePath": "table_550.png",
+    "imageWidth": 1264,
+    "imageHeight": 120,
+    "cells": [
+        {
+            "text": "•",
+            "bbox": [
+                30,
+                30,
+                42.03125,
+                90
+            ]
+        },
+        {
+            "text": "Foster the Web3 ecosystem to catalyze innovation and develop new utility.  The utility and value of the Circle stablecoin network will grow as developers and businesses develop new products and services that excite their (and our) end-users. We are in the earliest days of Web3 innovation, and it is likely that the most impactful of such products have yet to be invented. We play a role in nurturing and growing this ecosystem of developers. We build developer tools, run hackathons, offer developer grants, and have the capacity to invest in early-stage companies and projects through Circle Ventures.",
+            "bbox": [
+                54.0625,
+                30,
+                1234.0,
+                90
+            ]
+        }
+    ]
+}

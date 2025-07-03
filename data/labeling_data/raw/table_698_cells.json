@@ -1,0 +1,25 @@
+{
+    "imagePath": "table_698.png",
+    "imageWidth": 1264,
+    "imageHeight": 120,
+    "cells": [
+        {
+            "text": "•",
+            "bbox": [
+                30,
+                30,
+                42.03125,
+                90
+            ]
+        },
+        {
+            "text": "Expand our licensure into major global markets.  Many major markets are establishing clear regulatory regimes for payment stablecoins to be used or issued within those markets. Certain of these markets will require licenses in order to partner with local businesses or provide primary market liquidity. Today, we hold licenses covering stablecoin operations in the United States, Singapore, Bermuda, the United Kingdom, and the EEA. We are exploring opportunities to apply for and procure additional licenses that may allow us to mint Circle stablecoins and offer primary liquidity in those markets.",
+            "bbox": [
+                54.0625,
+                30,
+                1234.0,
+                90
+            ]
+        }
+    ]
+}

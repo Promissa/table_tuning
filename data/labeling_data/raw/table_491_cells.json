@@ -1,0 +1,97 @@
+{
+    "imagePath": "table_491.png",
+    "imageWidth": 504.09375,
+    "imageHeight": 137,
+    "cells": [
+        {
+            "text": "Jeremy Allaire",
+            "bbox": [
+                30,
+                31,
+                164.109375,
+                47
+            ]
+        },
+        {
+            "text": "Chairman and Chief Executive Officer",
+            "bbox": [
+                167.828125,
+                31,
+                474.09375,
+                47
+            ]
+        },
+        {
+            "text": "Jeremy Fox-Geen",
+            "bbox": [
+                30,
+                47,
+                164.109375,
+                62
+            ]
+        },
+        {
+            "text": "Chief Financial Officer",
+            "bbox": [
+                167.828125,
+                47,
+                474.09375,
+                62
+            ]
+        },
+        {
+            "text": "Elisabeth Carpenter(1)",
+            "bbox": [
+                30,
+                62,
+                164.109375,
+                77
+            ]
+        },
+        {
+            "text": "Chief Operating Officer",
+            "bbox": [
+                167.828125,
+                62,
+                474.09375,
+                77
+            ]
+        },
+        {
+            "text": "Heath Tarbert",
+            "bbox": [
+                30,
+                77,
+                164.109375,
+                92
+            ]
+        },
+        {
+            "text": "Chief Legal Officer and Head of Corporate Affairs(2)",
+            "bbox": [
+                167.828125,
+                77,
+                474.09375,
+                92
+            ]
+        },
+        {
+            "text": "Nikhil Chandhok",
+            "bbox": [
+                30,
+                92,
+                164.109375,
+                107
+            ]
+        },
+        {
+            "text": "Chief Product Officer(3)",
+            "bbox": [
+                167.828125,
+                92,
+                474.09375,
+                107
+            ]
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "imagePath": "table_645.png",
+    "imageWidth": 1264,
+    "imageHeight": 120,
+    "cells": [
+        {
+            "text": "•",
+            "bbox": [
+                30,
+                30,
+                42.03125,
+                90
+            ]
+        },
+        {
+            "text": "on a pro forma as adjusted basis to give further effect to (i) this offering, including our issuance and sale of      shares of Class A common stock at the assumed initial public offering price of $     per share, which is the midpoint of the price range set forth on the cover page of this prospectus, and after deducting underwriting discounts and commissions and estimated offering expenses payable by us and (ii) the IPO RSU Vest, including our payment of $     in satisfaction of tax withholding and remittance obligations and the issuance of     shares of Class A common stock and     shares of Class B common stock in connection with the net settlement of such RSUs.",
+            "bbox": [
+                54.0625,
+                30,
+                1234.0,
+                90
+            ]
+        }
+    ]
+}

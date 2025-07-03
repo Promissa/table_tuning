@@ -1,0 +1,142 @@
+{
+    "imagePath": "table_472.png",
+    "imageWidth": 645.078125,
+    "imageHeight": 237,
+    "cells": [
+        {
+            "text": "Page",
+            "bbox": [
+                585,
+                30,
+                615.078125,
+                52.5
+            ]
+        },
+        {
+            "text": "Report of Independent Registered Public Accounting Firm",
+            "bbox": [
+                30,
+                52.5,
+                585,
+                75.0
+            ]
+        },
+        {
+            "text": "F-2",
+            "bbox": [
+                585,
+                52.5,
+                615.078125,
+                75.0
+            ]
+        },
+        {
+            "text": "Consolidated Balance Sheets",
+            "bbox": [
+                30,
+                75,
+                585,
+                97
+            ]
+        },
+        {
+            "text": "F-4",
+            "bbox": [
+                585,
+                75,
+                615.078125,
+                97
+            ]
+        },
+        {
+            "text": "Consolidated Statements of Operations",
+            "bbox": [
+                30,
+                97,
+                585,
+                119
+            ]
+        },
+        {
+            "text": "F-5",
+            "bbox": [
+                585,
+                97,
+                615.078125,
+                119
+            ]
+        },
+        {
+            "text": "Consolidated Statements of Comprehensive Income (Loss)",
+            "bbox": [
+                30,
+                119,
+                585,
+                141
+            ]
+        },
+        {
+            "text": "F-6",
+            "bbox": [
+                585,
+                119,
+                615.078125,
+                141
+            ]
+        },
+        {
+            "text": "Consolidated Statements of Changes in Convertible Preferred Stock and Stockholders' Equity",
+            "bbox": [
+                30,
+                141,
+                585,
+                163
+            ]
+        },
+        {
+            "text": "F-7",
+            "bbox": [
+                585,
+                141,
+                615.078125,
+                163
+            ]
+        },
+        {
+            "text": "Consolidated Statements of Cash Flows",
+            "bbox": [
+                30,
+                163,
+                585,
+                185
+            ]
+        },
+        {
+            "text": "F-8",
+            "bbox": [
+                585,
+                163,
+                615.078125,
+                185
+            ]
+        },
+        {
+            "text": "Notes to Consolidated Financial Statements",
+            "bbox": [
+                30,
+                185,
+                585,
+                207
+            ]
+        },
+        {
+            "text": "F-10",
+            "bbox": [
+                585,
+                185,
+                615.078125,
+                207
+            ]
+        }
+    ]
+}

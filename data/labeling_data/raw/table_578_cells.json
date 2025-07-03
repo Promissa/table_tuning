@@ -1,0 +1,61 @@
+{
+    "imagePath": "table_578.png",
+    "imageWidth": 1264,
+    "imageHeight": 178,
+    "cells": [
+        {
+            "text": "Commercial remaining performance obligation",
+            "bbox": [
+                30,
+                30,
+                431.328125,
+                80
+            ]
+        },
+        {
+            "text": "Commercial portion of revenue allocated to remaining performance obligations, which includes unearned revenue and amounts that will be invoiced and recognized as revenue in future periods",
+            "bbox": [
+                832.65625,
+                30,
+                1234.0,
+                80
+            ]
+        },
+        {
+            "text": "Microsoft Cloud revenue and revenue growth",
+            "bbox": [
+                30,
+                80,
+                431.328125,
+                130
+            ]
+        },
+        {
+            "text": "Revenue from Azure and other cloud services, Office 365 Commercial, the commercial portion of LinkedIn, Dynamics 365, and other commercial cloud properties",
+            "bbox": [
+                832.65625,
+                80,
+                1234.0,
+                130
+            ]
+        },
+        {
+            "text": "Microsoft Cloud gross margin percentage",
+            "bbox": [
+                30,
+                130,
+                431.328125,
+                148
+            ]
+        },
+        {
+            "text": "Gross margin percentage for our Microsoft Cloud business",
+            "bbox": [
+                832.65625,
+                130,
+                1234.0,
+                148
+            ]
+        }
+    ]
+}

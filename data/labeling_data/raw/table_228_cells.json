@@ -1,0 +1,439 @@
+{
+    "imagePath": "table_228.png",
+    "imageWidth": 667.203125,
+    "imageHeight": 504.65625,
+    "cells": [
+        {
+            "text": "Page",
+            "bbox": [
+                608.15625,
+                30,
+                636.296875,
+                52.5
+            ]
+        },
+        {
+            "text": "PART I.",
+            "bbox": [
+                30,
+                52.5,
+                82.78125,
+                75.0
+            ]
+        },
+        {
+            "text": "Financial Information",
+            "bbox": [
+                82.78125,
+                52.5,
+                608.15625,
+                75.0
+            ]
+        },
+        {
+            "text": "1",
+            "bbox": [
+                608.15625,
+                52.5,
+                636.296875,
+                75.0
+            ]
+        },
+        {
+            "text": "Item 1.",
+            "bbox": [
+                30,
+                75,
+                82.78125,
+                97
+            ]
+        },
+        {
+            "text": "Financial Statements (Unaudited)",
+            "bbox": [
+                82.78125,
+                75,
+                608.15625,
+                97
+            ]
+        },
+        {
+            "text": "1",
+            "bbox": [
+                608.15625,
+                75,
+                636.296875,
+                97
+            ]
+        },
+        {
+            "text": "Condensed Consolidated Balance Sheets",
+            "bbox": [
+                82.78125,
+                97,
+                608.15625,
+                119
+            ]
+        },
+        {
+            "text": "1",
+            "bbox": [
+                608.15625,
+                97,
+                636.296875,
+                119
+            ]
+        },
+        {
+            "text": "Condensed Consolidated Statements of Income",
+            "bbox": [
+                82.78125,
+                119,
+                608.15625,
+                141
+            ]
+        },
+        {
+            "text": "2",
+            "bbox": [
+                608.15625,
+                119,
+                636.296875,
+                141
+            ]
+        },
+        {
+            "text": "Condensed Consolidated Statements of Comprehensive Income",
+            "bbox": [
+                82.78125,
+                141,
+                608.15625,
+                163
+            ]
+        },
+        {
+            "text": "3",
+            "bbox": [
+                608.15625,
+                141,
+                636.296875,
+                163
+            ]
+        },
+        {
+            "text": "Condensed Consolidated Statements of Stockholders’ Equity",
+            "bbox": [
+                82.78125,
+                163,
+                608.15625,
+                185
+            ]
+        },
+        {
+            "text": "4",
+            "bbox": [
+                608.15625,
+                163,
+                636.296875,
+                185
+            ]
+        },
+        {
+            "text": "Condensed Consolidated Statements of Cash Flows",
+            "bbox": [
+                82.78125,
+                185,
+                608.15625,
+                207
+            ]
+        },
+        {
+            "text": "5",
+            "bbox": [
+                608.15625,
+                185,
+                636.296875,
+                207
+            ]
+        },
+        {
+            "text": "Notes to Condensed Consolidated Financial Statements",
+            "bbox": [
+                82.78125,
+                207,
+                608.15625,
+                229
+            ]
+        },
+        {
+            "text": "6",
+            "bbox": [
+                608.15625,
+                207,
+                636.296875,
+                229
+            ]
+        },
+        {
+            "text": "Item 2.",
+            "bbox": [
+                30,
+                229,
+                82.78125,
+                269
+            ]
+        },
+        {
+            "text": "Management’s Discussion and Analysis of Financial Condition and Results of Operations",
+            "bbox": [
+                82.78125,
+                229,
+                608.15625,
+                269
+            ]
+        },
+        {
+            "text": "28",
+            "bbox": [
+                608.15625,
+                229,
+                636.296875,
+                269
+            ]
+        },
+        {
+            "text": "Item 3.",
+            "bbox": [
+                30,
+                269,
+                82.78125,
+                291
+            ]
+        },
+        {
+            "text": "Quantitative and Qualitative Disclosures About Market Risk",
+            "bbox": [
+                82.78125,
+                269,
+                608.15625,
+                291
+            ]
+        },
+        {
+            "text": "42",
+            "bbox": [
+                608.15625,
+                269,
+                636.296875,
+                291
+            ]
+        },
+        {
+            "text": "Item 4.",
+            "bbox": [
+                30,
+                291,
+                82.78125,
+                313
+            ]
+        },
+        {
+            "text": "Controls and Procedures",
+            "bbox": [
+                82.78125,
+                291,
+                608.15625,
+                313
+            ]
+        },
+        {
+            "text": "43",
+            "bbox": [
+                608.15625,
+                291,
+                636.296875,
+                313
+            ]
+        },
+        {
+            "text": "PART II.",
+            "bbox": [
+                30,
+                313,
+                82.78125,
+                335
+            ]
+        },
+        {
+            "text": "Other Information",
+            "bbox": [
+                82.78125,
+                313,
+                608.15625,
+                335
+            ]
+        },
+        {
+            "text": "44",
+            "bbox": [
+                608.15625,
+                313,
+                636.296875,
+                335
+            ]
+        },
+        {
+            "text": "Item 1.",
+            "bbox": [
+                30,
+                335,
+                82.78125,
+                357
+            ]
+        },
+        {
+            "text": "Legal Proceedings",
+            "bbox": [
+                82.78125,
+                335,
+                608.15625,
+                357
+            ]
+        },
+        {
+            "text": "44",
+            "bbox": [
+                608.15625,
+                335,
+                636.296875,
+                357
+            ]
+        },
+        {
+            "text": "Item 1A.",
+            "bbox": [
+                30,
+                357,
+                82.78125,
+                379
+            ]
+        },
+        {
+            "text": "Risk Factors",
+            "bbox": [
+                82.78125,
+                357,
+                608.15625,
+                379
+            ]
+        },
+        {
+            "text": "45",
+            "bbox": [
+                608.15625,
+                357,
+                636.296875,
+                379
+            ]
+        },
+        {
+            "text": "Item 2.",
+            "bbox": [
+                30,
+                379,
+                82.78125,
+                401
+            ]
+        },
+        {
+            "text": "Unregistered Sales of Equity Securities and Use of Proceeds",
+            "bbox": [
+                82.78125,
+                379,
+                608.15625,
+                401
+            ]
+        },
+        {
+            "text": "63",
+            "bbox": [
+                608.15625,
+                379,
+                636.296875,
+                401
+            ]
+        },
+        {
+            "text": "Item 5.",
+            "bbox": [
+                30,
+                401,
+                82.78125,
+                423
+            ]
+        },
+        {
+            "text": "Other Information",
+            "bbox": [
+                82.78125,
+                401,
+                608.15625,
+                423
+            ]
+        },
+        {
+            "text": "63",
+            "bbox": [
+                608.15625,
+                401,
+                636.296875,
+                423
+            ]
+        },
+        {
+            "text": "Item 6.",
+            "bbox": [
+                30,
+                423,
+                82.78125,
+                445
+            ]
+        },
+        {
+            "text": "Exhibits",
+            "bbox": [
+                82.78125,
+                423,
+                608.15625,
+                445
+            ]
+        },
+        {
+            "text": "64",
+            "bbox": [
+                608.15625,
+                423,
+                636.296875,
+                445
+            ]
+        },
+        {
+            "text": "Signatures",
+            "bbox": [
+                30,
+                445,
+                608.15625,
+                467
+            ]
+        },
+        {
+            "text": "66",
+            "bbox": [
+                608.15625,
+                445,
+                636.296875,
+                467
+            ]
+        }
+    ]
+}

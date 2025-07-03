@@ -1,0 +1,43 @@
+{
+    "imagePath": "table_610.png",
+    "imageWidth": 573.234375,
+    "imageHeight": 290.65625,
+    "cells": [
+        {
+            "text": "Copies to:",
+            "bbox": [
+                30,
+                30,
+                523.484375,
+                52
+            ]
+        },
+        {
+            "text": "Mark C. Stevens\nMichael A. Brown\nRan D. Ben-Tzur\nFaisal Rashid\nJennifer J. Hitchcock\nFenwick & West LLP\n228 Santa Monica Blvd, Suite 300\nSanta Monica, California 90401\n(310) 434-5400",
+            "bbox": [
+                30,
+                52,
+                188.265625,
+                254
+            ]
+        },
+        {
+            "text": "Paul Grewal\nJuan Suarez\nDoug Sharp\nCoinbase Global, Inc.\nAddress Not Applicable1",
+            "bbox": [
+                188.265625,
+                52,
+                307.53125,
+                254
+            ]
+        },
+        {
+            "text": "Satoshi Nakamoto\n1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa",
+            "bbox": [
+                307.53125,
+                52,
+                523.484375,
+                254
+            ]
+        }
+    ]
+}

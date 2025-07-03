@@ -1,0 +1,25 @@
+{
+    "imagePath": "table_561.png",
+    "imageWidth": 1264,
+    "imageHeight": 120,
+    "cells": [
+        {
+            "text": "•",
+            "bbox": [
+                30,
+                30,
+                42.03125,
+                90
+            ]
+        },
+        {
+            "text": "Develop products to abstract away the complexities of blockchain technology to make it easier for developers, businesses, and end-users to build and use onchain apps and to use the Circle stablecoin network. Certain aspects of blockchain technology are novel and today require complex workflows that create barriers to mainstream adoption.  For example, different applications use different blockchains, many blockchains require payment of fees in native tokens to affect transactions, and many wallet applications require users to remember seed phrases and hexadecimal wallet addresses. Our blockchain infrastructure and Developer Services are designed to abstract away these complexities and simplify both the developer and end-user experiences.",
+            "bbox": [
+                54.0625,
+                30,
+                1234.0,
+                90
+            ]
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "imagePath": "table_628.png",
+    "imageWidth": 437.671875,
+    "imageHeight": 127,
+    "cells": [
+        {
+            "text": "December 31, 2020",
+            "bbox": [
+                309,
+                30,
+                407.671875,
+                52.5
+            ]
+        },
+        {
+            "text": "Discount rate",
+            "bbox": [
+                30,
+                52.5,
+                309,
+                75.0
+            ]
+        },
+        {
+            "text": "7% - 12%",
+            "bbox": [
+                309,
+                52.5,
+                407.671875,
+                75.0
+            ]
+        },
+        {
+            "text": "Historical volatility of comparable crypto assets",
+            "bbox": [
+                30,
+                75,
+                309,
+                97
+            ]
+        },
+        {
+            "text": "90% - 125%",
+            "bbox": [
+                309,
+                75,
+                407.671875,
+                97
+            ]
+        }
+    ]
+}

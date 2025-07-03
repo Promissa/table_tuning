@@ -1,0 +1,340 @@
+{
+    "imagePath": "table_277.png",
+    "imageWidth": 1264,
+    "imageHeight": 314,
+    "cells": [
+        {
+            "text": "Actual",
+            "bbox": [
+                998.703125,
+                30,
+                1069.875,
+                58.5
+            ]
+        },
+        {
+            "text": "Pro forma",
+            "bbox": [
+                1081.75,
+                30,
+                1138.4375,
+                58.5
+            ]
+        },
+        {
+            "text": "Pro forma\nas adjusted(1)",
+            "bbox": [
+                1149.578125,
+                30,
+                1230.28125,
+                58.5
+            ]
+        },
+        {
+            "text": "(in thousands, except share data)",
+            "bbox": [
+                998.703125,
+                58.5,
+                1230.28125,
+                73.0
+            ]
+        },
+        {
+            "text": "Cash and cash equivalents",
+            "bbox": [
+                30,
+                73,
+                991.28125,
+                88
+            ]
+        },
+        {
+            "text": "$",
+            "bbox": [
+                998.703125,
+                73,
+                1006.125,
+                88
+            ]
+        },
+        {
+            "text": "750,981",
+            "bbox": [
+                1006.125,
+                73,
+                1069.875,
+                88
+            ]
+        },
+        {
+            "text": "$",
+            "bbox": [
+                1081.75,
+                73,
+                1089.96875,
+                88
+            ]
+        },
+        {
+            "text": "$",
+            "bbox": [
+                1149.578125,
+                73,
+                1161.28125,
+                88
+            ]
+        },
+        {
+            "text": "Non-current liabilities",
+            "bbox": [
+                30,
+                88,
+                991.28125,
+                103
+            ]
+        },
+        {
+            "text": "93,148",
+            "bbox": [
+                1006.125,
+                88,
+                1069.875,
+                103
+            ]
+        },
+        {
+            "text": "Redeemable convertible preferred stock, 139,762 thousand shares outstanding, actual; no shares outstanding, pro forma and pro forma as adjusted",
+            "bbox": [
+                30,
+                103,
+                991.28125,
+                118
+            ]
+        },
+        {
+            "text": "1,139,765",
+            "bbox": [
+                1006.125,
+                103,
+                1069.875,
+                118
+            ]
+        },
+        {
+            "text": "Stockholders’ equity:",
+            "bbox": [
+                30,
+                118,
+                991.28125,
+                133
+            ]
+        },
+        {
+            "text": "Class A common stock, 56,353 thousand shares outstanding, actual;      shares outstanding, pro forma;      shares outstanding, pro forma as adjusted",
+            "bbox": [
+                30,
+                133,
+                991.28125,
+                163
+            ]
+        },
+        {
+            "text": "6",
+            "bbox": [
+                1006.125,
+                133,
+                1069.875,
+                163
+            ]
+        },
+        {
+            "text": "Class B common stock, no shares outstanding, actual;      shares outstanding, pro forma;     shares outstanding, pro forma as adjusted",
+            "bbox": [
+                30,
+                163,
+                991.28125,
+                178
+            ]
+        },
+        {
+            "text": "—",
+            "bbox": [
+                1006.125,
+                163,
+                1069.875,
+                178
+            ]
+        },
+        {
+            "text": "Class C common stock, no shares outstanding, actual; no shares outstanding, pro forma; no shares outstanding, pro forma as adjusted",
+            "bbox": [
+                30,
+                178,
+                991.28125,
+                193
+            ]
+        },
+        {
+            "text": "—",
+            "bbox": [
+                1006.125,
+                178,
+                1069.875,
+                193
+            ]
+        },
+        {
+            "text": "Treasury stock, 4,960 thousand shares, actual, pro forma and pro forma as adjusted",
+            "bbox": [
+                30,
+                193,
+                991.28125,
+                208
+            ]
+        },
+        {
+            "text": "(2,877",
+            "bbox": [
+                1006.125,
+                193,
+                1069.875,
+                208
+            ]
+        },
+        {
+            "text": ")",
+            "bbox": [
+                1069.875,
+                193,
+                1078.03125,
+                208
+            ]
+        },
+        {
+            "text": "Additional paid-in capital",
+            "bbox": [
+                30,
+                208,
+                991.28125,
+                223
+            ]
+        },
+        {
+            "text": "1,792,969",
+            "bbox": [
+                1006.125,
+                208,
+                1069.875,
+                223
+            ]
+        },
+        {
+            "text": "Accumulated deficit",
+            "bbox": [
+                30,
+                223,
+                991.28125,
+                238
+            ]
+        },
+        {
+            "text": "(1,223,213",
+            "bbox": [
+                1006.125,
+                223,
+                1069.875,
+                238
+            ]
+        },
+        {
+            "text": ")",
+            "bbox": [
+                1069.875,
+                223,
+                1078.03125,
+                238
+            ]
+        },
+        {
+            "text": "Accumulated other comprehensive income",
+            "bbox": [
+                30,
+                238,
+                991.28125,
+                253
+            ]
+        },
+        {
+            "text": "3,644",
+            "bbox": [
+                1006.125,
+                238,
+                1069.875,
+                253
+            ]
+        },
+        {
+            "text": "Total stockholders’ equity",
+            "bbox": [
+                30,
+                253,
+                991.28125,
+                268
+            ]
+        },
+        {
+            "text": "570,529",
+            "bbox": [
+                1006.125,
+                253,
+                1069.875,
+                268
+            ]
+        },
+        {
+            "text": "Total capitalization",
+            "bbox": [
+                30,
+                268,
+                991.28125,
+                283.5
+            ]
+        },
+        {
+            "text": "$",
+            "bbox": [
+                998.703125,
+                268,
+                1006.125,
+                283.5
+            ]
+        },
+        {
+            "text": "1,803,442",
+            "bbox": [
+                1006.125,
+                268,
+                1069.875,
+                283.5
+            ]
+        },
+        {
+            "text": "$",
+            "bbox": [
+                1081.75,
+                268,
+                1089.96875,
+                283.5
+            ]
+        },
+        {
+            "text": "$",
+            "bbox": [
+                1149.578125,
+                268,
+                1161.28125,
+                283.5
+            ]
+        }
+    ]
+}

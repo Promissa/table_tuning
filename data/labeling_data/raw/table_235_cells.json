@@ -1,0 +1,997 @@
+{
+    "imagePath": "table_235.png",
+    "imageWidth": 1264,
+    "imageHeight": 1957,
+    "cells": [
+        {
+            "text": "Name",
+            "bbox": [
+                30,
+                30,
+                163.765625,
+                97
+            ]
+        },
+        {
+            "text": "Age",
+            "bbox": [
+                297.53125,
+                30,
+                431.296875,
+                97
+            ]
+        },
+        {
+            "text": "Gender",
+            "bbox": [
+                565.0625,
+                30,
+                698.828125,
+                97
+            ]
+        },
+        {
+            "text": "Year\nJoined\nAlibaba\nGroup",
+            "bbox": [
+                832.59375,
+                30,
+                966.359375,
+                97
+            ]
+        },
+        {
+            "text": "Current position with Alibaba Group",
+            "bbox": [
+                1100.125,
+                30,
+                1234.0,
+                97
+            ]
+        },
+        {
+            "text": "Trudy Shan DAI (戴珊)",
+            "bbox": [
+                30,
+                97,
+                163.765625,
+                131
+            ]
+        },
+        {
+            "text": "47",
+            "bbox": [
+                297.53125,
+                97,
+                431.296875,
+                131
+            ]
+        },
+        {
+            "text": "F",
+            "bbox": [
+                565.0625,
+                97,
+                698.828125,
+                131
+            ]
+        },
+        {
+            "text": "1999",
+            "bbox": [
+                832.59375,
+                97,
+                966.359375,
+                131
+            ]
+        },
+        {
+            "text": "Partner, Alibaba Partnership",
+            "bbox": [
+                1100.125,
+                97,
+                1234.0,
+                131
+            ]
+        },
+        {
+            "text": "Luyuan FAN (樊路遠)",
+            "bbox": [
+                30,
+                131,
+                163.765625,
+                197
+            ]
+        },
+        {
+            "text": "51",
+            "bbox": [
+                297.53125,
+                131,
+                431.296875,
+                197
+            ]
+        },
+        {
+            "text": "M",
+            "bbox": [
+                565.0625,
+                131,
+                698.828125,
+                197
+            ]
+        },
+        {
+            "text": "2007",
+            "bbox": [
+                832.59375,
+                131,
+                966.359375,
+                197
+            ]
+        },
+        {
+            "text": "Chairman and Chief Executive Officer, Digital Media and Entertainment Group",
+            "bbox": [
+                1100.125,
+                131,
+                1234.0,
+                197
+            ]
+        },
+        {
+            "text": "Yongxin FANG (方永新)",
+            "bbox": [
+                30,
+                197,
+                163.765625,
+                237
+            ]
+        },
+        {
+            "text": "50",
+            "bbox": [
+                297.53125,
+                197,
+                431.296875,
+                237
+            ]
+        },
+        {
+            "text": "M",
+            "bbox": [
+                565.0625,
+                197,
+                698.828125,
+                237
+            ]
+        },
+        {
+            "text": "2000",
+            "bbox": [
+                832.59375,
+                197,
+                966.359375,
+                237
+            ]
+        },
+        {
+            "text": "President, Ele.me, Local Services Group",
+            "bbox": [
+                1100.125,
+                197,
+                1234.0,
+                237
+            ]
+        },
+        {
+            "text": "Fan JIANG (蔣凡)",
+            "bbox": [
+                30,
+                237,
+                163.765625,
+                399
+            ]
+        },
+        {
+            "text": "38",
+            "bbox": [
+                297.53125,
+                237,
+                431.296875,
+                399
+            ]
+        },
+        {
+            "text": "M",
+            "bbox": [
+                565.0625,
+                237,
+                698.828125,
+                399
+            ]
+        },
+        {
+            "text": "2013",
+            "bbox": [
+                832.59375,
+                237,
+                966.359375,
+                399
+            ]
+        },
+        {
+            "text": "Co-Chairman and Chief Executive Officer, Alibaba International Digital Commerce Group;\nDirector, Taobao and Tmall Group;\nDirector, Cainiao Smart Logistics Network Limited",
+            "bbox": [
+                1100.125,
+                237,
+                1234.0,
+                399
+            ]
+        },
+        {
+            "text": "Jane Fang JIANG (蔣芳)",
+            "bbox": [
+                30,
+                399,
+                163.765625,
+                545
+            ]
+        },
+        {
+            "text": "50",
+            "bbox": [
+                297.53125,
+                399,
+                431.296875,
+                545
+            ]
+        },
+        {
+            "text": "F",
+            "bbox": [
+                565.0625,
+                399,
+                698.828125,
+                545
+            ]
+        },
+        {
+            "text": "1999",
+            "bbox": [
+                832.59375,
+                399,
+                966.359375,
+                545
+            ]
+        },
+        {
+            "text": "Group Chief People Officer;\nDirector, Taobao and Tmall Group;\nDirector, Cloud Intelligence Group;\nDirector, Cainiao Smart Logistics Network Limited",
+            "bbox": [
+                1100.125,
+                399,
+                1234.0,
+                545
+            ]
+        },
+        {
+            "text": "Jiangwei JIANG (蔣江偉)",
+            "bbox": [
+                30,
+                545,
+                163.765625,
+                585
+            ]
+        },
+        {
+            "text": "42",
+            "bbox": [
+                297.53125,
+                545,
+                431.296875,
+                585
+            ]
+        },
+        {
+            "text": "M",
+            "bbox": [
+                565.0625,
+                545,
+                698.828125,
+                585
+            ]
+        },
+        {
+            "text": "2008",
+            "bbox": [
+                832.59375,
+                545,
+                966.359375,
+                585
+            ]
+        },
+        {
+            "text": "Vice President, Cloud Intelligence Group",
+            "bbox": [
+                1100.125,
+                545,
+                1234.0,
+                585
+            ]
+        },
+        {
+            "text": "Zhenfei LIU (劉振飛)",
+            "bbox": [
+                30,
+                585,
+                163.765625,
+                635
+            ]
+        },
+        {
+            "text": "52",
+            "bbox": [
+                297.53125,
+                585,
+                431.296875,
+                635
+            ]
+        },
+        {
+            "text": "M",
+            "bbox": [
+                565.0625,
+                585,
+                698.828125,
+                635
+            ]
+        },
+        {
+            "text": "2006",
+            "bbox": [
+                832.59375,
+                585,
+                966.359375,
+                635
+            ]
+        },
+        {
+            "text": "Co-Chairman, Local Services Group;\nChairman, Amap",
+            "bbox": [
+                1100.125,
+                585,
+                1234.0,
+                635
+            ]
+        },
+        {
+            "text": "Jack Yun MA (馬雲)†",
+            "bbox": [
+                30,
+                635,
+                163.765625,
+                669
+            ]
+        },
+        {
+            "text": "59",
+            "bbox": [
+                297.53125,
+                635,
+                431.296875,
+                669
+            ]
+        },
+        {
+            "text": "M",
+            "bbox": [
+                565.0625,
+                635,
+                698.828125,
+                669
+            ]
+        },
+        {
+            "text": "1999",
+            "bbox": [
+                832.59375,
+                635,
+                966.359375,
+                669
+            ]
+        },
+        {
+            "text": "Partner, Alibaba Partnership",
+            "bbox": [
+                1100.125,
+                635,
+                1234.0,
+                669
+            ]
+        },
+        {
+            "text": "Lucy Lei PENG (彭蕾)†",
+            "bbox": [
+                30,
+                669,
+                163.765625,
+                783
+            ]
+        },
+        {
+            "text": "50",
+            "bbox": [
+                297.53125,
+                669,
+                431.296875,
+                783
+            ]
+        },
+        {
+            "text": "F",
+            "bbox": [
+                565.0625,
+                669,
+                698.828125,
+                783
+            ]
+        },
+        {
+            "text": "1999",
+            "bbox": [
+                832.59375,
+                669,
+                966.359375,
+                783
+            ]
+        },
+        {
+            "text": "Partner, Alibaba Partnership;\nDirector, Local Services Group;\nDirector, Alibaba International Digital Commerce Group",
+            "bbox": [
+                1100.125,
+                669,
+                1234.0,
+                783
+            ]
+        },
+        {
+            "text": "Xiaofeng SHAO (邵曉鋒)†",
+            "bbox": [
+                30,
+                783,
+                163.765625,
+                865
+            ]
+        },
+        {
+            "text": "58",
+            "bbox": [
+                297.53125,
+                783,
+                431.296875,
+                865
+            ]
+        },
+        {
+            "text": "M",
+            "bbox": [
+                565.0625,
+                783,
+                698.828125,
+                865
+            ]
+        },
+        {
+            "text": "2005",
+            "bbox": [
+                832.59375,
+                783,
+                966.359375,
+                865
+            ]
+        },
+        {
+            "text": "Group Executive Vice President;\nChairman, Group Risk Management Committee",
+            "bbox": [
+                1100.125,
+                783,
+                1234.0,
+                865
+            ]
+        },
+        {
+            "text": "Jie SONG (宋潔)",
+            "bbox": [
+                30,
+                865,
+                163.765625,
+                915
+            ]
+        },
+        {
+            "text": "45",
+            "bbox": [
+                297.53125,
+                865,
+                431.296875,
+                915
+            ]
+        },
+        {
+            "text": "F",
+            "bbox": [
+                565.0625,
+                865,
+                698.828125,
+                915
+            ]
+        },
+        {
+            "text": "2000",
+            "bbox": [
+                832.59375,
+                865,
+                966.359375,
+                915
+            ]
+        },
+        {
+            "text": "Vice President, Alibaba International Digital Commerce Group",
+            "bbox": [
+                1100.125,
+                865,
+                1234.0,
+                915
+            ]
+        },
+        {
+            "text": "Lijun SUN (孫利軍)",
+            "bbox": [
+                30,
+                915,
+                163.765625,
+                949
+            ]
+        },
+        {
+            "text": "47",
+            "bbox": [
+                297.53125,
+                915,
+                431.296875,
+                949
+            ]
+        },
+        {
+            "text": "M",
+            "bbox": [
+                565.0625,
+                915,
+                698.828125,
+                949
+            ]
+        },
+        {
+            "text": "2002",
+            "bbox": [
+                832.59375,
+                915,
+                966.359375,
+                949
+            ]
+        },
+        {
+            "text": "Director-General, Alibaba Foundation",
+            "bbox": [
+                1100.125,
+                915,
+                1234.0,
+                949
+            ]
+        },
+        {
+            "text": "Judy Wenhong TONG (童文紅)",
+            "bbox": [
+                30,
+                949,
+                163.765625,
+                1031
+            ]
+        },
+        {
+            "text": "53",
+            "bbox": [
+                297.53125,
+                949,
+                431.296875,
+                1031
+            ]
+        },
+        {
+            "text": "F",
+            "bbox": [
+                565.0625,
+                949,
+                698.828125,
+                1031
+            ]
+        },
+        {
+            "text": "2000",
+            "bbox": [
+                832.59375,
+                949,
+                966.359375,
+                1031
+            ]
+        },
+        {
+            "text": "Partner, Alibaba Partnership;\nDirector, Digital Media and Entertainment Group",
+            "bbox": [
+                1100.125,
+                949,
+                1234.0,
+                1031
+            ]
+        },
+        {
+            "text": "Joseph C. TSAI (蔡崇信)†",
+            "bbox": [
+                30,
+                1031,
+                163.765625,
+                1177
+            ]
+        },
+        {
+            "text": "60",
+            "bbox": [
+                297.53125,
+                1031,
+                431.296875,
+                1177
+            ]
+        },
+        {
+            "text": "M",
+            "bbox": [
+                565.0625,
+                1031,
+                698.828125,
+                1177
+            ]
+        },
+        {
+            "text": "1999",
+            "bbox": [
+                832.59375,
+                1031,
+                966.359375,
+                1177
+            ]
+        },
+        {
+            "text": "Group Chairman;\nChairman, Cainiao Smart Logistics Network Limited;\nDirector, Taobao and Tmall Group;\nDirector, Alibaba International Digital Commerce Group",
+            "bbox": [
+                1100.125,
+                1031,
+                1234.0,
+                1177
+            ]
+        },
+        {
+            "text": "Lin WAN (萬霖)",
+            "bbox": [
+                30,
+                1177,
+                163.765625,
+                1243
+            ]
+        },
+        {
+            "text": "49",
+            "bbox": [
+                297.53125,
+                1177,
+                431.296875,
+                1243
+            ]
+        },
+        {
+            "text": "M",
+            "bbox": [
+                565.0625,
+                1177,
+                698.828125,
+                1243
+            ]
+        },
+        {
+            "text": "2014",
+            "bbox": [
+                832.59375,
+                1177,
+                966.359375,
+                1243
+            ]
+        },
+        {
+            "text": "Director and Chief Executive Officer, Cainiao Smart Logistics Network Limited",
+            "bbox": [
+                1100.125,
+                1177,
+                1234.0,
+                1243
+            ]
+        },
+        {
+            "text": "Lei WANG (王磊)",
+            "bbox": [
+                30,
+                1243,
+                163.765625,
+                1293
+            ]
+        },
+        {
+            "text": "44",
+            "bbox": [
+                297.53125,
+                1243,
+                431.296875,
+                1293
+            ]
+        },
+        {
+            "text": "M",
+            "bbox": [
+                565.0625,
+                1243,
+                698.828125,
+                1293
+            ]
+        },
+        {
+            "text": "2003",
+            "bbox": [
+                832.59375,
+                1243,
+                966.359375,
+                1293
+            ]
+        },
+        {
+            "text": "Senior Vice President, Cloud Intelligence Group",
+            "bbox": [
+                1100.125,
+                1243,
+                1234.0,
+                1293
+            ]
+        },
+        {
+            "text": "Winnie Jia WEN (聞佳)",
+            "bbox": [
+                30,
+                1293,
+                163.765625,
+                1375
+            ]
+        },
+        {
+            "text": "47",
+            "bbox": [
+                297.53125,
+                1293,
+                431.296875,
+                1375
+            ]
+        },
+        {
+            "text": "F",
+            "bbox": [
+                565.0625,
+                1293,
+                698.828125,
+                1375
+            ]
+        },
+        {
+            "text": "2007",
+            "bbox": [
+                832.59375,
+                1293,
+                966.359375,
+                1375
+            ]
+        },
+        {
+            "text": "President, Group Public Affairs;\nDirector, Digital Media and Entertainment Group",
+            "bbox": [
+                1100.125,
+                1293,
+                1234.0,
+                1375
+            ]
+        },
+        {
+            "text": "Maggie Wei WU (武衛)",
+            "bbox": [
+                30,
+                1375,
+                163.765625,
+                1441
+            ]
+        },
+        {
+            "text": "56",
+            "bbox": [
+                297.53125,
+                1375,
+                431.296875,
+                1441
+            ]
+        },
+        {
+            "text": "F",
+            "bbox": [
+                565.0625,
+                1375,
+                698.828125,
+                1441
+            ]
+        },
+        {
+            "text": "2007",
+            "bbox": [
+                832.59375,
+                1375,
+                966.359375,
+                1441
+            ]
+        },
+        {
+            "text": "Group Director;\nDirector, Digital Media and Entertainment Group",
+            "bbox": [
+                1100.125,
+                1375,
+                1234.0,
+                1441
+            ]
+        },
+        {
+            "text": "Eddie Yongming WU (吴泳銘)†",
+            "bbox": [
+                30,
+                1441,
+                163.765625,
+                1683
+            ]
+        },
+        {
+            "text": "49",
+            "bbox": [
+                297.53125,
+                1441,
+                431.296875,
+                1683
+            ]
+        },
+        {
+            "text": "M",
+            "bbox": [
+                565.0625,
+                1441,
+                698.828125,
+                1683
+            ]
+        },
+        {
+            "text": "1999",
+            "bbox": [
+                832.59375,
+                1441,
+                966.359375,
+                1683
+            ]
+        },
+        {
+            "text": "Group Director and Chief Executive Officer;\nChairman and Chief Executive Officer, Taobao and Tmall Group;\nChairman and Chief Executive Officer, Cloud Intelligence Group;\nDirector, Local Services Group;\nDirector, Alibaba International Digital Commerce Group",
+            "bbox": [
+                1100.125,
+                1441,
+                1234.0,
+                1683
+            ]
+        },
+        {
+            "text": "Zeming WU (吴澤明)",
+            "bbox": [
+                30,
+                1683,
+                163.765625,
+                1861
+            ]
+        },
+        {
+            "text": "43",
+            "bbox": [
+                297.53125,
+                1683,
+                431.296875,
+                1861
+            ]
+        },
+        {
+            "text": "M",
+            "bbox": [
+                565.0625,
+                1683,
+                698.828125,
+                1861
+            ]
+        },
+        {
+            "text": "2004",
+            "bbox": [
+                832.59375,
+                1683,
+                966.359375,
+                1861
+            ]
+        },
+        {
+            "text": "Group Chief Technology Officer;\nDeputy Head of Alibaba DAMO Academy;\nCo-Chairman, Local Services Group;\nChairman, Ele.me;\nDirector, Taobao and Tmall Group;\nDirector, Cloud Intelligence Group",
+            "bbox": [
+                1100.125,
+                1683,
+                1234.0,
+                1861
+            ]
+        },
+        {
+            "text": "Sara Siying YU (俞思瑛)",
+            "bbox": [
+                30,
+                1861,
+                163.765625,
+                1927
+            ]
+        },
+        {
+            "text": "49",
+            "bbox": [
+                297.53125,
+                1861,
+                431.296875,
+                1927
+            ]
+        },
+        {
+            "text": "F",
+            "bbox": [
+                565.0625,
+                1861,
+                698.828125,
+                1927
+            ]
+        },
+        {
+            "text": "2005",
+            "bbox": [
+                832.59375,
+                1861,
+                966.359375,
+                1927
+            ]
+        },
+        {
+            "text": "Group General Counsel;\nDirector, Digital Media and Entertainment Group",
+            "bbox": [
+                1100.125,
+                1861,
+                1234.0,
+                1927
+            ]
+        }
+    ]
+}
