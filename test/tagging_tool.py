@@ -15,7 +15,9 @@ app.config["UPLOAD_FOLDER"] = UPLOAD_FOLDER
 
 @app.route("/")
 def index():
-    return render_template("index.html")
+    return render_template(
+        "/Users/bytedance/projects/table_tuning/templates/index.html"
+    )
 
 
 @app.route("/process", methods=["POST"])
