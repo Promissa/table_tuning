@@ -96,7 +96,7 @@ def write_cells_json(path, image_file, width, height, cell_objs):
 def main():
     args = parse_args()
     os.makedirs(args.out_root, exist_ok=True)
-    html_files = list(find_html_files(args.input_dir, max_depth=1))
+    html_files = list(find_html_files(args.input_dir, max_depth=2))
     if not html_files:
         print("No HTML files found.")
         sys.exit(1)
@@ -112,10 +112,10 @@ def main():
 
             html = load_html(os.path.join(dirpath, fname))
             soup = BeautifulSoup(html, "html.parser")
-            head = extract_head(soup)
-            # inject border and no-wrap styles
-            style_injection = "<style>table, th, td { border: 1px solid black !important; border-collapse: collapse; white-space: nowrap; }</style>"
-            head_section = f"<head>{style_injection}{head}</head>"
+            # head = extract_head(soup)
+            # # inject border and no-wrap styles
+            # style_injection = "<style>table, th, td { border: 1px solid black !important; border-collapse: collapse; white-space: nowrap; }</style>"
+            # head_section = f"<head>{style_injection}{head}</head>"
             tables = soup.find_all("table")
             if not tables:
                 continue
@@ -124,6 +124,7 @@ def main():
             idx = 0
             for tbl in tqdm(tables, total=len(tables)):
                 tmp = BeautifulSoup(str(tbl), "html.parser").table
+                # print(str(tmp))
                 for tr in tmp.find_all("tr"):
                     if not any(
                         td.get_text(strip=True) for td in tr.find_all(["td", "th"])
@@ -132,14 +133,14 @@ def main():
 
                 pad = 30
                 snippet = f"""<!DOCTYPE html>
-<html>
-{head}
-<body>
-<div id='wrapper' style='padding:{pad}px; display:inline-block'>
-{str(tmp)}
-</div>
-</body>
-</html>"""
+                            <html>
+                            <head></head>
+                            <body style="margin: auto!important;padding: 8px;">
+                            <div id='wrapper' style='padding:{pad}px;'>
+                            {str(tmp)}
+                            </div>
+                            </body>
+                            </html>"""
                 page.set_content(snippet, wait_until="networkidle")
 
                 wrapper = page.query_selector("#wrapper")
